@@ -1,0 +1,26 @@
+name: Update
+
+on:
+  # schedule:
+  #   - cron: '0 0 * * *' # every day at midnight
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+
+    - name: Fetch upstream
+      run: git fetch upstream
+
+    - name: Merge upstream
+      run: git merge upstream/master --strategy=recursive --strategy-option=theirs
+
+    - name: Delete lines with closed
+      run: sed -i '/🔒 Closed 🔒/d' README.md
+
+    - name: Commit and push
+      run: git commit -am "Automatic update" && git push
