@@ -12,15 +12,33 @@ jobs:
     steps:
     - name: Checkout
       uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+
+    - name: Add Git Commiter Details
+      run: |
+        git config --global user.email "715417+sharunkumar@users.noreply.github.com"
+        git config --global user.name "Sharun"
+
+    - name: Add upstream
+      run: git remote add upstream https://github.com/pittcsc/Summer2023-Internships.git
 
     - name: Fetch upstream
       run: git fetch upstream
 
     - name: Merge upstream
-      run: git merge upstream/master --strategy=recursive --strategy-option=theirs
+      run: git merge upstream/dev --strategy=recursive --strategy-option=theirs
 
-    - name: Delete lines with closed
-      run: sed -i '/🔒 Closed 🔒/d' README.md
+    - name: Update README.md
+      run: |
+        sed -i '/🔒 Closed 🔒/Id' README.md
+        sed -i '/no sponsorship/Id' README.md
+        sed -i '/no visa sponsorship/Id' README.md
 
     - name: Commit and push
-      run: git commit -am "Automatic update" && git push
+      run: |
+        if [[ `git status --porcelain` ]]; then
+          git commit -am "remove closed, no sponsorship entries" && git push
+        else
+          echo "No changes to commit"
+        fi
