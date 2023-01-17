@@ -26,6 +26,9 @@ jobs:
     - name: Fetch upstream
       run: git fetch upstream
 
+    - name: Backup the current README.md
+      run: cp README.md README.md.temp
+
     - name: Merge upstream
       run: git merge upstream/dev --strategy=recursive --strategy-option=theirs
 
@@ -34,6 +37,11 @@ jobs:
         sed -i '/🔒 Closed 🔒/Id' README.md
         sed -i '/no sponsorship/Id' README.md
         sed -i '/no visa sponsorship/Id' README.md
+
+    - name: Compare the backed up README.md with the updated README.md
+      run: |
+        diff --color README.md.temp README.md
+        rm README.md.temp
 
     - name: Commit and push
       run: |
