@@ -40,7 +40,7 @@ jobs:
 
     - name: Compare the backed up README.md with the updated README.md
       run: |
-        diff --color README.md.temp README.md
+        diff --color README.md.temp README.md || true
         rm README.md.temp
 
     - name: Commit and push
