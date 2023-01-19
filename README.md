@@ -72,7 +72,10 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [TD Ameritrade](https://sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=25404&siteid=5601#jobDetails=3060632_5601) | Multiple Locations | Software Engineering Intern (must be an undergrad)|
 | Nuro | Mountain View | Software Engineer (SRE) Intern, [Software Systems Engineer Intern](https://www.nuro.ai/careersitem?gh_jid=4524021&gh_src=bcd22a501us) |
 | [Relativity Space](https://boards.greenhouse.io/relativity/jobs/6363660002?gh_jid=6363660002) | Long Beach, CA | Software Engineer Intern (C/C++) (Requires US citizenship)|
-| [Dropbox](https://www.dropbox.com/jobs/teams/emerging-talent) | Remote (US, Canada) | [Software Engineer Intern](https://www.dropbox.com/jobs/listing/4380645?gh_src=aonhf1), [Data Science Intern](https://www.dropbox.com/jobs/teams/emerging-talent) |
+| [Dropbox](https://www.dropbox.com/jobs/teams/emerging-talent) | Remote (US, Canada) | **🔒 Closed 🔒** [Software Engineer Intern](https://www.dropbox.com/jobs/listing/4380645?gh_src=aonhf1), **🔒 Closed 🔒** [Data Science Intern](https://www.dropbox.com/jobs/teams/emerging-talent) |
+| MongoDB | NY, ATX, SF | **🔒 Closed 🔒** Software Engineer Intern |
+| [Urban Outfitters](https://www.urbn.com/internships) | Philadelphia, PA | **🔒 Closed 🔒** Web Software Engineer Intern, **🔒 Closed 🔒** Network Engineering Intern|
+| [The Washington Post](https://news-engineering.notion.site/WaPo-Engineering-internship-details-resources-application-office-hours-e7a930543e3749988404c73f7e62be78) | Washington, DC and Remote | Software Engineer Intern (no visa sponsorship) |
 | [Pitchbook](https://jobs.jobvite.com/pitchbook/job/ohpTkfwD?__jvst) | Seattle, Washington | Product Management Intern |
 | [SoundHound](https://www.soundhound.com/careers/) | Santa Clara, CA | [Software Engineering Intern, Acoustic Modeling](https://boards.greenhouse.io/soundhoundinc/jobs/6365344002) <br> (Cover letter required) |
 | [SpaceX](https://boards.greenhouse.io/spacex/jobs/6366187002?gh_jid=6366187002) | Multiple| 2023 Summer Intern - Software Engineer (US Citizens Only)|
@@ -287,6 +290,8 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [MyFitnessPal](https://boards.greenhouse.io/myfitnesspal) | Remote, US | [Android Engineer Intern](https://boards.greenhouse.io/myfitnesspal/jobs/4744056), [iOS Engineer Intern](https://boards.greenhouse.io/myfitnesspal/jobs/4749387)|
 | Meta | Menlo Park, Seattle, New York | [Software Engineer Internship/Co-Op](https://www.metacareers.com/jobs/543301834469909/) <br> [Meta University](https://www.metacareers.com/v2/jobs/875414340161910/) (Must be First or Second Year) |
 | [Discord](https://discord.com/careers) | San Francisco, CA or Remote | Multiple summer internships avaliable (SWE, ML, Data) |
+| [Pentair](https://pentair.wd5.myworkdayjobs.com/en-US/Pentair_Careers/job/Internship---Computer-Science-Engineering-Leadership-Development-Program---Summer-2023_R14517) | Multiple Locations | Computer Science Engineering Leadership Development Program (No Sponsorship) |
+| [Oceaneering](https://careers.oceaneering.com/global/en/job/OCINGLOBAL4999) | Hanover, MD | Software Engineering Intern (must be US citizen) |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
