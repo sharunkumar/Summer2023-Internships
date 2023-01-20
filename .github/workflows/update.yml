@@ -41,7 +41,7 @@ jobs:
 
     - name: Remove other workflows
       run: |
-        rm -v !(.github/workflows/update.yml) .github/workflows/*.yml
+        find .github/workflows/ -name '*.yml' ! -name 'update.yml' -exec rm -v {} +
 
     - name: Compare the backed up README.md with the updated README.md
       run: |
