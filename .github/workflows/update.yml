@@ -37,6 +37,7 @@ jobs:
         sed -i '/🔒 Closed 🔒/Id' README.md
         sed -i '/no sponsorship/Id' README.md
         sed -i '/no visa sponsorship/Id' README.md
+        sed -i '/must be US citizen/Id' README.md
 
     - name: Compare the backed up README.md with the updated README.md
       run: |
