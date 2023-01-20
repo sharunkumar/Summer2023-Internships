@@ -1,6 +1,9 @@
 name: Update
 
 on:
+  push:
+    branches:
+      - dev
   schedule:
     - cron: '0 */6 * * *'
   workflow_dispatch:
@@ -39,10 +42,6 @@ jobs:
         sed -i '/no visa sponsorship/Id' README.md
         sed -i '/must be US citizen/Id' README.md
 
-    - name: Remove other workflows
-      run: |
-        find .github/workflows/ -name '*.yml' ! -name 'update.yml' -exec rm -v {} +
-
     - name: Compare the backed up README.md with the updated README.md
       run: |
         diff --color README.md.temp README.md || true
@@ -52,6 +51,18 @@ jobs:
       run: |
         if [[ `git status --porcelain` ]]; then
           git commit -am "remove closed, no sponsorship entries" && git push
+        else
+          echo "No changes to commit"
+        fi
+
+    - name: Remove other workflows
+      run: |
+        find .github/workflows/ -name '*.yml' ! -name 'update.yml' -exec rm -v {} +
+
+    - name: Commit and push
+      run: |
+        if [[ `git status --porcelain` ]]; then
+          git commit -am "removed the unused workflows" && git push
         else
           echo "No changes to commit"
         fi
