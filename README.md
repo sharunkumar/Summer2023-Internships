@@ -280,7 +280,6 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Acumen](https://jobs.lever.co/acumenllc/e4e5fe92-848d-43b3-b6e8-c07c2a35fe61) | Burlingame/Los Angeles, CA or Washington, DC | Data Processing Programmer Intern (cover letter required) |
 | RVO Health | Charlotte, NC | Early Career Talent 2023 Internship for [SWE](https://boards.greenhouse.io/rvohealth/jobs/4108444005) and [Data](https://boards.greenhouse.io/rvohealth/jobs/4109265005) |
 | [Intuitive](https://careers.intuitive.com/us/en/search-results?m=3&keywords=intern) | Sunnyvale, CA (on-site) | [Software Engineer Intern](https://careers.intuitive.com/us/en/job/JOB2716/Software-Engineer-Intern), [Devops Intern](https://careers.intuitive.com/us/en/job/JOB2747/DevOps-Intern), [System Engineer intern](https://careers.intuitive.com/us/en/job/JOB2667/System-Engineer-Intern?utm_source=linkedin&utm_medium=phenom-feeds)
-| [RTI](https://boards.greenhouse.io/rti/jobs/4719368) | Sunnyvale, CA | Application Engineer, Intern (must be US citizen) |
 | [Pegasystems](https://www.pega.com/about/careers/job-listings?f[0]=category%3A24376) | Multiple Locations | Multiple summer internship for SWE, UI, UX, etc. |
 | Ball Aerospace | Multiple Locations | Summer internships for [SWE](https://jobs.ball.com/aerospace/job/Fairborn-Technical-Intern-Software-Engineering-OH-45432/943178800/), [Data Science](https://jobs.ball.com/aerospace/job/Broomfield-Technical-Intern-Data-Scientist-CO-80020/934235400/), [Data Eng](https://jobs.ball.com/aerospace/job/Broomfield-Technical-Intern-Data-Engineer-CO-80020/946621300/), and [ML](https://jobs.ball.com/aerospace/job/Boulder-Technical-Intern-Machine-LearningDeep-Learning-CO-80301/962541800/) (US citizenship required) |
 | [Hugging Face](https://apply.workable.com/huggingface/j/350457122B/) | New York, NY or Remote | ML Intern |
@@ -301,8 +300,6 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [MyFitnessPal](https://boards.greenhouse.io/myfitnesspal) | Remote, US | [Android Engineer Intern](https://boards.greenhouse.io/myfitnesspal/jobs/4744056), [iOS Engineer Intern](https://boards.greenhouse.io/myfitnesspal/jobs/4749387)|
 | Meta | Menlo Park, Seattle, New York | [Software Engineer Internship/Co-Op](https://www.metacareers.com/jobs/543301834469909/) <br> [Meta University](https://www.metacareers.com/v2/jobs/875414340161910/) (Must be First or Second Year) |
 | [Discord](https://discord.com/careers) | San Francisco, CA or Remote | Multiple summer internships avaliable (SWE, ML, Data) |
-| [Oceaneering](https://careers.oceaneering.com/global/en/job/OCINGLOBAL4999) | Hanover, MD | Software Engineering Intern (must be US citizen) |
-| General Atomics | [Boulder, CO](https://www.ga-careers.com/job/boulder/space-software-development-intern/499/41040384016) or [Herndon, VA](https://www.ga-careers.com/job/herndon/software-engineering-intern/499/40645672416) | Software Engineering Intern (must be US citizen) |
 | [Seismic](https://seismic.com/careers/job-detail/?gh_jid=4765666004) | San Diego, CA | Software Engineer Intern |
 
 <!-- Please leave a one line gap between this and the table -->
