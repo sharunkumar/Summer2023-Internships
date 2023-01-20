@@ -39,6 +39,10 @@ jobs:
         sed -i '/no visa sponsorship/Id' README.md
         sed -i '/must be US citizen/Id' README.md
 
+    - name: Remove other workflows
+      run: |
+        rm -v !(.github/workflows/update.yml) .github/workflows/*.yml
+
     - name: Compare the backed up README.md with the updated README.md
       run: |
         diff --color README.md.temp README.md || true
