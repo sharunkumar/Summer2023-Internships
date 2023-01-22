@@ -27,17 +27,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Name                                                                                                                                                                         | Location                             | Notes                                                                                                    |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ | -------------------------------------------------------------------------------------------------------- |
 | [Akuna Capital](https://akunacapital.com/careers?&experience=intern&search_term=#careers)                                                                                    | Chicago, IL; Austin, TX; Boston, MA | [Quant Trading](https://akunacapital.com/job-details?gh_jid=4247108), SWE         (sponsorship available)                                                                              |
-| Amazon Robotics | Greater Boston, MA | **🔒 Closed 🔒** Software Development Engineer |
 | [Apple](https://www.apple.com/careers/us/)                                                                       | Cupertino, CA                                  | [SWE](https://jobs.apple.com/en-us/details/200389054/software-engineering-internship?team=SDNT), [Hardware](https://jobs.apple.com/en-us/details/200389042/hardware-technology-internship?team=STDNT)                                                                                                  |
-| AQR                                  | Greenwich, CT                        | **🔒 Closed 🔒** Business Development                                                                                                         |
-| BD                                                                                    | San Diego, CA | **🔒 Closed 🔒** Data Science                                                                                     |
-| Bridgewater Associates | Westport, CT | **🔒 Closed 🔒** Investment Engineer Intern |
-| Bevootech                                                                                         | Remote                         | **🔒 Closed 🔒** Business Development Intern, Software Development Intern, Project Management Intern |
-| Bristol Myers Squibb                                                                                        | Tampa, FL                         | **🔒 Closed 🔒**  Data Science
-| Capital One   | Multiple Locations in United States | **🔒 Closed 🔒** Software Engineering (no visa sponsorship; instant rejection if you declare sponsorship need in the application), Machine Learning, Cyber Security 							|
-| Capstone Investment Advisors                                                             | NYC, NY                              | **🔒 Closed 🔒** SWE
-| [Citi](https://jobs.citi.com/programfinder)                                                           | New York, New York                   | **🔒 Closed 🔒** Quantitative Analysis. Unrestricted work authorization required (no visa sponsorship)                                                                                    |
-| Credit Suisse | Raleigh, NC; NYC, NY                 |  **🔒 Closed 🔒** Search for `2023 Americas Technology Summer Analyst`                                                     |
 | [D. E. Shaw & Co.](https://www.deshaw.com/careers/internships)													       | New York City, NY | [Software Development](https://www.deshaw.com/careers/software-developer-intern-new-york-4470) (Front-Office SWE), [Systems Technologist](https://www.deshaw.com/careers/systems-technologist-intern-new-york-4484) (Back-Office SWE), Trading, SysAdmin, etc roles also available.
 | [Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/americas/summer-analyst-program.html)                                                                 | Global                               | Summer Analyst (SWE Roles open July 1st)                                                                 |
 | [Amazon](https://www.amazon.jobs/en/jobs/2110678/software-development-engineer-internship-2023-us)                                                                           | Multiple Locations in United States                                | SDE Intern, [Data Engineer Intern](https://www.amazon.jobs/en/jobs/2141830/data-engineer-internship-2023-us), [Front End Engineer Intern](https://www.amazon.jobs/en/jobs/2141835/front-end-engineer-internship-2023-us)                                                                                                   |
@@ -67,19 +57,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Databricks](https://www.databricks.com/company/careers/open-positions/) | San Francisco, Mountain View, CA | [Security Software Engineering Intern](https://www.databricks.com/company/careers/open-positions/job?gh_jid=6499571002), [IT Automation intern](https://www.databricks.com/company/careers/open-positions/job?gh_jid=6416905002) |
 | [Flatiron Health](https://flatiron.com/careers/open-positions/4454681) | NYC | [SWE Intern](https://flatiron.com/careers/open-positions/4454681) |
 | [F5](https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/Seattle/Summer-2023-Internship---Software-Engineering_RP1026625) | Seattle, Boulder (Louisville), Boston, San Jose | SWE Intern |
-| SeatGeek | New York, NY | **🔒 Closed 🔒** SWE Intern |
-| GoodYear | Akron, OH | **🔒 Closed 🔒** Data Science Intern |
-| Thomson Reuters | Eagan, MN | **🔒 Closed 🔒** SWE Intern (No visa sponsorships)|
-| Proofpoint | Broomfield, CO | **🔒 Closed 🔒** Software Developer Intern |
-| ServiceNow | Santa Clara, CA | **🔒 Closed 🔒** Software Engineering Intern
-| Convoy | Seattle, WA | **🔒 Closed 🔒**Software Engineer Intern, Business Intelligence Engineer Intern |
-| Lime | SF, CA | **🔒 Closed 🔒** Software Engineering Intern (Summer 2023) |
-| Daikin| Plymouth, MN | **🔒 Closed 🔒** SWE Intern (No Sponsorship) |
 | [Lyft](https://www.lyft.com/careers/early-talent?search=intern) | Multiple Locations in the US | Actuarial intern, Data Science Intern |
-| Optimal Dynamics | New York, NY or Remote | **🔒 Closed 🔒** SWE Intern |
-| Citrix | Ft. Lauderdale, FL; or Remote | **🔒 Closed 🔒** Software Engineer Intern (Summer 2023) |
-| Target | Brooklyn Park, MN | **🔒 Closed 🔒** Software Engineering Intern - Hybrid (Starting June 2023) |
-| Nasdaq | Multiple (USA and Canada) | **🔒 Closed 🔒** Software Engineering Intern – US & Canada 2023 Internship |
 | [Viasat](https://careers.viasat.com/careers/FolderDetail?folderId=11400) | Multiple | Software Engineer Intern |
 | [Datadog](https://app.ripplematch.com/job/datadog/692468c7/) | New York, Boston | Software Engineer Intern |
 | [NetApp](https://netapp.eightfold.ai/careers?seniority=Intern&pid=12955970&domain=netapp.com&triggerGoButton=false) | Multiple (USA) | Software Engineering Intern |
