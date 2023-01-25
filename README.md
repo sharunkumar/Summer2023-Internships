@@ -33,9 +33,6 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Amazon](https://www.amazon.jobs/en/jobs/2110678/software-development-engineer-internship-2023-us)                                                                           | Multiple Locations in United States                                | SDE Intern, [Data Engineer Intern](https://www.amazon.jobs/en/jobs/2141830/data-engineer-internship-2023-us), [Front End Engineer Intern](https://www.amazon.jobs/en/jobs/2141835/front-end-engineer-internship-2023-us)                                                                                                   |
 | [BlackRock](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-ab3ba52a6a61/wid-1/candidate/so/pm/1/pl/1/opp/6075-Summer-Internship-Program-Americas/en-GB)         | Multiple Locations in United States                                | Select Business Area -> Technology, Business Division -> Software Engineering in the application             |
 | [Two Sigma](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Internship/10972)                                                                                    | New York, NY                     | Quant Research, [SWE](https://careers.twosigma.com/careers/JobDetail?jobId=11002) |
-| IMC                                                                                    | Chicago                     | **🔒 Closed 🔒** SDE Intern, Quant Research, Trading |
-| Palantir| Multiple Locations in United States | **🔒 Closed 🔒** Software Engineering Internship |
-| Tower Research Capital| New York, NY, Chicago, IL | **🔒 Closed 🔒** Quantitative Trader, Quantitative Developer | |
 | [Mastercard](https://careers.mastercard.com/us/en/job/R-173598/Software-Engineer-Intern)|  Multiple locations in United States | Software Engineer Intern, Information Security Engineer Intern |
 | [Citadel](https://www.citadel.com/careers/open-opportunities/students/internships/)| Chicago, New York | [Software Engineer Intern](https://www.citadel.com/careers/details/software-engineer-intern-us/) and [Quant Research Analyst](https://www.citadel.com/careers/details/quantitative-research-analyst-intern-us-2/)|
 | [Hewlett Packard Enterprise](https://careers.hpe.com/us/en/search-results?keywords=software%20intern) | Multiple Locations in United States | Software Developer Intern, Software Engineering Intern, [AI/ML Intern](https://careers.hpe.com/us/en/job/HPE1US1135450EXTERNALENUS/Artificial-Intelligence-AI-Machine-Learning-ML-Intern), [Data Science Intern](https://careers.hpe.com/us/en/job/HPE1US1135416EXTERNALENUS/Data-Science-Intern)
@@ -67,16 +64,6 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Epic Games](https://www.epicgames.com/site/en-US/careers/jobs?type=Intern&department=Engineering) | Multiple Locations | Multiple Intern Positions |
 | [Mathworks](https://www.mathworks.com/company/jobs/opportunities/25610-multiple-openings-engineering-development-group-internship?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Natick, MA | Engineering Development Group Intern (Spring and Summer 2023) |
 | [Keysight Technologies](https://jobs.keysight.com/go/Students/3065700/?q=&q2=&alertId=&title=software&location=US&shifttype=intern&department=)| Santa Rosa, CA | Various Positions|
-| Insitro |SF, CA | **🔒 Closed 🔒** Software Engineering Intern|
-| State Farm | Multiple Locations | **🔒 Closed 🔒** Software Engineering Intern Summer 2023 (No sponsorship) |
-| BNY Mellon | New York, New Jersey, Pittsburgh | **🔒 Closed 🔒** 2023 START Technology Intern Program – Developer <br> 2023 START Technology Intern Program – Data Science(No sponsorship) | 
-| Applied Intuition| Mountain View, CA |  **🔒 Closed 🔒** Software Engineer |
-| Workiva | Multiple Locations in the US | **🔒 Closed 🔒** Software Engineer Intern (No Sponsorship)|
-| [Gallup](https://gallup.taleo.net/careersection/2/jobsearch.ftl) | Omaha, NE |**🔒 Closed 🔒** Technical Project Manager, Cybersecurity Analyst, Data Science, Quality Assurance, Software Developer|
-| Dell| Round Rock, Texas or Hopkinton, Massachusetts | **🔒 Closed 🔒** Software Engineer Intern |
-| Neuralink | Fremont, CA | **🔒 Closed 🔒** Software Engineering Intern |
-| [Rivian](https://boards.greenhouse.io/rivian/jobs/5303129003) | Irvine, CA + Remote | **🔒 Closed 🔒** Product Development Engineering Interns, [Software Engineer Intern](https://boards.greenhouse.io/rivian/jobs/5303129003) |
-| Zillow | Remote | **🔒 Closed 🔒** Software Development Engineer Intern |
 | [Taboola](https://www.taboola.com/careers/job/frontend-engineer-intern?gh_jid=4498767) | LA, CA | Frontend Engineer Intern |
 | [Arrowstreet Capital](https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet?q=intern) | Boston, MA | Quantitative Developer Intern, Quantitative Researcher Intern |
 | [Riot Games](https://www.riotgames.com/en/work-with-us/jobs#search=intern) | Multiple Locations (CA, MO) | [UX Design](https://www.riotgames.com/en/j/4526877); [UX Design - Project L](https://www.riotgames.com/en/j/4526870); [Project Manager](https://www.riotgames.com/en/work-with-us/job/4494239/product-manager-intern-mba-los-angeles-usa) |
