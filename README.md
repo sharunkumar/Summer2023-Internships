@@ -277,18 +277,21 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Panasonic | Irvine, CA | [Software Engineering Summer 2023 Intern (Embedded Software)](https://careers.na.panasonic.com/careers/software-engineering-summer-2023-intern-embedded-software-irvine-ca) <br> [Software Engineering Summer 2023 Intern – Test Platform](https://careers.na.panasonic.com/careers/software-engineering-summer-2023-intern-test-platform-irvine-ca) <br> [Software Engineering Summer Intern – Device Verification SW](https://careers.na.panasonic.com/careers/software-engineering-summer-intern-device-verification-sw-irvine-ca) |
 | [D.R. Horton](https://drhorton.taleo.net/careersection/campus/jobdetail.ftl?job=2205844&lang=en) | Arlington, TX | Summer 2023 IT Intern - Software Development |
 | [Navy Federal Credit Union](https://nfcucareers.ttcportals.com/jobs/10865239-summer-intern-data-science) | Vienna, VA | Summer Intern (Data Science) |
-| [Businessolver](https://www.businessolver.com/who-we-are/careers/open-positions?gh_jid=4575463&gh_src=r7dx8v1) | Remote, US | Software Engineering Internship |
+| Businessolver | Remote, US | **🔒 Closed 🔒** Software Engineering Internship |
+| JLL | Remote, US | **🔒 Closed 🔒** Software Engineering Summer 2023 Internship - Remote |
 | [Western Digital (WD)](https://careers.smartrecruiters.com/WesternDigital/?search=intern) | San Jose, CA | [System Design Verification Engineering Intern](https://jobs.smartrecruiters.com/WesternDigital/743999857498066-system-design-verification-engineering-intern) |
-| [Salesforce x CodePath](https://info.codepath.org/futureforce-tech-launchpad) | San Francisco, CA | [Futureforce Tech Launchpad (rising juniors, class of '25)](https://apply.codepath.org/cohorts/immersive-summer-2023/versions/salesforce/) |
+| Salesforce x CodePath | San Francisco, CA | **🔒 Closed 🔒** Futureforce Tech Launchpad (rising juniors, class of '25)|
 | [Intel](https://intel.wd1.myworkdayjobs.com/en-US/External?q=software%20intern) | Various | [FPGA Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-San-Jose/FPGA-Software-Engineering-Intern_JR0235876?q=software+intern) <br> [Software Engineer Graduate Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-San-Jose/Software-Engineer-Graduate-Intern_JR0237862?q=software+intern) <br> [System Software Validation - Undergrad Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/System-Software-Validation----Undergrad-Intern_JR0232859?q=software+intern) <br> Many more on website. |
 | [Harry's](https://boards.greenhouse.io/harrys/jobs/4798058) | New York, NY | Software Engineering Intern |
 | [Smartsheet](https://www.smartsheet.com/careers-list?location=&department=Internships+-+Summer+2023) | Bellevue, WA | [Security Automation Intern, Security Engineering Team](https://www.smartsheet.com/careers/position/4764695/security-automation-intern-security-engineering-team) |
-| [MyFitnessPal](https://boards.greenhouse.io/myfitnesspal) | Remote, US | [Android Engineer Intern](https://boards.greenhouse.io/myfitnesspal/jobs/4744056), [iOS Engineer Intern](https://boards.greenhouse.io/myfitnesspal/jobs/4749387)|
+| [MyFitnessPal](https://boards.greenhouse.io/myfitnesspal) | Remote, US | [Android Engineer Intern](https://boards.greenhouse.io/myfitnesspal/jobs/4744056), iOS Engineer Intern|
 | Meta | Menlo Park, Seattle, New York | [Software Engineer Internship/Co-Op](https://www.metacareers.com/jobs/543301834469909/) <br> [Meta University](https://www.metacareers.com/v2/jobs/875414340161910/) (Must be First or Second Year) |
 | [Discord](https://discord.com/careers) | San Francisco, CA or Remote | Multiple summer internships avaliable (SWE, ML, Data) |
 | [Seismic](https://seismic.com/careers/job-detail/?gh_jid=4765666004) | San Diego, CA | Software Engineer Intern |
 | Slalom Build | Atlanta, GA or Chicago, IL | [Software Engineer](https://jobs.slalombuild.com/apex/CandidatePortalBuild?nostate=1#/post/a0h1R00000DE06wQAD) and [Platform Engineer](https://jobs.slalombuild.com/apex/CandidatePortalBuild?nostate=1#/post/a0h1R00000DE07LQAT) Intern |
 | [Spotify](https://jobs.lever.co/spotify/d40b915f-2df6-4f28-822f-34bfaddc4c2b?lever-source=LinkedInJobs) | Remote (Americas) | Backend Engineer Intern |
+| [A10 Networks](https://osv-a10networks.wd5.myworkdayjobs.com/en-US/A10CareerSite?jobFamilyGroup=0baf5922437e10337ea79335bfa1a52c) | San Jose, CA | Multiple Software Engineering Internship |
+| [Enveda Biosciences](https://jobs.lever.co/envedabio/866a0ce8-b06f-4b91-bda1-cd83fa7edee6) | Remote | Software Engineering Internship |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
