@@ -87,8 +87,6 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [TikTok](https://careers.tiktok.com/position?keywords=software&category=&location=CT_243%2CCT_94%2CCT_157%2CCT_114%2CCT_104%2CCT_221%2CCT_222%2CCT_233%2CCT_75%2CCT_203%2CCT_1103347%2CCT_223%2CCT_1000001%2CCT_100762%2CCT_247&project=7129361493955135774&type=3&job_hot_flag=&current=1&limit=10&functionCategory=) | Multiple Locations | Software Engineer Intern
 | [ByteDance](https://jobs.bytedance.com/en/position/7138261141784611103/detail?spread=BSPP2KS) | Mountain View, CA | Software Engineer Intern |
 | [TD Ameritrade](https://sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=25404&siteid=5601#jobDetails=3060632_5601) | Multiple Locations | Software Engineering Intern (must be an undergrad)|
-| Paramount | Multiple Locations (NY, CA) | **🔒 Closed 🔒** Software Engineering Intern |
-| Nuro | Mountain View | **🔒 Closed 🔒** Software Engineer (SRE) Intern, Software Systems Engineer Intern |
 | [Relativity Space](https://boards.greenhouse.io/relativity/jobs/6363660002?gh_jid=6363660002) | Long Beach, CA | Software Engineer Intern (C/C++) (Requires US citizenship)|
 | [Pitchbook](https://boards.greenhouse.io/pitchbookdata/) | Seattle, Washington | [Product Management Summer Intern, Equity Data](https://boards.greenhouse.io/pitchbookdata/jobs/4024637006), [Software Development Engineer Summer Intern (Back End)](https://boards.greenhouse.io/pitchbookdata/jobs/4025237006) |
 | [SoundHound](https://www.soundhound.com/careers/) | Santa Clara, CA | [Software Engineering Intern, Acoustic Modeling](https://boards.greenhouse.io/soundhoundinc/jobs/6365344002) <br> (Cover letter required) |
