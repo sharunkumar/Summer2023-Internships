@@ -255,8 +255,6 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Intuitive](https://careers.intuitive.com/us/en/search-results?m=3&keywords=intern) | Sunnyvale, CA (on-site) | [Software Engineer Intern](https://careers.intuitive.com/us/en/job/JOB2716/Software-Engineer-Intern), [Devops Intern](https://careers.intuitive.com/us/en/job/JOB2747/DevOps-Intern), [System Engineer intern](https://careers.intuitive.com/us/en/job/JOB2667/System-Engineer-Intern?utm_source=linkedin&utm_medium=phenom-feeds)
 | [Pegasystems](https://www.pega.com/about/careers/job-listings?f[0]=category%3A24376) | Multiple Locations | Multiple summer internship for SWE, UI, UX, etc. |
 | [Hugging Face](https://apply.workable.com/huggingface/j/350457122B/) | New York, NY or Remote | ML Intern |
-| [Mercedes-Benz](https://jobs.mercedes-benz.com/job/369916/data-scientist-intern.html) | Farmington Hills, MI | Data Scientist Intern (no sponsorship) |
-| Bread Financial | Multiple Locations or remote | **🔒 Closed 🔒** General summer internship application for all majors including CS/IT (no sponsorship) |
 | [Momentum](https://mwrecruiting-openhire.silkroad.com/epostings/index.cfm?fuseaction=app.jobinfo&jobid=15359&source=ONLINE&JobOwner=1030463&company_id=30094&version=11&byBusinessUnit=NULL&bycountry=0&bystate=0&byRegion=&bylocation=&keywords=&byCat=&proximityCountry=) | NYC, St. Louis, Chicago, or Atlanta | General summer internship application for all teams such as SWE, data, UX, etc. |
 | [Commvault](https://careers.commvault.com/us/en/search-results?keywords=intern) | Remote | Various internship roles in Software Development, UX, etc. |
 | [Expensify](https://we.are.expensify.com/full-stack-engineering-intern) | Remote | Software Engineer Internship |
