@@ -54,7 +54,16 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Oracle](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions?keyword=software+engineer+intern) | United States | (Multiple Software Engineer Interns - Application Developments/Analytics Cloud/DB and Systems/Netsuite, etc. (CPT/OPT Work Authorization available))
 | [Freddie Mac](https://careers.freddiemac.com/us/en/job/JR7788/Multifamily-Software-Developer-Intern-Hybrid-or-Remote-Work-Schedule) | McLean, VA (Remote Available) | Multifamily Software Developer Intern |
 | [Databento](https://boards.greenhouse.io/databento/jobs/4374815?)| Remote | SWE Intern (H1B sponsorship available)
-| [Verkada](https://jobs.lever.co/verkada?department=Engineering#:~:text=SOFTWARE%20%2D%20CORE%20COMMAND-,SOFTWARE%20%2D%20EARLY%20CAREERS,-APPLY)| San Mateo, CA | Computer Vision Engineering Intern, [Embedded Systems Engineering Intern](https://jobs.lever.co/verkada/f8e567ee-b75f-498a-8cad-a0f0f47eb298), [Frontend Software Engineering Intern](https://jobs.lever.co/verkada/eedaa343-79ae-4b7f-a73f-3f860050822f), [Mobile Engineering Intern](https://jobs.lever.co/verkada/de0b103e-1bb6-4619-bea8-4ed254267f6b), [Security Engineering Intern](https://jobs.lever.co/verkada/55ee059c-dbca-4034-af57-133de54a22fe)
+| ServiceNow| Remote | **🔒 Closed 🔒** Database Software Engineer Intern
+| Virtu Financial | New York, NY | **🔒 Closed 🔒** Internship - Developer (10 weeks Summer 2023)
+| Prudential | Newark, NJ | **🔒 Closed 🔒** Software Engineering Summer Internship Program
+| PDT Partners | New York, NY | **🔒 Closed 🔒** Software Engineering Internship (10 weeks Summer 2023)
+| [Verkada](https://jobs.lever.co/verkada?department=Engineering#:~:text=SOFTWARE%20%2D%20CORE%20COMMAND-,SOFTWARE%20%2D%20EARLY%20CAREERS,-APPLY)| San Mateo, CA | Computer Vision Engineering Intern, [Embedded Systems Engineering Intern](https://jobs.lever.co/verkada/f8e567ee-b75f-498a-8cad-a0f0f47eb298), **🔒 Closed 🔒** Frontend Software Engineering Intern, **🔒 Closed 🔒** Mobile Engineering Intern, **🔒 Closed 🔒** Security Engineering Intern
+| Code 2040 | Various | **🔒 Closed 🔒** Software Engineering Internship Fellowship (9 weeks Summer 2023) |
+| Vanta | New York, NY | **🔒 Closed 🔒** SWE Internship
+| L3Harris Technologies | Amityville, NY | **🔒 Closed 🔒** Software Engineer Intern (US Government Security Clearance needed)
+| Pixar Animation Studios | Emeryville, CA | **🔒 Closed 🔒** Software Engineer Intern (no visa sponsorship)
+| PNC| Various | **🔒 Closed 🔒** Technology Summer Intern Program |
 | [Arrowstreet Capital](https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet/job/Boston/Quantitative-Researcher-Intern--Summer-2023_R700) | Boston, MA | Quantitative Researcher Intern |
 | [Sensata](https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Attleboro-Massachusetts/Software-Engineer-Intern---Summer-2023_IRC86996) | Attleboro, MA | Software Engineer Intern |
 | [Uber](https://university-uber.icims.com/jobs/search?ss=1&searchKeyword=intern&searchRelation=keyword_all) | San Francisco, CA | UberSTAR: [Data Science](https://university-uber.icims.com/jobs/119292/2023-uberstar-internship-program---data-science/job), [Program Manager](https://university-uber.icims.com/jobs/119325/uberstar-program-manager%2c-%28strategy-%26-operations%2c-engineering%29/job) (Freshman & Sophomores) |
@@ -249,6 +258,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Co:here](https://jobs.lever.co/cohere/) | Multiple locations | [Machine Learning Intern (Summer 2023)](https://jobs.lever.co/cohere/ed985a33-206e-425a-8c68-fdbdcc34b8bb), [Software Engineer Intern (Summer 2023)](https://jobs.lever.co/cohere/c856d444-54bf-4a70-94b1-756769de0292) |
 | Clear | [NYC](https://boards.greenhouse.io/clear/jobs/4782043), [Austin](https://boards.greenhouse.io/clear/jobs/4782148) | Software Engineer Intern |
 | [Nasuni](https://jobs.jobvite.com/nasuni/job/oWbVlfw7) | Boston, MA | Software Engineering Intern - NOC |
+| [US News](https://recruiting.myapps.paychex.com/appone/MainInfoReq.asp?R_ID=5245479&B_ID=91&fid=1&Adid=&SearchScreenID=8768&CountryID=3&LanguageID=2) | Washington, DC | Software Developer Intern |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
