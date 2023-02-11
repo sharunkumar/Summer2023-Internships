@@ -167,7 +167,11 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Red Hat](https://us-redhat.icims.com/jobs/97296/software-engineering-internship/job?hub=7) | Multiple | Software Engineering Internship | 
 | [Lexmark](https://www.lexmark.com/en_us/careers/job-description.143572.html) | Boulder, CO | Software Engineer Student - Summer 2023 |
 | [Tu Simple](https://boards.greenhouse.io/tusimpleinternship) | San Diego, California, Remote  | Multiple Positions (see link) |
-| [Yahoo](https://ouryahoo.wd5.myworkdayjobs.com/en-US/careers/job/United-States-of-America---Remote/Software-Engineering-Intern_JR0021366) | Remote (US) | Software Engineering Intern |
+| Schoolhouse | Remote (US) | **🔒 Closed 🔒** Software Engineering Intern (Spring/Summer 2023) |
+| [Yahoo](https://ouryahoo.wd5.myworkdayjobs.com/en-US/careers?q=software&locations=429c19fc6ff810015940b81d49a00000&jobFamilyGroup=91f14896cbbe0142bf25083fc74637b2) | Remote (US) | Software Engineering Intern |
+| Dayton Freight Lines, Inc | Dayton, OH | **🔒 Closed 🔒** Software Developer Intern |
+| [Gusto](https://boards.greenhouse.io/gusto/jobs/4645583) | SF, Denver, NYC | **🔒 Closed 🔒** Software Engineering Intern |
+| Roche | Santa Clara, CA | **🔒 Closed 🔒** 2023 Summer Intern - Sequencing Software Development |
 | [Ampere Computing](https://amperecomputing.com/apply/?p=job%2FoZvJkfwh) | Santa Clara, CA | Solutions Engineering Intern | 
 | [NimbleRx](https://jobs.lever.co/nimblerx/b00faff0-37f7-4707-ac14-b86db266b9f9) | Remote, US | Software Engineer - (Intern) | 
 | [WW](https://ww.wd1.myworkdayjobs.com/careers/job/New-York/XMLNAME-2023-Software-Engineering---Marketing-Internship_R220000002956) | Remote, US; New York, US | 2023 Software Engineering - Marketing Internship | 
