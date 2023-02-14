@@ -66,17 +66,6 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Jump Trading](https://www.jumptrading.com/careers/?locations=Chicago+Austin+New-York+New-Jersey+Remote+Cranberry-Township&titleSearch=campus+intern) | Chicago, IL | [Campus \| Software Engineer 2023 (Summer Intern)](https://www.jumptrading.com/careers/4452653/) <br> [Campus \| FPGA Engineer 2023 (Summer Intern)](https://www.jumptrading.com/careers/4471649/) <br> [Campus \| Tech Ops Engineer 2023 (Intern)](https://www.jumptrading.com/careers/4387580/) <br> [Campus \| Data Engineer 2023 (Summer Intern)](https://www.jumptrading.com/careers/4471685/) <br> [Campus \| Web Dev / UI Software Engineer 2023 (Summer Intern)](https://www.jumptrading.com/careers/4471639/) |
 | [Flatiron Health](https://flatiron.com/careers/open-positions/4454681) | NYC | [SWE Intern](https://flatiron.com/careers/open-positions/4454681) |
 | [F5](https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/Seattle/Summer-2023-Internship---Software-Engineering_RP1026625) | Seattle, Boulder (Louisville), Boston, San Jose | SWE Intern |
-| SeatGeek | New York, NY | **🔒 Closed 🔒** SWE Intern |
-| GoodYear | Akron, OH | **🔒 Closed 🔒** Data Science Intern |
-| Thomson Reuters | Eagan, MN | **🔒 Closed 🔒** SWE Intern (No visa sponsorships)|
-| Proofpoint | Broomfield, CO | **🔒 Closed 🔒** Software Developer Intern |
-| ServiceNow | Santa Clara, CA | **🔒 Closed 🔒** Software Engineering Intern
-| Convoy | Seattle, WA | **🔒 Closed 🔒**Software Engineer Intern, Business Intelligence Engineer Intern |
-| Lime | SF, CA | **🔒 Closed 🔒** Software Engineering Intern |
-| Daikin| Plymouth, MN | **🔒 Closed 🔒** SWE Intern (No Sponsorship) |
-| Optimal Dynamics | New York, NY or Remote | **🔒 Closed 🔒** SWE Intern |
-| Citrix | Ft. Lauderdale, FL; or Remote | **🔒 Closed 🔒** Software Engineer Intern |
-| Target | Brooklyn Park, MN | **🔒 Closed 🔒** Software Engineering Intern - Hybrid |
 | [Nasdaq](https://nasdaq.wd1.myworkdayjobs.com/en-US/US_External_Career_Site/job/Software-Engineer-ing-Intern---US---Canada-2023-Internship_R0011592) | Multiple (USA and Canada) | Software Engineering Intern – US & Canada 2023 Internship |
 | [Viasat](https://careers.viasat.com/careers/FolderDetail?folderId=11400) | Multiple | Software Engineer Intern |
 | [NetApp](https://netapp.eightfold.ai/careers?seniority=Intern&pid=12955970&domain=netapp.com&triggerGoButton=false) | Multiple (USA) | Software Engineering Intern |
