@@ -253,7 +253,6 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Lyft](https://www.lyft.com/careers/early-talent?search=intern) | Multiple Locations in the US | Actuarial intern, Data Science Intern, [Product Design Intern](https://app.careerpuck.com/job-board/lyft/job/6584563002?gh_jid=6584563002) |
 | [Volley](https://boards.greenhouse.io/volleythat/jobs/4014556005) | San Francisco, CA | Software Engineering Intern |
 | [NASA](https://stemgateway.nasa.gov/public/s/explore-opportunities/internships) | Multiple Locations + Remote | Software engineering, Machine Learning, Quantum Computing |
-| [SEI Investments](https://careers.peopleclick.com/careerscp/client_seic/external/en-us/gateway/viewFromLink.html?jobPostId=30145&localeCode=en-us) | Oaks, PA | 2023 Summer Intern - Technology Track (no sponsorship) | 
 | [Generate Biomedicines](https://generatebiomedicines.com/open-positions?gh_jid=4048283006) | Somerville, MA (On-site) | Machine Learning Intern |
 
 <!-- Please leave a one line gap between this and the table -->
