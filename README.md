@@ -255,6 +255,10 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Smith+Nephew](https://smithnephew.wd5.myworkdayjobs.com/External/job/Pittsburgh-PA/Robotics-Software-Engineering-Intern_R69104) | Pittsburgh, PA | Robotics Software Engineering Intern |
 | [Urban Science](https://careers-urbanscience.icims.com/jobs/4785/software-engineering-intern---summer-2023/job?mobile=false&width=1176&height=800&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | Detroit, MI | Software Engineering Intern |
 | [Squarespace](https://www.squarespace.com/careers/jobs/4856370?location=chicago) | Chicago, IL | Tock Software Engineer Intern |
+| [Chubb](https://careers.chubb.com/global/en/job/CIHIGLOBAL351957EXTERNALENGLOBAL/2023-Technology-Associate-Intern-Jersey-City) | Jersey City, NJ | Technology Associate Intern |
+| [Precisely](https://boards.greenhouse.io/embed/job_app?token=4205134005) | Remote | Software Engineer Intern |
+| [RXO](https://jobs.rxo.com/job/Chicago-Software-Engineer-Intern-IL-60601/994552700) | Chicago, IL | Software Engineer Intern |
+| [GitKraken](https://gitkraken.bamboohr.com/careers/56) | Scottsdale, AZ | Software Engineering Internship |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
