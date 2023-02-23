@@ -259,6 +259,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Precisely](https://boards.greenhouse.io/embed/job_app?token=4205134005) | Remote | Software Engineer Intern |
 | [RXO](https://jobs.rxo.com/job/Chicago-Software-Engineer-Intern-IL-60601/994552700) | Chicago, IL | Software Engineer Intern |
 | [GitKraken](https://gitkraken.bamboohr.com/careers/56) | Scottsdale, AZ | Software Engineering Internship |
+| [GitKraken](https://gitkraken.bamboohr.com/careers/56) **🔒 Closed 🔒**  | Scottsdale, AZ | Software Engineering Internship |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
