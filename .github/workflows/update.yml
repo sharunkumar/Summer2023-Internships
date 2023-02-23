@@ -48,13 +48,16 @@ jobs:
     #     diff --color README.md.temp README.md || true
     #     rm README.md.temp
 
-    - name: Commit and push
+    - name: Commit
       run: |
         if [[ `git status --porcelain` ]]; then
-          git commit -am "remove closed, no sponsorship entries" && git push
+          git commit -am "remove closed, no sponsorship entries"
         else
           echo "No changes to commit"
         fi
+        
+    - name: Push
+      run: git push
 
     - name: Remove other workflows
       run: |
