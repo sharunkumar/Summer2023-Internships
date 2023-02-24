@@ -215,11 +215,6 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Pegasystems](https://www.pega.com/about/careers/job-listings?f[0]=category%3A24376) | Multiple Locations | Multiple summer internship for SWE, UI, UX, etc. |
 | [Hugging Face](https://apply.workable.com/huggingface/j/350457122B/) | New York, NY or Remote | ML Intern |
 | [Momentum](https://mwrecruiting-openhire.silkroad.com/epostings/index.cfm?fuseaction=app.jobinfo&jobid=15359&source=ONLINE&JobOwner=1030463&company_id=30094&version=11&byBusinessUnit=NULL&bycountry=0&bystate=0&byRegion=&bylocation=&keywords=&byCat=&proximityCountry=) | NYC, St. Louis, Chicago, or Atlanta | General summer internship application for all teams such as SWE, data, UX, etc. |
-| GitLab | Remote | **🔒 Closed 🔒** Engineering Internship (SWE) (no sponsorship but accept interns from multiple countries) |
-| FIS | Milwaukee, WI | **🔒 Closed 🔒** Software Engineer, Summer FIS University Program (no sponsorship) |
-| Commonwealth | Waltham, MA | **🔒 Closed 🔒** General Summer Internship |
-| [Chamberlain Group](https://chamberlain.wd1.myworkdayjobs.com/en-US/Chamberlain_Group?workerSubType=a1d19ddc127d10332f2265ab00be635b) | Oak Brook, IL | 2023 Summer internships for SWE, Data, PM, etc. (no sponsorship) |
-| [Rockwell Automation](https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Intern--Information-Technology_R22-8470-2?Codes=ILINK) | Milwaukee, WI | IT Intern (No Sponsorship) |
 | [Commvault](https://careers.commvault.com/us/en/search-results?keywords=intern) | Remote | Various internship roles in Software Development, UX, etc. |
 | [Expensify](https://we.are.expensify.com/full-stack-engineering-intern) | Remote | Software Engineer Internship |
 | [Corsair](https://edix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions?keyword=intern) | Milpitas, CA | [Product Management intern](https://edix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7111?utm_medium=jobshare) |  
@@ -257,14 +252,11 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Lyft](https://www.lyft.com/careers/early-talent?search=intern) | Multiple Locations in the US | Actuarial intern, Data Science Intern, [Product Design Intern](https://app.careerpuck.com/job-board/lyft/job/6584563002?gh_jid=6584563002) |
 | [Volley](https://boards.greenhouse.io/volleythat/jobs/4014556005) | San Francisco, CA | Software Engineering Intern |
 | [Generate Biomedicines](https://generatebiomedicines.com/open-positions?gh_jid=4048283006) | Somerville, MA (On-site) | Machine Learning Intern |
-| Smith+Nephew | Pittsburgh, PA | 🔒 Closed 🔒 Robotics Software Engineering Intern |
 | [Urban Science](https://careers-urbanscience.icims.com/jobs/4785/software-engineering-intern---summer-2023/job?mobile=false&width=1176&height=800&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | Detroit, MI | Software Engineering Intern |
 | [Squarespace](https://www.squarespace.com/careers/jobs/4856370?location=chicago) | Chicago, IL | Tock Software Engineer Intern |
 | [Chubb](https://careers.chubb.com/global/en/job/CIHIGLOBAL351957EXTERNALENGLOBAL/2023-Technology-Associate-Intern-Jersey-City) | Jersey City, NJ | Technology Associate Intern |
-| Precisely | Remote | 🔒 Closed 🔒 Software Engineer Intern |
 | [RXO](https://jobs.rxo.com/job/Chicago-Software-Engineer-Intern-IL-60601/994552700) | Chicago, IL | Software Engineer Intern |
 | [GitKraken](https://gitkraken.bamboohr.com/careers/56) | Scottsdale, AZ | Software Engineering Internship |
-| identifeye HEALTH | Remote | 🔒 Closed 🔒 Software Engineering Internship |
 | [Airbyte](https://boards.greenhouse.io/airbyte/jobs/4773520004) | Hybrid in SF | Backend Software Engineering Intern |
 
 <!-- Please leave a one line gap between this and the table -->
