@@ -156,15 +156,6 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Yahoo](https://ouryahoo.wd5.myworkdayjobs.com/en-US/careers?q=software&locations=429c19fc6ff810015940b81d49a00000&jobFamilyGroup=91f14896cbbe0142bf25083fc74637b2) | Remote (US) | Software Engineering Intern |
 | [Ampere Computing](https://amperecomputing.com/apply/?p=job%2FoZvJkfwh) | Santa Clara, CA | Solutions Engineering Intern | 
 | [NimbleRx](https://jobs.lever.co/nimblerx/b00faff0-37f7-4707-ac14-b86db266b9f9) | Remote, US | Software Engineer - (Intern) | 
-| WW | Remote, US; New York, US | **🔒 Closed 🔒** 2023 Software Engineering - Marketing Internship | 
-| Simplify | SF, Remote, US | **🔒 Closed 🔒** Software Engineer Intern |
-| PlayStation | Multiple | **🔒 Closed 🔒** Software Engineering Intern | 
-| Reddit | SF, NY, Remote | **🔒 Closed 🔒** Software Engineering Intern |
-| [Johns Hopkins APL](https://careers.jhuapl.edu/jobs?keywords=software%20intern&sortBy=relevance&page=1) | Laurel, MD; Remote, US | Multiple 2023 SWE intern positions (US Citizenship required) |
-| Nelnet | Remote, US | **🔒 Closed 🔒**  Intern - Software Engineer - Java |
-| Bubble | New York, NY | **🔒 Closed 🔒** Software Engineer Intern |
-| Badger Meter | Milwaukee, WI | **🔒 Closed 🔒** Software Engineering Intern |
-| Etsy | Brooklyn, NY | **🔒 Closed 🔒** Software Engineering Intern |
 | [McKinsey & Company](https://www.mckinsey.com/careers/search-jobs?query=software%20engineer%20intern) | New York City, NY; or San Francisco, CA |[Data Engineering Intern - QuantumBlack (Only Class of 2023-2024)](https://www.mckinsey.com/careers/search-jobs/jobs/dataengineeringintern-quantumblack-universitystudents-58600), [Software Engineering Intern - GCI Analytics](https://www.mckinsey.com/careers/search-jobs/jobs/softwareengineeringintern-gcianalytics-59688) |
 | [Color](https://jobs.lever.co/color/93e1b4d8-7822-41bc-9d83-f8333cd5230f) | Remote, USA | Software Engineering Intern |
 | [Tealium](https://jobs.lever.co/tealium/01b097dc-a904-448d-8cfc-91a372e2156c) | Remote, USA | Software Engineer, Intern |
