@@ -235,7 +235,9 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Vial](https://jobs.lever.co/Vial/c416c6df-63d7-47f8-b252-bfc159c2e2db) | Remote | Software Engineer Intern |
 | [Stackshine](https://www.ycombinator.com/companies/stackshine/jobs/yAzrMfn-software-engineering-intern?utm_source=waasli) | Remote | Software Engineer Intern |
 | [Uber](https://university-uber.icims.com/jobs/search?ss=1&searchKeyword=intern&searchRelation=keyword_all) | San Francisco, CA |  [UberSTAR Product Design Program for Freshman & Sophomores](https://university-uber.icims.com/jobs/120533/uberstar-product-design-intern---summer-2023/job) |
-| [Strava](https://boards.greenhouse.io/strava/jobs/4873239) | Remote | Software Engineer Intern |
+| Smartsheet | Bellevue, WA | 🔒 Closed 🔒 Software Engineering Intern, Messaging Team |
+| Strava | Remote | 🔒 Closed 🔒 Software Engineer Intern |
+| Pinata | Remote | 🔒 Closed 🔒 Software Engineer Intern (Web3) |
 | UnitedMasters | San Francisco, CA | Engineering Internship for [API Team](https://boards.greenhouse.io/unitedmasters/jobs/6627624002) and [Web UI](https://boards.greenhouse.io/unitedmasters/jobs/6627619002) |
 | [CCC Intelligent Solutions](https://cccis.recsolu.com/jobs/ygJivv16AvTJYT8jBKr7IA) | Chicago, IL | Software Engineer Intern |
 | [Cantaloupe](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=2841c74f-b09d-4838-bd8d-66c8281ba899&ccId=19000101_000001&type=MP&lang=en_US&jobId=461590) | Atlanta, GA or Malvern, PA | Software Engineer Intern |
