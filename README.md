@@ -52,20 +52,6 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Databento](https://boards.greenhouse.io/databento/jobs/4374815?)| Remote | SWE Intern (H1B sponsorship available)
 | [Arrowstreet Capital](https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet/job/Boston/Quantitative-Researcher-Intern--Summer-2023_R700) | Boston, MA | Quantitative Researcher Intern |
 | [Sensata](https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Attleboro-Massachusetts/Software-Engineer-Intern---Summer-2023_IRC86996) | Attleboro, MA | Software Engineer Intern |
-| SPS| Minneapolis, MN | **🔒 Closed 🔒** Software Engineer Intern |
-| General Motors | Warren, MI | **🔒 Closed 🔒** 2023 Summer Intern – Software Engineering (Sponsorship **not** available.) |
-| JP Morgan | Multiple | **🔒 Closed 🔒** Software Engineer Intern (10 Weeks) (no visa sponsorship) |
-| Roblox | San Mateo, CA | **🔒 Closed 🔒** Product Manager - Intern |
-| Intuit | Mountain View, California; San Diego, California; Plano, Texas; New York, New York; Atlanta, Georgia |  **🔒 Closed 🔒** Software Engineer Intern |
-| Hudson River Trading | New York, Austin, Chicago | **🔒 Closed 🔒**  Algorithm Development, Software Engineering (C++ or Python) |
-| Sentry.io | San Francisco, Toronto, Vienna | **🔒 Closed 🔒** Software Engineer, Intern |
-| Nordstrom | Remote, Seattle | **🔒 Closed 🔒** Software Engineering Internship |
-| Bluestaq | Colorado Springs, CO | **🔒 Closed 🔒** Software Development Internship (U.S. citizen required) |
-| Johnson & Johnson | Various | **🔒 Closed 🔒** Software Development Internship (sponsorship not available) |
-| DRW | Chicago, IL; Greenwich, CT; Houston, TX; Austin, TX; New York, NY | **🔒 Closed 🔒** Quantitative Research Intern (Chicago, Masters/PhD) |
-| Salesforce | Multiple Locations in United States| **🔒 Closed 🔒** SWE Internship |
-| [Instabase](https://instabase.com/careers/) | San Francisco, Menlo Park, & New York City | **🔒 Closed 🔒** Software Engineer, Intern (Frontend/Fullstack), Software Engineer, Intern (Backend) |
-| [Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-I-Intern-United-States/1380727) | Multiple Location in United States | Software Engineer I (Intern), [Data Analyst Intern](https://jobs.cisco.com/jobs/ProjectDetail/Data-Analyst-Intern-United-States/1380904?source=Cisco+Jobs+Career+Site&tags=CDC+Keyword+Search+students-and-new-graduates), [Data Scientist Intern](https://jobs.cisco.com/jobs/ProjectDetail/Data-Scientist-Intern-United-States/1381149?source=Cisco+Jobs+Career+Site&tags=CDC+Keyword+Search+students-and-new-graduates) (No visa sponsorship) |
 | [L3Harris Technologies](https://careers.l3harris.com/job/-/-/4832/33828250528?src=SNS-10240) | Mason, OH | Software Eng Intern(require US Citizenship) |
 | [Audible](https://www.amazon.jobs/en/jobs/2125073/audible-software-development-engineer-internship) | Newark, NJ | SDE Internship |
 | [Ericsson](https://jobs.ericsson.com/job/Santa-Clara-Computer-Science-&-Data-Science-Internship-%282023%29-Cali/751881302/) | Santa Clara, CA | Software Engineering Intern, Data Science Intern |
