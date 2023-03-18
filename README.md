@@ -62,19 +62,8 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [CGI](https://cgi.njoyn.com/cgi/xweb/xweb.asp?clid=21001&page=jobdetails&jobid=J0822-2628&BRID=990720&SBDID=943) | New Jersey, New Brunswick | Software Developer Intern (Bachelors degree students only)|
 | [SpaceX](https://boards.greenhouse.io/spacex/jobs/6366187002?gh_jid=6366187002) | Multiple| 2023 Summer Intern - Software Engineer (US Citizens Only)|
 | [Cloudflare](https://boards.greenhouse.io/cloudflare/jobs/4553743?gh_jid=4553743) | Austin, TX; or Champaign, IL; or Kirkland, WA; or San Francisco, CA | Software Engineer - Intern |
-| Sony Electronics | San Diego, CA | **🔒 Closed 🔒** Software Engineering Intern |
-| 2K | Novato, CA | **🔒 Closed 🔒** Engineering Internship |
-| Lacework | Remote | **🔒 Closed 🔒** Software Engineer Intern |
-| Axon | Multiple (US & Canada) | **🔒 Closed 🔒** Software Engineering Internship @ Scottsdale, AZ; Seattle, WA; Canada-Remote; US-Remote |
 | [Emerson Automation Solutions](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions?keyword=Intern&lastSelectedFacet=AttributeChar2&mode=location&selectedFlexFieldsFacets=%22AttributeChar2%7CStudent+Internships%2FCo-ops%22) | Round Rock, TX | Software Engineering Intern, others |
-| Shure Inc. | Irvine, CA | **🔒 Closed 🔒** Software Engineering Intern |
-| Code42 | Minneapolis, MN | **🔒 Closed 🔒** Software Engineer Intern (C++, Java, C#) |
-| Avanade | Multiple | **🔒 Closed 🔒** Intern, Software Developer (No sponsorship for employment in US/Canada) |
-| Motorola Solutions | West Valley City, UT | **🔒 Closed 🔒** Software Engineer (2023 Summer Internship) |
-| Ansys | Canonsburg, PA | **🔒 Closed 🔒** Software Development Intern - Ansys Discovery Post-processing (BS or MS) |
 | [Silicon Labs](https://silabs.wd1.myworkdayjobs.com/SiliconlabsCareers?q=Summer%202023) | Austin, TX, Boston, MA | [Embedded Software Engineering Intern (Austin, TX; or Boston, MA)](https://silabs.wd1.myworkdayjobs.com/en-US/SiliconlabsCareers/job/Austin/Embedded-Software-Engineering-Intern---Summer-2023_18852?q=Summer%202023), [Applications Engineering Intern](https://silabs.wd1.myworkdayjobs.com/en-US/SiliconlabsCareers/job/Austin/Applications-Engineering-Intern---Summer-2023_18855?q=Intern) |
-| ASML | Wilton, CT; San Jose, CA; |  **🔒 Closed 🔒** Software Test Engineer, Devops Intern |
-| Zebra Technologies | Lincolnshire, IL | **🔒 Closed 🔒**  Internship - Software Engineer (No Sponsorship) |
 | [SingleStore](https://boards.greenhouse.io/singlestore/jobs/4557044) | Seattle, WA; or Raleigh, NC | Software Engineer, Managed Service Intern @ [Seattle, WA](https://boards.greenhouse.io/singlestore/jobs/4557044); [Raleigh, NC](https://boards.greenhouse.io/singlestore/jobs/4557045) |
 | [Domeyard LP](https://boards.greenhouse.io/domeyard/jobs/1079185) | Boston, MA | Software Engineer Internship (Summer, Fall, Winter, Spring available) |
 | [TradeWeb](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/requisitions/preview/300493?src=JB-10200) | Jersey City, NJ | [C++ Dev Intern](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/300492/?utm_medium=jobshare), [Java Intern](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/300493/?utm_medium=jobshare), [Java Full Stack Intern](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/300490/?utm_medium=jobshare) |
