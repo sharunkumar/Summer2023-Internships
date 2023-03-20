@@ -44,28 +44,6 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Apple](https://www.apple.com/careers/us/)                                                                       | Cupertino, CA                                  | [SWE](https://jobs.apple.com/en-us/details/200389054/software-engineering-internship?team=SDNT), [Hardware](https://jobs.apple.com/en-us/details/200389042/hardware-technology-internship?team=STDNT)                                                                                                  |
 | [D. E. Shaw & Co.](https://www.deshaw.com/careers/internships)													       | New York City, NY | [Software Development](https://www.deshaw.com/careers/software-developer-intern-new-york-4470) (Front-Office SWE), Trading, SysAdmin, etc roles also available.
 | [Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/americas/summer-analyst-program.html) | Global | Summer Analyst |
-| Grindr | Remote                               | **🔒 Closed 🔒** Rising Senior/Masters. Web.                                                                              |
-| Iomaxis | Arlington, VA | **🔒 Closed 🔒** SWE (US Citizens Only) |
-| KPMG | Louisville, KY  | **🔒 Closed 🔒** Technology Assurance Audit Intern    |                                                                                           |
-| Morgan Stanley| NYC, NY | **🔒 Closed 🔒** Technology Summer Analyst |
-| NRO | Chantilly, VA | **🔒 Closed 🔒** NRO Cadre Student Internship Program |
-| Optiver | Chicago, IL; Austin, TX                          | **🔒 Closed 🔒** Software engineer, Quantitative Trading, Hardware engineer internships (sponsorship available for most positions; exceptions may apply) |
-| Procter & Gamble | Cincinnati, OH                              |  **🔒 Closed 🔒** Information Technology, Software Engineering (sponsorship NOT available)
-| Putnam Investments | Boston, MA  |   **🔒 Closed 🔒**  Software Engineer Intern |
-| SIG | Philadelphia, PA                    | **🔒 Closed 🔒** Software Engineering, Trading|
-| Volvo | Flexible | **🔒 Closed 🔒** |
-| Voloridge Investment Management| South Florida |  **🔒 Closed 🔒** Quant Hedge Fund: Quant, SWE, & Finance roles |
-| GE Appliances | Louisville, KY  |  **🔒 Closed 🔒** IT Intern |
-| KeyBank | Plymouth, PA; or San Diego, CA  | **🔒 Closed 🔒** Key Technology, Operations & Services Internship (Enterprise Security Track) @ Plymouth, PA |
-| John Deere | Moline, IL        | **🔒 Closed 🔒** IT - Software Engineering & Cyber Security  (sponsorship NOT available)                |
-| Microsoft Neurodiversity Hiring Program	| Redmond, WA	| **🔒 Closed 🔒**	|
-| Cisco | San Francisco | **🔒 Closed 🔒** Full Stack Software Engineer Intern (No sponsorship) |
-| Bessemer Fellowship Program | Various | **🔒 Closed 🔒** Matching college students with Bessemer-backed tech companies |
-| BlackRock         | Multiple Locations in United States                                | **🔒 Closed 🔒** Select Business Area -> Technology, Business Division -> Software Engineering in the application             |
-| IMC                                                                                    | Chicago                     | **🔒 Closed 🔒** SDE Intern, Quant Research, Trading |
-| Palantir| Multiple Locations in United States | **🔒 Closed 🔒** Software Engineering Internship |
-| Tower Research Capital| New York, NY, Chicago, IL | **🔒 Closed 🔒** Quantitative Trader, Quantitative Developer | |
-| Mastercard|  Multiple locations in United States | **🔒 Closed 🔒** Software Engineer Intern, Information Security Engineer Intern |
 | [Citadel](https://www.citadel.com/careers/open-opportunities/students/internships/)| Chicago, New York | [Software Engineer Intern](https://www.citadel.com/careers/details/software-engineer-intern-us/) and [Quant Research Analyst](https://www.citadel.com/careers/details/quantitative-research-analyst-intern-us-2/)|
 | [Hewlett Packard Enterprise](https://careers.hpe.com/us/en/search-results?keywords=software%20intern) | Multiple Locations in United States | Software Developer Intern, Software Engineering Intern, AI/ML Intern, [Data Science Intern](https://careers.hpe.com/us/en/job/HPE1US1135416EXTERNALENUS/Data-Science-Intern)
 | [Oracle](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions?keyword=software+engineer+intern) | United States | (Multiple Software Engineer Interns - Application Developments/Analytics Cloud/DB and Systems/Netsuite, etc. (CPT/OPT Work Authorization available))
@@ -194,7 +172,6 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [IBM](https://careers.ibm.com/job/17897292/2023-internship-frontend-developer-san-jose-ca/?codes=IBM_CareerWebSite) | San Jose, California | 2023 Internship: Frontend Developer | 
 | [Adobe](https://careers.adobe.com/us/en/job/ADOBUSR133391EXTERNALENUS/2023-Intern-Software-Engineer?utm_source=linkedin&utm_medium=phenom-feeds&source=LinkedIn) | Multiple Locations, USA | 2023 Intern - Software Engineer | 
 | [Paramount](https://careers.paramount.com/Paramount/job/Fort-Lauderdale-Data-Engineering-Internship-FL-33309/1004567200/) | Fort Lauderdale, FL | Data Engineering Intern |
-| Peak6 | Dallas, TX | [UX Design Intern](https://careers.peak6.com/jobs/product-management/dallas-tx/user-experience-design-intern-/4918780?gh_jid=4918780#/), [Product Management Intern](https://careers.peak6.com/jobs/product-management/dallas-tx/product-management-intern/4920176?gh_jid=4920176#/) (no sponsorship available) |
 | [Amazon](https://www.amazon.jobs/en/jobs/2110678/software-development-engineer-internship-2023-us)                                                                           | Multiple Locations in United States                                | [SDE Intern](https://www.amazon.jobs/en/jobs/2260888/software-development-engineer-sde-c-intern-summer-2023-manipulation?cmpid=SPLICX0248M&ss=paid&utm_campaign=cxro&utm_content=job_posting&utm_medium=social_media&utm_source=linkedin.com), [Data Engineer Intern](https://www.amazon.jobs/en/jobs/2141830/data-engineer-internship-2023-us), [Front End Engineer Intern](https://www.amazon.jobs/en/jobs/2141835/front-end-engineer-internship-2023-us)                                                                                                   |
 
 <!-- Please leave a one line gap between this and the table -->
