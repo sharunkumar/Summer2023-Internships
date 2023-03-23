@@ -41,44 +41,8 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 
 | Name                                                                                                                                                                         | Location                             | Notes                                                                                                    |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ | -------------------------------------------------------------------------------------------------------- |
-| Akuna Capital                                                                                   | Chicago, IL; Austin, TX; Boston, MA | **🔒 Closed 🔒** Quant Trading, SWE         (sponsorship available)                                                                              |
-| Amazon Robotics | Greater Boston, MA | **🔒 Closed 🔒** Software Development Engineer |
-| Apple          | Cupertino, CA                                  | **🔒 Closed 🔒** [SWE](https://jobs.apple.com/en-us/details/200389054/software-engineering-internship?team=SDNT), [Hardware](https://jobs.apple.com/en-us/details/200389042/hardware-technology-internship?team=STDNT)                                                                                                  |
-| AQR                                  | Greenwich, CT                        | **🔒 Closed 🔒** Business Development                                                                                                         |
-| BD                                                                                    | San Diego, CA | **🔒 Closed 🔒** Data Science                                                                                     |
-| Bridgewater Associates | Westport, CT | **🔒 Closed 🔒** Investment Engineer Intern |
-| Bevootech                                                                                         | Remote                         | **🔒 Closed 🔒** Business Development Intern, Software Development Intern, Project Management Intern |
-| Bristol Myers Squibb                                                                                        | Tampa, FL                         | **🔒 Closed 🔒**  Data Science
-| Capital One   | Multiple Locations in United States | **🔒 Closed 🔒** Software Engineering (no visa sponsorship; instant rejection if you declare sponsorship need in the application), Machine Learning, Cyber Security 							|
-| Capstone Investment Advisors                                                             | NYC, NY                              | **🔒 Closed 🔒** SWE
-| [Citi](https://jobs.citi.com/programfinder)                                                           | New York, New York                   | **🔒 Closed 🔒** Quantitative Analysis. Unrestricted work authorization required (no visa sponsorship)                                                                                    |
-| Credit Suisse | Raleigh, NC; NYC, NY                 |  **🔒 Closed 🔒** Search for `2023 Americas Technology Summer Analyst`                                                     |
 | [D. E. Shaw & Co.](https://www.deshaw.com/careers/internships)													       | New York City, NY | [Software Development](https://www.deshaw.com/careers/software-developer-intern-new-york-4470) (Front-Office SWE), Trading, SysAdmin, etc roles also available.
-| Five Rings | NYC, NY                              |      **🔒 Closed 🔒** Software Developer Intern, Quantitative Trading Intern                                                                                                      |
-| Futureforce Tech Summit                                 | San Francisco, CA                              |  **🔒 Closed 🔒**                                                                                       |
 | [Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/americas/summer-analyst-program.html) | Global | Summer 2024 Analyst |
-| Grindr | Remote                               | **🔒 Closed 🔒** Rising Senior/Masters. Web.                                                                              |
-| Iomaxis | Arlington, VA | **🔒 Closed 🔒** SWE (US Citizens Only) |
-| KPMG | Louisville, KY  | **🔒 Closed 🔒** Technology Assurance Audit Intern    |                                                                                           |
-| Morgan Stanley| NYC, NY | **🔒 Closed 🔒** Technology Summer Analyst |
-| NRO | Chantilly, VA | **🔒 Closed 🔒** NRO Cadre Student Internship Program |
-| Optiver | Chicago, IL; Austin, TX                          | **🔒 Closed 🔒** Software engineer, Quantitative Trading, Hardware engineer internships (sponsorship available for most positions; exceptions may apply) |
-| Procter & Gamble | Cincinnati, OH                              |  **🔒 Closed 🔒** Information Technology, Software Engineering (sponsorship NOT available)
-| Putnam Investments | Boston, MA  |   **🔒 Closed 🔒**  Software Engineer Intern |
-| SIG | Philadelphia, PA                    | **🔒 Closed 🔒** Software Engineering, Trading|
-| Volvo | Flexible | **🔒 Closed 🔒** |
-| Voloridge Investment Management| South Florida |  **🔒 Closed 🔒** Quant Hedge Fund: Quant, SWE, & Finance roles |
-| GE Appliances | Louisville, KY  |  **🔒 Closed 🔒** IT Intern |
-| KeyBank | Plymouth, PA; or San Diego, CA  | **🔒 Closed 🔒** Key Technology, Operations & Services Internship (Enterprise Security Track) @ Plymouth, PA |
-| John Deere | Moline, IL        | **🔒 Closed 🔒** IT - Software Engineering & Cyber Security  (sponsorship NOT available)                |
-| Microsoft Neurodiversity Hiring Program	| Redmond, WA	| **🔒 Closed 🔒**	|
-| Cisco | San Francisco | **🔒 Closed 🔒** Full Stack Software Engineer Intern (No sponsorship) |
-| Bessemer Fellowship Program | Various | **🔒 Closed 🔒** Matching college students with Bessemer-backed tech companies |
-| BlackRock         | Multiple Locations in United States                                | **🔒 Closed 🔒** Select Business Area -> Technology, Business Division -> Software Engineering in the application             |
-| IMC                                                                                    | Chicago                     | **🔒 Closed 🔒** SDE Intern, Quant Research, Trading |
-| Palantir| Multiple Locations in United States | **🔒 Closed 🔒** Software Engineering Internship |
-| Tower Research Capital| New York, NY, Chicago, IL | **🔒 Closed 🔒** Quantitative Trader, Quantitative Developer | |
-| Mastercard|  Multiple locations in United States | **🔒 Closed 🔒** Software Engineer Intern, Information Security Engineer Intern |
 | [Citadel](https://www.citadel.com/careers/open-opportunities/students/internships/)| Chicago, New York | [Software Engineer Intern](https://www.citadel.com/careers/details/software-engineer-intern-us/) and [Quant Research Analyst](https://www.citadel.com/careers/details/quantitative-research-analyst-intern-us-2/)|
 | [Hewlett Packard Enterprise](https://careers.hpe.com/us/en/search-results?keywords=software%20intern) | Multiple Locations in United States | Software Developer Intern, Software Engineering Intern, AI/ML Intern, [Data Science Intern](https://careers.hpe.com/us/en/job/HPE1US1135416EXTERNALENUS/Data-Science-Intern)
 | [Oracle](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions?keyword=software+engineer+intern) | United States | (Multiple Software Engineer Interns - Application Developments/Analytics Cloud/DB and Systems/Netsuite, etc. (CPT/OPT Work Authorization available))
