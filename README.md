@@ -150,7 +150,9 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Anyscale](https://jobs.lever.co/anyscale/78a003a6-221a-4414-bf95-7c734cbfc4d9) | San Francisco, CA | Software Engineer (2023 Intern) |
 | [Lyft](https://www.lyft.com/careers/early-talent?search=intern) | Multiple Locations in the US | Actuarial intern, Data Science Intern, [Product Design Intern](https://app.careerpuck.com/job-board/lyft/job/6584563002?gh_jid=6584563002) |
 | [Generate Biomedicines](https://generatebiomedicines.com/open-positions?gh_jid=4048283006) | Somerville, MA (On-site) | Machine Learning Intern |
-| [Urban Science](https://careers-urbanscience.icims.com/jobs/4785/software-engineering-intern---summer-2023/job?mobile=false&width=1176&height=800&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | Detroit, MI | Software Engineering Intern |
+| Smith+Nephew | Pittsburgh, PA | 🔒 Closed 🔒 Robotics Software Engineering Intern |
+| [Urban Science](https://careers-urbanscience.icims.com/jobs/search?ss=1&searchKeyword=software+intern) | Detroit, MI | [Software Engineering Intern](https://careers-urbanscience.icims.com/jobs/4817/software-engineering-intern---summer-2023/job), [Data Engineering Intern](https://careers-urbanscience.icims.com/jobs/4766/data-engineering-intern---summer-2023/job)|
+| Squarespace | Chicago, IL | 🔒 Closed 🔒 Tock Software Engineer Intern |
 | [Chubb](https://careers.chubb.com/global/en/job/CIHIGLOBAL351957EXTERNALENGLOBAL/2023-Technology-Associate-Intern-Jersey-City) | Jersey City, NJ | Technology Associate Intern |
 | [RXO](https://jobs.rxo.com/job/Chicago-Software-Engineer-Intern-IL-60601/994552700) | Chicago, IL | Software Engineer Intern |
 | [Airbyte](https://boards.greenhouse.io/airbyte/jobs/4773520004) | Hybrid in SF | Backend Software Engineering Intern |
