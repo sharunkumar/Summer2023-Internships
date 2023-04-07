@@ -159,19 +159,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Agot AI | Pittsburgh, PA | [Software Engineering Intern](https://jobs.lever.co/agotai/c7d7246a-8056-4878-887e-47eaf2a30ba6), [Infrastructure Intern](https://jobs.lever.co/agotai/6a069dcb-3030-4525-8eeb-2a60f263d0b0), [Deep Learning Infrastructure Intern](https://jobs.lever.co/agotai/2b191d37-36b8-4251-b1a6-90d49f4b014a), [Computer Vision Engineering Intern](https://jobs.lever.co/agotai/aebe6b44-9b0e-4062-90ad-2829ae998aec) |
 | [Brightly](https://recruiting.paylocity.com/Recruiting/Jobs/Details/1554540) | Remote | Site Reliability Engineer Intern |
 | [Two Sigma](https://careers.twosigma.com/careers/JobDetail?jobId=11002) | New York, NY | Software Engineering Internship |
-| MetroStar | Remote | 🔒 Closed 🔒 Summer 2023 Technology Internship |
-| Alight | Remote | 🔒 Closed 🔒 Cloud Engineer Intern (No Sponsorship) | 
-| [Criteo](https://careers.criteo.com/job/r16250/Software-Engineer-Intern) | Ann Arbor, Michigan | Software Engineer Intern (No Sponsorship) | 
-| Apixio | San Mateo, CA | 🔒 Closed 🔒 Software Engineer Intern |
-| Aware | Columbus, OH | 🔒 Closed 🔒 Software Engineering Intern |
-| Brightree | Remote | 🔒 Closed 🔒 Software Engineer Intern (no sponsorship) |
-| Bio-Rad |  Pleasanton, CA | 🔒 Closed 🔒 SW Intern |
-| IBM| San Jose, California | 🔒 Closed 🔒 2023 Internship: Frontend Developer | 
-| Adobe | Multiple Locations, USA | 🔒 Closed 🔒 2023 Intern - Software Engineer | 
-| Paramount | Fort Lauderdale, FL | 🔒 Closed 🔒 Data Engineering Intern |
-| Peak6 | Dallas, TX | [UX Design Intern](https://careers.peak6.com/jobs/product-management/dallas-tx/user-experience-design-intern-/4918780?gh_jid=4918780#/), [Product Management Intern](https://careers.peak6.com/jobs/product-management/dallas-tx/product-management-intern/4920176?gh_jid=4920176#/) (no sponsorship available) |
 | [Amazon](https://www.amazon.jobs/en/jobs/2110678/software-development-engineer-internship-2023-us) | Multiple Locations in United States | Software Development Engineer Internship - 2023 (US) |
-| [Cognito Forms](https://www.cognitoforms.com/careers) | Columbia, SC | [Software Engineer Intern](https://www.cognitoforms.com/company/8/careers/software-engineer-intern), [UX/UI Designer Intern](https://www.cognitoforms.com/company/28/careers/uxui-designer-intern) (No Sponsorship) |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
