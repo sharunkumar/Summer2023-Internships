@@ -62,21 +62,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Cloudflare](https://boards.greenhouse.io/cloudflare/jobs/4553743?gh_jid=4553743) | Austin, TX; or Champaign, IL; or Kirkland, WA; or San Francisco, CA | Software Engineer - Intern |
 | [Emerson Automation Solutions](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions?keyword=Intern&lastSelectedFacet=AttributeChar2&mode=location&selectedFlexFieldsFacets=%22AttributeChar2%7CStudent+Internships%2FCo-ops%22) | Round Rock, TX | Software Engineering Intern, others |
 | [Silicon Labs](https://silabs.wd1.myworkdayjobs.com/SiliconlabsCareers?q=Summer%202023) | Austin, TX, Boston, MA | [Embedded Software Engineering Intern (Austin, TX; or Boston, MA)](https://silabs.wd1.myworkdayjobs.com/en-US/SiliconlabsCareers/job/Austin/Embedded-Software-Engineering-Intern---Summer-2023_18852?q=Summer%202023), [Applications Engineering Intern](https://silabs.wd1.myworkdayjobs.com/en-US/SiliconlabsCareers/job/Austin/Applications-Engineering-Intern---Summer-2023_18855?q=Intern) |
-| ASML | Wilton, CT; San Jose, CA; |  **🔒 Closed 🔒** Software Test Engineer, Devops Intern |
-| Zebra Technologies | Lincolnshire, IL | **🔒 Closed 🔒**  Internship - Software Engineer (No Sponsorship) |
-| SingleStore | Seattle, WA; or Raleigh, NC | **🔒 Closed 🔒** Software Engineer, Managed Service Intern @ [Seattle, WA]; [Raleigh, NC] |
 | [Domeyard LP](https://boards.greenhouse.io/domeyard/jobs/1079185) | Boston, MA | Software Engineer Internship (Summer, Fall, Winter, Spring available) |
-| [Yext] | Washington, D.C. | **🔒 Closed 🔒** 2023 Software Engineer Summer Intern |
-| Compass Minerals | Remote, USA; or Overland Park, KS | **🔒 Closed 🔒** Software Engineer Intern |
-| Anduril | Costa Mesa, CA | **🔒 Closed 🔒** Software Engineering, Robotics Software Engineering (US Person Status Required) |
-| Wolverine | Chicago, IL | **🔒 Closed 🔒** Software Engineer Intern (No Sponsorship) |
-| [Pure Storage] | Mountain View, CA | **🔒 Closed 🔒** Software Engineer Intern |
-| DeepMind | Mountain View, CA | **🔒 Closed 🔒** Research Engineer Intern |
-| Symbiotic | Wilmington, MA  | **🔒 Closed 🔒** Software Engineer Intern |
-| WillowTree | Charlottesville, VA; Columbus, OH; Durham, NC | **🔒 Closed 🔒** Software Engineering Intern (no visa sponsorship) | 
-| Grainger| Chicago, IL (Hybrid) | **🔒 Closed 🔒** Software Engineering Intern | 
-| Confluent | Remote | **🔒 Closed 🔒** Quality Engineering Intern | 
-| TradeWeb | Jersey City, NJ | **🔒 Closed 🔒** C++ Dev Intern, Java Intern, Java Full Stack Intern |
 | [Cruise](https://getcruise.com/careers/jobs/?search=intern) | Multiple | Multiple, mostly ML/SWE |
 | [Sierra Nevada Corporation](https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Englewood-CO/Software-Engineer-Intern--Summer-2023-_R0018868) | Englewood, CO; or Huntsville, AL; or Hagerstown, MD | Software Engineer Intern |
 | Booz Allen | Charleston, South Carolina or Annapolis Junction, Maryland | Software Engineer in [SC](https://careers.boozallen.com/jobs/JobDetail/Charleston-Software-Developer-Intern-R0145621/62161?source=JB-16500), [MD](https://careers.boozallen.com/jobs/JobDetail/Annapolis-Junction-University-Software-Engineer-Intern-R0151116/65593?source=JB-16500) |
@@ -92,27 +78,6 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | DISCO | New York City, NY; or Austin, TX | Software Engineer Intern @ [New York City, NY](https://www.csdisco.com/careers/software-engineer-intern-c), [Austin, TX](https://www.csdisco.com/careers/software-engineer-intern-6) required to provide proof of eligibility to work in the United States without restrictions|
 | [Patreon](https://boards.greenhouse.io/patreon/jobs/4606412) | New York City, NY or San Francisco, CA | Software Engineering Intern (Hybrid) |
 | Robinhood | Remote, USA | [Android Engineer Intern](https://app.ripplematch.com/job/robinhood/e93c5366?from_page=company_branded_page&), [iOS Engineer Intern](https://app.ripplematch.com/job/robinhood/55eaa246?from_page=company_branded_page&) |
-| Lattice | Remote, USA | **🔒 Closed 🔒** Software Engineer, Intern (Summer '23) |
-| Bain & Company | Various | **🔒 Closed 🔒** Intern, Global Engineering |
-| Addepar | Remote, USA | **🔒 Closed 🔒** Software Engineer Intern, Frontend - Software Engineer Intern, Backend - Summer 2023 |
-| Ambi Robotics | Berkeley, CA | **🔒 Closed 🔒** ML SWE Intern (BS), Robotics SWE Intern (BS), Simulation SWE Intern (BS), Product Management Intern (BS), ML SWE Intern (MS), Robotics SWE Intern (MS) | 
-| Tandem Diabetes Care | San Diego, CA | **🔒 Closed 🔒** Software Engineering Intern |
-| Aurora | Mountain View, CA | **🔒 Closed 🔒** Software Engineering Intern - Back-End (**No Sponsorship**): C++, Python |
-| Cargill | Hopkins, MN; or Paul-Bloomington, MN | **🔒 Closed 🔒** Software Engineering Intern 2023 (No Sponsorship) |
-| Ibotta | Remote, USA | **🔒 Closed 🔒** Software Engineer Intern |
-| Norfolk Southern Corp. | Atlanta, GA | **🔒 Closed 🔒** Fullstack Application Development Intern 2023 |
-| Lenovo | Morrisville, NC  | **🔒 Closed 🔒** Frontend Development Intern, QA Automation Intern|
-| Zendesk | Remote, USA | **🔒 Closed 🔒** 2023 Summer Intern - Software Engineering |
-| Intapp | Charlotte, NC | **🔒 Closed 🔒** Software Engineer Intern |
-| Entergy | New Orleans, LA | **🔒 Closed 🔒** Intern - Software Engineer (No Visa Sponsorship) |
-| Prometric | Baltimore, MD | **🔒 Closed 🔒** 2023 Software Development Summer Intern |
-| Wayfair | Boston, MA | **🔒 Closed 🔒** [Software Engineering Intern], **🔒 Closed 🔒** [Data Science & Machine Learning Intern] |
-| [Moderna](https://modernatx.eightfold.ai/careers/?query=Software%20Engineer%20Intern&seniority=Intern) | Multiple Locations (MA) | 2023 Co-op and/or Intern, Software Engineer (No sponsorship) |
-| Nintendo | Redmond, WA | **🔒 Closed 🔒** Intern - IT Software Engineer,  Intern - IT Network, Intern - IT SaaS Hosting,  Intern - IT Platform Engineer (US Work Authorization Required) |
-| Veritas | Roseville, MN; or Remote | **🔒 Closed 🔒** Software Engineer Intern- Summer 2023 |
-| BlueHalo | Albuquerque, NM | **🔒 Closed 🔒** Software Engineering Intern (US Citizenship Required) |
-| Starburst | Remote, USA | **🔒 Closed 🔒** Software Engineer - Intern |
-| Elevance Health | Norfolk, VA | **🔒 Closed 🔒** Engineering Intern Undergraduate Level – Summer 2023 (No Sponsorship) |
 | [Certik](https://jobs.lever.co/certik/d4bdf6fa-f885-476a-9b4f-538b874e2d36) | Multiple Locations, USA | Internship Spring/Summer 2023 - Software Engineer, Tools |
 | [MediaTek](https://careers.mediatek.com/eREC/JobSearch/JobDetail/MUS120210917004?langKey=en-US) | San Jose, CA | AI Architecture and Algorithm Intern |
 | [Lexmark](https://www.lexmark.com/en_us/careers/job-description.143572.html) | Boulder, CO | Software Engineer Student - Summer 2023 |
