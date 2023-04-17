@@ -82,6 +82,26 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [MediaTek](https://careers.mediatek.com/eREC/JobSearch/JobDetail/MUS120210917004?langKey=en-US) | San Jose, CA | AI Architecture and Algorithm Intern |
 | [Lexmark](https://www.lexmark.com/en_us/careers/job-description.143572.html) | Boulder, CO | Software Engineer Student - Summer 2023 |
 | [Yahoo](https://ouryahoo.wd5.myworkdayjobs.com/en-US/careers?q=software&locations=429c19fc6ff810015940b81d49a00000&jobFamilyGroup=91f14896cbbe0142bf25083fc74637b2) | Remote (US) | Software Engineering Intern |
+| Dayton Freight Lines, Inc | Dayton, OH | **🔒 Closed 🔒** Software Developer Intern |
+| Gusto | SF, Denver, NYC | **🔒 Closed 🔒** Software Engineering Intern |
+| Roche | Santa Clara, CA | **🔒 Closed 🔒** 2023 Summer Intern - Sequencing Software Development |
+| Ampere Computing | Santa Clara, CA | **🔒 Closed 🔒** Solutions Engineering Intern | 
+| Leidos | Charlottesville, VA | **🔒 Closed 🔒** Software Engineer Intern (U.S. Citizenship required) | 
+| REI| Seattle, WA | **🔒 Closed 🔒** Software Engineer Intern -Mobile |
+| NimbleRx | Remote, US | **🔒 Closed 🔒** Software Engineer - (Intern) | 
+| WW | Remote, US; New York, US | **🔒 Closed 🔒** 2023 Software Engineering - Marketing Internship | 
+| Simplify | SF, Remote, US | **🔒 Closed 🔒** Software Engineer Intern |
+| PlayStation | Multiple | **🔒 Closed 🔒** Software Engineering Intern | 
+| Reddit | SF, NY, Remote | **🔒 Closed 🔒** Software Engineering Intern |
+| [Johns Hopkins APL](https://careers.jhuapl.edu/jobs?keywords=software%20intern&sortBy=relevance&page=1) | Laurel, MD; Remote, US | 2023 Electrical/CE Internship (US Citizenship required) |
+| Nelnet | Remote, US | **🔒 Closed 🔒**  Intern - Software Engineer - Java |
+| Bubble | New York, NY | **🔒 Closed 🔒** Software Engineer Intern |
+| Badger Meter | Milwaukee, WI | **🔒 Closed 🔒** Software Engineering Intern |
+| Etsy | Brooklyn, NY | **🔒 Closed 🔒** Software Engineering Intern |
+| McKinsey & Company | New York City, NY; or San Francisco, CA | **🔒 Closed 🔒**  Data Engineering Intern - QuantumBlack (Only Class of 2023-2024), Software Engineering Intern - GCI Analytics |
+| Color | Remote, USA | **🔒 Closed 🔒** Software Engineering Intern |
+| Tealium | Remote, USA | **🔒 Closed 🔒** Software Engineer, Intern |
+| Pandora | Multiple Locations |  **🔒 Closed 🔒** Summer Intern, Client API |
 | [Samsung](https://boards.greenhouse.io/samsungresearchamericainternship/) | Mountain View, CA | Multiple Research, Software Engineering, and PM positions |
 | [Schlumberger](https://careers.slb.com/fojoblist/it-intern) | Houston, TX or Menlo Park, CA | Information Technology Intern |
 | [Lucid Motors](https://jobs.lever.co/lucidmotors/) | Multiple locations | [Cloud microservices intern](https://jobs.lever.co/lucidmotors/6436cc04-dff3-45a6-805e-615feb4865bc), [ADAS perception algortihm](https://jobs.lever.co/lucidmotors/b292a787-6419-465f-8ecf-d4f00f69e876), [Android Applications engineer](https://jobs.lever.co/lucidmotors/b23d42ec-5cf6-46bc-aff0-6c0f705fad5a) (more on website)
