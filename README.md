@@ -101,6 +101,8 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Brightly](https://recruiting.paylocity.com/Recruiting/Jobs/Details/1554540) | Remote | Site Reliability Engineer Intern |
 | [Amazon](https://www.amazon.jobs/en/jobs/2110678/software-development-engineer-internship-2023-us) | Multiple Locations in United States | Software Development Engineer Internship - 2023 (US) |
 | [White Oak Security](https://www.whiteoaksecurity.com/penetration-testing-internship/) | Fully Remote | Penetration Testing Intern (Cybersecurity) |
+| [SAIC](https://jobs.saic.com/search/student/jobs) | El Segundo, CA | [Cybersecurity](https://jobs.saic.com/jobs/12554012-cyber-security-intern), Technical- & Game Theory-Related Internships (U.S. Citizenship Required) |
+| [Malwarebytes](https://www.malwarebytes.com/jobs?p=job/oql3mfwU&gh_src=d93654841&nl=1) | Remote | Software Engineering Intern |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
