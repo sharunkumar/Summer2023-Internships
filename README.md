@@ -102,6 +102,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Amazon](https://www.amazon.jobs/en/jobs/2110678/software-development-engineer-internship-2023-us) | Multiple Locations in United States | Software Development Engineer Internship - 2023 (US) |
 | [White Oak Security](https://www.whiteoaksecurity.com/penetration-testing-internship/) | Fully Remote | Penetration Testing Intern (Cybersecurity) |
 | [Malwarebytes](https://www.malwarebytes.com/jobs?p=job/oql3mfwU&gh_src=d93654841&nl=1) | Remote | Software Engineering Intern |
+| [Ryder](https://ryder.wd5.myworkdayjobs.com/en-US/RyderCareers/job/Intern---Application-Developer_R83987) | Miami, FL | Application Developer Intern |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
