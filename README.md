@@ -41,27 +41,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Audible](https://www.amazon.jobs/en/jobs/2125073/audible-software-development-engineer-internship) | Newark, NJ | SDE Internship |
 | [Viasat](https://careers.viasat.com/careers/FolderDetail?folderId=11400) | Multiple | Software Engineer Intern |
 | [NetApp](https://netapp.eightfold.ai/careers?seniority=Intern&pid=12955970&domain=netapp.com&triggerGoButton=false) | Multiple (USA) | Software Engineering Intern |
-| Benchling | San Francisco, CA | **🔒 Closed 🔒** Software Engineer Intern |
-| Scale AI | San Francisco, CA | **🔒 Closed 🔒** Software Engineering Intern |
-| PathAI | Boston, MA | **🔒 Closed 🔒** Software Engineer Intern |
-| Garda Capital Partners | Wayzata, MN | **🔒 Closed 🔒** .Net Software Engineer Intern |
-| Epic Games | Multiple Locations | **🔒 Closed 🔒** Multiple Intern Positions |
 | [Mathworks](https://www.mathworks.com/company/jobs/opportunities/25610-multiple-openings-engineering-development-group-internship?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Natick, MA | Fall 2023 Internship |
-| GoDaddy | Multiple Locations, Remote | **🔒 Closed 🔒** Multiple Intern Position |
-| Ridgeline | Incline Village, NV | **🔒 Closed 🔒** Software Engineer Intern (No visa sponsorships) |
-| Exact Sciences | Phoenix, AZ | **🔒 Closed 🔒** Software Engineer Intern |
-| Keysight Technologies | Santa Rosa, CA | **🔒 Closed 🔒** Various Positions |
-| Insitro |SF, CA | **🔒 Closed 🔒** Software Engineering Intern|
-| State Farm | Multiple Locations | **🔒 Closed 🔒** Software Engineering Intern (No sponsorship) |
-| BNY Mellon | New York, New Jersey, Pittsburgh | **🔒 Closed 🔒** 2023 START Technology Intern Program – Developer <br> 2023 START Technology Intern Program – Data Science(No sponsorship) | 
-| Applied Intuition| Mountain View, CA |  **🔒 Closed 🔒** Software Engineer |
-| Workiva | Multiple Locations in the US | **🔒 Closed 🔒** Software Engineer Intern (No Sponsorship)|
-| Gallup | Omaha, NE |**🔒 Closed 🔒** Technical Project Manager, Cybersecurity Analyst, Data Science, Quality Assurance, Software Developer|
-| Dell| Round Rock, Texas or Hopkinton, Massachusetts | **🔒 Closed 🔒** Software Engineer Intern |
-| Neuralink | Fremont, CA | **🔒 Closed 🔒** Software Engineering Intern |
-| Rivian | Irvine, CA + Remote | **🔒 Closed 🔒** Product Development Engineering Interns, Software Engineer Intern |
-| Zillow | Remote | **🔒 Closed 🔒** Software Development Engineer Intern |
-| Taboola | LA, CA | **🔒 Closed 🔒** Frontend Engineer Intern |
 | [Arrowstreet Capital](https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet?q=intern) | Boston, MA | Quantitative Developer Intern, Quantitative Researcher Intern |
 | [SpaceX](https://boards.greenhouse.io/spacex/jobs/6366187002?gh_jid=6366187002) | Multiple| 2023 Summer Intern - Software Engineer (US Citizens Only)|
 | [Cloudflare](https://boards.greenhouse.io/cloudflare/jobs/4553743?gh_jid=4553743) | Austin, TX; or Champaign, IL; or Kirkland, WA; or San Francisco, CA | Software Engineer - Intern |
