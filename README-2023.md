@@ -2,7 +2,6 @@
 > **Note**:
 > This README file is for **2023 internships only**. For 2024 internships, please [click here](https://github.com/sharunkumar/Summer2023-Internships/blob/dev/README.md).
 
-[⬇️ Jump to bottom ⬇️](https://github.com/pittcsc/Summer2023-Internships#we-love-our-contributors-%EF%B8%8F%EF%B8%8F)
 <!-- Please leave a one line gap between this and the table -->
 
 | Name | Location | Notes |
@@ -34,11 +33,3 @@
 | [Sport Logiq](https://sportlogiq.bamboohr.com/careers/78?source=aWQ9NA%3D%3D) | Canada (remote) | Backend Developer Intern (Must be a student at a Canadian university) |
 
 <!-- Please leave a one line gap between this and the table -->
-[⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
-
-## We love our contributors ❤️❤️
-Make a [pull request](https://github.com/susam/gitpr#create-pull-request) to help contribute.
-<a href="https://github.com/pittcsc/Summer2023-Internships/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=pittcsc/Summer2023-Internships&columns=24&max=480" />
-</a>
-*Made with [contrib.rocks](https://contrib.rocks).*

@@ -2,7 +2,6 @@
 > **Note**:
 > This README file is for **2024 internships only**. For 2023 internships, please [click here](https://github.com/sharunkumar/Summer2023-Internships/blob/dev/README-2023.md).
 
-[⬇️ Jump to bottom ⬇️](https://github.com/pittcsc/Summer2023-Internships#we-love-our-contributors-%EF%B8%8F%EF%B8%8F)
 <!-- Please leave a one line gap between this and the table -->
 
 | Name | Location | Notes |
@@ -26,11 +25,3 @@
 | [Bank of America](https://bankcampuscareers.tal.net/vx/lang-en-GB/mobile-0/brand-4/xf-91c0e92d74a1/candidate/so/pm/1/pl/1/opp/10165-Global-Technology-Summer-Analyst-Program-2024/en-GB) | Multiple US Locations | Global Technology Summer Analyst Program - 2024 | 
 
 <!-- Please leave a one line gap between this and the table -->
-[⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
-
-## We love our contributors ❤️❤️
-Make a [pull request](https://github.com/susam/gitpr#create-pull-request) to help contribute.
-<a href="https://github.com/pittcsc/Summer2023-Internships/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=pittcsc/Summer2023-Internships&columns=24&max=480" />
-</a>
-*Made with [contrib.rocks](https://contrib.rocks).*
