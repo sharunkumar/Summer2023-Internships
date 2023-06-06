@@ -60,6 +60,10 @@ jobs:
       run: |
         sed -i '/And we'\''re back!/,/The List/d' README.md
         sed -i '/And we'\''re back!/,/The List/d' README-2023.md
+        sed -i '/Back to Top/,/Made with/d' README.md
+        sed -i '/Back to Top/,/Made with/d' README-2023.md
+        sed -i '/Jump to bottom/Id' README.md
+        sed -i '/Jump to bottom/Id' README-2023.md
 
     - name: Commit
       run: |
