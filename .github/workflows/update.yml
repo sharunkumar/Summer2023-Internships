@@ -23,14 +23,11 @@ jobs:
         git config --global user.email "sharunksplus@gmail.com"
         git config --global user.name "Sharun"
 
-    - name: Add upstream
-      run: git remote add upstream https://github.com/pittcsc/Summer2024-Internships.git
-
-    - name: Fetch upstream
-      run: git fetch upstream
-
-    - name: Merge upstream
-      run: git merge --log upstream/dev --strategy=recursive --strategy-option=theirs
+    - name: Upstream Setup & Merge
+      run: |
+        git remote add upstream https://github.com/pittcsc/Summer2024-Internships.git
+        git fetch upstream
+        git merge --log upstream/dev --strategy=recursive --strategy-option=theirs
 
     - name: Update README.md
       run: |
