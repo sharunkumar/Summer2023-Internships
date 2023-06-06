@@ -1,6 +1,6 @@
 # Summer 2023 Tech Internships by Pitt CSC and Simplify
 > **Note**:
-> This README file is for **2023 internships only**. For 2024 internships, please [click here](https://github.com/pittcsc/Summer2023-Internships/blob/dev/README-2024.md).
+> This README file is for **2023 internships only**. For 2024 internships, please [click here](https://github.com/sharunkumar/Summer2023-Internships/blob/dev/README.md).
 
 <!-- Please leave a one line gap between this and the table -->
 
