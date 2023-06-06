@@ -56,6 +56,19 @@ jobs:
           echo "No changes to commit"
         fi
         
+    - name: Fix Links
+      run: |
+        sed -i 's|pittcsc/Summer2023-Internships/blob/dev/README|sharunkumar/Summer2023-Internships/blob/dev/README|g' README.md
+        sed -i 's|pittcsc/Summer2023-Internships/blob/dev/README|sharunkumar/Summer2023-Internships/blob/dev/README|g' README-2023.md
+
+    - name: Commit
+      run: |
+        if [[ `git status --porcelain` ]]; then
+          git commit -am "fixed links"
+        else
+          echo "No changes to commit"
+        fi
+        
     - name: Push
       run: git push
 
