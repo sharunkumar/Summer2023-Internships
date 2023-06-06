@@ -24,7 +24,7 @@ jobs:
         git config --global user.name "Sharun"
 
     - name: Add upstream
-      run: git remote add upstream https://github.com/pittcsc/Summer2023-Internships.git
+      run: git remote add upstream https://github.com/pittcsc/Summer2024-Internships.git
 
     - name: Fetch upstream
       run: git fetch upstream
