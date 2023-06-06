@@ -60,6 +60,7 @@ jobs:
       run: |
         sed -i 's|pittcsc/Summer2023-Internships/blob/dev/README|sharunkumar/Summer2023-Internships/blob/dev/README|g' README.md
         sed -i 's|pittcsc/Summer2023-Internships/blob/dev/README|sharunkumar/Summer2023-Internships/blob/dev/README|g' README-2023.md
+        sed -i 's|README-2024.md|README.md|g' README-2023.md
 
     - name: Commit
       run: |
