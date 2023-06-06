@@ -56,6 +56,19 @@ jobs:
           echo "No changes to commit"
         fi
         
+    - name: Remove Fluff
+      run: |
+        sed -i '/And we'\''re back!/,/The List/d' README.md
+        sed -i '/And we'\''re back!/,/The List/d' README-2023.md
+
+    - name: Commit
+      run: |
+        if [[ `git status --porcelain` ]]; then
+          git commit -am "remove fluff"
+        else
+          echo "No changes to commit"
+        fi
+        
     - name: Fix Links
       run: |
         sed -i 's|pittcsc/Summer2023-Internships/blob/dev/README|sharunkumar/Summer2023-Internships/blob/dev/README|g' README.md
