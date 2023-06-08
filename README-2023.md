@@ -31,9 +31,6 @@
 | Vimbly | New York | [Platform Developer Internship](https://www.vimblygroup.com/careers?jobid=398), [Front End Developer Internship](https://www.vimblygroup.com/careers?jobid=399) |
 | Brightly | Remote | Site Reliability Engineer Intern |
 | [Sport Logiq](https://sportlogiq.bamboohr.com/careers/78?source=aWQ9NA%3D%3D) | Canada (remote) | Backend Developer Intern (Must be a student at a Canadian university) |
-| Clio | Canada (remote) | **🔒 Closed 🔒** Software Developer Co-op |
-| Henkel | Rocky Hill, CT | **🔒 Closed 🔒** R&D Intern - Summer 2023 |
-| Tesla | Palo Alto, CA | [Vehicle Software Validation Internship](https://www.tesla.com/careers/search/job/vehicle-software-validation-internship-summer-2023-153340), **🔒 Closed 🔒** Software Engineering Internship |
 | [Logistics Management Institute](https://careers-lmi.icims.com/jobs/9903/job) | Colorado Springs, CO | Space Systems Software Development Intern (Summer 2023) |
 
 <!-- Please leave a one line gap between this and the table -->
