@@ -11,7 +11,6 @@
 | [Bridgewater Associates](https://boards.greenhouse.io/bridgewater89/jobs/6570837002) | Westport, CT | Investment Engineer Intern |
 | [BlackRock](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-232eb66ac89a/candidate/so/pm/1/pl/1/opp/7894-Summer-Internship-Program-Americas/en-GB) | Americas | Summer 2024 Internship Program |
 | [Ansys](https://careers.ansys.com/job/Vancouver-Spring-2024-Electronics-Intern-Software-Development-and-Testing-(BSMS)-Brit-V6E2M6/1026739100) | Vancouver, BC, Canada <br/> Montreal, QC, Canada <br/> Waterloo, ON, Canada | Software Development and Testing (Spring 2024) |
-| [Walmart](https://careers.walmart.com/us/jobs/WD1391200-2024-summer-intern-software-engineer-ii-bentonville-ar) | Bentonville, AR | 2024 Summer Intern: Software Engineer II (No sponsorship available) (Must be enrolled in a Bachelor’s degree program currently) |
 | [AQR Capital Management, LLC](https://careers.aqr.com/jobs/university-open-positions/greenwich-ct/2024-summer-internship-express-interest/4478927) | Greenwich, CT | 2024 Summer Internship-Express Interest |
 | Apple | Multiple US Locations | [Software Engineering Internships (Express Interest)](https://jobs.apple.com/en-us/details/200480063/software-engineering-internships) <br/> [ML/AI Internships (Express Interest)](https://jobs.apple.com/en-us/details/200480066/machine-learning-ai-internships) <br/> [Engineering PM Internships (Express Interest)](https://jobs.apple.com/en-us/details/200480064/engineering-program-management-internships) |
 | [Neuralink](https://boards.greenhouse.io/neuralink) | Fremont, CA <br/> Austin, TX | Software Engineer Intern at [Fremont, CA](https://boards.greenhouse.io/neuralink/jobs/5285389003) and [Austin, TX](https://boards.greenhouse.io/neuralink/jobs/5552197003) |
@@ -22,7 +21,5 @@
 | Google | Multiple US Locations | [Software Engineering Intern (BS)](https://careers.google.com/jobs/results/73287692785197766-software-engineering-intern-bs-summer-2024/) <br/> [Software Engineering Intern (MS)](https://careers.google.com/jobs/results/130444705243505350-software-engineering-intern-ms-summer-2024/) |
 | [Bank of America](https://bankcampuscareers.tal.net/vx/lang-en-GB/mobile-0/brand-4/xf-91c0e92d74a1/candidate/so/pm/1/pl/1/opp/10165-Global-Technology-Summer-Analyst-Program-2024/en-GB) | Multiple US Locations | Global Technology Summer Analyst Program - 2024 | 
 | [Mercedes-Benz](https://jobs.lever.co/MBRDNA/59ae463c-5d10-4bb6-9dfd-4e26c7d84a69) | Sunnyvale, CA | Data Products Intern |
-| [Palantir Technologies](https://www.palantir.com/careers/students/path/) | New York, NY or Washington, DC | Palantir Path Intern (No sponsorship available) |
-| [Lumen Technologies](https://jobs.lumen.com/global/en/job/324980/Intern-Summer-2024-Program-Submit-Interest) | Remote, USA | Intern - Summer 2024 Program - Submit Interest (No sponsorship available) |
 
 <!-- Please leave a one line gap between this and the table -->
