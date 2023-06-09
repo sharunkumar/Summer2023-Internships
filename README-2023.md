@@ -23,6 +23,8 @@
 | [Chamberlain Group](https://chamberlain.wd1.myworkdayjobs.com/en-US/Chamberlain_Group/job/Intern--Business-Systems-Analyst-Developer--BI_JR25849) | Oak Brook, IL | Intern, Business Systems Analyst/Developer, BI (must be in master's program and have US work authorization) |
 | [Expensify](https://we.are.expensify.com/full-stack-engineering-intern) | Remote, Various locations worldwide | Full Stack Engineering Internship |
 | Slalom Build | Atlanta, GA or Chicago, IL | [Software Engineer](https://jobs.slalombuild.com/apex/CandidatePortalBuild?nostate=1#/post/a0h1R00000DE06wQAD) and [Platform Engineer](https://jobs.slalombuild.com/apex/CandidatePortalBuild?nostate=1#/post/a0h1R00000DE07LQAT) Intern |
+| A10 Networks | San Jose, CA | **🔒 Closed 🔒** Multiple Software Engineering Internship |
+| Enveda Biosciences | Remote | **🔒 Closed 🔒** Software Engineering Internship |
 | [Odoo, Inc](https://www.odoo.com/jobs/detail/software-engineer-intern-summer-2023-buffalo-ny-1113) | Buffalo, NY | Software Engineer Intern |
 | Ramp | New York, Miami, Remote | Software Engineer Internship in [frontend](https://boards.greenhouse.io/ramp/jobs/4820594002) and [backend](https://boards.greenhouse.io/ramp/jobs/5083064002) |
 | [Anyscale](https://jobs.lever.co/anyscale/78a003a6-221a-4414-bf95-7c734cbfc4d9) | San Francisco, CA | Software Engineer (2023 Intern) |
@@ -32,5 +34,6 @@
 | Brightly | Remote | Site Reliability Engineer Intern |
 | [Sport Logiq](https://sportlogiq.bamboohr.com/careers/78?source=aWQ9NA%3D%3D) | Canada (remote) | Backend Developer Intern (Must be a student at a Canadian university) |
 | [Logistics Management Institute](https://careers-lmi.icims.com/jobs/9903/job) | Colorado Springs, CO | Space Systems Software Development Intern (Summer 2023) |
+| Spotify | New York, NY <br/> Remote (Americas) | [2023 NYC Technology Fellowship Program](https://jobs.lever.co/spotify/2319b24a-a5bf-48e8-9296-782b568966ed) <br/> **🔒 Closed 🔒** Backend Engineer Intern |
 
 <!-- Please leave a one line gap between this and the table -->
