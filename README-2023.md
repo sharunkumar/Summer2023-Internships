@@ -16,41 +16,6 @@
 | [Cruise](https://getcruise.com/careers/jobs/2360309/) | Seattle, WA | Product Engineering Delivery Intern |
 | [Arista](https://www.arista.com/en/careers/university/software-engineering) | Multiple Locations in US | Software Engineer Intern (undergrad) |
 | [Certik](https://jobs.lever.co/certik/d4bdf6fa-f885-476a-9b4f-538b874e2d36) | Multiple Locations, USA | Internship Spring/Summer 2023 - Software Engineer, Tools |
-| Comcast | Multiple locations, USA | **🔒 Closed 🔒** Machine Learning Graduate Research Intern (must be able to obtain US work authorization) |
-| Equinix | New York, USA | **🔒 Closed 🔒** Software Engineer Intern |
-| Nordson | Rhode Island, USA | **🔒 Closed 🔒** Software Engineering Intern |
-| Blue Origin | Multiple | **🔒 Closed 🔒** Summer 2023: Undergraduate Engineering Intern (US Citizenship/Green Card Required) - Avionics Software, Product Management |
-| Open Systems Technologies | Remote, USA | **🔒 Closed 🔒** Software Developer Intern |
-| HP | Spring, TX | **🔒 Closed 🔒** Applications Software Engineering Summer Internship |
-| Gemini | Multiple | **🔒 Closed 🔒** Intern, Software Engineer |
-| General Dynamics Mission Systems | Dedham, MA | **🔒 Closed 🔒** Software Engineering Intern (US Citizenship Required) |
-| OneWeb | Virginia | **🔒 Closed 🔒** Software Development Intern |
-| X - The Moonshot Factory | Mountain View, CA | **🔒 Closed 🔒** SWE Intern: Mapping & Localization, Services |
-| Resideo | Multiple Location, USA | **🔒 Closed 🔒** Software Intern |
-| Cigna | Remote, USA | **🔒 Closed 🔒** Software Development Summer Intern (No Sponsorship) |
-| Brilliant | San Mateo, CA | **🔒 Closed 🔒** Backend Server Engineering Intern (Summer 2023) |
-| Seagate | Shakopee, MN, US | **🔒 Closed 🔒** Intern - Software Development (Summer 2023) |
-| Verizon | Irving, TX, United States | **🔒 Closed 🔒** Software Development Summer 2023 Internship (No Sponsorship) |
-| Bose | Remote, United States | **🔒 Closed 🔒** Data Science Intern |
-| Alcon | Lake Forest, CA | **🔒 Closed 🔒** Summer 2023 Intern - Software Engineer (No Sponsorship) |
-| 23andMe | Remote, US | **🔒 Closed 🔒** Engineering Intern |
-| NBA | New York, Secaucus | **🔒 Closed 🔒** Software Engineering Intern, Data Scientist Intern |
-| SailPoint | Austin, TX | **🔒 Closed 🔒** Software Engineering Intern |
-| Brain Technologies | Remote | **🔒 Closed 🔒** NLP Intern |
-| Under Armour | Baltimore, MD | **🔒 Closed 🔒** Technology, Engineering, and Data Science Rookie (No Sponsorship) |
-| Chess.com | Remote | **🔒 Closed 🔒** Backend Engineer, Frontend Engineer |
-| Coda | San Francisco, CA | **🔒 Closed 🔒** Software Engineer Summer Internship |
-| Xwing | Concord, CA | **🔒 Closed 🔒** Software Engineer Intern, Mission Control Center, Software Team |
-| Sigma Computing | San Francisco, CA | **🔒 Closed 🔒** Software Engineering Intern (Summer 2023) |
-| Bandwidth | Rochester, NY | **🔒 Closed 🔒** Software Engineering Intern (Summer 2023) |
-| UKG | Multiple | **🔒 Closed 🔒** Software Engineering Internship – Spring & Summer 2023 (No Sponsorship) |
-| MediaTek | San Jose, CA | **🔒 Closed 🔒** AI Architecture and Algorithm Intern |
-| Citizens | **🔒 Closed 🔒** Johnston, Rhode Island; Phoenix, Arizona | Technology Summer Internship Program: Software Engineer (No Sponsorship) |
-| Philips | **🔒 Closed 🔒** Bothell, WA | Software Engineering Intern (No Sponsorhip) |
-| Monad Labs | Remote (US & Canada) | **🔒 Closed 🔒** Low-Latency C++ Software Engineering Intern |
-| Red Hat | Remote | **🔒 Closed 🔒** Software Engineering Internship |
-| Black & Veatch | **🔒 Closed 🔒** Remote (US) | Software Developer Intern |
-| Domo | American Fork, Utah | **🔒 Closed 🔒** Software Engineer Intern |
 | [Lexmark](https://www.lexmark.com/en_us/careers/job-description.143572.html) | Boulder, CO | Software Engineer Student - Summer 2023 |
 | [Samsung](https://boards.greenhouse.io/samsungresearchamericainternship/) | Mountain View, CA | Multiple Research, Software Engineering, and PM positions |
 | [Schlumberger](https://careers.slb.com/fojoblist/it-intern) | Houston, TX or Menlo Park, CA | Information Technology Intern |
