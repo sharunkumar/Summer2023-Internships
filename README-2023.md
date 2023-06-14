@@ -26,6 +26,16 @@
 | Ramp | New York, Miami, Remote | Software Engineer Internship in [frontend](https://boards.greenhouse.io/ramp/jobs/4820594002) and [backend](https://boards.greenhouse.io/ramp/jobs/5083064002) |
 | [Anyscale](https://jobs.lever.co/anyscale/78a003a6-221a-4414-bf95-7c734cbfc4d9) | San Francisco, CA | Software Engineer (2023 Intern) |
 | Generate Biomedicines | Somerville, MA (On-site) | Machine Learning Intern |
+| Smith+Nephew | Pittsburgh, PA | **🔒 Closed 🔒** Robotics Software Engineering Intern |
+| Urban Science | Detroit, MI | [IT Operations Intern](https://careers-urbanscience.icims.com/jobs/4842/it-operations-intern---enterprise-applications/job), **🔒 Closed 🔒** Fall 2023 Data Analyst Intern **🔒 Closed 🔒** Software Engineering Intern, Data Engineering Intern |
+| Squarespace | Chicago, IL | **🔒 Closed 🔒** Tock Software Engineer Intern |
+| Chubb | Jersey City, NJ | **🔒 Closed 🔒** Technology Associate Intern |
+| Precisely | Remote | **🔒 Closed 🔒** Software Engineer Intern |
+| RXO | Chicago, IL | **🔒 Closed 🔒** Software Engineer Intern |
+| GitKraken | Scottsdale, AZ | **🔒 Closed 🔒** Software Engineering Internship |
+| identifeye HEALTH | Remote | **🔒 Closed 🔒** Software Engineering Internship |
+| Airbyte | Hybrid in SF | **🔒 Closed 🔒** Backend Software Engineering Intern |
+| Vial | Remote | **🔒 Closed 🔒** Software Engineer Intern |
 | [Stackshine](https://www.ycombinator.com/companies/stackshine/jobs/yAzrMfn-software-engineering-intern?utm_source=waasli) | Remote | Software Engineer Intern |
 | Vimbly | New York | [Platform Developer Internship](https://www.vimblygroup.com/careers?jobid=398), [Front End Developer Internship](https://www.vimblygroup.com/careers?jobid=399) |
 | Brightly | Remote | Site Reliability Engineer Intern |
