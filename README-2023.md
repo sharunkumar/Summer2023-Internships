@@ -31,6 +31,5 @@
 | Brightly | Remote | Site Reliability Engineer Intern |
 | [Sport Logiq](https://sportlogiq.bamboohr.com/careers/78?source=aWQ9NA%3D%3D) | Canada (remote) | Backend Developer Intern (Must be a student at a Canadian university) |
 | [Logistics Management Institute](https://careers-lmi.icims.com/jobs/9903/job) | Colorado Springs, CO | Space Systems Software Development Intern (Summer 2023) |
-| Spotify | New York, NY <br/> Remote (Americas) | **🔒 Closed 🔒** 2023 NYC Technology Fellowship Program <br/> **🔒 Closed 🔒** Backend Engineer Intern |
 
 <!-- Please leave a one line gap between this and the table -->
