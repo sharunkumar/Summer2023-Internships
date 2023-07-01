@@ -20,5 +20,7 @@
 | [Palantir Technologies](https://www.palantir.com/careers/students/path/) | New York, NY or Washington, DC | Palantir Path Intern (must be enrolled in a U.S. bachelor's program) |
 | [Lumen Technologies](https://jobs.lumen.com/global/en/job/324980/Intern-Summer-2024-Program-Submit-Interest) | Remote, USA | Intern - Summer 2024 Program - Submit Interest (U.S. work authorization required) |
 | [Marotta Controls](https://marotta.com/job-openings/?gnk=job&gni=8a7883ac879c5eca0187ef4d715d4fd8&lang=en) | Parsippany, NJ | Software Engineering Intern - (Summer 2024) (U.S citizens only)|
+| RSM | Denver, CO and Dallas, TX | [Data Migration Consulting Intern](https://jobs.rsmus.com/job/18650418/data-migration-consulting-intern-summer-2024-dallas-tx/), [Intelligent Automation Consulting Intern](https://jobs.rsmus.com/job/17580693/intelligent-automation-consulting-intern-summer-2024-denver-co/) (US Citizenship Required for Both) |
+| [Trane Technologies](https://careers.tranetechnologies.com/global/en/job/TRTEGLOBAL2304512EXTERNALENGLOBAL/2024-Analytics-Data-Science-Intern) | Davidson, NC or Minneapolis, MN | 2024 Analytics & Data Science Intern (U.S citizens only)|
 
 <!-- Please leave a one line gap between this and the table -->
