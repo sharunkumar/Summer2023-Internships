@@ -25,6 +25,5 @@
 | [Elbit Systems of America](https://jobs.smartrecruiters.com/ElbitSystemsOfAmerica/743999907500503-software-engineering-intern-ref1380b-) | Birdsboro, PA | Software Engineering Intern (US Citizen) |
 | [Accenture](https://www.accenture.com/us-en/careers/jobdetails?id=R00155153_en) | Tampa, FL | Federal - Software Engineering Intern (US Citizen) | 
 | [Akuna](https://akunacapital.com/job-details?gh_jid=5147715) | Boston, MA | Quantitative Developer Intern |
-| [JPMorgan Chase](https://careers.jpmorgan.com/us/en/students/programs/software-engineer-summer) | Multiple Locations | Software Engineer Intern (no sponsorship) | 
 
 <!-- Please leave a one line gap between this and the table -->
