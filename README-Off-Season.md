@@ -50,8 +50,6 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [SpaceX](https://boards.greenhouse.io/spacex/jobs/6675035002) | Multiple | Fall 2023 | Software Engineering Internship/Co-op (US Citizens Only) |
 | [Emerson Automation Solutions](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/23007214) | Elyria, OH | Fall 2023 | Software Engineering Co-op |
 | [Domeyard LP](https://boards.greenhouse.io/domeyard/jobs/1079185) | Boston, MA | (Summer, Fall, Winter, Spring available) | Software Engineer Internship |
-| Western Digital (WD) | San Jose, CA | Fall 2023 | [SWE Firmware Intern](https://jobs.smartrecruiters.com/WesternDigital/743999910364988-fall-2023-software-engineering-firmware-intern) <br/> **🔒 Closed 🔒** SWE Performance and Power Firmware/Systems Engineering Intern |
-| Urban Science | Detroit, MI | Fall 2023 | **🔒 Closed 🔒** Data Analyst Intern |
 | [Ansys](https://careers.ansys.com/job/Vancouver-Spring-2024-Electronics-Intern-Software-Development-and-Testing-(BSMS)-Brit-V6E2M6/1026739100) | Vancouver, BC, Canada <br/> Montreal, QC, Canada <br/> Waterloo, ON, Canada | Spring 2024 | Software Development and Testing|
 | [Certik](https://jobs.lever.co/certik/cc4bc2b7-ee87-43be-81c9-09c8b0411a7e) | New York, NY <br/> Seattle, WA <br/> SF Bay Area, CA <br/> Remote | Fall 2023 | SWE Intern |
 | [NimbleRX](https://jobs.lever.co/nimblerx/f1b1c7ab-60f4-4051-93ea-d2dbba1cee9c) | Remote | Winter / Spring | Software Engineer Intern |
