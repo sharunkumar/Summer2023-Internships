@@ -45,6 +45,14 @@ jobs:
         sed -i '/must be US citizen/Id' README-2023.md
         sed -i '/Citizenship Required/Id' README-2023.md
 
+    - name: Update README-Off-Season.md
+      run: |
+        sed -i '/🔒 Closed 🔒/Id' README-Off-Season.md
+        sed -i '/no sponsorship/Id' README-Off-Season.md
+        sed -i '/no visa sponsorship/Id' README-Off-Season.md
+        sed -i '/must be US citizen/Id' README-Off-Season.md
+        sed -i '/Citizenship Required/Id' README-Off-Season.md
+
     - name: Commit
       run: |
         if [[ `git status --porcelain` ]]; then
