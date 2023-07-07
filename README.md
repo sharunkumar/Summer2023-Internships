@@ -25,5 +25,7 @@
 | [Accenture](https://www.accenture.com/us-en/careers/jobdetails?id=R00155153_en) | Tampa, FL | Federal - Software Engineering Intern (US Citizen) | 
 | Citadel | Chicago, IL or New York, NY | [Software Engineer Intern](https://www.citadel.com/careers/details/software-engineer-intern-us/) <br> [Investment & Trading Intern](https://www.citadel.com/careers/details/investment-trading-intern-us/) <br> [Quant Researcher Intern (PhD)](https://www.citadel.com/careers/details/quantitative-researcher-phd-intern-us/) <br> [Quantatative Research Analyst Intern](https://www.citadel.com/careers/details/quantitative-research-analyst-intern-us/) | 
 | Two Sigma | New York, NY | [Quantitative Researcher - Internship](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Internship-2024-Summer/12004) |
+| Zipline | San Francisco, CA | [Summer 2024 Internship (Express Interest)](https://legacy.flyzipline.com/job?gh_jid=5631836003/) |
+
 
 <!-- Please leave a one line gap between this and the table -->
