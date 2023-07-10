@@ -40,6 +40,7 @@
 | [Crestron](https://globalus231.dayforcehcm.com/CandidatePortal/en-US/crestron/site/candidateportal/Posting/View/820) | Plano, TX <br/> Rockleigh, NJ | Summer 2024 Internship Program |
 | [Royal Bank of Canada](https://jobs.rbc.com/ca/en/job/RBCAA0088R0000062764EXTERNALENCA) | Jersey City, NJ | Quantitative Technology Services Intern |
 | [Blackstone](https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/New-York/XMLNAME-2024-Blackstone-Insurance-Solutions--Quantitative-Strategy-Summer-Analyst_26308-1?source=Linkedin) | New York, NY | Quantitative Strategy Intern |
+| [Nomura](https://nomuracampus.tal.net/vx/lang-en-GB/mobile-0/appcentre-ext/brand-4/xf-3348347fc789/candidate/jobboard/vacancy/1/adv/?f_Item_Opportunity_84825_lk=749&f_Item_Opportunity_60426_lk=520149) | New York, NY | [2024 Information Technology Summer Analyst Program](https://nomuracampus.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/xf-3348347fc789/candidate/so/pm/1/pl/1/opp/877-2024-Information-Technology-Summer-Analyst-Program/en-GB) |
 
 
 <!-- Please leave a one line gap between this and the table -->
