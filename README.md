@@ -37,7 +37,6 @@
 | SIG | Bala Cynwyd, PA | [Software Engineering Internship Program (Express Interest)](https://careers.sig.com/job/7102/Software-Engineering-Internship-Program-Summer-2024-Expression-of-Interest) |
 | [JBS USA](https://jobs.jbsfoodsgroup.com/us/en/job/JBUSUS47677EXTERNALENUS/2024-IT-Summer-Internship-Program?utm_source=linkedin&utm_medium=phenom-feeds&s=LinkedInJobs) | Greeley, CO | Information Technology Intern |
 | [Align Technology](https://jobs.aligntech.com/jobs/36257?iis=Job+Board&iisn=LinkedIn&lang=en-us) | Multiple Locations | Summer 2024 Internship (Expression of Interest) |
-| Forvis | Multiple Locations | **🔒 Closed 🔒** Information Technology Risk Intern (No Sponsorship) |
 | [Crestron](https://globalus231.dayforcehcm.com/CandidatePortal/en-US/crestron/site/candidateportal/Posting/View/820) | Plano, TX <br/> Rockleigh, NJ | Summer 2024 Internship Program |
 | [Royal Bank of Canada](https://jobs.rbc.com/ca/en/job/RBCAA0088R0000062764EXTERNALENCA) | Jersey City, NJ | Quantitative Technology Services Intern |
 | [Blackstone](https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/New-York/XMLNAME-2024-Blackstone-Insurance-Solutions--Quantitative-Strategy-Summer-Analyst_26308-1?source=Linkedin) | New York, NY | Quantitative Strategy Intern |
