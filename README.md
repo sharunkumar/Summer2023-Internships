@@ -37,10 +37,12 @@
 | SIG | Bala Cynwyd, PA | [Software Engineering Internship Program (Express Interest)](https://careers.sig.com/job/7102/Software-Engineering-Internship-Program-Summer-2024-Expression-of-Interest) |
 | [JBS USA](https://jobs.jbsfoodsgroup.com/us/en/job/JBUSUS47677EXTERNALENUS/2024-IT-Summer-Internship-Program?utm_source=linkedin&utm_medium=phenom-feeds&s=LinkedInJobs) | Greeley, CO | Information Technology Intern |
 | [Align Technology](https://jobs.aligntech.com/jobs/36257?iis=Job+Board&iisn=LinkedIn&lang=en-us) | Multiple Locations | Summer 2024 Internship (Expression of Interest) |
+| Forvis | Multiple Locations | **🔒 Closed 🔒** Information Technology Risk Intern (No Sponsorship) |
 | [Crestron](https://globalus231.dayforcehcm.com/CandidatePortal/en-US/crestron/site/candidateportal/Posting/View/820) | Plano, TX <br/> Rockleigh, NJ | Summer 2024 Internship Program |
 | [Royal Bank of Canada](https://jobs.rbc.com/ca/en/job/RBCAA0088R0000062764EXTERNALENCA) | Jersey City, NJ | Quantitative Technology Services Intern |
 | [Blackstone](https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/New-York/XMLNAME-2024-Blackstone-Insurance-Solutions--Quantitative-Strategy-Summer-Analyst_26308-1?source=Linkedin) | New York, NY | Quantitative Strategy Intern |
 | [Nomura](https://nomuracampus.tal.net/vx/lang-en-GB/mobile-0/appcentre-ext/brand-4/xf-3348347fc789/candidate/jobboard/vacancy/1/adv/?f_Item_Opportunity_84825_lk=749&f_Item_Opportunity_60426_lk=520149) | New York, NY | [2024 Information Technology Summer Analyst Program](https://nomuracampus.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/xf-3348347fc789/candidate/so/pm/1/pl/1/opp/877-2024-Information-Technology-Summer-Analyst-Program/en-GB) |
+| Morgan Stanley | Alpharetta, GA <br/> New York, NY | [Technology Summer Analyst Program (Alpharetta, GA)](https://morganstanley.tal.net/vx/candidate/apply/15068) <br/> [Technology Summer Analyst Program (New York, NY)](https://morganstanley.tal.net/vx/candidate/apply/15076) |
 
 
 <!-- Please leave a one line gap between this and the table -->
