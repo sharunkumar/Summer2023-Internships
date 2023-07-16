@@ -31,8 +31,8 @@
 | [Entrust](https://entrust.wd1.myworkdayjobs.com/EntrustCareers/job/United-States---Sunrise-FL/Software-Engineering-Intern_R002369) | Sunrise, FL | Software Engineer Intern |
 | [Enphase Energy](https://jobs.jobvite.com/enphase-energy/job/oFPRmfwr) | Austin, TX | Embedded Firmware Engineer Intern |
 | [Körber](https://jobs.koerber.com/pharma/job/Fargo-Software-Developer-Intern-ND-58102/954269201/) | Fargo, ND | Software Developer Intern |
-| [Maximus](https://external-maximus.icims.com/jobs/90452/intern---software-engineering/job) | Mclean, VA | Software Engineering Intern |
-| [Infineon](https://www.infineon.com/cms/en/careers/jobsearch/jobsearch/HRC0331975-Intern-Software-Automation-Engineer/) | Andover, MA </br> Warwick, RI | Software Automation Engineer Intern |
+| [Maximus] | Mclean, VA | **🔒 Closed 🔒** Software Engineering Intern |
+| [Infineon] | Andover, MA </br> Warwick, RI | **🔒 Closed 🔒** Software Automation Engineer Intern |
 | [Docugami](https://boards.greenhouse.io/docugami/jobs/4014838003) | Kirkland, WA | Software Engineering Intern |
 | SIG | Bala Cynwyd, PA | [Software Engineering Internship Program (Express Interest)](https://careers.sig.com/job/7102/Software-Engineering-Internship-Program-Summer-2024-Expression-of-Interest) |
 | [JBS USA](https://jobs.jbsfoodsgroup.com/us/en/job/JBUSUS47677EXTERNALENUS/2024-IT-Summer-Internship-Program?utm_source=linkedin&utm_medium=phenom-feeds&s=LinkedInJobs) | Greeley, CO | Information Technology Intern |
@@ -46,5 +46,7 @@
 | DRW | Chicago, IL | [Software Developer Intern](https://drw.com/work-at-drw/listings/software-developer-intern-2567189) <br/> [Site Reliability Engineer Intern](https://drw.com/work-at-drw/listings/site-reliability-engineer-sre-intern-2569887)<br/> [Quantitative Trading Analyst Intern](https://drw.com/work-at-drw/listings/quantitative-trading-analyst-intern-2551092) |
 | [Intuit](https://talenteq.intuit.com/ucs?cid=elq-form_hs_698061_US_UR-FY23_lg_iac-msg4_link_intuit-talentmktg) | Multiple Locations | [2024 Summer Internship Interest](https://talenteq.intuit.com/ucs?cid=elq-form_hs_698061_US_UR-FY23_lg_iac-msg4_link_intuit-talentmktg)
 | Truist | Charlotte, NC <br/> Atlanta, GA | [2024 Technology and Innovation Internship](https://careers.truist.com/us/en/job/TBJTBFUSR0078021EXTERNALENUS/2024-Technology-and-Innovation-Internship?utm_source=indeed&utm_medium=phenom-feeds)
+| Paycom | Oklahoma City, OK| [Software Analyst Intern](https://pc00.paycomonline.com/v4/ats/web.php/jobs/ViewJobDetails?job=54994&clientkey=A38173AIE92874820ALRE20847CDE927PIW76526) <br/> [Software Development Intern](https://pc00.paycomonline.com/v4/ats/web.php/jobs/ViewJobDetails?job=54611&clientkey=A38173AIE92874820ALRE20847CDE927PIW76526) (No Sponsorship) <br/> [Deployment Engineer Intern](https://pc00.paycomonline.com/v4/ats/web.php/jobs/ViewJobDetails?job=54971&clientkey=A38173AIE92874820ALRE20847CDE927PIW76526)
+| Point72 | New York, NY | [Summer 2024 Quantitative Developer Internship](https://careers.point72.com/CSJobDetail?jobName=summer-2024-quantitative-developer-internship&jobCode=CSS-0010069&retURL=/CSCareerSearch)
 
 <!-- Please leave a one line gap between this and the table -->
