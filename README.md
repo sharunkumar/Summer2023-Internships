@@ -42,9 +42,7 @@
 | DRW | Austin, TX <br/> Chicago, IL | [Software Developer Intern (Only F1 Sponsorship Available)](https://drw.com/work-at-drw/listings/software-developer-intern-2567189) <br/> [Site Reliability Engineer Intern](https://drw.com/work-at-drw/listings/site-reliability-engineer-sre-intern-2569887) <br/> [Quantitative Trading Analyst Intern](https://drw.com/work-at-drw/listings/quantitative-trading-analyst-intern-2551092) |
 | [Intuit](https://talenteq.intuit.com/ucs?cid=elq-form_hs_698061_US_UR-FY23_lg_iac-msg4_link_intuit-talentmktg) | Multiple Locations | [2024 Summer Internship Interest](https://talenteq.intuit.com/ucs?cid=elq-form_hs_698061_US_UR-FY23_lg_iac-msg4_link_intuit-talentmktg) (Select sponsorship available)|
 | Truist | Charlotte, NC <br/> Atlanta, GA | [2024 Technology and Innovation Internship](https://careers.truist.com/us/en/job/TBJTBFUSR0078021EXTERNALENUS/2024-Technology-and-Innovation-Internship) |
-| Paycom | Oklahoma City, OK | **🔒 Closed 🔒** <br/> Software Analyst Intern <br/> Software Development Intern (No Sponsorship) <br/> Deployment Engineer Intern |
 | Point72 | New York, NY | [Summer 2024 Quantitative Developer Internship](https://careers.point72.com/CSJobDetail?jobName=summer-2024-quantitative-developer-internship&jobCode=CSS-0010069) |
-| Northrop Grumman | Redondo Beach, CA | **🔒 Closed 🔒** Software Engineer Intern (U.S Citizenship Required) |
 | [Sensata Technologies](https://sensata.wd1.myworkdayjobs.com/Sensata-Careers/job/Attleboro-Massachusetts/Software-Engineer-Intern--Summer-2024_IRC90446) | Attleboro, MA | Software Engineer Intern |
 | [PDT Partners](https://boards.greenhouse.io/pdtpartners/jobs/4423823) | New York, NY | Software Engineer Intern |
 | [Tower Research Capital](https://www.tower-research.com/open-positions/?gh_jid=4360111) | New York, NY | Quantitative Trader Intern |
