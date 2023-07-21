@@ -30,7 +30,8 @@
 | [Enphase Energy](https://jobs.jobvite.com/enphase-energy/job/oFPRmfwr) | Austin, TX | Embedded Firmware Engineer Intern |
 | [Körber](https://jobs.koerber.com/pharma/job/Fargo-Software-Developer-Intern-ND-58102/954269201/) | Fargo, ND | Software Developer Intern |
 | [Docugami](https://boards.greenhouse.io/docugami/jobs/4014838003) | Kirkland, WA | Software Engineering Intern |
-| SIG | Bala Cynwyd, PA | [Software Engineering Internship Program (Express Interest)](https://careers.sig.com/job/7102/Software-Engineering-Internship-Program-Summer-2024-Expression-of-Interest) |
+| SIG | Bala Cynwyd, PA </br> New York, NY </br> Chicago, IL | [Software Engineering Internship Program (Express Interest)](https://careers.sig.com/job/7102/Software-Engineering-Internship-Program-Summer-2024-Expression-of-Interest) </br> [Trading Intern](https://careers.sig.com/job/7464/Trading-Intern-Chicago) |
+| [Northwestern Mutual](https://careers.northwesternmutual.com/corporate-careers/job/public-investments-municipal-trading-analytics-internship-summer-2024-milwaukee-wi-corporate-jr-38135/) | Milwaukee, WI | Municipal Trading Analytics Intern (No Sponsorship) |
 | [JBS USA](https://jobs.jbsfoodsgroup.com/us/en/job/JBUSUS47677EXTERNALENUS/2024-IT-Summer-Internship-Program) | Greeley, CO | Information Technology Intern |
 | [Align Technology](https://jobs.aligntech.com/jobs/36257?iis=Job+Board&iisn=LinkedIn&lang=en-us) | Multiple Locations | Summer 2024 Internship (Expression of Interest) |
 | [Crestron](https://globalus231.dayforcehcm.com/CandidatePortal/en-US/crestron/site/candidateportal/Posting/View/820) | Plano, TX <br/> Rockleigh, NJ | Summer 2024 Internship Program |
@@ -53,5 +54,6 @@
 | [TransMarket Group](https://boards.greenhouse.io/transmarketgroup?gh_src=295a85457us) | Chicago, IL | [Algorithmic Trader Intern](https://boards.greenhouse.io/transmarketgroup/jobs/4023650007?t=295a85457us) <br/> [Quantitative Trader Intern](https://boards.greenhouse.io/transmarketgroup/jobs/4023644007?t=295a85457us) |
 | [Five Rings](https://fiverings.avature.net/careers) | NYC | [Software Dev Intern](https://fiverings.avature.net/careers/FolderDetail/New-York-New-York-United-States-Software-Developer-Summer-Intern-2024/649) <br/> [Quant Researcher Intern](https://fiverings.avature.net/careers/FolderDetail/New-York-New-York-United-States-Quantitative-Researcher-Summer-Intern-2024/645) <br/> [Quant Trader Intern](https://fiverings.avature.net/careers/FolderDetail/New-York-New-York-United-States-Quantitative-Trader-Summer-Intern-2024/643) <br/> (Winter 2024 also available) | 
 | [Milliman](https://recruiting2.ultipro.com/MIL1017/JobBoard/f54234e9-dfde-b183-fd20-4fbdb19cba7a/OpportunityDetail?opportunityId=07e563a5-18f6-4e9f-a719-452971adba46)| Omaha, NE | Software Engineer Intern |
+| [PCMI Corporation](https://www.indeed.com/cmp/Pcmi-Corporation-2/jobs?jk=e35b465c20d1a7c2&start=0&clearPrefilter=1) | Park Ridge, IL | BI QA Analyst Intern |
 
 <!-- Please leave a one line gap between this and the table -->
