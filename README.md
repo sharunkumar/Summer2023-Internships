@@ -29,8 +29,6 @@
 | [Entrust](https://entrust.wd1.myworkdayjobs.com/EntrustCareers/job/United-States---Sunrise-FL/Software-Engineering-Intern_R002369) | Sunrise, FL | Software Engineer Intern |
 | [Enphase Energy](https://jobs.jobvite.com/enphase-energy/job/oFPRmfwr) | Austin, TX | Embedded Firmware Engineer Intern |
 | [Körber](https://jobs.koerber.com/pharma/job/Fargo-Software-Developer-Intern-ND-58102/954269201/) | Fargo, ND | Software Developer Intern |
-| Maximus | Mclean, VA | **🔒 Closed 🔒** Software Engineering Intern |
-| Infineon | Andover, MA </br> Warwick, RI | **🔒 Closed 🔒** Software Automation Engineer Intern |
 | [Docugami](https://boards.greenhouse.io/docugami/jobs/4014838003) | Kirkland, WA | Software Engineering Intern |
 | SIG | Bala Cynwyd, PA </br> New York, NY </br> Chicago, IL | [Software Engineering Internship Program (Express Interest)](https://careers.sig.com/job/7102/Software-Engineering-Internship-Program-Summer-2024-Expression-of-Interest) </br> [Trading Intern](https://careers.sig.com/job/7464/Trading-Intern-Chicago) |
 | [JBS USA](https://jobs.jbsfoodsgroup.com/us/en/job/JBUSUS47677EXTERNALENUS/2024-IT-Summer-Internship-Program) | Greeley, CO | Information Technology Intern |
