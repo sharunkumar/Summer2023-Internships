@@ -1,6 +1,6 @@
 # Summer 2024 Tech Internships by Pitt CSC & Simplify
 > **Note**:
-> This README file is for **Summer 2024 internships only**. For off-season internships, see the [Off-Season Internship README](https://github.com/pittcsc/Summer2024-Internships/blob/dev/README-Off-Season.md).
+> This README file is for **Summer 2024 internships only**. For off-season internships, see the [Off-Season Internship README](https://github.com/sharunkumar/Summer2024-Internships/blob/dev/README-Off-Season.md).
 
 <!-- Please leave a one line gap between this and the table -->
 
