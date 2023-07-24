@@ -31,7 +31,8 @@
 | [Körber](https://jobs.koerber.com/pharma/job/Fargo-Software-Developer-Intern-ND-58102/954269201/) | Fargo, ND | Software Developer Intern |
 | [Docugami](https://boards.greenhouse.io/docugami/jobs/4014838003) | Kirkland, WA | Software Engineering Intern |
 | SIG | Bala Cynwyd, PA </br> New York, NY </br> Chicago, IL | [Software Engineering Internship Program (Express Interest)](https://careers.sig.com/job/7102/Software-Engineering-Internship-Program-Summer-2024-Expression-of-Interest) </br> [Trading Intern](https://careers.sig.com/job/7464/Trading-Intern-Chicago) |
-| [JBS USA](https://jobs.jbsfoodsgroup.com/us/en/job/JBUSUS47677EXTERNALENUS/2024-IT-Summer-Internship-Program) | Greeley, CO | Information Technology Intern |
+| [Northwestern Mutual](https://careers.northwesternmutual.com/corporate-careers/job/public-investments-municipal-trading-analytics-internship-summer-2024-milwaukee-wi-corporate-jr-38135/) | Milwaukee, WI | Municipal Trading Analytics Intern (No Sponsorship) |
+| JBS USA | Greeley, CO | **🔒 Closed 🔒** Information Technology Intern |
 | [Align Technology](https://jobs.aligntech.com/jobs/36257?iis=Job+Board&iisn=LinkedIn&lang=en-us) | Multiple Locations | Summer 2024 Internship (Expression of Interest) |
 | [Crestron](https://globalus231.dayforcehcm.com/CandidatePortal/en-US/crestron/site/candidateportal/Posting/View/820) | Plano, TX <br/> Rockleigh, NJ | Summer 2024 Internship Program |
 | [Royal Bank of Canada](https://jobs.rbc.com/ca/en/job/RBCAA0088R0000062764EXTERNALENCA) | Jersey City, NJ | Quantitative Technology Services Intern |
