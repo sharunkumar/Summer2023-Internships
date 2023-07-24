@@ -55,5 +55,6 @@
 | [PCMI Corporation](https://www.indeed.com/cmp/Pcmi-Corporation-2/jobs?jk=e35b465c20d1a7c2&start=0&clearPrefilter=1) | Park Ridge, IL | BI QA Analyst Intern |
 | [Protective](https://jobs.lever.co/protective/2761edea-63bc-4be7-8b48-6e925c1be3f8/?lever-source%5B%5D=DiversityJobs) | Birmingham, AL | Technology Summer Internship |
 | [U.S. Bank](https://careers.usbank.com/global/en/job/2023-0020491/2024-Software-Engineering-Summer-Intern-Early-Careers) | Richfield, MN; and Atlanta, GA | 2024 Software Engineering Summer Intern |
+| Jane Street | New York, NY | [Software Engineer Internship](https://www.janestreet.com/join-jane-street/position/6834728002/) <br/> [Quantitative Trader Internship](https://www.janestreet.com/join-jane-street/position/6850721002/) <br/> [Quantitative Researcher Internship](https://www.janestreet.com/join-jane-street/position/6838982002/) |
 
 <!-- Please leave a one line gap between this and the table -->
