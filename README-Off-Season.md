@@ -9,6 +9,11 @@
 | [Databento](https://boards.greenhouse.io/databento/jobs/4374815?) | Remote | Flexible | SWE Intern (Visa sponsorship available, rolling application) |
 | [Mathworks](https://www.mathworks.com/company/jobs/opportunities/25610-multiple-openings-engineering-development-group-internship) | Natick, MA | Fall 2023 | Engineering Development Group Internship |
 | [SpaceX](https://boards.greenhouse.io/spacex/jobs/6675035002) | Multiple | Fall 2023 | Software Engineering Internship/Co-op (US Citizens Only) |
+| [Emerson Automation Solutions](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/23007214) | Elyria, OH | Fall 2023 | Software Engineering Co-op (No visa sponsorship) |
+| Domeyard LP | Boston, MA | (Summer, Fall, Winter, Spring available) | **🔒 Closed 🔒** Software Engineer Internship |
+| Western Digital (WD) | San Jose, CA | Fall 2023 | [SWE Firmware Intern](https://jobs.smartrecruiters.com/WesternDigital/743999910364988-fall-2023-software-engineering-firmware-intern) <br/> **🔒 Closed 🔒** SWE Performance and Power Firmware/Systems Engineering Intern |
+| Urban Science | Detroit, MI | Fall 2023 | **🔒 Closed 🔒** Data Analyst Intern |
+| Ansys | Canonsburg, PA <br/> Vancouver, BC, Canada <br/> Montreal, QC, Canada <br/> Waterloo, ON, Canada| Spring 2024 | [Cloud, Solutions and Enablement](https://careers.ansys.com/job/Canonsburg-Spring-2024-Co-Op-Cloud%2C-Solutions-and-Enablement-%28BS%29-PA-15317/1039326600/) <br/> **🔒 Closed 🔒** Software Development and Testing |
 | [Certik](https://jobs.lever.co/certik/cc4bc2b7-ee87-43be-81c9-09c8b0411a7e) | New York, NY <br/> Seattle, WA <br/> SF Bay Area, CA <br/> Remote | Fall 2023 | SWE Intern |
 | [NimbleRX](https://jobs.lever.co/nimblerx/f1b1c7ab-60f4-4051-93ea-d2dbba1cee9c) | Remote | Winter / Spring | Software Engineer Intern |
 | [ByteDance](https://jobs.bytedance.com/en/position?keywords=Software&category=&location=&project=7129361493955135774&type=2%2C3) | Seattle, WA <br/> San Jose, CA | Fall 2023 | Multiple |
@@ -23,5 +28,6 @@
 | [Milliman](https://recruiting2.ultipro.com/MIL1017/JobBoard/f54234e9-dfde-b183-fd20-4fbdb19cba7a/OpportunityDetail?opportunityId=13902acc-1b58-407a-8c0f-c093d7b8cc5a) | Milwaukee, WI <br/> Chicago, IL <br/> Hartford, CT <br/> Remote | Spring 2024 | Healthcare Analytics Intern |
 | [UKG](https://careers.ukg.com/careers/JobDetail/DevOps-Engineering-Internship-Fall-2023/46143) | Lowell, MA <br/> Weston, FL | Fall 2023 | DevOps Engineering Internship |
 | [Skyworks Solutions](https://careers.skyworksinc.com/job/Andover-Analytics-Co-Op-SummerFall-Co-Op-CA/1055209600) | Andover, CA | Fall 2023 | Analytics Co-Op Summer/Fall Co-Op (MS Students Only) |
+| [GE Aerospace](https://jobs.gecareers.com/aviation/global/en/job/R3718914/GE-Aerospace-US-Digital-Technology-Coop-Spring-2024) | Cincinnati, OH <br/> Van Buren Township, MI | Spring 2024 | GE Aerospace US Digital Technology Coop |
 
 <!-- Please leave a one line gap between this and the table -->
