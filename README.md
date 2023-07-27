@@ -56,14 +56,10 @@
 | [U.S. Bank](https://careers.usbank.com/global/en/job/2023-0020491/2024-Software-Engineering-Summer-Intern-Early-Careers) | Richfield, MN; and Atlanta, GA | 2024 Software Engineering Summer Intern |
 | Jane Street | New York, NY | [Software Engineer Internship](https://www.janestreet.com/join-jane-street/position/6834728002/) <br/> [Quantitative Trader Internship](https://www.janestreet.com/join-jane-street/position/6850721002/) <br/> [Quantitative Researcher Internship](https://www.janestreet.com/join-jane-street/position/6838982002/) |
 | [SkyWorks](https://careers.skyworksinc.com/job/Austin-Embedded-FW-Summer-Intern-2024-TX-73301/1054957600) | Austin, TX | Embedded FW Summer Intern |
-| [Cole Engineering Services, Inc.](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=5055dea5-b670-4a19-adb1-2aea04ba5207&ccId=19000101_000001&type=MP&lang=en_US&jobId=472432) | Orlando, FL | Intern (Software) (US Citizenship Required) |
-| [Discover](https://jobs.discover.com/jobs/r292162024-business-technology-internship-program-riverwoods/) | Riverwoods, IL | Business Technology Internship Program (No Sponsorship) |
-| Tyler Technologies | Moraine, OH | **🔒 Closed 🔒** Software Development Intern - Summer/Fall |
 | [Steris](https://careers.steris.com/job/RICHMOND-Software-Engineering-Intern-CA-94804/1054522400/) | Richmond, CA | Software Engineer Intern |
 | [Eagle Eye Produce](https://eagleeyeproduce.bamboohr.com/careers/108) | Idaho Falls, ID | Web Developer Intern |
 | [Aquaveo](https://www.aquaveo.com/jobs-geospatial-web-developer-intern) | Provo, UT | Geospatial Web Developer Intern |
 | Deloitte | Multiple Locations | [Software Engineer Intern - Technology Assets](https://apply.deloitte.com/careers/JobDetail/Deloitte-Risk-Financial-Advisory-Software-Engineer-Intern-Technology-Assets-Summer-2024/150371) </br> [Software Engineer Intern - Digital Assets/Blockchain](https://apply.deloitte.com/careers/JobDetail/Deloitte-Risk-Financial-Advisory-Software-Engineer-Intern-Digital-Assets-Blockchain-Summer-2024/150369) |
-| UPS | Atlanta, GA | **🔒 Closed 🔒** Software Engineer Intern |
 | [Snap Inc.](https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Los-Angeles-California/Software-Engineering-Intern--Summer-2024_R0032156) | Los Angeles; Palo Alto; Seattle | Software Engineering Intern, Summer 2024 |
 
 <!-- Please leave a one line gap between this and the table -->
