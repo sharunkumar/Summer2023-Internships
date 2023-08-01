@@ -16,7 +16,6 @@
 | D.E. Shaw | New York, NY | [Software Development Intern (New York) - Summer 2024](https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2024-4803) <br/> [Systems Technical Program Manager Intern (New York) – Summer 2024](https://www.deshaw.com/careers/systems-technical-program-manager-intern-new-york-summer-2024-4786) <br/> [Systems Administrator Intern (New York) - Summer 2024](https://www.deshaw.com/careers/systems-administrator-intern-new-york-summer-2024-4782) <br/> [Systems Technologist Intern (New York) - Summer 2024](https://www.deshaw.com/careers/systems-technologist-intern-new-york-summer-2024-4785) |
 | [Bank of America](https://bankcampuscareers.tal.net/vx/lang-en-GB/mobile-0/brand-4/xf-91c0e92d74a1/candidate/so/pm/1/pl/1/opp/10165-Global-Technology-Summer-Analyst-Program-2024/en-GB) | Multiple US Locations | Global Technology Summer Analyst Program - 2024 |
 | [Mercedes-Benz](https://jobs.lever.co/MBRDNA/59ae463c-5d10-4bb6-9dfd-4e26c7d84a69) | Sunnyvale, CA | Data Products Intern |
-| Palantir Technologies| New York, NY or Washington, DC | **🔒 Closed 🔒** Palantir Path Intern (must be enrolled in a U.S. bachelor's program) |
 | [Lumen Technologies](https://jobs.lumen.com/global/en/job/324980/Intern-Summer-2024-Program-Submit-Interest) | Remote, USA | Intern - Summer 2024 Program - Submit Interest (U.S. work authorization required) |
 | [Marotta Controls](https://marotta.com/job-openings/?gnk=job&gni=8a7883ac879c5eca0187ef4d715d4fd8&lang=en) | Parsippany, NJ | Software Engineering Intern - (Summer 2024) (U.S citizens only) |
 | Scholastic | New York, NY | [Scholastic Summer Software Engineer Intern](https://scholastic.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York/Scholastic-Summer-Software-Engineer-Intern_R12104) <br> [Scholastic Summer Software Development Test Intern](https://scholastic.wd5.myworkdayjobs.com/en-US/External/job/Scholastic-Summer-Software-Development-Engineer-In-Test-Intern_R12103) |
@@ -58,13 +57,9 @@
 | [Steris](https://careers.steris.com/job/RICHMOND-Software-Engineering-Intern-CA-94804/1054522400/) | Richmond, CA | Software Engineer Intern |
 | [Aquaveo](https://www.aquaveo.com/jobs-geospatial-web-developer-intern) | Provo, UT | Geospatial Web Developer Intern |
 | Deloitte | Multiple Locations | [Software Engineer Intern - Technology Assets](https://apply.deloitte.com/careers/JobDetail/Deloitte-Risk-Financial-Advisory-Software-Engineer-Intern-Technology-Assets-Summer-2024/150371) </br> [Software Engineer Intern - Digital Assets/Blockchain](https://apply.deloitte.com/careers/JobDetail/Deloitte-Risk-Financial-Advisory-Software-Engineer-Intern-Digital-Assets-Blockchain-Summer-2024/150369) |
-| UPS | Atlanta, GA | **🔒 Closed 🔒** Software Engineer Intern |
-| Snap Inc. | Los Angeles; Palo Alto; Seattle |  **🔒 Closed 🔒** Software Engineering Intern, Summer 2024 |
-| GE Aerospace | Multiple US Locations | [Digital Technology Intern](https://ge.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/GE-Aerospace-US-Digital-Technology-Intern---Summer-2024_R3718425-1) (No Sponsorship) <br/> [Engineering Engines Computer or Software Engineering Intern](https://ge.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/GE-Aerospace-Engineering-Engines-Computer-or-Software-Engineering-Intern---Summer-2024_R3726060) (No Sponsorship) <br/> [Systems Engineering Intern](https://ge.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/GE-Aerospace-Systems-Engineering-Intern---Summer-2024_R3696296-1) (No Sponsorship) |
 | New York Life | New York, NY | [Technology Summer Intern](https://jobs.newyorklife.com/job/New-York-2024-Technology-Summer-Internship-Program-NY-10001/1055772100/) |
 | [Ramp](https://jobs.ashbyhq.com/ramp/16ebfcfc-467b-40e5-b23e-a4d95db05539) | New York, NY | Backend Software Engineering Internship |
 | [Gecko Robotics](https://www.geckorobotics.com/careers/apply?gh_jid=5695257003) | Boston, MA | Software Engineering Internship - Summer 2024 |
 | [Castleton Commodities International](https://osv-cci.wd1.myworkdayjobs.com/CCICareers/job/Stamford-CT/Data-Science-Internship--Summer-2023-_R622) | Stamford, CT | Data Science Internship |
-| [Medtronic](https://medtronic.eightfold.ai/careers/job/17363492) | Multiple | Software Engineering Summer 2024 Intern (No Sponsorship) |
 
 <!-- Please leave a one line gap between this and the table -->
