@@ -62,6 +62,5 @@
 | [Castleton Commodities International](https://osv-cci.wd1.myworkdayjobs.com/CCICareers/job/Stamford-CT/Data-Science-Internship--Summer-2023-_R622) | Stamford, CT | Data Science Internship |
 | [Sentry](https://boards.greenhouse.io/sentry/jobs/5193538) | San Francisco, CA | Software Engineer Intern Summer 2024 |
 | [HPR](https://hyannisportresearch.com/careers/#modal-5698876003) | Unspecified | Software Engineering Intern - Summer 2024 |
-| [National Instruments](https://pef.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8038?utm_medium=jobboard&utm_source=Linkedin) | Austin, TX | Software Engineering Intern - Summer 2024 (No Sponsorship)| 
 
 <!-- Please leave a one line gap between this and the table -->
