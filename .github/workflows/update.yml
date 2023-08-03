@@ -52,10 +52,10 @@ jobs:
 
     - name: Update README-Off-Season.md
       run: |
-        sed -i '/🔒/Id' README.md
-        sed -i '/US Citizen/Id' README.md
-        sed -i '/Permanent Resident/Id' README.md
-        sed -i '/PhD/Id' README.md
+        sed -i '/🔒/Id' README-Off-Season.md
+        sed -i '/US Citizen/Id' README-Off-Season.md
+        sed -i '/Permanent Resident/Id' README-Off-Season.md
+        sed -i '/PhD/Id' README-Off-Season.md
 
     - name: Commit
       run: |
