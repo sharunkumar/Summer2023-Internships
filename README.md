@@ -3,53 +3,6 @@
 
 > This README file is for **2024 summer internships only**. For off-season internships, please see the [Off-Season 2024 README](https://github.com/sharunkumar/Summer2024-Internships/blob/dev/README-Off-Season.md).
 
-> **Update (Aug 2, 2023)** :partying_face:
->
-> You might have noticed that the repo looks a little different. We've made some exciting new changes:
->
-> - :arrow_up: **More Internship Listings!** - A script automatically updates this repo with new internships on Simplify.
-> - :pencil2: **Easier Contributions!** - Submit an [issue](https://github.com/SimplifyJobs/Summer2024-Internships/issues/new/choose) to add/edit an internship. See [guidelines](https://github.com/pittcsc/Summer2024-Internships/blob/dev/CONTRIBUTING.md).
-> - :sparkles: **New Apply Options!** - gray button is standard posting, blue is Simplify's one-click application.
-
-
-:warning: Please note that this repository is exclusively for internships/co-ops in the United States, Canada, or Remote positions :earth_americas:
-
-🧠 For valuable tips on navigating the internship process, be sure to check out our guide [Zero to Offer](https://www.pittcs.wiki/zero-to-offer) 🧠.
-
-🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/Summer2024-Internships/issues/new/choose)! See the contribution guidelines [here](https://github.com/pittcsc/Summer2024-Internships/blob/dev/CONTRIBUTING.md)!** 🙏
-
----
-<div align="center">
-	<p>
-		<a href="https://simplify.jobs/?utm_source=pittcsc&utm_medium=internships_repo">
-			<b>Applying to internships?</b>
-			<br>
-			Autofill all your applications in a single click.
-			<br>
-			<div>
-				<a href="https://simplify.jobs/?utm_source=pittcsc&utm_medium=internships_repo">
-          <img src="https://res.cloudinary.com/dpeo4xcnc/image/upload/v1636594918/simplify_pittcsc.png" width="450" alt="Simplify">
-        </a>
-			</div>
-		</a>
-		<sub><i>Stop manually re-entering your information. Simplify’s extension helps you autofill internship applications on millions of sites.</i></sub>
-	</p>
-</div>
-
-
-
-<div align="center">
-  <h3>
-    Thanks for a great three years 💖💖
-  </h3>
-  <p>
-    <img src="https://api.star-history.com/svg?repos=pittcsc/Summer2024-Internships&type=Date" width="500" alt="Star History">
-  </p>
-</div>
-
----
-
-## The List 🚴🏔
 
 > This README file is for **2024 summer internships only**. For off-season internships, please see the [Off-Season 2024 README](https://github.com/sharunkumar/Summer2024-Internships/blob/dev/README-Off-Season.md).
 
