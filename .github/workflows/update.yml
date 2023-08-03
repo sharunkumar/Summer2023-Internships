@@ -70,7 +70,7 @@ jobs:
         sed -i '/Use this repo/,/The List/d' README.md
         sed -i '/Use this repo/,/The List/d' README-Off-Season.md
         sed -i '/Back to Top/,/Made with/d' README.md
-        sed -i '/Back to Top/,/Made with/d' README-Off-Season.md
+        sed -i '/We love/,/Made with/d' README-Off-Season.md
         sed -i '/Jump to bottom/Id' README.md
         sed -i '/Jump to bottom/Id' README-Off-Season.md
 
