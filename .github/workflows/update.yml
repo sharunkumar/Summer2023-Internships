@@ -25,9 +25,23 @@ jobs:
 
     - name: Upstream Setup & Merge
       run: |
-        git remote add upstream https://github.com/pittcsc/Summer2024-Internships.git
+        git remote add upstream https://github.com/SimplifyJobs/Summer2024-Internships.git
         git fetch upstream
         git merge --log upstream/dev --strategy=recursive --strategy-option=theirs
+
+    # This has to be done first due to permissions reasons
+    - name: Remove other workflows
+      run: |
+        find .github/workflows/ -name '*.yml' ! -name 'update.yml' -exec rm -v {} +
+
+    - name: Commit and push
+      run: |
+        if [[ `git status --porcelain` ]]; then
+          git commit -am "removed the unused workflows" && git push
+        else
+          echo "No changes to commit"
+        fi
+
 
     - name: Update README.md
       run: |
@@ -83,9 +97,9 @@ jobs:
         
     - name: Fix Links
       run: |
-        sed -i 's|pittcsc/Summer2024-Internships/blob/dev/README|sharunkumar/Summer2024-Internships/blob/dev/README|g' README.md
-        # sed -i 's|pittcsc/Summer2024-Internships/blob/dev/README|sharunkumar/Summer2024-Internships/blob/dev/README|g' README-2023.md
-        sed -i 's|pittcsc/Summer2024-Internships/blob/dev/README|sharunkumar/Summer2024-Internships/blob/dev/README|g' README-Off-Season.md
+        sed -i 's|SimplifyJobs/Summer2024-Internships/blob/dev/README|sharunkumar/Summer2024-Internships/blob/dev/README|g' README.md
+        # sed -i 's|SimplifyJobs/Summer2024-Internships/blob/dev/README|sharunkumar/Summer2024-Internships/blob/dev/README|g' README-2023.md
+        sed -i 's|SimplifyJobs/Summer2024-Internships/blob/dev/README|sharunkumar/Summer2024-Internships/blob/dev/README|g' README-Off-Season.md
         # sed -i 's|README-2024.md|README.md|g' README-2023.md
 
     - name: Commit
@@ -98,15 +112,3 @@ jobs:
         
     - name: Push
       run: git push
-
-    - name: Remove other workflows
-      run: |
-        find .github/workflows/ -name '*.yml' ! -name 'update.yml' -exec rm -v {} +
-
-    - name: Commit and push
-      run: |
-        if [[ `git status --porcelain` ]]; then
-          git commit -am "removed the unused workflows" && git push
-        else
-          echo "No changes to commit"
-        fi
