@@ -73,6 +73,7 @@ jobs:
         sed -i '/We love/,/Made with/d' README-Off-Season.md
         sed -i '/Jump to bottom/Id' README.md
         sed -i '/Jump to bottom/Id' README-Off-Season.md
+        sed -i '0,/This README/{//d;}' README.md
 
     - name: Commit
       run: |
