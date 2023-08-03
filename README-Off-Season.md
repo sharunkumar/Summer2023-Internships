@@ -24,7 +24,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 ## The List 🚴🏔
 
 > **Note**:
-> This README file is for **non-summer internships only**. For summer internships, please see the [Summer 2024 README](https://github.com/SimplifyJobs/Summer2024-Internships/blob/dev/README.md).
+> This README file is for **non-summer internships only**. For summer internships, please see the [Summer 2024 README](https://github.com/sharunkumar/Summer2024-Internships/blob/dev/README.md).
 
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 
