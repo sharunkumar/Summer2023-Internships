@@ -30,14 +30,14 @@ jobs:
         git merge --log upstream/dev --strategy=recursive --strategy-option=theirs
 
     # This has to be done first due to permissions reasons
-    - name: Remove other workflows
+    - name: Move other workflows
       run: |
-        find .github/workflows/ -name '*.yml' ! -name 'update.yml' -exec rm -v {} +
+        find .github/workflows/ -name '*.yml' ! -name 'update.yml' -exec git mv {} .github/archived-workflows/ \;
 
     - name: Commit and push
       run: |
         if [[ `git status --porcelain` ]]; then
-          git commit -am "removed the unused workflows" && git push
+          git commit -am "move unused workflows" && git push
         else
           echo "No changes to commit"
         fi
