@@ -35,7 +35,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 > This README file is for **2024 summer internships only**. For off-season internships, please see the [Off-Season 2024 README](https://github.com/pittcsc/Summer2024-Internships/blob/dev/README-Off-Season.md).
 
-[⬇️ Jump to bottom ⬇️](https://github.com/SimplifyJobs/Summer2024-Internships#we-love-our-contributors-%EF%B8%8F%EF%B8%8F)
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 
 | Company | Role | Location | Application/Link | Date Posted |
@@ -272,12 +271,3 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **Stoke Space** | Software Intern (US Citizenship OR Permanent Resident required) | Kent, WA | <a href="https://www.stokespace.com/careers/current-openings/?gh_jid=4944845004?utm_source=Simplify-GH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 03 |
 
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
-[⬆️ Back to Top ⬆️](https://github.com/SimplifyJobs/Summer2024-Internships#the-list-)
-
-## We love our contributors ❤️❤️
-
-Make a [pull request](https://github.com/susam/gitpr#create-pull-request) to help contribute.
-<a href="https://github.com/pittcsc/Summer2024-Internships/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=pittcsc/Summer2024-Internships&columns=24&max=480" />
-</a>
-_Made with [contrib.rocks](https://contrib.rocks)._
