@@ -67,7 +67,7 @@ jobs:
         
     - name: Remove Fluff
       run: |
-        sed -i '/Use this repo/,/The List/d' README.md
+        sed -i '/Update /,/The List/d' README.md
         sed -i '/Use this repo/,/The List/d' README-Off-Season.md
         sed -i '/Back to Top/,/Made with/d' README.md
         sed -i '/We love/,/Made with/d' README-Off-Season.md
