@@ -61,9 +61,3 @@
 
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
 
-## We love our contributors ❤️❤️
-Make a [pull request](https://github.com/susam/gitpr#create-pull-request) to help contribute.
-<a href="https://github.com/pittcsc/Summer2024-Internships/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=pittcsc/Summer2024-Internships&columns=24&max=480"/>
-</a>
-*Made with [contrib.rocks](https://contrib.rocks).*
