@@ -1,37 +1,5 @@
 # Summer 2024 Tech Internships by Pitt CSC & Simplify
 
-We're back! Use this repo to share and keep track of software, tech, CS, PM, quant internships for **Summer 2024**. The list is maintained collaboratively by the [Pitt Computer Science Club](https://pittcsc.org/) and [Simplify](https://simplify.jobs/)!
-
-
-> **Update (Aug 2, 2023)** :partying_face:
->
-> You might have noticed that the repo looks a little different. We've made some exciting new changes:
->
-> - :arrow_up: **More Internship Listings!** - A script automatically updates this repo with new internships on Simplify.
-> - :pencil2: **Easier Contributions!** - Submit an [issue](https://github.com/SimplifyJobs/Summer2024-Internships/issues/new/choose) to add/edit an internship. See [guidelines](https://github.com/pittcsc/Summer2024-Internships/blob/dev/CONTRIBUTING.md).
-> - :sparkles: **New Apply Options!** - gray button is standard posting, blue is Simplify's one-click application.
-
-
-:warning: Please note that this repository is exclusively for internships/co-ops in the United States, Canada, or Remote positions :earth_americas:
-
-🧠 For valuable tips on navigating the internship process, be sure to check out our guide [Zero to Offer](https://www.pittcs.wiki/zero-to-offer) 🧠.
-
-🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/Summer2024-Internships/issues/new/choose)! See the contribution guidelines [here](https://github.com/pittcsc/Summer2024-Internships/blob/dev/CONTRIBUTING.md)!** 🙏
-
----
-
-<div align="center">
-  <h3>
-    Thanks for a great three years 💖💖
-  </h3>
-  <p>
-    <img src="https://api.star-history.com/svg?repos=pittcsc/Summer2024-Internships&type=Date" width="500" alt="Star History">
-  </p>
-</div>
-
----
-
-## The List 🚴🏔
 
 > This README file is for **2024 summer internships only**. For off-season internships, please see the [Off-Season 2024 README](https://github.com/pittcsc/Summer2024-Internships/blob/dev/README-Off-Season.md).
 
