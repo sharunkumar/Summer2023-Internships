@@ -3,6 +3,57 @@
 
 > This README file is for **2024 summer internships only**. For off-season internships, please see the [Off-Season 2024 README](https://github.com/sharunkumar/Summer2024-Internships/blob/dev/README-Off-Season.md).
 
+> **Update (Aug 2, 2023)** :partying_face:
+>
+> You might have noticed that the repo looks a little different. We've made some exciting new changes:
+>
+> - :arrow_up: **More Internship Listings!** - A script automatically updates this repo with new internships on Simplify.
+> - :pencil2: **Easier Contributions!** - Submit an [issue](https://github.com/SimplifyJobs/Summer2024-Internships/issues/new/choose) to add/edit an internship. See [guidelines](https://github.com/pittcsc/Summer2024-Internships/blob/dev/CONTRIBUTING.md).
+> - :sparkles: **New Apply Options!** - gray button is standard posting, blue is Simplify's one-click application.
+
+
+:warning: Please note that this repository is exclusively for internships/co-ops in the United States, Canada, or Remote positions :earth_americas:
+
+🧠 For valuable tips on navigating the internship process, be sure to check out our guide [Zero to Offer](https://www.pittcs.wiki/zero-to-offer) 🧠.
+
+🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/Summer2024-Internships/issues/new/choose)! See the contribution guidelines [here](https://github.com/pittcsc/Summer2024-Internships/blob/dev/CONTRIBUTING.md)!** 🙏
+
+---
+<div align="center">
+	<p>
+		<a href="https://simplify.jobs/?utm_source=pittcsc&utm_medium=internships_repo">
+			<b>Applying to internships?</b>
+			<br>
+			Autofill all your applications in a single click.
+			<br>
+			<div>
+				<a href="https://simplify.jobs/?utm_source=pittcsc&utm_medium=internships_repo">
+          <img src="https://res.cloudinary.com/dpeo4xcnc/image/upload/v1636594918/simplify_pittcsc.png" width="450" alt="Simplify">
+        </a>
+			</div>
+		</a>
+		<sub><i>Stop manually re-entering your information. Simplify’s extension helps you autofill internship applications on millions of sites.</i></sub>
+	</p>
+</div>
+
+
+
+<div align="center">
+  <h3>
+    Thanks for a great three years 💖💖
+  </h3>
+  <p>
+    <img src="https://api.star-history.com/svg?repos=pittcsc/Summer2024-Internships&type=Date" width="500" alt="Star History">
+  </p>
+</div>
+
+---
+
+## The List 🚴🏔
+
+> This README file is for **2024 summer internships only**. For off-season internships, please see the [Off-Season 2024 README](https://github.com/pittcsc/Summer2024-Internships/blob/dev/README-Off-Season.md).
+
+[⬇️ Jump to bottom ⬇️](https://github.com/SimplifyJobs/Summer2024-Internships#we-love-our-contributors-%EF%B8%8F%EF%B8%8F)
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 
 | Company | Role | Location | Application/Link | Date Posted |
@@ -125,7 +176,7 @@
 | **[Hewlett Packard (HP)](https://simplify.jobs/c/Hewlett-Packard)** | Treasury Intern | Spring, TX | <a href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Treasury-Intern_3106331?utm_source=Simplify-GH&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/25a93696-1f6b-4ddd-9795-4f99bcee1277?utm_source=GH-List"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jul 19 |
 | **[Hudson River Trading](https://simplify.jobs/c/Hudson-River-Trading)** | Business Development Skillbridge Rotational Internship | NYC | <a href="https://www.hudsonrivertrading.com/careers/job/?gh_jid=4960933?utm_source=Simplify-GH&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/d4f439ef-5346-42f4-b9cf-e33f4a81a1da?utm_source=GH-List"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jul 19 |
 | **Infoverity** | Summer Internship Program (No Sponsorship) | Dublin, OH | <a href="https://infoverity.zohorecruit.com/jobs/Infoverity-USA-Careers/530797000006827069/Summer-Internship-summer-2024-?utm_source=Simplify-GH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 19 |
-| **[Kinaxis](https://simplify.jobs/c/Kinaxis)** | Co-Op/Intern Performance Analyst | Ottawa, ON, Canada | <a href="https://boards.greenhouse.io/kinaxis/jobs/6817071002?utm_source=Simplify-GH&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/b39fa58e-8d59-4800-832c-18871266c7ca?utm_source=GH-List"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jul 19 |
+| **Kinaxis** | Co-Op/Intern Performance Analyst | Ottawa, ON, Canada | 🔒 | Jul 19 |
 | **[Klue](https://simplify.jobs/c/klue)** | Data Analyst Intern | Canada | <a href="https://jobs.lever.co/klue/b88e45c3-c067-410b-a7d3-ca23142b9bef/apply?utm_source=Simplify-GH&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/4bbcf0e2-31c1-4232-8912-9184788c6095?utm_source=GH-List"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jul 19 |
 | **[Konrad Group](https://simplify.jobs/c/Konrad-Group)** | Uoft PEY - Software Developer Intern - Months | Toronto, ON, Canada | <a href="https://boards.greenhouse.io/konradgroup/jobs/5654760003?utm_source=Simplify-GH&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/62b89c51-28d5-47b8-b560-cc33243f1953?utm_source=GH-List"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jul 19 |
 | **[Lendbuzz](https://simplify.jobs/c/Lendbuzz)** | Fullstack Engineering Coop | Cambridge, MA | <a href="https://jobs.lever.co/lendbuzz/20680ca7-89fb-4fb4-9b5c-c0e3ab78deff/apply?utm_source=Simplify-GH&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/24f9405e-dfb5-42d4-ab10-b27ebd4879ce?utm_source=GH-List"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jul 19 |
@@ -226,6 +277,6 @@
 | **Skyworks** | Web Development Intern | Hillsboro, OR | <a href="https://careers.skyworksinc.com/job/Hillsboro-Intern-Web-Development-OR-97006/1057407200/?utm_source=Simplify-GH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 03 |
 | **[HRL Laboratories](https://simplify.jobs/c/HRL-Laboratories)** | Causal Inference and Reasoning Summer Intern | Calabasas, CA | <a href="https://jobs.lever.co/dodmg/c65fe8cc-b107-4bf4-8c3f-a962bbff9d3e/apply?utm_source=Simplify-GH&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/ba3a8d68-5f5b-4e5d-9235-9e3e27b07a98?utm_source=GH-List"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 03 |
 | **[HRL Laboratories](https://simplify.jobs/c/HRL-Laboratories)** | Virtual Cyber Network Operations Intern | Calabasas, CA | <a href="https://jobs.lever.co/dodmg/95ffb1f4-252c-41da-b414-cb8821e316e0/apply?utm_source=Simplify-GH&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/7912130b-21ef-4eb1-b30e-8c8282fabfbf?utm_source=GH-List"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 03 |
-| **Lockheed Martin** | Software Engineering Intern | Remote | <a href="https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25037&siteid=5014&PageType=JobDetails&jobid=741380?utm_source=Simplify-GH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 03 |
+| **Lockheed Martin** | Software Engineering Intern | Remote | <a href="https://www.lockheedmartinjobs.com/job/orlando/software-engineering-intern/694/52455467776?utm_source=Simplify-GH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 03 |
 
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
