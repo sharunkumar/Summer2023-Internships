@@ -1,9 +1,5 @@
 # Summer 2024 Tech Internships by Pitt CSC & Simplify
 
-
-
-
-
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 
 | Company | Role | Location | Application/Link | Date Posted |
