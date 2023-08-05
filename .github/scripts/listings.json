@@ -10,12 +10,12 @@
         "terms": [
             "Summer 2024"
         ],
-        "active": true,
+        "active": false,
         "url": "https://www.capitalonecareers.com/job/mclean/product-development-intern-summer-2024/31238/51746418592",
         "is_visible": true,
         "source": "Markdown",
         "company_url": "",
-        "date_updated": 1690430400,
+        "date_updated": 1691190624,
         "id": "98b2d671-3f03-430e-b18c-e5ddb8ce5035"
     },
     {
@@ -394,7 +394,7 @@
         "is_visible": true,
         "source": "Markdown",
         "company_url": "",
-        "date_updated": 1690430400,
+        "date_updated": 1691190677,
         "id": "754925a8-1aec-4f99-85c8-a605c1a711aa"
     },
     {
@@ -4934,12 +4934,12 @@
         "terms": [
             "Summer 2024"
         ],
-        "active": true,
+        "active": false,
         "url": "https://jobs.discover.com/jobs/r292162024-business-technology-internship-program-riverwoods/",
         "is_visible": true,
         "source": "Markdown",
         "company_url": "",
-        "date_updated": 1690862400,
+        "date_updated": 1691191332,
         "id": "50eb99e5-308b-4a6e-b657-f520b3df9863"
     },
     {
@@ -6344,6 +6344,45 @@
             "City of Industry, CA"
         ],
         "company_url": "https://simplify.jobs/c/JD-com-Inc",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1691183149,
+        "url": "https://www.amazon.jobs/en/jobs/2408098/software-development-engineer-internship-2024-us",
+        "company_name": "Amazon",
+        "title": "Software Development Engineer Internship",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "active": true,
+        "source": "mrwangone",
+        "id": "370a7b3c-dc1b-4d0c-8508-ea06a5618abe",
+        "date_posted": 1691183149,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1691183260,
+        "url": "https://www.databricks.com/company/careers/open-positions?department=University%20Recruiting&location=AMER",
+        "company_name": "Databricks",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "Mountain View, CA",
+            "San Francisco, CA",
+            "Bellevue, WA"
+        ],
+        "terms": [
+            "Winter 2024",
+            "Summer 2024"
+        ],
+        "active": true,
+        "source": "justinyaodu",
+        "id": "daa7aaf5-d636-4761-be5b-18073e5bd8e2",
+        "date_posted": 1691183260,
+        "company_url": "",
         "is_visible": true
     }
 ]
