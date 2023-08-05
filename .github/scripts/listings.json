@@ -2871,12 +2871,12 @@
         "terms": [
             "Summer 2024"
         ],
-        "active": true,
+        "active": false,
         "url": "https://scholastic.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York/Scholastic-Summer-Software-Engineer-Intern_R12104",
         "is_visible": true,
         "source": "Markdown",
         "company_url": "",
-        "date_updated": 1690430400,
+        "date_updated": 1691255973,
         "id": "875acd99-4e91-4cdf-8e53-5a7b5915231d"
     },
     {
@@ -6203,12 +6203,12 @@
         "source": "Simplify",
         "company_name": "Sezzle",
         "id": "04de6428-bb1a-4a42-82d8-a4be9cf54dd0",
-        "title": "Software Engineering Intern",
+        "title": "Software Engineering Intern (undergraduate senior only)",
         "active": true,
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1691104689,
+        "date_updated": 1691257071,
         "date_posted": 1691104689,
         "url": "https://boards.greenhouse.io/sezzle/jobs/5703577003",
         "locations": [
@@ -6437,6 +6437,63 @@
             "LA"
         ],
         "company_url": "https://simplify.jobs/c/Taboola",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1691256114,
+        "url": "https://www.tesla.com/careers/search/job/cell-manufacturing-controls-and-software-automation-engineering-internship-spring-summer-2024-206610",
+        "company_name": "Tesla",
+        "title": "Software Automation Engineering Intern - Cell Manufacturing",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "active": true,
+        "source": "RiRah123",
+        "id": "674db0df-ee78-49c8-a161-0c2bc0378d62",
+        "date_posted": 1691256114,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1691256144,
+        "url": "https://www.tesla.com/careers/search/job/vehicle-hardware-software-engineering-and-machine-learning-internship-spring-summer-2024-206421",
+        "company_name": "Tesla",
+        "title": "Software Engineering & Machine Learning Intern - Vehicle Hardware",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "active": true,
+        "source": "RiRah123",
+        "id": "7528c4b0-035c-4756-9a00-27b481c0a732",
+        "date_posted": 1691256144,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1691256212,
+        "url": "https://www.tesla.com/careers/search/job/energy-software-engineering-spring-summer-2024-206805",
+        "company_name": "Tesla",
+        "title": "Software Engineering Intern - Energy",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "active": true,
+        "source": "RiRah123",
+        "id": "653f4aac-6435-4066-9044-668bde551341",
+        "date_posted": 1691256212,
+        "company_url": "",
         "is_visible": true
     }
 ]
