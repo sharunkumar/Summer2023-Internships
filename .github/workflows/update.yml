@@ -48,6 +48,8 @@ jobs:
         sed -i '/🔒/Id' README.md
         sed -i '/US Citizen/Id' README.md
         sed -i '/Permanent Resident/Id' README.md
+        sed -i '/No Sponsorship/Id' README.md
+        sed -i '/citizens only/Id' README.md
         sed -i '/PhD/Id' README.md
 
     - name: Update README-Off-Season.md
@@ -55,6 +57,8 @@ jobs:
         sed -i '/🔒/Id' README-Off-Season.md
         sed -i '/US Citizen/Id' README-Off-Season.md
         sed -i '/Permanent Resident/Id' README-Off-Season.md
+        sed -i '/No Sponsorship/Id' README-Off-Season.md
+        sed -i '/citizens only/Id' README-Off-Season.md
         sed -i '/PhD/Id' README-Off-Season.md
 
     - name: Commit
@@ -67,8 +71,8 @@ jobs:
         
     - name: Remove Fluff
       run: |
-        sed -i '/Update /,/The List/d' README.md
-        sed -i '/Use this repo/,/The List/d' README-Off-Season.md
+        sed -i '/Pitt CSC /,/The List/d' README.md
+        sed -i '/Pitt CSC/,/The List/d' README-Off-Season.md
         sed -i '/Back to Top/,/Made with/d' README.md
         sed -i '/We love/,/Made with/d' README-Off-Season.md
         sed -i '/Jump to bottom/Id' README.md
