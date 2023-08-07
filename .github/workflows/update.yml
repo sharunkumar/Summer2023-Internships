@@ -46,18 +46,18 @@ jobs:
     - name: Update README.md
       run: |
         sed -i '/🔒/Id' README.md
-        sed -i '/US Citizen/Id' README.md
+        sed -i '/🇺🇸/Id' README.md
+        sed -i '/🛂/Id' README.md
         sed -i '/Permanent Resident/Id' README.md
-        sed -i '/No Sponsorship/Id' README.md
         sed -i '/citizens only/Id' README.md
         sed -i '/PhD/Id' README.md
 
     - name: Update README-Off-Season.md
       run: |
         sed -i '/🔒/Id' README-Off-Season.md
-        sed -i '/US Citizen/Id' README-Off-Season.md
+        sed -i '/🇺🇸/Id' README-Off-Season.md
+        sed -i '/🛂/Id' README-Off-Season.md
         sed -i '/Permanent Resident/Id' README-Off-Season.md
-        sed -i '/No Sponsorship/Id' README-Off-Season.md
         sed -i '/citizens only/Id' README-Off-Season.md
         sed -i '/PhD/Id' README-Off-Season.md
 

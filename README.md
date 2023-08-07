@@ -1,13 +1,64 @@
+# Summer 2024 Tech Internships by Pitt CSC & Simplify
+
+We're back! Use this repo to share and keep track of software, tech, CS, PM, quant internships for **Summer 2024**. The list is maintained collaboratively by the [Pitt Computer Science Club](https://pittcsc.org/) and [Simplify](https://simplify.jobs/)!
+
+
+> **Update (Aug 2, 2023)** :partying_face:
+> - Sponsorship Information is now shown using emojis (see legend)
+
+
+:warning: Please note that this repository is exclusively for internships/co-ops in the United States, Canada, or Remote positions :earth_americas:
+
+🧠 For valuable tips on navigating the internship process, be sure to check out our guide [Zero to Offer](https://www.pittcs.wiki/zero-to-offer) 🧠.
+
+🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/Summer2024-Internships/issues/new/choose)! See the contribution guidelines [here](https://github.com/pittcsc/Summer2024-Internships/blob/dev/CONTRIBUTING.md)!** 🙏
+
+---
+<div align="center">
+	<p>
+		<a href="https://simplify.jobs/?utm_source=GHList&utm_medium=banner">
+			<b>Applying to internships?</b>
+			<br>
+			Autofill all your applications in a single click.
+			<br>
+			<div>
+				<a href="https://simplify.jobs/?utm_source=GHList&utm_medium=banner">
+          <img src="https://res.cloudinary.com/dpeo4xcnc/image/upload/v1636594918/simplify_pittcsc.png" width="450" alt="Simplify">
+        </a>
+			</div>
+		</a>
+		<sub><i>Stop manually re-entering your information. Simplify’s extension helps you autofill internship applications on millions of sites.</i></sub>
+	</p>
+</div>
+
+
+
+<div align="center">
+  <h3>
+    Thanks for a great three years 💖💖
+  </h3>
+  <p>
+    <img src="https://api.star-history.com/svg?repos=pittcsc/Summer2024-Internships&type=Date" width="500" alt="Star History">
+  </p>
+</div>
+
+---
+
+## The List 🚴🏔
 
  - 🛂 - Does NOT offer Sponsorship
  - 🇺🇸 - Requires U.S. Citizenship
+ - 🔒 - Internship application is closed
 
+> This README file is for **2024 summer internships only**. For off-season internships, please see the [Off-Season 2024 README](https://github.com/pittcsc/Summer2024-Internships/blob/dev/README-Off-Season.md).
 
+[⬇️ Jump to bottom ⬇️](https://github.com/SimplifyJobs/Summer2024-Internships#we-love-our-contributors-%EF%B8%8F%EF%B8%8F)
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
 | **[Fyusion](https://simplify.jobs/c/Fyusion)** | Computer Vision Intern - Deep Learning | SF | <a href="https://jobs.lever.co/fyusion/31540b34-b559-4f3b-8c0a-688d504d7288/apply?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/c9061fa0-beb8-4c43-b13a-ff96309fa7f3?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov |
+| **Capital One** | Product Development Intern  🛂 | McLean, VA</br>Plano, TX | 🔒 | May |
 | **Panasonic** | Software Electrical Engineer Intern | The Colony, TX | <a href="https://careers.na.panasonic.com/careers/software-electrical-engineer-intern?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May |
 | **Internet Brands** | Intern Software Engineer | Los Angeles, California | <a href="https://jobs.jobvite.com/internetbrands/job/oUZQnfwQ?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May |
 | **Citi** | Quantitative Analysis Intern | NYC | <a href="https://jobs.citi.com/job/new-york/nam-quantitative-analysis-summer-analyst-new-york-city-north-america-2024/287/51453955504?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May |
@@ -16,7 +67,13 @@
 | **Zurich** | Internship Program  🛂 | Multiple Locations | <a href="https://www.careers.zurich.com/job/Schaumburg-Zurich-North-America-Summer-Internship-Program-%282024%29-IL-60159/774993902/?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May |
 | **PwC** | Digital Assurance & Transparency Technology Intern | Multiple Locations | <a href="https://jobs.us.pwc.com/job/atlanta/digital-assurance-and-transparency-dat-tech-intern-summer-2024/932/51608860064?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May |
 | **PwC** | Digital Assurance & Transparency Data Science Intern | Multiple Locations | <a href="https://jobs.us.pwc.com/job/los-angeles/digital-assurance-and-transparency-dat-data-intern-summer-2024/932/51608839968?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May |
+| **Northrop Grumman** | Software Engineer Intern  🇺🇸 | Redondo Beach, CA | 🔒 | May |
+| **Sensata Technologies** | Software Engineer Intern | Attleboro, MA | 🔒 | May |
+| **Paycom** | Software Analyst Intern | Oklahoma City, OK | 🔒 | May |
+| **Paycom** | Software Development Intern  🛂 | Oklahoma City, OK | 🔒 | May |
+| **Paycom** | Deployment Engineer Intern | Oklahoma City, OK | 🔒 | May |
 | **[Point72](https://simplify.jobs/c/Point72)** | Quantitative Developer Internship | NYC | <a href="https://careers.point72.com/CSJobDetail?jobName=summer-2024-quantitative-developer-internship&jobCode=CSS-0010069?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May |
+| **Truist** | Technology and Innovation Internship | Charlotte, NC</br>Atlanta, GA | 🔒 | May |
 | **Intuit** | Summer Internship Interest | Multiple Locations | <a href="https://talenteq.intuit.com/ucs?cid=elq-form_hs_698061_US_UR-FY23_lg_iac-msg4_link_intuit-talentmktg?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May |
 | **[DRW](https://simplify.jobs/c/DRW)** | Software Developer Intern  | Austin, TX</br>Chicago, IL | <a href="https://drw.com/work-at-drw/listings/software-developer-intern-2567189?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May |
 | **[DRW](https://simplify.jobs/c/DRW)** | Site Reliability Engineer Intern | Austin, TX</br>Chicago, IL | <a href="https://drw.com/work-at-drw/listings/site-reliability-engineer-sre-intern-2569887?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May |
@@ -26,6 +83,7 @@
 | **Morgan Stanley** | Technology Summer Analyst Program | NYC | <a href="https://morganstanley.tal.net/vx/candidate/apply/15076?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May |
 | **Nomura** | Information Technology Summer Analyst Program | NYC | <a href="https://nomuracampus.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/xf-3348347fc789/candidate/so/pm/1/pl/1/opp/877-2024-Information-Technology-Summer-Analyst-Program/en-GB?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun |
 | **Blackstone** | Quantitative Strategy Intern | NYC | <a href="https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/New-York/XMLNAME-2024-Blackstone-Insurance-Solutions--Quantitative-Strategy-Summer-Analyst_26308-1?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun |
+| **KeyBank** | Digital Banking Intern  🛂 | Brooklyn, OH | 🔒 | Jun |
 | **Royal Bank of Canada** | Quantitative Technology Services Intern | Jersey City, NJ | <a href="https://jobs.rbc.com/ca/en/job/RBCAA0088R0000062764EXTERNALENCA?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun |
 | **Global Atlantic Financial Group** | Quantitative Investment Intern  🛂 | NYC | <a href="https://boards.greenhouse.io/gainternships/jobs/5150526?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun |
 | **Wabtec Corporation** | Software Engineering Intern  🛂 | Erie, PA</br>Fort Worth, TX | <a href="https://wabtec.wd1.myworkdayjobs.com/wabtec_careers/job/Erie-PA/Summer-2024-Engineering-Internship_R0075202?source=LinkedIn_corporate_page?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun |
@@ -36,11 +94,19 @@
 | **Crestron** | Internship Program | Plano, TX</br>Rockleigh, NJ | <a href="https://globalus231.dayforcehcm.com/CandidatePortal/en-US/crestron/site/candidateportal/Posting/View/820?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun |
 | **Align Technology** | Summer 2024 Internship (Expression of Interest) | Multiple Locations | <a href="https://jobs.aligntech.com/jobs/36257?iis=Job+Board&iisn=LinkedIn&lang=en-us?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun |
 | **JBS USA** | Information Technology Intern | Greeley, CO | <a href="https://jobs.jbsfoodsgroup.com/us/en/job/JBUSUS47677EXTERNALENUS/2024-IT-Summer-Internship-Program?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun |
+| **Forvis** | Information Technology Risk Intern  🛂 | Multiple Locations | 🔒 | Jun |
+| **JBS USA** | Information Technology Intern | Greeley, CO | 🔒 | Jun |
 | **SIG** | Software Engineering Internship Program (Express Interest) | Bala Cynwyd, PA | <a href="https://careers.sig.com/job/7102/Software-Engineering-Internship-Program-Summer-2024-Expression-of-Interest?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun |
+| **Intel** | Software Engineer - PEY Intern | Toronto, ON, Canada | 🔒 | Jun |
 | **Körber** | Software Developer Intern | Fargo, ND | <a href="https://jobs.koerber.com/pharma/job/Fargo-Software-Developer-Intern-ND-58102/954269201/?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun |
 | **Enphase Energy** | Embedded Firmware Engineer Intern | Austin, TX | <a href="https://jobs.jobvite.com/enphase-energy/job/oFPRmfwr?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun |
 | **Entrust** | Software Engineer Intern | Sunrise, FL | <a href="https://entrust.wd1.myworkdayjobs.com/EntrustCareers/job/United-States---Sunrise-FL/Software-Engineering-Intern_R002369?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun |
+| **Infineon** | Software Automation Engineer Intern | Andover, MA</br>Warwick, RI | 🔒 | Jun |
+| **Maximus** | Software Engineer Intern | Mclean, VA | 🔒 | Jun |
 | **Sandhills** | Software Development Intern | Lincoln, Nebraska | <a href="https://www.sandhills.com/careers-and-internships/details/careers/sandhills/1195/software-development-intern?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun |
+| **KAYAK** | Java Engineering Intern - Adtech | Concord, CA | 🔒 | Jun |
+| **Bamboo Health** | Software Engineer Intern (Must be enrolled in a Bachelor’s degree program currently) | Boston, MA</br>Remote | 🔒 | Jun |
+| **Rakuten** | Software Engineer Intern | WV, USA | 🔒 | Jun |
 | **[Zipline](https://simplify.jobs/c/Zipline)** | Summer 2024 Internship (Express Interest) | SF | <a href="https://legacy.flyzipline.com/job?gh_jid=5631836003/?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun |
 | **Two Sigma** | Quantitative Researcher - Internship | NYC | <a href="https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Internship-2024-Summer/12004?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun |
 | **Citadel** | Software Engineer Intern | Chicago, IL</br>NYC | <a href="https://www.citadel.com/careers/details/software-engineer-intern-us/?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun |
@@ -50,18 +116,29 @@
 | **Accenture** | Federal - Software Engineering Intern  🇺🇸 | Tampa, FL | <a href="https://www.accenture.com/us-en/careers/jobdetails?id=R00155153_en?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun |
 | **Elbit Systems of America** | Software Engineering Intern  🇺🇸 | Birdsboro, PA | <a href="https://jobs.smartrecruiters.com/ElbitSystemsOfAmerica/743999907500503-software-engineering-intern-ref1380b-?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun |
 | **Scholastic** | Scholastic Summer Software Development Test Intern | NYC | <a href="https://scholastic.wd5.myworkdayjobs.com/en-US/External/job/Scholastic-Summer-Software-Development-Engineer-In-Test-Intern_R12103?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun |
+| **Scholastic** | Scholastic Summer Software Engineer Intern | NYC | 🔒 | Jun |
 | **RSM** | Data Migration Consulting Intern  🇺🇸 | Denver, CO</br>Dallas, TX | <a href="https://jobs.rsmus.com/job/18650418/data-migration-consulting-intern-summer-2024-dallas-tx/?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul |
 | **RSM** | Intelligent Automation Consulting Intern  🇺🇸 | Denver, CO</br>Dallas, TX | <a href="https://jobs.rsmus.com/job/17580693/intelligent-automation-consulting-intern-summer-2024-denver-co/?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul |
+| **Trane Technologies** | 2024 Analytics & Data Science Intern  🇺🇸 | Davidson, NC</br>Minneapolis, MN | 🔒 | Jul |
 | **Marotta Controls** | Software Engineering Intern  🇺🇸 | Parsippany, NJ | <a href="https://marotta.com/job-openings/?gnk=job&gni=8a7883ac879c5eca0187ef4d715d4fd8&lang=en?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul |
+| **DRW** | Site Reliability Engineer Intern - Sre | Chicago, IL | 🔒 | Jul |
 | **Medtronic** | Software Engineering Summer 2024 Intern  🛂 | Multiple | <a href="https://medtronic.eightfold.ai/careers/job/17363492?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul |
 | **Castleton Commodities International** | Data Science Internship | Stamford, CT | <a href="https://osv-cci.wd1.myworkdayjobs.com/CCICareers/job/Stamford-CT/Data-Science-Internship--Summer-2023-_R622?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul |
 | **Lumen Technologies** | Internship program (Express Interest) (U.S. work authorization required) | Remote, USA | <a href="https://jobs.lumen.com/global/en/job/324980/Intern-Summer-2024-Program-Submit-Interest?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul |
+| **Voloridge Investment Management** | Software Engineer Intern | Jupiter, FL | 🔒 | Jul |
+| **Voloridge Investment Management** | Trading Engineer Intern | Jupiter, FL | 🔒 | Jul |
+| **Volvo** | Intern: Engineering, Embedded Software | Hagerstown, MD | 🔒 | Jul |
+| **Kinaxis** | Service Automation Co-Op/Intern - GCC Operations | Canada | 🔒 | Jul |
 | **Kimley-Horn** | Software Developer Intern  🛂 | Raleigh, NC | <a href="https://careers-kimley-horn.icims.com/jobs/9773/software-developer-intern/job?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul |
 | **Mercedes-Benz** | Data Products Intern | Sunnyvale, CA | <a href="https://jobs.lever.co/MBRDNA/59ae463c-5d10-4bb6-9dfd-4e26c7d84a69?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul |
+| **Bridgewater Associates** | Investment Engineer Intern | Westport, CT | 🔒 | Jul |
 | **Protiviti** | Technology Consulting Intern  🛂 | Phoenix, AZ | <a href="https://roberthalf.wd1.myworkdayjobs.com/en-US/ProtivitiNA/job/PHOENIX/Phoenix-Technology-Consulting-Intern---2024_JR-248209-2?Location_Country=bc33aa3152ec42d4995f4791a106ed09&Location_Region_State_Province=c7b20b0d4bc04711a00900569e9afabd?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul |
 | **[Ramp](https://simplify.jobs/c/Ramp)** | Backend Software Engineering Internship | NYC | <a href="https://jobs.ashbyhq.com/ramp/16ebfcfc-467b-40e5-b23e-a4d95db05539?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul |
 | **Bank of America** | Global Technology Summer Analyst Program | Multiple US Locations | <a href="https://bankcampuscareers.tal.net/vx/lang-en-GB/mobile-0/brand-4/xf-91c0e92d74a1/candidate/so/pm/1/pl/1/opp/10165-Global-Technology-Summer-Analyst-Program-2024/en-GB?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul |
+| **Google** | Software Engineering Intern (BS) | Multiple US Locations | 🔒 | Jul |
+| **Google** | Software Engineering Intern (MS) | Multiple US Locations | 🔒 | Jul |
 | **Johnson & Johnson** | Technology Summer Intern  🛂 | Multiple Locations | <a href="https://jobs.jnj.com/en/jobs/2306128806w/technology-internship-2024-summer-jjt-intern/?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul |
+| **New York Life** | 2024 Technology Summer Internship Program | NYC | 🔒 | Jul |
 | **D.E. Shaw** | Software Development Intern | NYC | <a href="https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2024-4803?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul |
 | **D.E. Shaw** | Systems Technical Program Manager Intern | NYC | <a href="https://www.deshaw.com/careers/systems-technical-program-manager-intern-new-york-summer-2024-4786?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul |
 | **D.E. Shaw** | Systems Administrator Intern | NYC | <a href="https://www.deshaw.com/careers/systems-administrator-intern-new-york-summer-2024-4782?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul |
@@ -70,8 +147,11 @@
 | **GE Aerospace** | Engineering Engines Computer or Software Engineering Intern | Multiple US Locations | <a href="https://ge.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/GE-Aerospace-Engineering-Engines-Computer-or-Software-Engineering-Intern---Summer-2024_R3726060?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul |
 | **GE Aerospace** | Systems Engineering Intern | Multiple US Locations | <a href="https://ge.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/GE-Aerospace-Systems-Engineering-Intern---Summer-2024_R3696296-1?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul |
 | **Capstone Investment Advisors** | Software Engineer Intern | NYC | <a href="https://www.capstoneco.com/careers/2024-summer-internship-software-engineer-nyc/?gh_jid=6784275002?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul |
+| **Palantir** | Palantir Path Internship | Washington, DC | 🔒 | Jul |
 | **Deloitte** | Software Engineer Intern - Technology Assets | Multiple Locations | <a href="https://apply.deloitte.com/careers/JobDetail/Deloitte-Risk-Financial-Advisory-Software-Engineer-Intern-Technology-Assets-Summer-2024/150371?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul |
 | **Deloitte** | Software Engineer Intern - Digital Assets/Blockchain | Multiple Locations | <a href="https://apply.deloitte.com/careers/JobDetail/Deloitte-Risk-Financial-Advisory-Software-Engineer-Intern-Digital-Assets-Blockchain-Summer-2024/150369?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul |
+| **Mosaic ML** | Software Engineer Intern | SF</br>NYC | 🔒 | Jul |
+| **Pimco** | Research Scientist Intern | Austin, TX</br>Newport Beach, CA | 🔒 | Jul |
 | **[Certik](https://simplify.jobs/c/Certik)** | Development Intern | NYC, NY</br>Seattle, WA</br>2 other locations | <a href="https://jobs.lever.co/certik/2e33570a-f495-44ef-9d7d-a0c5a7fd8190?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul |
 | **[Certik](https://simplify.jobs/c/Certik)** | Platform Engineering Intern | NYC, NY</br>Seattle, WA</br>2 other locations | <a href="https://jobs.lever.co/certik/095fdcff-99e8-408d-bb8a-e638e44d0b40?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul |
 | **[Certik](https://simplify.jobs/c/Certik)** | Full Stack Intern - Matrix | NYC, NY</br>Seattle, WA</br>2 other locations | <a href="https://jobs.lever.co/certik/ca67aab6-9b8b-4c2f-ad80-ff5855292f48?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul |
@@ -88,6 +168,7 @@
 | **[DRW](https://simplify.jobs/c/DRW)** | Accounting Intern | Chicago, IL | <a href="https://boards.greenhouse.io/drweng/jobs/5125244?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/efd1fbf2-b673-4f23-948a-c579135018e2?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jul 18 |
 | **[Fetch](https://simplify.jobs/c/FetchRewards)** | iOS Apprenticeship - Mobile Engineer | Madison, WI | <a href="https://boards.greenhouse.io/fetchrewards/jobs/4396456003?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/43f05610-37a1-46e4-b221-df988084364e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jul 18 |
 | **[Fyusion](https://simplify.jobs/c/Fyusion)** | Computer Vision Intern - Geometry | SF | <a href="https://jobs.lever.co/fyusion/0f5d1729-562f-49a7-9c67-eff1341a2620/apply?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/34d387ce-ef89-4f35-8f5b-523daf2a750c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jul 18 |
+| **Palantir** | Palantir Path Internship | NYC | 🔒 | Jul 18 |
 | **[The Allen Institute for AI](https://simplify.jobs/c/allenai)** | Research Internship | Remote | <a href="https://boards.greenhouse.io/thealleninstitute/jobs/2171324?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/6d05c45c-9256-4df6-8b2b-76d45a1dbae6?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jul 18 |
 | **[The Block](https://simplify.jobs/c/The-Block)** | Research Intern - Data | Remote in USA | <a href="https://jobs.lever.co/theblockcrypto/00ecc02c-b30e-4d1b-a02b-2f400e53e66a/apply?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/8543f884-98fb-4f86-8281-bc30a2bd002c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jul 18 |
 | **[Tower Research Capital](https://simplify.jobs/c/Tower-Research-Capital)** | Quantitative Trader Intern | NYC | <a href="https://www.tower-research.com/open-positions/?gh_jid=4360111?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/336ed97a-b0e6-47f1-8325-d9498f3cdd97?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jul 18 |
@@ -123,6 +204,7 @@
 | **[Hewlett Packard (HP)](https://simplify.jobs/c/Hewlett-Packard)** | Treasury Intern | Spring, TX | <a href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Treasury-Intern_3106331?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/25a93696-1f6b-4ddd-9795-4f99bcee1277?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jul 19 |
 | **[Hudson River Trading](https://simplify.jobs/c/Hudson-River-Trading)** | Business Development Skillbridge Rotational Internship | NYC | <a href="https://www.hudsonrivertrading.com/careers/job/?gh_jid=4960933?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/d4f439ef-5346-42f4-b9cf-e33f4a81a1da?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jul 19 |
 | **Infoverity** | Summer Internship Program  🛂 | Dublin, OH | <a href="https://infoverity.zohorecruit.com/jobs/Infoverity-USA-Careers/530797000006827069/Summer-Internship-summer-2024-?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 19 |
+| **Kinaxis** | Co-Op/Intern Performance Analyst | Ottawa, ON, Canada | 🔒 | Jul 19 |
 | **[Klue](https://simplify.jobs/c/klue)** | Data Analyst Intern | Canada | <a href="https://jobs.lever.co/klue/b88e45c3-c067-410b-a7d3-ca23142b9bef/apply?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/4bbcf0e2-31c1-4232-8912-9184788c6095?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jul 19 |
 | **[Konrad Group](https://simplify.jobs/c/Konrad-Group)** | Uoft PEY - Software Developer Intern - Months | Toronto, ON, Canada | <a href="https://boards.greenhouse.io/konradgroup/jobs/5654760003?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/62b89c51-28d5-47b8-b560-cc33243f1953?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jul 19 |
 | **[Lendbuzz](https://simplify.jobs/c/Lendbuzz)** | Fullstack Engineering Coop | Cambridge, MA | <a href="https://jobs.lever.co/lendbuzz/20680ca7-89fb-4fb4-9b5c-c0e3ab78deff/apply?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/24f9405e-dfb5-42d4-ab10-b27ebd4879ce?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jul 19 |
@@ -152,6 +234,8 @@
 | **[Workato](https://simplify.jobs/c/Workato)** | Technical Writing Intern | Remote | <a href="https://boards.greenhouse.io/workato/jobs/6612972002?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/25e84640-9d56-46f6-8355-fd8da56b4ca5?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jul 19 |
 | **Steris** | Software Engineer Intern | Richmond, CA | <a href="https://careers.steris.com/job/RICHMOND-Software-Engineering-Intern-CA-94804/1054522400/?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 20 |
 | **AQR Capital Management, LLC** | Internship (Express Interest) | Greenwich, CT | <a href="https://careers.aqr.com/jobs/university-open-positions/greenwich-ct/2024-summer-internship-express-interest/4478927?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 21 |
+| **GE Appliances** | Digital Technology Intern | Louisville, KY | 🔒 | Jul 21 |
+| **Discover** | Business Technology Internship Program  🛂 | Riverwoods, IL | 🔒 | Jul 22 |
 | **BlackRock** | Summer 2024 Internship Program | Americas | <a href="https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-232eb66ac89a/candidate/so/pm/1/pl/1/opp/7894-Summer-Internship-Program-Americas/en-GB?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 23 |
 | **Cole Engineering Services, Inc.** | Intern  🇺🇸 | Orlando, FL | <a href="https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=5055dea5-b670-4a19-adb1-2aea04ba5207&ccId=19000101_000001&type=MP&lang=en_US&jobId=472432?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 23 |
 | **SkyWorks** | Embedded FW Summer Intern | Austin, TX | <a href="https://careers.skyworksinc.com/job/Austin-Embedded-FW-Summer-Intern-2024-TX-73301/1054957600?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 24 |
@@ -161,12 +245,23 @@
 | **Jane Street** | Quantitative Researcher Internship | NYC | <a href="https://www.janestreet.com/join-jane-street/position/6838982002/?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 26 |
 | **KPMG** | Engineering & IT Internship  🛂 | Multiple Locations | <a href="https://app.ripplematch.com/v2/public/job/6f5894f6/details?utm_source=RM&utm_medium=organic_social&utm_campaign=growth_github&utm_content=kpmg&utm_term=null?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 26 |
 | **[Achronix Semiconductor](https://simplify.jobs/c/Achronix)** | FPGA Software Engineer Intern | Santa Clara, CA | <a href="https://boards.greenhouse.io/achronixsemiconductor/jobs/4011616006?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/78052e54-5868-40b8-bf29-8c6d2f3ad11e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jul 27 |
+| **Asana Early Career Programs** | Data Science Internship | NYC | 🔒 | Jul 27 |
+| **Asana Early Career Programs** | Software Engineering Internship | SF | 🔒 | Jul 27 |
+| **Asana Early Career Programs** | Data Science Internship | SF | 🔒 | Jul 27 |
+| **Asana Early Career Programs** | Software Engineering Internship | Vancouver, BC, Canada | 🔒 | Jul 27 |
 | **Goldman Sachs** | Analyst Intern | Global | <a href="https://www.goldmansachs.com/careers/students/programs/americas/summer-analyst-program.html?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 27 |
+| **Snap Inc.** | Software Engineering Intern | Palo Alto, CA</br>Seattle, WA</br>Los Angeles, CA | 🔒 | Jul 27 |
+| **US Bank** | 2024 Software Engineering Summer Intern | Richfield, MN</br>Atlanta, GA | 🔒 | Jul 27 |
+| **Asana Early Career Programs** | Software Engineering Internship | NYC | 🔒 | Jul 28 |
+| **Intel** | Design Automation Intern | Austin, TX | 🔒 | Jul 28 |
 | **PepsiCo** | Software Development & Engineering Intern  🛂 | Purchase, NY <br> Plano, TX | <a href="https://www.pepsicojobs.com/internshipsprograms/jobs/241240?lang=en-us&previousLocale=en-US?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 28 |
+| **Rockwell Automation** | Data Engineer Co-op/Intern - Fiix Software | Toronto, ON, Canada | 🔒 | Jul 28 |
+| **StackAdapt** | Software Engineer Intern - Backend | Canada | 🔒 | Jul 28 |
 | **Protective** | Technology Summer Internship | Birmingham, AL | <a href="https://jobs.lever.co/protective/2761edea-63bc-4be7-8b48-6e925c1be3f8/?lever-source%5B%5D=DiversityJobs?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 29 |
 | **PCMI Corporation** | BI QA Analyst Intern | Park Ridge, IL | <a href="https://www.indeed.com/cmp/Pcmi-Corporation-2/jobs?jk=e35b465c20d1a7c2&start=0&clearPrefilter=1?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 30 |
 | **[Artisan Partners](https://simplify.jobs/c/Artisan-Partners)** | Software Developer Intern - Marketing & Distribution | Milwaukee, WI | <a href="https://www.artisanpartners.com/careers/career-opportunities.html?gh_jid=5259816?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/15c72218-6ed0-48bc-8bf1-dab5a18b81cc?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jul 31 |
 | **[Capital One](https://simplify.jobs/c/Capital-One)** | Cyber Security Internship Program | Plano, TX</br>McLean, VA | <a href="https://capitalone.wd1.myworkdayjobs.com/Capital_One/job/McLean-VA/Cyber-Security-Internship-Program---Summer-2024_R169958?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/8ab08bfa-385b-4471-886e-4556b58a962f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jul 31 |
+| **Capital One** | Technology Internship Program | Cambridge, MA</br>SF</br>8 other locations | 🔒 | Jul 31 |
 | **[Capital One](https://simplify.jobs/c/Capital-One)** | Data Analyst Intern | Plano, TX</br>McLean, VA</br>Richmond, VA | <a href="https://capitalone.wd1.myworkdayjobs.com/Capital_One/job/McLean-VA/Data-Analyst-Intern---Summer-2024_R169960-1?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/6f3bb88a-0beb-4df3-a2e9-e61b132fda4b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jul 31 |
 | **[Fetch](https://simplify.jobs/c/FetchRewards)** | Backend Engineering – Apprenticeship | Madison, WI | <a href="https://boards.greenhouse.io/fetchrewards/jobs/5428201003?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/dc06cfde-bf97-4015-b373-43fe379914dd?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jul 31 |
 | **[Gecko Robotics](https://simplify.jobs/c/Gecko-Robotics)** | Software Engineer - Robot Systems-Internship | Pittsburgh, PA | <a href="https://www.geckorobotics.com/careers/apply?gh_jid=5699541003?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/1e81f406-0174-4e22-bc7a-e02ae8a56b98?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jul 31 |
@@ -177,6 +272,7 @@
 | **Five Rings** | Quant Researcher Intern | NYC | <a href="https://fiverings.avature.net/careers/FolderDetail/New-York-New-York-United-States-Quantitative-Researcher-Summer-Intern-2024/645?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 01 |
 | **Five Rings** | Quant Trader Intern | NYC | <a href="https://fiverings.avature.net/careers/FolderDetail/New-York-New-York-United-States-Quantitative-Trader-Summer-Intern-2024/643?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 01 |
 | **[Flow Traders](https://simplify.jobs/c/Flow-Traders)** | Trading Intern Summer 2024 | NYC | <a href="https://boards.greenhouse.io/flowtraders/jobs/5231161?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/76fc51d4-9af1-45b4-bad3-5082cdaff654?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 01 |
+| **Milliman** | Software Engineer Intern | Omaha, NE | 🔒 | Aug 01 |
 | **[Palantir](https://simplify.jobs/c/Palantir)** | Software Engineer – Internship | Palo Alto, CA | <a href="https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c/apply?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/d0302d05-c84f-4a36-a91e-cc293f08604e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 01 |
 | **[Palantir](https://simplify.jobs/c/Palantir)** | Forward Deployed Software Engineer – Internship - US Government | Washington, DC | <a href="https://jobs.lever.co/palantir/e6ff8bf2-135e-474d-ad37-24f490ae1dd2/apply?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/0503901e-622f-4d1b-b7f9-29d44e59eaab?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 01 |
 | **[Palantir](https://simplify.jobs/c/Palantir)** | Software Engineer – Internship | NYC | <a href="https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d/apply?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/e1cb71b6-18fc-4d48-9c80-55c54bb62a50?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 01 |
@@ -188,6 +284,7 @@
 | **TransMarket Group** | Quantitative Trader Intern | Chicago, IL | <a href="https://boards.greenhouse.io/transmarketgroup/jobs/4023644007?t=295a85457us?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 01 |
 | **TransMarket Group** | Algorithmic Trader Intern | Chicago, IL | <a href="https://boards.greenhouse.io/transmarketgroup/jobs/4023650007?t=295a85457us?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 01 |
 | **Chic-Fil-A** | Software Engineering Intern - Summer 2024 | Atlanta, GA | <a href="https://careers-chickfila.icims.com/jobs/14373/dtt-software-engineering-summer-2024-intern/job?mode=job&iis=Job+Board&iisn=LinkedIn&mobile=false&width=1519&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 02 |
+| **Fidelity Investments** | Summer 2024 Quantitative Research Investment Internship-Undergraduate | Cambridge, MA | 🔒 | Aug 02 |
 | **[Intel](https://simplify.jobs/c/Intel)** | Undergrad Technical Intern | Santa Clara, CA | <a href="https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/Undergrad-Technical-Intern_JR0245011?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/9c78c620-0af8-420e-91f0-95d114d608fb?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 02 |
 | **National Instruments** | Software Engineer | Austin, TX | <a href="https://pef.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions?keyword=Software+Engineering+Intern&mode=location&sortBy=RELEVANCY?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 02 |
 | **[Ramp](https://simplify.jobs/c/Ramp)** | Software Engineer Internship - Backend | NYC | <a href="https://jobs.ashbyhq.com/ramp/16ebfcfc-467b-40e5-b23e-a4d95db05539/application?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/5f9b7b9a-7021-40dd-b619-38d144e31a6b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 02 |
@@ -228,6 +325,7 @@
 | **[Belvedere Trading](https://simplify.jobs/c/Belvedere-Trading)** | Junior Trader Intern - Summer 2024 | Chicago, IL | <a href="https://jobs.lever.co/belvederetrading/2faf3199-5312-4f58-bbb4-4504d565168d/apply?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/633e3ffc-370c-4bab-8b60-8286be8e77b0?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 04 |
 | **[Belvedere Trading](https://simplify.jobs/c/Belvedere-Trading)** | Software Engineer Intern - Summer 2024 Chicago | Chicago, IL | <a href="https://jobs.lever.co/belvederetrading/f63b36b4-a5b6-4697-97cf-2af02a47e9d9/apply?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/91d9f52e-ac15-4b7d-884c-45f2bd14ae45?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 04 |
 | **[Belvedere Trading](https://simplify.jobs/c/Belvedere-Trading)** | Software Engineer Intern - Summer 2024 Boulder | Boulder, CO | <a href="https://jobs.lever.co/belvederetrading/1dfa7e9c-7e30-4a11-a489-bd777f112848/apply?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/c5db3eae-bc3a-425d-ad48-cebdf5720f79?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 04 |
+| **Belvedere Trading** | Junior Quantitative Trading Analyst Intern - Summer 2024 Chicago | Chicago, IL | 🔒 | Aug 04 |
 | **Amazon** | Software Development Engineer Internship | Seattle, WA | <a href="https://www.amazon.jobs/en/jobs/2408098/software-development-engineer-internship-2024-us?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 04 |
 | **Databricks** | Software Engineering Intern | Mountain View, CA</br>San Francisco, CA</br>Bellevue, WA | <a href="https://www.databricks.com/company/careers/open-positions?department=University%20Recruiting&location=AMER?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 04 |
 | **[Crowdstrike](https://simplify.jobs/c/Crowdstrike)** | Sales Excellence Data Analytics Extended Intern - Remote | Remote in USA | <a href="https://crowdstrike.wd5.myworkdayjobs.com/en-us/crowdstrikecareers/job/USA---Remote-TX/Sales-Excellence-Data-Analytics-Extended-Intern--Remote-_R14069?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/857ed78e-792c-478f-a357-b8655c84daf8?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 04 |
@@ -239,3 +337,12 @@
 | **Vanguard** | IT Interns  🛂 | Malvern, PA</br>Charlotte, NC | <a href="https://www.vanguardjobs.com/job-search-results/?keyword=155135%20OR%20155134%20OR%20155124%20OR%20155126%20OR%20155125%20OR%20155138%20OR%20154888%20OR%20154890%20OR%20154891%20OR%20154778%20OR%20154777%20OR%20155079OR%20155397%20OR%20155147%20OR%20155148%20OR%20155149%20OR%20155150%20OR%20155153%20OR%20155154%20OR%20155155%20OR%20155156%20OR%20155151%20OR%20155152%20OR%20155079%20OR%20156565%20OR%20155397?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 07 |
 
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
+[⬆️ Back to Top ⬆️](https://github.com/SimplifyJobs/Summer2024-Internships#the-list-)
+
+## We love our contributors ❤️❤️
+
+Make a [pull request](https://github.com/susam/gitpr#create-pull-request) to help contribute.
+<a href="https://github.com/pittcsc/Summer2024-Internships/graphs/contributors">
+<img src="https://contrib.rocks/image?repo=pittcsc/Summer2024-Internships&columns=24&max=480" />
+</a>
+_Made with [contrib.rocks](https://contrib.rocks)._
