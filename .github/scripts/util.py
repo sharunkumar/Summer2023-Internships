@@ -20,14 +20,15 @@ def fail(why):
     exit(1)
 
 def getLocations(listing):
-
+    locations = "</br>".join(listing["locations"])
     if len(listing["locations"]) <= 3:
-        return "</br>".join(listing["locations"])
-    return "</br>".join(listing["locations"][:2] + [str(len(listing["locations"]) - 2) + " other locations"])
+        return locations
+    num = str(len(listing["locations"])) + " locations"
+    return f'<details><summary>**{num}**</summary>{locations}</details>'
 
 def getSponsorship(listing):
     if listing["sponsorship"] == "Does Not Offer Sponsorship":
-        return " 🛂" #"💼❌"
+        return " 🛂"
     elif listing["sponsorship"] == "U.S. Citizenship is Required":
         return " 🇺🇸"
     return ""
@@ -35,7 +36,11 @@ def getSponsorship(listing):
 def getLink(listing):
     if not listing["active"]:
         return "🔒"
-    link = listing["url"] + "?utm_source=SimplifyGH&ref=Simplify"
+    link = listing["url"] 
+    if "?" not in link:
+        link += "?utm_source=SimplifyGH&ref=Simplify"
+    else:
+        link += "&utm_source=SimplifyGH&ref=Simplify"
     # return f'<a href="{link}" style="display: inline-block;"><img src="{SHORT_APPLY_BUTTON}" width="160" alt="Apply"></a>'
 
     if listing["source"] != "Simplify":
