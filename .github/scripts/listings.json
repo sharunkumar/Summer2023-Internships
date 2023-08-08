@@ -945,7 +945,7 @@
         "company_name": "Fetch",
         "id": "af67715d-b33c-476c-9df8-71f547aee68d",
         "title": "Frontend Engineer Apprenticeship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -1652,7 +1652,7 @@
         "company_name": "Formlabs",
         "id": "fe976ad3-59c5-41fd-b977-aec0d3f06b9f",
         "title": "Algorithms Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023"
         ],
@@ -1900,7 +1900,7 @@
         "company_name": "Capstone",
         "id": "df191a5b-d776-4c9a-9dad-7ff6a7fe36d0",
         "title": "Quantitative Risk Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -2359,7 +2359,7 @@
         "company_name": "Zipline",
         "id": "b7b2a22a-f42a-4477-ad38-e3d1899ae927",
         "title": "Embedded Systems Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023"
         ],
@@ -2576,73 +2576,7 @@
             "Fall 2023"
         ],
         "date_updated": 1689739200,
-        "url": "https://jobs.lever.co/certik/cc4bc2b7-ee87-43be-81c9-09c8b0411a7e/apply",
-        "locations": [
-            "Seattle, WA",
-            "SF",
-            "Remote in USA",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Certik",
-        "is_visible": true,
-        "date_posted": 1689739200,
-        "sponsorship": "Offers Sponsorship"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Certik",
-        "id": "854b92ca-4a15-4f64-aed1-b78e4ba1360a",
-        "title": "Internship - Development",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": 1689739200,
-        "url": "https://jobs.lever.co/certik/2e33570a-f495-44ef-9d7d-a0c5a7fd8190/apply",
-        "locations": [
-            "Seattle, WA",
-            "SF",
-            "Remote in USA",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Certik",
-        "is_visible": true,
-        "date_posted": 1689739200,
-        "sponsorship": "Offers Sponsorship"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Certik",
-        "id": "060015e8-5827-4c51-a56e-cda567016743",
-        "title": "Platform Engineering Intern",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": 1689739200,
-        "url": "https://jobs.lever.co/certik/095fdcff-99e8-408d-bb8a-e638e44d0b40/apply",
-        "locations": [
-            "Seattle, WA",
-            "SF",
-            "Remote in USA",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Certik",
-        "is_visible": true,
-        "date_posted": 1689739200,
-        "sponsorship": "Offers Sponsorship"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Certik",
-        "id": "b0eb7586-c63a-4d46-883c-b93401fbecec",
-        "title": "Full Stack Internship - Matrix",
-        "active": true,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": 1689739200,
-        "url": "https://jobs.lever.co/certik/ca67aab6-9b8b-4c2f-ad80-ff5855292f48/apply",
+        "url": "https://jobs.lever.co/certik/cc4bc2b7-ee87-43be-81c9-09c8b0411a7e",
         "locations": [
             "Seattle, WA",
             "SF",
@@ -2670,10 +2604,10 @@
         "active": true,
         "url": "https://jobs.lever.co/certik/2e33570a-f495-44ef-9d7d-a0c5a7fd8190",
         "is_visible": true,
-        "source": "Markdown",
+        "source": "Simplify",
         "company_url": "https://simplify.jobs/c/Certik",
         "date_updated": 1690430400,
-        "id": "c783c999-09d9-47cd-a339-61375ac3acfe",
+        "id": "854b92ca-4a15-4f64-aed1-b78e4ba1360a",
         "sponsorship": "Offers Sponsorship"
     },
     {
@@ -2692,10 +2626,10 @@
         "active": true,
         "url": "https://jobs.lever.co/certik/095fdcff-99e8-408d-bb8a-e638e44d0b40",
         "is_visible": true,
-        "source": "Markdown",
+        "source": "Simplify",
         "company_url": "https://simplify.jobs/c/Certik",
         "date_updated": 1690430400,
-        "id": "010bfdf1-ea4f-453d-bf84-91bd727682c4",
+        "id": "060015e8-5827-4c51-a56e-cda567016743",
         "sponsorship": "Offers Sponsorship"
     },
     {
@@ -2714,10 +2648,10 @@
         "active": true,
         "url": "https://jobs.lever.co/certik/ca67aab6-9b8b-4c2f-ad80-ff5855292f48",
         "is_visible": true,
-        "source": "Markdown",
+        "source": "Simplify",
         "company_url": "https://simplify.jobs/c/Certik",
         "date_updated": 1690430400,
-        "id": "26af4425-3695-4afb-b91d-d759aaf61ab7",
+        "id": "b0eb7586-c63a-4d46-883c-b93401fbecec",
         "sponsorship": "Offers Sponsorship"
     },
     {
@@ -3549,14 +3483,14 @@
         "terms": [
             "Summer 2024"
         ],
-        "active": true,
+        "active": false,
         "url": "https://jobs.lever.co/MBRDNA/59ae463c-5d10-4bb6-9dfd-4e26c7d84a69",
         "is_visible": true,
         "source": "Markdown",
         "company_url": "",
-        "date_updated": 1690430400,
+        "date_updated": 1691512024,
         "id": "54f79462-8bb2-4d07-9142-f96c66589224",
-        "sponsorship": "Offers Sponsorship"
+        "sponsorship": "Other"
     },
     {
         "company_name": "Vivacity Tech",
@@ -3905,7 +3839,7 @@
         "company_name": "Workato",
         "id": "25e84640-9d56-46f6-8355-fd8da56b4ca5",
         "title": "Technical Writing Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -4500,7 +4434,7 @@
         "company_name": "Artisan Partners",
         "id": "15c72218-6ed0-48bc-8bf1-dab5a18b81cc",
         "title": "Software Developer Intern - Marketing & Distribution",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -5729,7 +5663,7 @@
         "company_name": "NVIDIA",
         "id": "0cfd1f74-ea5e-4e74-972a-f154e95cec20",
         "title": "Full-Stack Software Engineering Intern - AI Infrastructure - Winter 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -6735,7 +6669,7 @@
         "company_name": "Jump Trading",
         "id": "0af15898-e2bd-48ee-8f3f-a6bcba0f0c9e",
         "title": "Campus \u2013 Intern - Quantitative Researcher",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -6754,7 +6688,7 @@
         "company_name": "Crowdstrike",
         "id": "857ed78e-792c-478f-a357-b8655c84daf8",
         "title": "Sales Excellence Data Analytics Extended Intern - Remote",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -6903,6 +6837,139 @@
         ],
         "company_url": "https://simplify.jobs/c/imc-trading",
         "is_visible": false,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "OpenFin",
+        "id": "bd1b04e6-03bb-4ce5-83de-606afcb955f2",
+        "title": "Engineering Intern",
+        "active": true,
+        "terms": [
+            "Spring 2023"
+        ],
+        "date_updated": 1691450350,
+        "date_posted": 1691450350,
+        "url": "https://boards.greenhouse.io/openfin95/jobs/5277187",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/OpenFin",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Ramp",
+        "id": "1dd3a459-5bdd-40c2-b78a-a2483ed064a9",
+        "title": "Software Engineer Internship - Frontend",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1691450828,
+        "date_posted": 1691450828,
+        "url": "https://jobs.ashbyhq.com/ramp/bbac1615-acf4-4d27-9100-47079ab35be5/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Ramp",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Garda Capital Partners",
+        "id": "d1bc12bf-bb73-4381-b65e-edd90a714047",
+        "title": "Quantitative Development Intern - Rates",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1691435770,
+        "date_posted": 1691421096,
+        "url": "https://boards.greenhouse.io/gardacp/jobs/4579779004",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Garda-Capital-Partners",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "OpenFin",
+        "id": "f80c60ed-e443-4b16-bc64-228515426ac4",
+        "title": "Engineering Intern",
+        "active": true,
+        "terms": [
+            "Spring 2023"
+        ],
+        "date_updated": 1691450348,
+        "date_posted": 1691450348,
+        "url": "https://boards.greenhouse.io/openfin95/jobs/5277131",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/OpenFin",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Garda Capital Partners",
+        "id": "85ee89b7-aa57-42c2-b96b-b74c12fff638",
+        "title": "Quantitative Development Intern - Equities & Commodity Derivatives",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1691428667,
+        "date_posted": 1691363916,
+        "url": "https://boards.greenhouse.io/gardacp/jobs/4948535004",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Garda-Capital-Partners",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Capital One",
+        "id": "9178111a-baa6-4763-b526-2b0938d06153",
+        "title": "Technology Early Internship Program - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1691421110,
+        "date_posted": 1691421110,
+        "url": "https://capitalone.wd1.myworkdayjobs.com/Capital_One/job/McLean-VA/Technology-Early-Internship-Program---Summer-2024_R169973-1",
+        "locations": [
+            "McLean, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Two Six Technologies",
+        "id": "d7ca452a-c7b8-4736-bf01-95fcb0f3994f",
+        "title": "China SME Intern",
+        "active": true,
+        "terms": [
+            "Fall 2023"
+        ],
+        "date_updated": 1691392692,
+        "date_posted": 1691392692,
+        "url": "https://boards.greenhouse.io/twosixtechnologies/jobs/4942551004",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Two-Six-Technologies",
+        "is_visible": true,
         "sponsorship": "Other"
     }
 ]
