@@ -207,12 +207,3 @@
 | **Mitre** | Software Engineering Intern | <details><summary>**17 locations**</summary>Bedford, MA</br>Huntsville, AL</br>Tampa, FL</br>Bridgeport, WV</br>Fairborn, OH</br>San Antonio, TX</br>Colorado Springs, CO</br>Annapolis Junction, MD</br>Gaithersburg, MD</br>Charlottesville, VA</br>El Segundo, CA</br>Doral, FL</br>Hampton, VA</br>Shaw AFB, SC</br>Shrewsbury, NJ</br>Fort Walton Beach, FL</br>Aberdeen, MD</details> | <a href="https://careers.mitre.org/us/en/job/MITRUSR111593EXTERNALENUS/Computer-Science-and-Software-Engineering-Intern-positions?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 09 |
 
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
-[⬆️ Back to Top ⬆️](https://github.com/SimplifyJobs/Summer2024-Internships#the-list-)
-
-## We love our contributors ❤️❤️
-
-Contribute by submitting an [issue](https://github.com/SimplifyJobs/Summer2024-Internships/issues/new/choose)!
-<a href="https://github.com/pittcsc/Summer2024-Internships/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=pittcsc/Summer2024-Internships&columns=24&max=480" />
-</a>
-_Made with [contrib.rocks](https://contrib.rocks)._
