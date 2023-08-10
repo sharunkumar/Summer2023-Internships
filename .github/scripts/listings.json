@@ -6939,11 +6939,11 @@
         "company_name": "Capital One",
         "id": "9178111a-baa6-4763-b526-2b0938d06153",
         "title": "Technology Early Internship Program - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1691421110,
+        "date_updated": 1691620580,
         "date_posted": 1691421110,
         "url": "https://capitalone.wd1.myworkdayjobs.com/Capital_One/job/McLean-VA/Technology-Early-Internship-Program---Summer-2024_R169973-1",
         "locations": [
@@ -7146,7 +7146,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1691597383,
+        "date_updated": 1691621436,
         "url": "https://careers.mitre.org/us/en/job/MITRUSR111593EXTERNALENUS/Computer-Science-and-Software-Engineering-Intern-positions",
         "company_name": "Mitre",
         "title": "Software Engineering Intern",
@@ -7172,11 +7172,100 @@
         "terms": [
             "Summer 2024"
         ],
-        "sponsorship": "Other",
+        "sponsorship": "U.S. Citizenship is Required",
         "active": true,
         "source": "hemanthy1",
         "id": "93b41758-4229-400f-8d49-bede81e7f64a",
         "date_posted": 1691597383,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1691621521,
+        "url": "https://paypal.eightfold.ai/careers?Codes=W-LINKEDIN&domain=paypal.com&query=R0106013&sort_by=relevance",
+        "company_name": "PayPal",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "San Jose, CA",
+            "Chicago, IL",
+            "Scottsdale, AZ",
+            "New York City, NY",
+            "Austin, TX"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "ArmyyA",
+        "id": "7d6b84dc-3f80-42fb-bc56-04690d352305",
+        "date_posted": 1691621521,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1691621569,
+        "url": "https://ea.gr8people.com/jobs/179637/software-engineer-intern?sid=4",
+        "company_name": "EA",
+        "title": "Software Intern",
+        "locations": [
+            "Marina Del Ray, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "hemanthy1",
+        "id": "9830e3e5-9eee-4e85-908b-82114293c557",
+        "date_posted": 1691621569,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1691621613,
+        "url": "https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Plymouth-MN-USA/Digital---Information-Technology-Intern---Summer-2024_R19542-1?Codes=W-LINKEDIN",
+        "company_name": "Polaris",
+        "title": "Digital & Information Technology Intern",
+        "locations": [
+            "Osceola, WI",
+            "Roseau, MN",
+            "Spirit Lake, IA",
+            "Huntsville, AL",
+            "Minneapolis, MN",
+            "Wyoming, MN",
+            "Plymouth, MN",
+            "Battle Ground, WA",
+            "Wilmington, OH",
+            "Vermillion, SD"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "hemanthy1",
+        "id": "c2f65c85-9a02-4e80-92b3-a041413931f7",
+        "date_posted": 1691621613,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1691621636,
+        "url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=124932&clientkey=8E7F16AD6654E4ED3797EE9F40DB0A48",
+        "company_name": "Oklahoma City Thunder",
+        "title": "Software Engineer Intern Data Science And Solutions",
+        "locations": [
+            "Remote"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "hemanthy1",
+        "id": "7f936807-3e2c-48ba-88ce-17ece6562bf3",
+        "date_posted": 1691621636,
         "company_url": "",
         "is_visible": true
     }
