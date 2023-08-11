@@ -6,6 +6,9 @@
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Bayer** | Cloud Developer Intern (Sponsorship Unknown) | Multiple Locations | <a href="https://jobs.bayer.com/job/Residence-Based-Cloud-Developer-Intern-Resi/966220501/?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 10 |
+| **Comerica Bank** | Technology & Cybersecurity Internship 🛂 | Plano, TX | <a href="https://careers.comerica.com/job/18891110/summer-2024-technology-cybersecurity-internship-in-plano-mi-plano-tx/?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 10 |
+| **Comerica Bank** | Technology & Cybersecurity Internship 🛂 | Auburn Hills, MI | <a href="https://careers.comerica.com/job/18891109/summer-2024-technology-cybersecurity-internship-in-auburn-hills-mi-auburn-hills-mi/?utm_campaign=google_jobs_apply&utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 10 |
 | **TikTok** | Software Engineer Intern (Privacy and Security-Big Data) | Seattle</br>US | <a href="https://careers.tiktok.com/position/7264779178602809637/detail?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 10 |
 | **Roblox** | Software Engineer Intern | San Mateo, CA | <a href="https://careers.roblox.com/jobs/5221293?disciplines=Early%20Career&utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 10 |
 | **TikTok** | Software Engineer Intern (Product Foundation-Account) | San Jose</br>US | <a href="https://careers.tiktok.com/position/7265122301875980600/detail?utm_source=SimplifyGH&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 10 |
