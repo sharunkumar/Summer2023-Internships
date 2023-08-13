@@ -5278,14 +5278,14 @@
         "terms": [
             "Summer 2024"
         ],
-        "active": true,
+        "active": false,
         "url": "https://apply.deloitte.com/careers/JobDetail/Deloitte-Risk-Financial-Advisory-Software-Engineer-Intern-Digital-Assets-Blockchain-Summer-2024/150369",
         "is_visible": true,
         "source": "Markdown",
         "company_url": "",
-        "date_updated": 1690862400,
+        "date_updated": 1691881484,
         "id": "0a8ba6c4-d116-4050-9297-bd02eeb723f3",
-        "sponsorship": "Offers Sponsorship"
+        "sponsorship": "Other"
     },
     {
         "company_name": "GE Aerospace",
@@ -8095,5 +8095,24 @@
         "company_url": "https://simplify.jobs/c/Arrowstreet-Capital",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1691881577,
+        "url": "https://careers.peraton.com/jobs/summer-2024-software-engineer-intern-herndon-va-herndon-virginia-jobs",
+        "company_name": "Peraton",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Herndon, VA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "possibly-AA9",
+        "id": "20b0738d-e18b-4386-8841-635bba230316",
+        "date_posted": 1691881577,
+        "company_url": "",
+        "is_visible": true
     }
 ]
