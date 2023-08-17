@@ -7382,12 +7382,12 @@
         "company_name": "PayPal",
         "id": "de7f25d2-af21-4fc7-be7f-633e662b4300",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Fall 2024"
         ],
-        "date_updated": 1691593578,
+        "date_updated": 1692295427,
         "date_posted": 1691593578,
         "url": "https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer-Intern_R0106013",
         "locations": [
@@ -9065,6 +9065,161 @@
         "source": "RaiJashan17",
         "id": "0fe13038-76e0-442c-b621-9562e6e8a006",
         "date_posted": 1692269219,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Accenture",
+        "id": "938a2f65-e757-4cde-9c89-9c68b4e9dd60",
+        "title": "Entry Level Technology Development Program \u2013 Summer Analyst \u2013 Intern - Naelfy24",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1692285390,
+        "date_posted": 1692285390,
+        "url": "https://accenture.wd3.myworkdayjobs.com/AccentureCareers/job/Ontario---Toronto/Entry-Level-Technology-Development-Program---Summer-Analyst--Intern----NAELFY24_R00167378",
+        "locations": [
+            "Montreal, QC, Canada",
+            "Toronto, ON, Canada",
+            "Calgary, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Accenture",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1692294397,
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/211169/?utm_medium=jobshare",
+        "company_name": "Oracle",
+        "title": "Software Engineer Intern - Analytics Cloud",
+        "locations": [
+            "United States"
+        ],
+        "terms": [
+            "Summer 2024",
+            "Fall 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "IceColdBlizzard1",
+        "id": "d2eafa46-e079-49fd-ac40-dba13fe4c973",
+        "date_posted": 1692294397,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1692294734,
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/211167/",
+        "company_name": "Oracle",
+        "title": "Software Engineer Intern - Global Business Unit",
+        "locations": [
+            "United States"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "IceColdBlizzard1",
+        "id": "b022dcd5-58b9-42c5-b734-21f29a9b2842",
+        "date_posted": 1692294734,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1692294910,
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/211161/",
+        "company_name": "Oracle",
+        "title": "Software Engineer Intern - Database Technologies",
+        "locations": [
+            "United States"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "IceColdBlizzard1",
+        "id": "9679882a-e39b-4b30-ba33-2e438d9b9a2e",
+        "date_posted": 1692294910,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1692295009,
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/211258/",
+        "company_name": "Oracle",
+        "title": "Software Engineer Intern - Corporate Architecture",
+        "locations": [
+            "United States"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "IceColdBlizzard1",
+        "id": "fe77ec68-b3ed-4737-adf7-3ad65e6c5076",
+        "date_posted": 1692295009,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1692295359,
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/211120/?utm_medium=jobshare",
+        "company_name": "Oracle",
+        "title": "Software Engineer Intern - Sophomore - OCI & Cloud Platforms",
+        "locations": [
+            "United States"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "IceColdBlizzard1",
+        "id": "af2bb832-c5bd-4ac6-bda1-fb4f51a0e142",
+        "date_posted": 1692295359,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1692295456,
+        "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Oshkosh-Wisconsin-United-States/Computer-Software-Engineering-Intern-Summer-2024_R22291",
+        "company_name": "Oshkosh Corporation",
+        "title": "Computer/Software Engineering Intern",
+        "locations": [
+            "Oshkosh, WI"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "cwcoogan",
+        "id": "b5e1c0c8-85af-4e4e-94ff-18181014905f",
+        "date_posted": 1692295456,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1692295511,
+        "url": "https://jobs.intel.com/en/job/phoenix/undergraduate-internship-computer-science-bachelors/41147/52814615328",
+        "company_name": "Intel",
+        "title": "Undergraduate Internship - Computer Science (Bachelors)",
+        "locations": [
+            "United States"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "IceColdBlizzard1",
+        "id": "41a86476-5860-4ff2-b8d6-ece7b8d2b2dc",
+        "date_posted": 1692295511,
         "company_url": "",
         "is_visible": true
     }
