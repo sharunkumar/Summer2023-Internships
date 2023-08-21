@@ -2,10 +2,66 @@
 
 > This README file is for **2024 summer internships only**. For off-season internships, please see the [Off-Season 2024 README](https://github.com/sharunkumar/Summer2024-Internships/blob/dev/README-Off-Season.md).
 
+:warning: Please note that this repository is exclusively for internships/co-ops in the United States, Canada, or Remote positions :earth_americas:
+
+🧠 For valuable tips on navigating the internship process, be sure to check out our guide [Zero to Offer](https://www.pittcs.wiki/zero-to-offer) 🧠.
+
+🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/Summer2024-Internships/issues/new/choose)! See the contribution guidelines [here](https://github.com/pittcsc/Summer2024-Internships/blob/dev/CONTRIBUTING.md)!** 🙏
+
+---
+
+### Looking for 2024 New Grad Tech Roles?
+>You all asked for it, and now it's here! 🎊
+- 🥳 Today, we are launching a new repo: [2024-New-Grad-Tech-Roles](https://github.com/SimplifyJobs/2024-New-Grad-Tech-Roles)
+- ✨ Check it out for entry-level full-time software, tech, CS, PM, and quant positions.
+
+---
+<div align="center">
+	<p>
+		<a href="https://simplify.jobs/?utm_source=GHList&utm_medium=banner">
+			<b>Applying to internships?</b>
+			<br>
+			Autofill all your applications in a single click.
+			<br>
+			<div>
+				<a href="https://simplify.jobs/?utm_source=GHList&utm_medium=banner">
+          <img src="https://res.cloudinary.com/dpeo4xcnc/image/upload/v1636594918/simplify_pittcsc.png" width="450" alt="Simplify">
+        </a>
+			</div>
+		</a>
+		<sub><i>Stop manually re-entering your information. Simplify’s extension helps you autofill internship applications on millions of sites.</i></sub>
+	</p>
+</div>
+
+
+
+<div align="center">
+  <h3>
+    Thanks for a great three years 💖💖
+  </h3>
+  <p>
+    <img src="https://api.star-history.com/svg?repos=pittcsc/Summer2024-Internships&type=Date" width="500" alt="Star History">
+  </p>
+</div>
+
+---
+
+## The List 🚴🏔
+
+ - 🛂 - Does NOT offer Sponsorship
+ - 🇺🇸 - Requires U.S. Citizenship
+ - 🔒 - Internship application is closed
+
+> This README file is for **2024 summer internships only**. For off-season internships, please see the [Off-Season 2024 README](https://github.com/pittcsc/Summer2024-Internships/blob/dev/README-Off-Season.md).
+
+[⬇️ Jump to bottom ⬇️](https://github.com/SimplifyJobs/Summer2024-Internships#we-love-our-contributors-%EF%B8%8F%EF%B8%8F)
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Belden** | R&D Software Intern 🛂 | Santa Clara, CA | <a href="https://career4.successfactors.com/career?career_ns=job_listing&company=beldeninc&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=17854&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 21 |
+| **[HashiCorp](https://simplify.jobs/c/HashiCorp)** | Software Engineering Intern - Undergraduate | Austin, TX | <a href="https://www.hashicorp.com/career/5304406?gh_jid=5304406&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/e9bca96a-3e50-49ae-9176-efb344a147f7?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 21 |
+| **[HashiCorp](https://simplify.jobs/c/HashiCorp)** | Software Engineering Intern - Undergraduate | SF | <a href="https://www.hashicorp.com/career/5305350?gh_jid=5305350&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/2c8c1b61-bbd1-44cf-bf63-7bb2c9dddac9?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 21 |
 | **Tradeweb** | Java Developer - Summer 2024 Internship | Jersey City, NJ | <a href="https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/300726/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 20 |
 | **Tradeweb** | C++ Developer - Summer 2024 internship | Jersey City, NJ | <a href="https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/300723/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 20 |
 | **Charles Schwab** | Internship - 2024 Charles Schwab Software Engineering | Multiple | <a href="https://www.schwabjobs.com/job/westlake/internship-2024-charles-schwab-software-engineering/33727/53168159328?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 20 |
