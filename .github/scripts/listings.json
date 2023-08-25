@@ -8792,7 +8792,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1692220302,
+        "date_updated": 1692974267,
         "url": "https://workiva.wd1.myworkdayjobs.com/en-US/careers/job/XMLNAME-2024-Summer---Software-Engineer_R7284",
         "company_name": "Workiva",
         "title": "Software engineering intern",
@@ -8802,8 +8802,8 @@
         "terms": [
             "Summer 2024"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "firelordsokka",
         "id": "9a4b50e5-1135-4748-910e-e3e4fe39b156",
         "date_posted": 1692220302,
@@ -10897,7 +10897,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1692912932,
+        "date_updated": 1692968981,
         "url": "https://talent.lowes.com/us/en/job/2671644BR/Software-Engineer-Undergraduate-Internship",
         "company_name": "Lowes",
         "title": "Software Engineer Intern",
@@ -10907,7 +10907,7 @@
         "terms": [
             "Summer 2024"
         ],
-        "sponsorship": "Offers Sponsorship",
+        "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "source": "cwcoogan",
         "id": "6f8625ee-4d26-4564-a655-880a7a5c4b51",
@@ -10962,7 +10962,7 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1692919609,
+        "date_updated": 1692969272,
         "date_posted": 1692919609,
         "url": "https://www.qualtrics.com/careers/us/en/job/5317665?gh_jid=5317665",
         "locations": [
@@ -10970,7 +10970,7 @@
         ],
         "company_url": "https://simplify.jobs/c/Qualtrics",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "Does Not Offer Sponsorship"
     },
     {
         "source": "Simplify",
@@ -11016,20 +11016,20 @@
         "source": "Simplify",
         "company_name": "Leidos",
         "id": "2e755418-3fee-45f9-9c28-cfd2d8037ebf",
-        "title": "Software Engineering Intern",
+        "title": "Software Engineer Intern",
         "active": true,
         "terms": [
-            "Summer 2023"
+            "Summer 2024"
         ],
-        "date_updated": 1692918696,
+        "date_updated": 1692969117,
         "date_posted": 1692918696,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Remote-US/Software-Engineering-Intern_R-00117858",
         "locations": [
-            "Remote in USA"
+            "Remote, US"
         ],
         "company_url": "https://simplify.jobs/c/Leidos",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "U.S. Citizenship is Required"
     },
     {
         "source": "Simplify",
@@ -11078,7 +11078,7 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1692918571,
+        "date_updated": 1692974316,
         "date_posted": 1692918571,
         "url": "https://www.qualtrics.com/careers/us/en/job/5317675?gh_jid=5317675",
         "locations": [
@@ -11086,18 +11086,18 @@
         ],
         "company_url": "https://simplify.jobs/c/Qualtrics",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "Does Not Offer Sponsorship"
     },
     {
         "source": "Simplify",
         "company_name": "Qualtrics",
         "id": "1b5064d1-35ce-48ff-be8a-58bd543111ef",
-        "title": "Software Engineering Intern - Summer 2024",
+        "title": "Software Engineering Intern",
         "active": true,
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1692918573,
+        "date_updated": 1692974224,
         "date_posted": 1692918573,
         "url": "https://www.qualtrics.com/careers/us/en/job/5317651?gh_jid=5317651",
         "locations": [
@@ -11105,7 +11105,7 @@
         ],
         "company_url": "https://simplify.jobs/c/Qualtrics",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "Does Not Offer Sponsorship"
     },
     {
         "source": "Simplify",
@@ -11114,20 +11114,17 @@
         "title": "Intern \u2013 Software Test",
         "active": true,
         "terms": [
-            "Fall 2023",
-            "Winter 2024",
-            "Spring 2024",
             "Summer 2024"
         ],
-        "date_updated": 1692918487,
+        "date_updated": 1692969578,
         "date_posted": 1692918487,
         "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/United-States-of-America-Arizona-remote/Intern--Software-Test_R23-9478-1",
         "locations": [
-            "Remote in USA"
+            "Remote in US"
         ],
         "company_url": "https://simplify.jobs/c/Rockwell-Automation",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "Does Not Offer Sponsorship"
     },
     {
         "source": "Simplify",
@@ -11301,5 +11298,24 @@
         "company_url": "https://simplify.jobs/c/Golden-Hippo",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1692975094,
+        "url": "https://careers.sysco.com/jobs/R120545?lang=en-us&source=Indeed+Organic",
+        "company_name": "Sysco",
+        "title": "Software Dev Engineer Intern",
+        "locations": [
+            "Houston, TX"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "hemanthy1",
+        "id": "94ccd539-346f-4fc2-ad06-732d1f3ec52e",
+        "date_posted": 1692975094,
+        "company_url": "",
+        "is_visible": true
     }
 ]
