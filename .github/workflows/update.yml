@@ -72,10 +72,11 @@ jobs:
     - name: Remove Fluff
       run: |
         sed -i '/Pitt CSC /,/The List/d' README.md
-        sed -i '/Pitt CSC/,/The List/d' README-Off-Season.md
         sed -i '/Back to Top/,/Made with/d' README.md
-        sed -i '/We love/,/Made with/d' README-Off-Season.md
         sed -i '/Jump to bottom/Id' README.md
+        sed -i '/Legend/Id' README.md
+        sed -i '/Pitt CSC/,/The List/d' README-Off-Season.md
+        sed -i '/We love/,/Made with/d' README-Off-Season.md
         sed -i '/Jump to bottom/Id' README-Off-Season.md
 
     - name: Commit
