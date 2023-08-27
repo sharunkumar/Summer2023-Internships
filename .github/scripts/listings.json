@@ -8507,9 +8507,9 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1692125576,
+        "date_updated": 1693093978,
         "url": "https://careers-chickfila.icims.com/jobs/14373/dtt-software-engineering-summer-2024-intern/job",
-        "company_name": "Chick-fil-A",
+        "company_name": "Chick-fil-a",
         "title": "Software Engineering Intern",
         "locations": [
             "Atlanta, GA"
@@ -8517,8 +8517,8 @@
         "terms": [
             "Summer 2024"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "orebitt",
         "id": "bcbe0da0-9b8d-4211-90ac-57cd3e4f0548",
         "date_posted": 1692125576,
@@ -11529,5 +11529,24 @@
         "company_url": "https://simplify.jobs/c/UrsaMajor",
         "is_visible": true,
         "sponsorship": "U.S. Citizenship is Required"
+    },
+    {
+        "date_updated": 1693094040,
+        "url": "https://jobs.bnsf.com/us/en/job/90748/Engineering-Network-Control-Systems-Summer-Intern-2024-Paid",
+        "company_name": "BNSF",
+        "title": "Network Control Systems Intern",
+        "locations": [
+            "Fort Worth, TX"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "dxiao01",
+        "id": "337a5136-2e94-4e44-ac1a-d2b52c0d66a4",
+        "date_posted": 1693094040,
+        "company_url": "",
+        "is_visible": true
     }
 ]
