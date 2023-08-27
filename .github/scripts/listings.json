@@ -8545,7 +8545,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1692125664,
+        "date_updated": 1693101660,
         "url": "https://careers.freddiemac.com/us/en/job/FRMAUSJR11159EXTERNAL/Single-Family-Software-Developer-Intern-Summer-2024-Hybrid-3-Days-in-Office",
         "company_name": "Freddie Mac",
         "title": "Software Developer Intern",
@@ -8555,7 +8555,7 @@
         "terms": [
             "Summer 2024"
         ],
-        "sponsorship": "Offers Sponsorship",
+        "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "source": "leetcodeLover",
         "id": "48a4c299-166a-4334-bd0a-69889d0378d1",
@@ -11546,6 +11546,25 @@
         "source": "dxiao01",
         "id": "337a5136-2e94-4e44-ac1a-d2b52c0d66a4",
         "date_posted": 1693094040,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1693101556,
+        "url": "https://jobs.bnsf.com/us/en/job/90821/Technology-Services-Summer-Intern-2024",
+        "company_name": "BNSF",
+        "title": "Technology Services Intern",
+        "locations": [
+            "Fort Worth, TX"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "dxiao01",
+        "id": "6e4000d4-259e-426c-acf5-5c7a824419aa",
+        "date_posted": 1693101556,
         "company_url": "",
         "is_visible": true
     }
