@@ -87,13 +87,6 @@ jobs:
           echo "No changes to commit"
         fi
         
-    - name: Fix Links
-      run: |
-        sed -i 's|pittcsc/Summer2024-Internships/blob/dev/README|sharunkumar/Summer2024-Internships/blob/dev/README|g' README.md
-        sed -i 's|pittcsc/Summer2024-Internships/blob/dev/README|sharunkumar/Summer2024-Internships/blob/dev/README|g' README-Off-Season.md
-        sed -i 's|SimplifyJobs/Summer2024-Internships/blob/dev/README|sharunkumar/Summer2024-Internships/blob/dev/README|g' README.md
-        sed -i 's|SimplifyJobs/Summer2024-Internships/blob/dev/README|sharunkumar/Summer2024-Internships/blob/dev/README|g' README-Off-Season.md
-
     - name: Commit
       run: |
         if [[ `git status --porcelain` ]]; then
