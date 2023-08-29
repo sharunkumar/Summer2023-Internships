@@ -1,13 +1,57 @@
 
 
+:warning: Please note that this repository is exclusively for internships/co-ops in the United States, Canada, or Remote positions :earth_americas:
+
+🧠 For valuable tips on navigating the internship process, be sure to check out our guide [Zero to Offer](https://www.pittcs.wiki/zero-to-offer) 🧠.
+
+🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/Summer2024-Internships/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
+
+---
+<div align="center">
+	<p>
+		<a href="https://simplify.jobs/?utm_source=pittcsc&utm_medium=internships_repo">
+			<b>Applying to internships?</b>
+			<br>
+			Autofill all your applications in a single click.
+			<br>
+			<div>
+				<a href="https://simplify.jobs/?utm_source=pittcsc&utm_medium=internships_repo">
+          <img src="https://res.cloudinary.com/dpeo4xcnc/image/upload/v1636594918/simplify_pittcsc.png" width="450" alt="Simplify">
+        </a>
+			</div>
+		</a>
+		<sub><i>Stop manually re-entering your information. Simplify’s extension helps you autofill internship applications on millions of sites.</i></sub>
+	</p>
+</div>
+
+<div align="center">
+  <h3>
+    Thanks for a great three years 💖💖
+  </h3>
+  <p>
+    <img src="https://api.star-history.com/svg?repos=pittcsc/Summer2024-Internships&type=Date" width="500" alt="Star History">
+  </p>
+</div>
+
+---
+
+## The List 🚴🏔
+
+
+ - 🛂 - Does NOT offer Sponsorship
+ - 🇺🇸 - Requires U.S. Citizenship
+ - 🔒 - Internship application is closed
 
 > **Note**:
-> This README file is for **non-summer internships only**. For summer internships, please see the [Summer 2024 README](https://github.com/sharunkumar/Summer2024-Internships/blob/dev/README.md).
+> This README file is for **non-summer internships only**. For summer internships, please see the [Summer 2024 README](./README.md).
 
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 
 | Company | Role | Location | Terms | Application/Link | Date Posted |
 | --- | --- | --- | --- | :---: | :---: |
+| **[Visier Solutions](https://simplify.jobs/c/Visier)** | Data Scientist Co-op - January 2024 - August 2024 | Vancouver, BC, Canada | Winter 2025, Spring 2025, Summer 2025 | <a href="https://boards.greenhouse.io/visiersolutionsinc/jobs/4267137006?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/eef35a1f-107f-4538-be50-0b6ebb277e49?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 29 |
+| **[Humane](https://simplify.jobs/c/Humane)** | Software Engineering Intern - Device Experiences | SF | Spring 2024, Summer 2024, Fall 2024 | <a href="https://boards.greenhouse.io/humane/jobs/4963556004?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/262decca-805c-4b33-89f8-3a154427adc6?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 29 |
+| **[Bristol-Myers Squibb](https://simplify.jobs/c/Bristol-Myers-Squibb)** | Co-Op – Neuroscience - Spring 2024 | Cambridge, MA | Spring 2024 | <a href="https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/BMS/job/Cambridge-Crossing---MA---US/Co-Op---Neuroscience----Spring-2024-_R1572773?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/66bfcf1a-1e38-4565-be08-946578646844?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 29 |
 | **[Virtu Financial](https://simplify.jobs/c/Virtu-Financial)** | Women's Winternship | NYC | Winter 2024 | <a href="https://boards.greenhouse.io/virtu/jobs/6862904002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/7e47dc7c-80d0-4b4c-b855-4a7aed7c2657?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 29 |
 | **[Chamberlain Group](https://simplify.jobs/c/Chamberlain-Group)** | Co-op – Data Visualization - Spring 2024 | Western Springs, IL | Spring 2024 | <a href="https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Co-op--Data-Visualization--Spring-2024-_JR26220?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/5399f528-ae28-4158-ad3b-74c08b7ce413?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 28 |
 | **[Third Pole](https://simplify.jobs/c/ThirdPoleThera)** | Embedded Software Engineering Intern - Fall 2023 | Waltham, MA | Fall 2023 | <a href="https://boards.greenhouse.io/thirdpoleinc/jobs/4300838005?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/6a19ab17-ff58-4def-a84d-5515a5df2113?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 28 |
@@ -41,6 +85,8 @@
 | **Bayer** | Cloud Developer Intern (Sponsorship Unknown) | Multiple Locations | Summer 2024, Fall 2024 | <a href="https://jobs.bayer.com/job/Residence-Based-Cloud-Developer-Intern-Resi/966220501/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 10 |
 | **[PayPal](https://simplify.jobs/c/PayPal)** | Data Analyst Intern | <details><summary>**5 locations**</summary>Austin, TX</br>San Jose, CA</br>Chicago, IL</br>Scottsdale, AZ</br>NYC</details> | Spring 2024, Fall 2024 | <a href="https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/San-Jose-California-United-States-of-America/Data-Analyst-Intern_R0106075?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/0e3dde91-f355-42c7-bfe6-d291763ba9ad?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 09 |
 | **[PayPal](https://simplify.jobs/c/PayPal)** | Software Engineer Intern | <details><summary>**5 locations**</summary>Austin, TX</br>San Jose, CA</br>Chicago, IL</br>Scottsdale, AZ</br>NYC</details> | Spring 2024, Fall 2024 | <a href="https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer-Intern_R0106013?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/de7f25d2-af21-4fc7-be7f-633e662b4300?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 09 |
+| **Fetch** | Frontend Engineer Apprenticeship | Madison, WI | Fall 2023 | 🔒 | Aug 09 |
+| **[CACI](https://simplify.jobs/c/CACI)** | Cyber Engineering Internship - Fall 2023 | Annapolis Junction, MD</br>Remote</br>Dulles, VA | Fall 2023 | <a href="https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Sterling/Cyber-Engineering-Internship-Spring-Summer-2023_269476-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/90c24450-cb8f-4283-8843-8eea3c07d9e6?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 09 |
 | **[OpenFin](https://simplify.jobs/c/OpenFin)** | Engineering Intern | NYC | Spring 2023 | <a href="https://boards.greenhouse.io/openfin95/jobs/5277187?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/bd1b04e6-03bb-4ce5-83de-606afcb955f2?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 07 |
 | **[OpenFin](https://simplify.jobs/c/OpenFin)** | Engineering Intern | London, UK | Spring 2023 | <a href="https://boards.greenhouse.io/openfin95/jobs/5277131?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/f80c60ed-e443-4b16-bc64-228515426ac4?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 07 |
 | **Tesla** | Software Engineering Intern - Energy | Palo Alto, CA | Spring 2024, Summer 2024 | <a href="https://www.tesla.com/careers/search/job/energy-software-engineering-spring-summer-2024-206805?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 05 |
@@ -51,7 +97,15 @@
 | **[Vestmark](https://simplify.jobs/c/Vestmark)** | Intern – Software Engineer | Wakefield, MA | Fall 2023 | <a href="https://boards.greenhouse.io/vestmark/jobs/5125520?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/90d693b7-1bae-401a-a20f-129cb1871d67?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jul 31 |
 | **Mathworks** | Engineering Development Group Internship | Natick, MA | Fall 2023 | <a href="https://www.mathworks.com/company/jobs/opportunities/25610-multiple-openings-engineering-development-group-internship?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 26 |
 | **[The Boring Company](https://simplify.jobs/c/The-Boring-Company)** | Software Engineering Intern | Las Vegas, NV | Fall 2023 | <a href="https://jobs.lever.co/boringcompany/3af50cd9-82a7-4ee1-9cf5-b757d83f7c23/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/515a9bb8-49cf-4db0-8ec0-53dccccfd006?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jul 19 |
-| **[Sanctuary](https://simplify.jobs/c/Sanctuary-AI)** | Software Co-op: Systems Integration | Vancouver, BC, Canada | Fall 2023 | <a href="https://jobs.lever.co/sanctuary/44a0385e-a11d-476c-85f3-ce317da06e15/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/f38393d6-4afe-4ba6-8b5e-ff32b6171a39?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jul 19 |
+| **SpaceX** | Software Engineering Internship/Co-op | Remote | Fall 2023 | 🔒 | Jul 19 |
+| **Skydio** | Fall Embedded Software Engineer Intern | Burlingame, CA | Fall 2023 | 🔒 | Jul 19 |
+| **Second Order Effects** | Systems Integration/Test Engineering Intern | El Segundo, CA | Fall 2023 | 🔒 | Jul 19 |
+| **Sanctuary** | Software Co-op: Systems Integration | Vancouver, BC, Canada | Fall 2023 | 🔒 | Jul 19 |
+| **Sanctuary** | Software Co-op: AI/Automation | Vancouver, BC, Canada | Fall 2023 | 🔒 | Jul 19 |
+| **Sanctuary** | Hardware Co-op: Firmware Engineering | Vancouver, BC, Canada | Fall 2023 | 🔒 | Jul 19 |
+| **NVIDIA** | Phd Research Intern - AI Algorithm | Remote in USA</br>Santa Clara, CA | Fall 2023 | 🔒 | Jul 19 |
+| **NVIDIA** | System Validation Engineer Intern | Santa Clara, CA | Fall 2023 | 🔒 | Jul 19 |
+| **NVIDIA** | System Validation Engineer Intern | Hillsboro, OR | Fall 2023 | 🔒 | Jul 19 |
 | **[NimbleRx](https://simplify.jobs/c/NimbleRx)** | Software Engineer Intern | Remote | Winter 2024, Spring 2024 | <a href="https://jobs.lever.co/nimblerx/f1b1c7ab-60f4-4051-93ea-d2dbba1cee9c/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/1e5b99ff-c71f-4ea9-a511-5dee851785bb?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jul 19 |
 | **[Covariant](https://simplify.jobs/c/Covariant)** | Machine Learning - AI Research Internship | Oakland, CA | Fall 2023 | <a href="https://jobs.lever.co/covariant/6578b4ae-8ce4-4921-9df5-6358334bb64a/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/6c3f7766-854b-4b07-a73b-cbfa529ef5a2?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jul 19 |
 | **[Certik](https://simplify.jobs/c/Certik)** | SWE Intern | <details><summary>**4 locations**</summary>NYC</br>Seattle, WA</br>SF Bay Area, CA</br>Remote</details> | Fall 2023 | <a href="https://jobs.lever.co/certik/cc4bc2b7-ee87-43be-81c9-09c8b0411a7e?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 19 |
