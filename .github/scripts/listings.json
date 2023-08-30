@@ -8733,7 +8733,7 @@
         "company_name": "PayPal",
         "id": "ae043eca-d42f-4b9d-8b84-09fa285c81c8",
         "title": "Finance & Accounting Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Fall 2024"
@@ -10091,7 +10091,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1692658937,
+        "date_updated": 1693404814,
         "url": "https://jobs.ericsson.com/careers/job/563121756491431",
         "company_name": "Ericsson",
         "title": "Software Developer Intern",
@@ -10101,7 +10101,7 @@
         "terms": [
             "Summer 2024"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "ikatyal2110",
         "id": "511cef9e-2e2b-44d1-ae83-34a43cc86c7c",
@@ -11112,7 +11112,7 @@
         "company_name": "Rockwell Automation",
         "id": "f05f6a91-c862-4ac9-b853-83310aca4b4f",
         "title": "Intern \u2013 Software Test",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -11440,7 +11440,7 @@
         "company_name": "Leidos",
         "id": "f1c887a8-ec02-4232-99f3-3f6a3fb0e23f",
         "title": "Software Engineer Intern\ud83c\uddfa\ud83c\uddf8",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -12278,7 +12278,7 @@
         "company_name": "Lucid Motors",
         "id": "039ba8aa-7bae-439f-b002-ab2dfff977b8",
         "title": "Intern \u2013 Android Applications Software Engineer - Summer 2023",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2023"
         ],
@@ -12834,11 +12834,11 @@
         "company_name": "Oshkosh",
         "id": "cd19d7a7-9167-4f7a-8d2b-9cfe914abf0c",
         "title": "Engineer Intern - Software - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1693350411,
+        "date_updated": 1693411417,
         "date_posted": 1693350411,
         "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Appleton-Wisconsin-United-States/Engineer-Intern---Software--Summer-2024-_R22524",
         "locations": [
@@ -12892,7 +12892,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "9e05fa6e-42b6-4ac9-938e-6b09f9333186",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -12905,5 +12905,47 @@
         "company_url": "https://simplify.jobs/c/Hewlett-Packard",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1693403416,
+        "url": "https://jobs.ericsson.com/careers/job?domain=ericsson.com&pid=563121756495080&query=software%20development%20intern&location=Plano%2CUnited%20States&domain=ericsson.com&sort_by=relevance&job_index=0",
+        "company_name": "Ericsson",
+        "title": "Software Automation Specialist Intern - Summer 2024",
+        "locations": [
+            "Plano, TX"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "Aleque2023",
+        "id": "bd8abff1-efe1-4a44-acc4-1dabd6e7862d",
+        "date_posted": 1693403416,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1693407022,
+        "url": "https://app.ripplematch.com/v2/public/job/325e9a1c/details",
+        "company_name": "Ultimate Kronos Group (UKG)",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Atlanta, GA",
+            "Lowell, MA",
+            "Weston, FL",
+            "Branchburg, NJ"
+        ],
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "mtlogs",
+        "id": "5db48ba6-6ce8-4101-9063-d3e290537d34",
+        "date_posted": 1693407022,
+        "company_url": "",
+        "is_visible": true
     }
 ]
