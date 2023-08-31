@@ -12,6 +12,8 @@ def main():
     util.checkSchema(listings)
     util.sortListings(listings)
 
+    listings = util.customFilter(listings)
+
     summer_2024_listings = util.filterSummer(listings)
     util.embedTable(summer_2024_listings, "README.md")
 
