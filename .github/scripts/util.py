@@ -108,6 +108,10 @@ def embedTable(listings, filepath, offSeason=False):
         f.write(newText)
 
 
+def customFilter(listings):
+    return [listing for listing in listings if listing["active"]]
+
+
 def filterSummer(listings):
     return [listing for listing in listings if listing["is_visible"] and any("Summer" in item for item in listing["terms"])]
 
