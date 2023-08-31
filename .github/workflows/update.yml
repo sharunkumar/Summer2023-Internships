@@ -27,7 +27,7 @@ jobs:
       run: |
         git remote add upstream https://github.com/SimplifyJobs/Summer2024-Internships.git
         git fetch upstream
-        git merge --log upstream/dev --strategy=recursive --strategy-option=theirs
+        git merge --log upstream/dev --strategy=recursive --strategy-option=ours
 
     # This has to be done first due to permissions reasons
     - name: Move other workflows
