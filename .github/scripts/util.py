@@ -109,7 +109,7 @@ def embedTable(listings, filepath, offSeason=False):
 
 
 def customFilter(listings):
-    return [listing for listing in listings if listing["active"] and (listing["sponsorship"] != "Does Not Offer Sponsorship" or listing["sponsorship"] != "U.S. Citizenship is Required")]
+    return [listing for listing in listings if listing["active"] and listing["sponsorship"] not in ["Does Not Offer Sponsorship", "U.S. Citizenship is Required"]]
 
 
 def filterSummer(listings):
