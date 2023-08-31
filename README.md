@@ -1,11 +1,77 @@
 
+We're back! Use this repo to share and keep track of software, tech, CS, PM, quant internships for **Summer 2024**. The list is maintained collaboratively by the [Pitt Computer Science Club](https://pittcsc.org/) and [Simplify](https://simplify.jobs/)!
+
+
+:warning: Please note that this repository is exclusively for internships/co-ops in the United States, Canada, or Remote positions :earth_americas:
+
+🧠 For valuable tips on navigating the internship process, be sure to check out our guide [Zero to Offer](https://www.pittcs.wiki/zero-to-offer) 🧠.
+
+🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/Summer2024-Internships/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
+
+---
+<div align="center">
+	<h3>😮‍💨 Tired of checking every day for new internships? 😩</h3>
+	<p>
+			A community member made ⬇️ <strong>SWE List</strong> ⬇️ that sends you email updates for this repo 
+			<br>
+			<div>
+			<a href="https://swelist.com">
+          <img src="https://i.imgur.com/3OE20pW.png" width="400" alt="Email">
+        </a>
+			</div>
+		<sub><i>Share any other cool projects you make using the repo, and we might give you a shoutout!</i></sub>
+	</p>
+</div>
+
+---
+
+<div align="center">
+	<p>
+		<a href="https://simplify.jobs/?utm_source=GHList&utm_medium=banner">
+			<b>Applying to internships?</b>
+			<br>
+			Autofill all your applications in a single click.
+			<br>
+			<div>
+				<a href="https://simplify.jobs/?utm_source=GHList&utm_medium=banner">
+          <img src="https://res.cloudinary.com/dpeo4xcnc/image/upload/v1636594918/simplify_pittcsc.png" width="450" alt="Simplify">
+        </a>
+			</div>
+		</a>
+		<sub><i>Stop manually re-entering your information. Simplify’s extension helps you autofill internship applications on millions of sites.</i></sub>
+	</p>
+</div>
+
+---
+
+## The List 🚴🏔
+
+### Legend
+ - 🛂 - Does NOT offer Sponsorship
+ - 🇺🇸 - Requires U.S. Citizenship
+ - 🔒 - Internship application is closed
 
 > This README file is for **2024 summer internships only**. For off-season internships, please see the [Off-Season 2024 README](./README-Off-Season.md).
 
+> For new-grad tech jobs, check out [2024-New-Grad-Tech-Jobs](https://github.com/SimplifyJobs/2024-New-Grad-Tech-Jobs).
+
+[⬇️ Jump to bottom ⬇️](https://github.com/SimplifyJobs/Summer2024-Internships#we-love-our-contributors-%EF%B8%8F%EF%B8%8F)
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **[Cerebras](https://simplify.jobs/c/Cerebras-Systems)** | Compiler Engineer – Internship - PEY 2024 | Toronto, ON, Canada | <a href="https://www.cerebras.net/career/?gh_jid=5728745003&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/7c02b22d-910f-4f7f-9d3c-6e23af0b1143?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 30 |
+| **[Cerebras](https://simplify.jobs/c/Cerebras-Systems)** | Kernel Engineer – Internship - PEY 2024 | Toronto, ON, Canada | <a href="https://www.cerebras.net/career/?gh_jid=5730076003&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/dbb12bfe-8c8d-4ca6-81e8-7da1d470a48f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 30 |
+| **[Cerebras](https://simplify.jobs/c/Cerebras-Systems)** | Machine Learning Software Engineer – Internship - PEY 2024 | Toronto, ON, Canada | <a href="https://www.cerebras.net/career/?gh_jid=5730051003&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/849a6f1f-b45c-4d95-bf3e-4cbe0209965a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 30 |
+| **[Cerebras](https://simplify.jobs/c/Cerebras-Systems)** | Machine Learning Developer – Internship - Software Automation - PEY 2024 | Toronto, ON, Canada | <a href="https://www.cerebras.net/career/?gh_jid=5730049003&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/c2066e8b-0f3c-4406-8c1d-18e9d833d373?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 30 |
+| **[Cerebras](https://simplify.jobs/c/Cerebras-Systems)** | Machine Learning Runtime Engineer – Internship - PEY 2024 | Toronto, ON, Canada | <a href="https://www.cerebras.net/career/?gh_jid=5730065003&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/8e52e09f-118a-4add-b7a0-48188893071f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 30 |
+| **[Cerebras](https://simplify.jobs/c/Cerebras-Systems)** | Machine Learning Stack Engineer – Internship - PEY 2024 | Toronto, ON, Canada | <a href="https://www.cerebras.net/career/?gh_jid=5730057003&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/13a8dfcb-7c5d-4fdf-a512-bd81867a1968?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 30 |
+| **[Tanium](https://simplify.jobs/c/Tanium)** | Software Engineer Intern | Remote in USA | <a href="https://www.tanium.com/careers/5322160?gh_jid=5322160&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/86358b03-dc51-408f-9789-ff0c686869ca?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 30 |
+| **[Torc Robotics](https://simplify.jobs/c/Torc-Robotics)** | Data Engineer Co-Op | Blacksburg, VA</br>Austin, TX | <a href="https://boards.greenhouse.io/torcrobotics/jobs/6907477002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/2266a194-0f1b-4c7d-91d1-5afee3f01fd7?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 30 |
+| **ZS Associates** | Software Engineer Intern | Evanston, Illinois | <a href="https://jobs.zs.com/jobs/18398?lang=en-us&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 30 |
+| **[Nextdoor](https://simplify.jobs/c/Nextdoor)** | Software Engineer Intern - Summer 2024 | SF | <a href="https://about.nextdoor.com/careers-list/?gh_jid=5128512&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/f3edd835-346d-4812-8dff-cc58b4324ecc?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 30 |
+| **Visa** | Software Engineer, Intern - Summer 2024 🛂 | Ashburn, VA | <a href="https://jobs.smartrecruiters.com/Visa/743999927523368-software-engineer-intern-summer-2024?source=LinkedIn&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 30 |
+| **Ultimate Kronos Group (UKG)** | Software Engineer Intern 🛂 | <details><summary>**4 locations**</summary>Atlanta, GA</br>Lowell, MA</br>Weston, FL</br>Branchburg, NJ</details> | <a href="https://app.ripplematch.com/v2/public/job/325e9a1c/details?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 30 |
 | **Ericsson** | Software Automation Specialist Intern - Summer 2024 | Plano, TX | <a href="https://jobs.ericsson.com/careers/job?domain=ericsson.com&pid=563121756495080&query=software%20development%20intern&location=Plano%2CUnited%20States&domain=ericsson.com&sort_by=relevance&job_index=0&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 30 |
 | **[Dropbox](https://simplify.jobs/c/Dropbox)** | Software Engineering Intern - Summer 2024 | Remote | <a href="https://boards.greenhouse.io/embed/job_app?token=5309367&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/d617f6c4-90a9-4f1b-bc5e-ed2c3bdd8f20?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 30 |
 | **[Visier Solutions](https://simplify.jobs/c/Visier)** | Test Developer Co-op - Jan 2024 - Aug 2024 | Vancouver, BC, Canada | <a href="https://boards.greenhouse.io/visiersolutionsinc/jobs/4267135006?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/79f194d5-5b9f-42fd-bc25-ceb39cb6aa06?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 29 |
