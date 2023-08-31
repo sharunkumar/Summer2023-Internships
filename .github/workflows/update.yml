@@ -49,8 +49,8 @@ jobs:
 
     - name: Update README
       run: |
-        cp template/README.md .
-        cp template/README-Off-Season.md .
+        cp .github/template/README.md .
+        cp .github/template/README-Off-Season.md .
         python .github/scripts/update_readmes.py
 
     - name: Commit
