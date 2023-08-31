@@ -47,9 +47,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 ## The List 🚴🏔
 
 ### Legend
- - 🛂 - Does NOT offer Sponsorship
- - 🇺🇸 - Requires U.S. Citizenship
- - 🔒 - Internship application is closed
 
 > This README file is for **2024 summer internships only**. For off-season internships, please see the [Off-Season 2024 README](./README-Off-Season.md).
 
@@ -70,8 +67,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Torc Robotics](https://simplify.jobs/c/Torc-Robotics)** | Data Engineer Co-Op | Blacksburg, VA</br>Austin, TX | <a href="https://boards.greenhouse.io/torcrobotics/jobs/6907477002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/2266a194-0f1b-4c7d-91d1-5afee3f01fd7?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 30 |
 | **ZS Associates** | Software Engineer Intern | Evanston, Illinois | <a href="https://jobs.zs.com/jobs/18398?lang=en-us&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 30 |
 | **[Nextdoor](https://simplify.jobs/c/Nextdoor)** | Software Engineer Intern - Summer 2024 | SF | <a href="https://about.nextdoor.com/careers-list/?gh_jid=5128512&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/f3edd835-346d-4812-8dff-cc58b4324ecc?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 30 |
-| **Visa** | Software Engineer, Intern - Summer 2024 🛂 | Ashburn, VA | <a href="https://jobs.smartrecruiters.com/Visa/743999927523368-software-engineer-intern-summer-2024?source=LinkedIn&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 30 |
-| **Ultimate Kronos Group (UKG)** | Software Engineer Intern 🛂 | <details><summary>**4 locations**</summary>Atlanta, GA</br>Lowell, MA</br>Weston, FL</br>Branchburg, NJ</details> | <a href="https://app.ripplematch.com/v2/public/job/325e9a1c/details?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 30 |
 | **Ericsson** | Software Automation Specialist Intern - Summer 2024 | Plano, TX | <a href="https://jobs.ericsson.com/careers/job?domain=ericsson.com&pid=563121756495080&query=software%20development%20intern&location=Plano%2CUnited%20States&domain=ericsson.com&sort_by=relevance&job_index=0&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 30 |
 | **[Dropbox](https://simplify.jobs/c/Dropbox)** | Software Engineering Intern - Summer 2024 | Remote | <a href="https://boards.greenhouse.io/embed/job_app?token=5309367&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/d617f6c4-90a9-4f1b-bc5e-ed2c3bdd8f20?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 30 |
 | **[Visier Solutions](https://simplify.jobs/c/Visier)** | Test Developer Co-op - Jan 2024 - Aug 2024 | Vancouver, BC, Canada | <a href="https://boards.greenhouse.io/visiersolutionsinc/jobs/4267135006?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/79f194d5-5b9f-42fd-bc25-ceb39cb6aa06?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 29 |
