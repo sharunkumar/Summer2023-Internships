@@ -558,7 +558,7 @@
         "company_name": "DRW",
         "id": "efd1fbf2-b673-4f23-948a-c579135018e2",
         "title": "Accounting Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -12159,7 +12159,7 @@
         "company_name": "Lucid Motors",
         "id": "5ecf01c0-66b0-462f-8b3c-b4458fb154f6",
         "title": "Intern \u2013 Product/Program Management - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -13764,15 +13764,15 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1693581464,
+        "date_updated": 1693629429,
         "date_posted": 1693581464,
         "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Prairie-View-A-M-University-Summer-Internship-2024---Engineering--Michigan_R505370",
         "locations": [
             "Portage, MI"
         ],
         "company_url": "https://simplify.jobs/c/Stryker",
-        "is_visible": true,
-        "sponsorship": "Other"
+        "is_visible": false,
+        "sponsorship": "Offers Sponsorship"
     },
     {
         "source": "Simplify",
@@ -14182,15 +14182,15 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1693609945,
+        "date_updated": 1693629029,
         "date_posted": 1693609945,
         "url": "https://jobs.ashbyhq.com/Jerry/7fd85dd1-7d62-436d-a596-2632883c8f45/application",
         "locations": [
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other"
+        "is_visible": false,
+        "sponsorship": "Offers Sponsorship"
     },
     {
         "source": "Simplify",
@@ -14199,17 +14199,17 @@
         "title": "Commercial Analytics Intern",
         "active": true,
         "terms": [
-            "Summer 2023"
+            "Summer 2024"
         ],
-        "date_updated": 1693610028,
+        "date_updated": 1693629164,
         "date_posted": 1693610028,
         "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/San-Jose-California/Commercial-Analytics-Intern_R504859",
         "locations": [
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/Stryker",
-        "is_visible": true,
-        "sponsorship": "Other"
+        "is_visible": false,
+        "sponsorship": "Offers Sponsorship"
     },
     {
         "source": "Simplify",
@@ -14272,20 +14272,22 @@
         "source": "Simplify",
         "company_name": "Stryker",
         "id": "b5c541a5-ffd9-4dc9-9681-8d218b52a425",
-        "title": "Summer Internship 2024 - Software Engineering - Indiana",
+        "title": "Summer Internship 2024 - Software Engineering",
         "active": true,
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1693610063,
+        "date_updated": 1693628878,
         "date_posted": 1693610063,
         "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Indiana-Fort-Wayne-1950-West-Cook-Road/Summer-Internship-2024---Software-Engineering---Indiana_R505275",
         "locations": [
-            "Fort Wayne, IN"
+            "Indiana",
+            "Michigan",
+            "Florida"
         ],
         "company_url": "https://simplify.jobs/c/Stryker",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "Does Not Offer Sponsorship"
     },
     {
         "source": "Simplify",
@@ -14351,9 +14353,9 @@
         "title": "Software Development-Undergraduate Intern",
         "active": true,
         "terms": [
-            "Summer 2023"
+            "Summer 2024"
         ],
-        "date_updated": 1693609851,
+        "date_updated": 1693628798,
         "date_posted": 1693609851,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Development-Undergraduate-Intern_JR0248298",
         "locations": [
@@ -14364,7 +14366,7 @@
         ],
         "company_url": "https://simplify.jobs/c/Intel",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "Does Not Offer Sponsorship"
     },
     {
         "source": "Simplify",
@@ -14403,5 +14405,62 @@
         "company_url": "https://simplify.jobs/c/Oshkosh",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1693629539,
+        "url": "https://careers.snowflake.com/us/en/job/6918413002/Software-Engineer-Intern-Core-Database-Engineering-Spring-2024",
+        "company_name": "Snowflake",
+        "title": "Software Engineer Intern (Core/Database Engineering) - Spring 2024",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "terms": [
+            "Spring 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "IceColdBlizzard1",
+        "id": "100b57ad-0194-4b28-a19e-e1859a4d4cb2",
+        "date_posted": 1693629539,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1693629579,
+        "url": "https://careers.snowflake.com/us/en/job/6918464002/Software-Engineer-Intern-Infrastructure-Automation-Spring-2024",
+        "company_name": "Snowflake",
+        "title": "Software Engineer Intern (Infrastructure Automation) - Spring 2024",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "terms": [
+            "Spring 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "IceColdBlizzard1",
+        "id": "56aad942-bc3d-4133-a3fb-5f256ee00521",
+        "date_posted": 1693629579,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1693631930,
+        "url": "https://careers.snowflake.com/us/en/job/6918415002/Software-Engineer-Intern-Core-Database-Engineering-Spring-2024",
+        "company_name": "Snowflake",
+        "title": "Software Engineer Intern (Core/Database Engineering) - Spring 2024",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "terms": [
+            "Spring 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "IceColdBlizzard1",
+        "id": "a348d085-d2c5-4fbc-aca2-cde59a54ba69",
+        "date_posted": 1693631930,
+        "company_url": "",
+        "is_visible": true
     }
 ]
