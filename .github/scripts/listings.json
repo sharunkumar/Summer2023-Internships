@@ -8248,7 +8248,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1692036013,
+        "date_updated": 1693706646,
         "url": "https://careers.humana.com/job/18883550/college-tech-internship-program-summer-2024-remote/?source=Humana_Website#gtm-jobdetail-desc",
         "company_name": "Humana",
         "title": "Tech Internship Program",
@@ -8258,8 +8258,8 @@
         "terms": [
             "Summer 2024"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "possibly-AA9",
         "id": "b30110ca-494c-4b8f-97fe-57c5a0e9fbcc",
         "date_posted": 1692036013,
@@ -14615,5 +14615,64 @@
         "company_url": "https://simplify.jobs/c/Stryker",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1693706557,
+        "url": "https://www.cerebras.net/careers/?gh_jid=5728745003",
+        "company_name": "Cerebras",
+        "title": "Compiler Engineer \u2013 Internship - PEY 2024",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "Aleque2023",
+        "id": "7198848f-8e79-44c0-b943-9112f2af666d",
+        "date_posted": 1693706557,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1693706589,
+        "url": "https://broadridge.wd5.myworkdayjobs.com/Careers/job/New-York-NY/Broadridge-Technology-Internship---Summer-2024_JR1058524",
+        "company_name": "Broadridge",
+        "title": "Technology Internship",
+        "locations": [
+            "New York, NY",
+            "Edgewood, NY",
+            "Newark, NJ"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "ngitman",
+        "id": "f13e21d0-fd6f-4d9d-bf52-2818993f6b2a",
+        "date_posted": 1693706589,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1693706622,
+        "url": "https://careers.zebra.com/careers/job/343614986125",
+        "company_name": "Zebra Technologies Corporation",
+        "title": "Software Engineer Internship",
+        "locations": [
+            "Holtsville, New York"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "ngitman",
+        "id": "1bf47550-bf0f-4c01-ae85-ffa3f63b7772",
+        "date_posted": 1693706622,
+        "company_url": "",
+        "is_visible": true
     }
 ]
