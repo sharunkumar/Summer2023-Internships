@@ -7061,7 +7061,7 @@
         "company_name": "CACI",
         "id": "90c24450-cb8f-4283-8843-8eea3c07d9e6",
         "title": "Cyber Engineering Internship - Fall 2023",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023"
         ],
@@ -8380,7 +8380,7 @@
         "company_name": "Fetch",
         "id": "841e4fcb-f6c5-488a-b6e0-0a1306a46e1f",
         "title": "Backend Engineering \u2013 Apprenticeship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2023"
         ],
@@ -8547,18 +8547,18 @@
         "is_visible": true
     },
     {
-        "date_updated": 1692125693,
+        "date_updated": 1693921912,
         "url": "https://www.se.com/ww/en/about-us/careers/job-details/software-engineering-intern--fall-2023-/55765/",
         "company_name": "Schneider Electric",
-        "title": "Software Engineer Intern",
+        "title": "Software Engineer Intern \ud83d\udec2",
         "locations": [
             "Andover, MA"
         ],
         "terms": [
             "Summer 2024"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "leetcodeLover",
         "id": "b28ccc9d-d1dd-46e6-b7d5-cd2ffc68e97c",
         "date_posted": 1692125693,
@@ -9169,7 +9169,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1692295456,
+        "date_updated": 1693936150,
         "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Oshkosh-Wisconsin-United-States/Computer-Software-Engineering-Intern-Summer-2024_R22291",
         "company_name": "Oshkosh Corporation",
         "title": "Computer/Software Engineering Intern",
@@ -9179,8 +9179,8 @@
         "terms": [
             "Summer 2024"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "cwcoogan",
         "id": "b5e1c0c8-85af-4e4e-94ff-18181014905f",
         "date_posted": 1692295456,
@@ -9884,7 +9884,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1692555635,
+        "date_updated": 1693931817,
         "url": "https://ea.gr8people.com/jobs/179825/software-engineer-intern?locale=en",
         "company_name": "Maxis Studios",
         "title": "Software Engineer Intern",
@@ -9894,8 +9894,8 @@
         "terms": [
             "Summer 2024"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "RaiJashan17",
         "id": "7407250c-3e89-4df1-b954-644a6198dd39",
         "date_posted": 1692555635,
@@ -11600,7 +11600,7 @@
         "company_name": "Duolingo",
         "id": "7c25a3dc-fc31-4629-80eb-b6e5782d900b",
         "title": "Software Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -14718,20 +14718,20 @@
         "source": "Simplify",
         "company_name": "Maven Securities",
         "id": "f9444a25-4ce3-48a1-bd87-f0f8b9dee10e",
-        "title": "Software Developer Summer Internship London 2024",
+        "title": "Software Developer Summer Internship London 2024 And Trader Summer Internship London 2024",
         "active": true,
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1693840343,
+        "date_updated": 1693921933,
         "date_posted": 1693840343,
         "url": "https://boards.greenhouse.io/mavensecuritiesholdingltd/jobs/4947751",
         "locations": [
-            "London, UK"
+            "London"
         ],
         "company_url": "https://simplify.jobs/c/Maven-Securities",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "Does Not Offer Sponsorship"
     },
     {
         "source": "Simplify",
@@ -14789,5 +14789,157 @@
         "company_url": "https://simplify.jobs/c/cb8d0ea4-93ea-4a6e-982e-c2e0394150cf",
         "is_visible": false,
         "sponsorship": "Offers Sponsorship"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "InterSystems",
+        "id": "6b081242-a0db-44cb-8736-7da8372109c1",
+        "title": "Summer Internship 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693927036,
+        "date_posted": 1693927036,
+        "url": "https://www.intersystems.com/careers/careers-search/?gh_jid=5726696003",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/InterSystems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "IEX",
+        "id": "4e7260d6-567c-4901-a8f9-e629de2ee218",
+        "title": "Cyber Security Engineer Co-Op",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1693927062,
+        "date_posted": 1693927062,
+        "url": "https://iex.io/careers/apply?gh_jid=5345535",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/IEX",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "T. Rowe Price",
+        "id": "190a630c-1e8e-416f-86e6-838161a770b4",
+        "title": "2024 Quantitative Investing Internship Program",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1693926891,
+        "date_posted": 1693926891,
+        "url": "https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2024-Quantitative-Investing-Internship-Program_67155",
+        "locations": [
+            "Baltimore, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/t-rowe-price",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CACI",
+        "id": "eb8ae481-79cc-46f5-8e35-4825d8433184",
+        "title": "Signal Processing and Data Analysis Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693926955,
+        "date_posted": 1693926955,
+        "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-TX-Austin/Signal-Processing-and-Data-Analysis-Intern---Summer-2024_285864-1",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CACI",
+        "id": "f97fc560-cb2c-4e8c-bc20-04521da5f9d5",
+        "title": "Software Development Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693926954,
+        "date_posted": 1693926954,
+        "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-CO-Denver/Software-Development-Intern---Summer-2024_285411-1",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "T. Rowe Price",
+        "id": "8f866a33-aa28-4cdf-90cd-42182ccd44e6",
+        "title": "2024 Global Trading Internship Program",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1693926891,
+        "date_posted": 1693926891,
+        "url": "https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2024-Global-Trading-Internship-Program_67161",
+        "locations": [
+            "Baltimore, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/t-rowe-price",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wealthsimple",
+        "id": "ab0f7ec3-ca21-4a55-8a93-3e43805005d4",
+        "title": "Intern \u2013 Data Science - Winter 2024",
+        "active": true,
+        "terms": [
+            "Winter 2024"
+        ],
+        "date_updated": 1693926755,
+        "date_posted": 1693926755,
+        "url": "https://jobs.lever.co/wealthsimple/78d53305-13de-4d6d-81b6-29b078a1f588/apply",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Wealthsimple",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wealthsimple",
+        "id": "68a70fab-725d-44fd-8bd4-e9c0592605f6",
+        "title": "Intern \u2013 Software Development - Winter 2024",
+        "active": true,
+        "terms": [
+            "Winter 2024"
+        ],
+        "date_updated": 1693926756,
+        "date_posted": 1693926756,
+        "url": "https://jobs.lever.co/wealthsimple/146ae3e8-f01a-4f82-8cf4-1754b4b9bef9/apply",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Wealthsimple",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
