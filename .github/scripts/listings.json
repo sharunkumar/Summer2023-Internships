@@ -5879,23 +5879,23 @@
         "sponsorship": "Offers Sponsorship"
     },
     {
-        "date_updated": 1691035200,
+        "date_updated": 1693854270,
         "url": "https://careers.skyworksinc.com/job/Hillsboro-Intern-Web-Development-OR-97006/1057407200/",
-        "company_name": "Skyworks",
-        "title": "Web Development Intern",
+        "company_name": "Skyworks\t",
+        "title": "Web Development Intern\t",
         "locations": [
             "Hillsboro, OR"
         ],
         "terms": [
             "Summer 2024"
         ],
-        "active": true,
+        "active": false,
         "source": "hemanthy1",
         "id": "78aeba88-381d-46f4-a9d9-d81494eec030",
         "date_posted": 1691035200,
         "company_url": "",
         "is_visible": true,
-        "sponsorship": "Offers Sponsorship"
+        "sponsorship": "Other"
     },
     {
         "date_updated": 1691035200,
@@ -7154,33 +7154,17 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1691621436,
+        "date_updated": 1693865896,
         "url": "https://careers.mitre.org/us/en/job/MITRUSR111593EXTERNALENUS/Computer-Science-and-Software-Engineering-Intern-positions",
         "company_name": "Mitre",
-        "title": "Software Engineering Intern",
+        "title": "Software Engineering Intern \ud83c\uddfa\ud83c\uddf8\t",
         "locations": [
-            "Bedford, MA",
-            "Huntsville, AL",
-            "Tampa, FL",
-            "Bridgeport, WV",
-            "Fairborn, OH",
-            "San Antonio, TX",
-            "Colorado Springs, CO",
-            "Annapolis Junction, MD",
-            "Gaithersburg, MD",
-            "Charlottesville, VA",
-            "El Segundo, CA",
-            "Doral, FL",
-            "Hampton, VA",
-            "Shaw AFB, SC",
-            "Shrewsbury, NJ",
-            "Fort Walton Beach, FL",
-            "Aberdeen, MD"
+            "Multiple"
         ],
         "terms": [
             "Summer 2024"
         ],
-        "sponsorship": "U.S. Citizenship is Required",
+        "sponsorship": "Other",
         "active": true,
         "source": "hemanthy1",
         "id": "93b41758-4229-400f-8d49-bede81e7f64a",
@@ -7212,10 +7196,10 @@
         "is_visible": true
     },
     {
-        "date_updated": 1691684423,
+        "date_updated": 1693866085,
         "url": "https://ea.gr8people.com/jobs/179637/software-engineer-intern?sid=4",
-        "company_name": "EA",
-        "title": "Software Engineering Intern",
+        "company_name": "EA\t",
+        "title": "Software Engineering Intern\t",
         "locations": [
             "Marina Del Rey, CA"
         ],
@@ -7223,7 +7207,7 @@
             "Summer 2024"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "hemanthy1",
         "id": "9830e3e5-9eee-4e85-908b-82114293c557",
         "date_posted": 1691621569,
@@ -7259,10 +7243,10 @@
         "is_visible": true
     },
     {
-        "date_updated": 1691621636,
+        "date_updated": 1693865981,
         "url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=124932&clientkey=8E7F16AD6654E4ED3797EE9F40DB0A48",
-        "company_name": "Oklahoma City Thunder",
-        "title": "Software Engineer Intern Data Science And Solutions",
+        "company_name": "Oklahoma City Thunder\t",
+        "title": "Software Engineer Intern Data Science And Solutions\t",
         "locations": [
             "Remote"
         ],
@@ -7270,7 +7254,7 @@
             "Summer 2024"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "hemanthy1",
         "id": "7f936807-3e2c-48ba-88ce-17ece6562bf3",
         "date_posted": 1691621636,
@@ -7539,7 +7523,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1691700761,
+        "date_updated": 1693866010,
         "url": "https://jobs.bayer.com/job/Residence-Based-Cloud-Developer-Intern-Resi/966220501/",
         "company_name": "Bayer",
         "title": "Cloud Developer Intern (Sponsorship Unknown)",
@@ -7547,11 +7531,10 @@
             "Multiple Locations"
         ],
         "terms": [
-            "Summer 2024",
-            "Fall 2024"
+            "Summer 2024"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "shreeyapatell",
         "id": "ea7bdf40-ecd2-48ad-9941-da4a7a8c5e39",
         "date_posted": 1691700761,
@@ -8172,18 +8155,18 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1692035609,
+        "date_updated": 1693865860,
         "url": "https://careers.peraton.com/jobs/summer-2024-cyberspace-software-engineer-intern-herndon-virginia-jobs",
         "company_name": "Peraton",
-        "title": "Cyberspace Software Engineer Intern",
+        "title": "Cyberspace Software Engineer Intern \ud83c\uddfa\ud83c\uddf8\t",
         "locations": [
             "Herndon, VA"
         ],
         "terms": [
             "Summer 2024"
         ],
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "possibly-AA9",
         "id": "a726d4d4-fdf8-41a5-895d-628e5a870e6a",
         "date_posted": 1692035609,
@@ -14787,5 +14770,24 @@
         "company_url": "https://simplify.jobs/c/Live-Nation-Entertainment",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Weiss Asset Management",
+        "id": "3ce7048c-320e-4175-b06f-1596c674cfb2",
+        "title": "Business Rotational Summer Internship 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693872726,
+        "date_posted": 1693869538,
+        "url": "https://boards.greenhouse.io/weissassetmanagement/jobs/6918993002",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/cb8d0ea4-93ea-4a6e-982e-c2e0394150cf",
+        "is_visible": false,
+        "sponsorship": "Offers Sponsorship"
     }
 ]
