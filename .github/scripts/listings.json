@@ -11302,18 +11302,18 @@
         "is_visible": true
     },
     {
-        "date_updated": 1692990859,
+        "date_updated": 1694091136,
         "url": "https://ea.gr8people.com/jobs/179737/software-engineer-intern?jobPipeline=Indeed",
         "company_name": "EA",
-        "title": "Software Engineer Intern",
+        "title": "\tSoftware Engineer Intern \ud83d\udec2",
         "locations": [
             "Redwood City, CA"
         ],
         "terms": [
             "Summer 2024"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "hemanthy1",
         "id": "72dafd89-014c-495a-9329-41319d2b8706",
         "date_posted": 1692990859,
@@ -11365,12 +11365,12 @@
         "source": "Simplify",
         "company_name": "TS Imagine",
         "id": "55eff49f-1a8c-4c68-98f2-18fbc8fa32e2",
-        "title": "Data Management Intern",
-        "active": true,
+        "title": "Data Management Intern\t",
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1693252837,
+        "date_updated": 1694091190,
         "date_posted": 1693005899,
         "url": "https://tsimagine.com/about/careers/job/?gh_jid=5267898",
         "locations": [
@@ -11385,11 +11385,11 @@
         "company_name": "TS Imagine",
         "id": "2ff239d4-67a0-4fcf-a2e8-92cb7d27efa5",
         "title": "Financial Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1693252864,
+        "date_updated": 1694091174,
         "date_posted": 1693005899,
         "url": "https://tsimagine.com/about/careers/job/?gh_jid=4192659",
         "locations": [
@@ -11696,18 +11696,18 @@
         "is_visible": true
     },
     {
-        "date_updated": 1693263634,
+        "date_updated": 1694091154,
         "url": "https://ea.gr8people.com/jobs/179701/software-engineer-intern?sid=4",
         "company_name": "EA Sports",
-        "title": "Software Engineer Intern",
+        "title": "\tSoftware Engineer Intern \ud83d\udec2",
         "locations": [
             "Orlando, FL"
         ],
         "terms": [
             "Summer 2024"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "cwcoogan",
         "id": "df983310-8c34-4fc1-845f-c979cd84bf5d",
         "date_posted": 1693263634,
@@ -15835,20 +15835,20 @@
         "source": "Simplify",
         "company_name": "Epic Games",
         "id": "f0a82654-ed6d-43f7-b6f1-5d756c5c7de2",
-        "title": "Audio Research Intern",
+        "title": "Audio Research Intern\t",
         "active": true,
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1694041466,
+        "date_updated": 1694093674,
         "date_posted": 1694041466,
         "url": "https://boards.greenhouse.io/epicgames/jobs/4957205004",
         "locations": [
             "Morrisville, NC"
         ],
         "company_url": "https://simplify.jobs/c/Epic-Games",
-        "is_visible": true,
-        "sponsorship": "Other"
+        "is_visible": false,
+        "sponsorship": "Offers Sponsorship"
     },
     {
         "source": "Simplify",
@@ -15935,15 +15935,15 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1694070779,
+        "date_updated": 1694093600,
         "date_posted": 1694070779,
         "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Mechanical--Electrical----Process-Engineering-Internships--Bachelor-s-Level----Summer-2024_R2315572-1",
         "locations": [
             "Santa Clara, CA"
         ],
         "company_url": "https://simplify.jobs/c/AMAT",
-        "is_visible": true,
-        "sponsorship": "Other"
+        "is_visible": false,
+        "sponsorship": "Offers Sponsorship"
     },
     {
         "source": "Simplify",
@@ -15963,5 +15963,62 @@
         "company_url": "https://simplify.jobs/c/IXL-Learning",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1694102441,
+        "url": "https://mycareer.verizon.com/jobs/r-1014349/ai-ml-engineering-summer-2024-internship/",
+        "company_name": "Verizon",
+        "title": "AI/ML Engineering Summer 2024 Internship",
+        "locations": [
+            "Basking Ridge, New Jersey 600 Hidden Ridge, Irving, TX (TX0326) Boston, Massachusetts"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "j0hnxie",
+        "id": "60c59d16-f7a7-4230-be45-8e12b53b11c4",
+        "date_posted": 1694102441,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1694102466,
+        "url": "https://mycareer.verizon.com/jobs/r-1014280/full-stack-software-development-summer-2024-internship/",
+        "company_name": "Verizon",
+        "title": "Full Stack Software Development Summer 2024 Internship",
+        "locations": [
+            "US: Basking Ridge, New Jersey Alpharetta, Georgia Irving, Texas Boston, Massachusetts Lone Tree, Colorado Irvine, California Walnut Creek, California"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "j0hnxie",
+        "id": "99cb82cd-6771-4e59-b857-13d41c33b4b5",
+        "date_posted": 1694102466,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1694104579,
+        "url": "https://mycareer.verizon.com/jobs/r-1014366/network-performance-summer-2024-internship/",
+        "company_name": "Verizon",
+        "title": "Network Performance Summer 2024 Internship",
+        "locations": [
+            "Basking Ridge, New Jersey Bedminster, New Jersey Temple Terrace, Florida Lake Mary, Florida Walnut Creek, California Twinsburg, Ohio Ashburn, Virginia Irving, Texas Cary, North Carolina Irvine, California New York, New York Rolling Meadows, Illinois Alpharetta, Georgia Boston, Massachusetts Branchburg, New Jersey"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "j0hnxie",
+        "id": "fcc0bd31-f868-47f5-bad3-8e4b9747575e",
+        "date_posted": 1694104579,
+        "company_url": "",
+        "is_visible": true
     }
 ]
