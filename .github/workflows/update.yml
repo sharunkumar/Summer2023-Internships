@@ -47,16 +47,13 @@ jobs:
           echo "No changes to commit"
         fi
 
-    - name: Update README
+    - name: Update README & Commit
       run: |
         cp .github/template/README.md .
         cp .github/template/README-Off-Season.md .
         python .github/scripts/update_readmes.py
-
-    - name: Commit
-      run: |
         if [[ `git status --porcelain` ]]; then
-          git commit -am "Update README"
+          git commit --quiet --all --amend --no-edit
         else
           echo "No changes to commit"
         fi
