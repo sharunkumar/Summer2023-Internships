@@ -10510,7 +10510,7 @@
         "company_name": "Rivian",
         "id": "f78950a0-501f-4562-a5cd-88055fa1f1ae",
         "title": "Software Engineering \u2013 Summer 2024 Internships",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -12836,7 +12836,7 @@
         "company_name": "Bristol-Myers Squibb",
         "id": "66bfcf1a-1e38-4565-be08-946578646844",
         "title": "Co-Op \u2013 Neuroscience - Spring 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -15155,20 +15155,20 @@
         "source": "Simplify",
         "company_name": "The Hub Project",
         "id": "280bc49b-fe60-41fa-b45b-6152fa41c702",
-        "title": "Internship - Polling &amp; Analytics",
+        "title": "Internship - Polling & Analytics\t",
         "active": true,
         "terms": [
             "Fall 2023"
         ],
-        "date_updated": 1693955404,
+        "date_updated": 1694147004,
         "date_posted": 1693955404,
         "url": "https://jobs.lever.co/thehubproject/50f30f23-e978-42fd-9169-ff21cd71b5a0/apply",
         "locations": [
             "Washington, DC"
         ],
         "company_url": "https://simplify.jobs/c/The-Hub-Project",
-        "is_visible": true,
-        "sponsorship": "Other"
+        "is_visible": false,
+        "sponsorship": "Offers Sponsorship"
     },
     {
         "source": "Simplify",
@@ -16101,20 +16101,20 @@
         "source": "Simplify",
         "company_name": "Point72",
         "id": "7b8cfe09-fb30-4d8a-8764-bb697642202e",
-        "title": "2024 Point72 Academy Investment Analyst Winternship",
+        "title": "2024 Point72 Academy Investment Analyst Winternship\t",
         "active": true,
         "terms": [
             "Winter 2024"
         ],
-        "date_updated": 1694129161,
+        "date_updated": 1694146917,
         "date_posted": 1694129161,
         "url": "https://boards.greenhouse.io/point72/jobs/6915947002",
         "locations": [
             "United States"
         ],
         "company_url": "https://simplify.jobs/c/Point72",
-        "is_visible": true,
-        "sponsorship": "Other"
+        "is_visible": false,
+        "sponsorship": "Offers Sponsorship"
     },
     {
         "source": "Simplify",
@@ -16237,21 +16237,21 @@
         "source": "Simplify",
         "company_name": "Gilead Sciences",
         "id": "3acd150e-5106-4525-94c0-e65479ea163f",
-        "title": "Intern \u2013 Biostatistics - Oncology",
+        "title": "Intern \u2013 Biostatistics - Oncology\t",
         "active": true,
         "terms": [
-            "Spring 2023",
-            "Summer 2023"
+            "Spring 2024",
+            "Summer 2024"
         ],
-        "date_updated": 1694128273,
+        "date_updated": 1694147191,
         "date_posted": 1694128273,
         "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Biostatistics--Oncology_R0037846",
         "locations": [
             "San Mateo, CA"
         ],
         "company_url": "https://simplify.jobs/c/Gilead-Sciences",
-        "is_visible": true,
-        "sponsorship": "Other"
+        "is_visible": false,
+        "sponsorship": "Offers Sponsorship"
     },
     {
         "source": "Simplify",
@@ -16295,19 +16295,19 @@
         "source": "Simplify",
         "company_name": "Nextdoor",
         "id": "e96aaef7-62ae-4658-855b-73cd71f02181",
-        "title": "Generative AI Intern - Summer 2024",
-        "active": true,
+        "title": "Generative AI Intern - Summer 2024\t",
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1694127925,
+        "date_updated": 1694147407,
         "date_posted": 1694127925,
         "url": "https://about.nextdoor.com/careers-list/?gh_jid=5354524",
         "locations": [
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Nextdoor",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -16333,18 +16333,75 @@
         "source": "Simplify",
         "company_name": "Oshkosh",
         "id": "220d752f-4711-4a7f-b0b2-91131d777d99",
-        "title": "DT Data Scientist Intern",
+        "title": "DT Data Scientist Intern\t",
         "active": true,
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1694127933,
+        "date_updated": 1694147350,
         "date_posted": 1694127933,
         "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Hagerstown-Maryland-United-States/DT-Data-Scientist-Intern_R21900",
         "locations": [
             "Hagerstown, MD"
         ],
         "company_url": "https://simplify.jobs/c/Oshkosh",
+        "is_visible": false,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1694144516,
+        "url": "https://jobs.erieinsurance.com/job/Erie-Software-Engineer-Intern-PA-16530/1072693300/",
+        "company_name": "Erie Insurance Group",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Erie, PA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "jeffzheng13",
+        "id": "d5000e64-d2ab-40e4-b27c-2e3a4b72acbd",
+        "date_posted": 1694144516,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1694148244,
+        "url": "https://mycareer.verizon.com/jobs/r-1014359/network-automation-summer-2024-internship/",
+        "company_name": "Verizon",
+        "title": "Network Automation Summer 2024 Internship",
+        "locations": [
+            "asking Ridge, New Jersey Irving, Texas Ashburn, Virginia ... ( [All 4 locations] ) US: Basking Ridge, New Jersey Irving, Texas Ashburn, Virginia Cary, North Carolina"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "j0hnxie",
+        "id": "bd40760a-f3bc-44ca-a50e-cc934ea626b7",
+        "date_posted": 1694148244,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Prime Medicine",
+        "id": "51fc58d4-250c-41ae-8a23-d21799b79510",
+        "title": "Spring 2024 Co-op: Research Systems Informatics",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1694128354,
+        "date_posted": 1694128354,
+        "url": "https://boards.greenhouse.io/primemedicine/jobs/4970042004",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Prime-Medicine",
         "is_visible": true,
         "sponsorship": "Other"
     }
