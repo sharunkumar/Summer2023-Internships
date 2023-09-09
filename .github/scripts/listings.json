@@ -16603,14 +16603,14 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1694214808,
+        "date_updated": 1694271010,
         "date_posted": 1694214808,
         "url": "https://jobs.lever.co/atlassian/cfb254a3-e3d9-4666-b425-92b2744db34d/apply",
         "locations": [
             "Mountain View, CA"
         ],
         "company_url": "https://simplify.jobs/c/Atlassian",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -16680,14 +16680,14 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1694214647,
+        "date_updated": 1694271069,
         "date_posted": 1694214647,
         "url": "https://jobs.lever.co/wolve/50397c44-c2df-4370-8d29-db6d48ca6e09/apply",
         "locations": [
             "Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/wolverine-trading",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -16737,7 +16737,7 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1694214463,
+        "date_updated": 1694269696,
         "date_posted": 1694214463,
         "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Intern--Hardware-Engineer_R23-9074-1",
         "locations": [
@@ -16745,7 +16745,7 @@
         ],
         "company_url": "https://simplify.jobs/c/Rockwell-Automation",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "Does Not Offer Sponsorship"
     },
     {
         "source": "Simplify",
@@ -16756,7 +16756,7 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1694214461,
+        "date_updated": 1694269440,
         "date_posted": 1694214461,
         "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Intern--Customer-Response-Team_R23-10525-1",
         "locations": [
@@ -16765,7 +16765,7 @@
         ],
         "company_url": "https://simplify.jobs/c/Rockwell-Automation",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "Does Not Offer Sponsorship"
     },
     {
         "source": "Simplify",
@@ -16795,7 +16795,7 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1694214465,
+        "date_updated": 1694269849,
         "date_posted": 1694214465,
         "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Intern--Firmware-Engineering_R23-8956-2",
         "locations": [
@@ -16803,7 +16803,7 @@
         ],
         "company_url": "https://simplify.jobs/c/Rockwell-Automation",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "Does Not Offer Sponsorship"
     },
     {
         "source": "Simplify",
@@ -16815,7 +16815,7 @@
             "Spring 2024",
             "Summer 2024"
         ],
-        "date_updated": 1694214464,
+        "date_updated": 1694269801,
         "date_posted": 1694214464,
         "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Intern--Innovation-Platform-Software-Engineer_R23-10171-1",
         "locations": [
@@ -16825,7 +16825,7 @@
         ],
         "company_url": "https://simplify.jobs/c/Rockwell-Automation",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "Does Not Offer Sponsorship"
     },
     {
         "source": "Simplify",
@@ -16903,5 +16903,44 @@
         "date_posted": 1694226593,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Plexus",
+        "id": "18bd6f56-e481-46da-af77-6a2d88bc5465",
+        "title": "Intern \u2013 Software Engineer-Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694272370,
+        "date_posted": 1694272370,
+        "url": "https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Raleigh-NC/Intern---Software-Engineer--Summer-2024_R027167",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Plexus",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Gilead Sciences",
+        "id": "b21afb15-1fb9-4dc4-8550-bc353903577c",
+        "title": "Intern \u2013 Medical Writing - Disclosure & Transparency",
+        "active": true,
+        "terms": [
+            "Spring 2023",
+            "Summer 2023"
+        ],
+        "date_updated": 1694272295,
+        "date_posted": 1694272295,
+        "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Medical-Writing--Disclosure---Transparency_R0037732",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Gilead-Sciences",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
