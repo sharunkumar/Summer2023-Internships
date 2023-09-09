@@ -2056,14 +2056,14 @@
         "terms": [
             "Summer 2024"
         ],
-        "active": true,
+        "active": false,
         "url": "https://entrust.wd1.myworkdayjobs.com/EntrustCareers/job/United-States---Sunrise-FL/Software-Engineering-Intern_R002369",
         "is_visible": true,
         "source": "Markdown",
         "company_url": "",
-        "date_updated": 1690430400,
+        "date_updated": 1694223326,
         "id": "93daaebb-7a2b-49d3-ad4a-3f1af4bae043",
-        "sponsorship": "Offers Sponsorship"
+        "sponsorship": "Other"
     },
     {
         "company_name": "Maximus",
@@ -13203,7 +13203,7 @@
         "company_name": "AEG",
         "id": "26c7d703-4a2b-4272-bf23-66e79aca0384",
         "title": "Intern \u2013 Data Engineer-LA Kings",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -13661,19 +13661,18 @@
     },
     {
         "source": "Simplify",
-        "company_name": "SeatGeek",
+        "company_name": "Seatgeek",
         "id": "32bf0fa1-eb45-4add-92ff-7fe954836e4a",
         "title": "Software Engineer \u2013 Internship",
         "active": false,
         "terms": [
-            "Spring 2025",
-            "Summer 2025"
+            "Summer 2024"
         ],
-        "date_updated": 1693553209,
+        "date_updated": 1694223344,
         "date_posted": 1693553209,
         "url": "https://seatgeek.com/jobs/125938?gh_jid=125938",
         "locations": [
-            "NYC"
+            "New York"
         ],
         "company_url": "https://simplify.jobs/c/SeatGeek",
         "is_visible": true,
@@ -13700,19 +13699,18 @@
     },
     {
         "source": "Simplify",
-        "company_name": "SeatGeek",
+        "company_name": "Seatgeek",
         "id": "b909403e-d4cc-40f4-8928-0364b519310a",
         "title": "Software Engineer \u2013 Internship",
         "active": false,
         "terms": [
-            "Spring 2025",
-            "Summer 2025"
+            "Summer 2024"
         ],
-        "date_updated": 1693552006,
+        "date_updated": 1694223305,
         "date_posted": 1693552006,
         "url": "https://seatgeek.com/jobs/5327968?gh_jid=5327968",
         "locations": [
-            "Remote in USA"
+            "Remote"
         ],
         "company_url": "https://simplify.jobs/c/SeatGeek",
         "is_visible": true,
@@ -16885,5 +16883,25 @@
         "company_url": "https://simplify.jobs/c/Enova",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1694226593,
+        "url": "https://careers.humana.com/job/19065118/humana-2024-it-summer-internship-remote/",
+        "company_name": "Humana",
+        "title": "2024 IT Summer Internship",
+        "locations": [
+            "Louisville, KY",
+            "Remote"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "henryxu0",
+        "id": "dbbd15cb-d13a-4230-9592-b65ef9a36c06",
+        "date_posted": 1694226593,
+        "company_url": "",
+        "is_visible": true
     }
 ]
