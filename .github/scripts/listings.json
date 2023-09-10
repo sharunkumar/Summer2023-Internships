@@ -2304,16 +2304,18 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1689739200,
+        "date_updated": 1694354194,
         "url": "https://boards.greenhouse.io/embed/job_app?token=243853",
         "locations": [
+            "NYC",
             "London, UK",
-            "NYC"
+            "Paris, FR",
+            "Singapore"
         ],
         "company_url": "https://simplify.jobs/c/Squarepoint-Capital",
         "is_visible": true,
         "date_posted": 1689739200,
-        "sponsorship": "Offers Sponsorship"
+        "sponsorship": "Other"
     },
     {
         "source": "Simplify",
@@ -14447,12 +14449,12 @@
         "source": "Simplify",
         "company_name": "SpaceX",
         "id": "9f52978c-7083-440e-8d32-f3fa6fa5d523",
-        "title": "Summer 2024 Software Engineering Internship/Co-op",
+        "title": "SUMMER 2024 SOFTWARE ENGINEERING INTERNSHIP/CO-OP",
         "active": true,
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1693639245,
+        "date_updated": 1694354035,
         "date_posted": 1693639245,
         "url": "https://boards.greenhouse.io/spacex/jobs/6917839002",
         "locations": [
@@ -14460,7 +14462,7 @@
         ],
         "company_url": "https://simplify.jobs/c/SpaceX",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "U.S. Citizenship is Required"
     },
     {
         "source": "Simplify",
@@ -16933,7 +16935,7 @@
             "Spring 2023",
             "Summer 2023"
         ],
-        "date_updated": 1694272295,
+        "date_updated": 1694355348,
         "date_posted": 1694272295,
         "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Medical-Writing--Disclosure---Transparency_R0037732",
         "locations": [
@@ -16941,7 +16943,7 @@
         ],
         "company_url": "https://simplify.jobs/c/Gilead-Sciences",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "Does Not Offer Sponsorship"
     },
     {
         "source": "Simplify",
@@ -16961,5 +16963,43 @@
         "company_url": "https://simplify.jobs/c/Plexus",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1694353949,
+        "url": "https://athenahealth.wd1.myworkdayjobs.com/External/job/Watertown-MA/XMLNAME-2024-Summer-Software-Engineering-Intern_R8891?source=Linkedin",
+        "company_name": "athenahealth",
+        "title": "2024 Summer Software Engineering Intern",
+        "locations": [
+            "Watertown, MA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "mcHan18",
+        "id": "b6f5eb74-8a61-4c1e-b15c-ef2be2ca90aa",
+        "date_posted": 1694353949,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1694354151,
+        "url": "https://boards.greenhouse.io/gainternships/jobs/5356861?gh_src=3214a7aa1u&gh_src=519d960c1&source=LinkedIn",
+        "company_name": "Global Atlantic Financial Group",
+        "title": "2024 Technology Intern",
+        "locations": [
+            "Boston, Massachusetts"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "mcHan18",
+        "id": "ff66faf4-90fa-4119-bc7f-dd5a3c6ce792",
+        "date_posted": 1694354151,
+        "company_url": "",
+        "is_visible": true
     }
 ]
