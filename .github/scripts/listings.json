@@ -14198,7 +14198,7 @@
         "company_name": "Stryker",
         "id": "3b9206b7-3bb1-4250-a815-4bcc507812bd",
         "title": "Data Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2023"
         ],
@@ -15023,7 +15023,7 @@
         "company_name": "Modernizing Medicine",
         "id": "c47dd742-c2fc-457c-bd47-6214870fd4b5",
         "title": "Software Product Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -17203,7 +17203,7 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1694445236,
+        "date_updated": 1694531189,
         "date_posted": 1694445236,
         "url": "https://plastipak.wd1.myworkdayjobs.com/en-US/Plastipak/job/Plastipak-GBTC---Plymouth-MI/Software-Engineering-2024-Summer-Internship_REQ15772",
         "locations": [
@@ -17211,7 +17211,7 @@
         ],
         "company_url": "https://simplify.jobs/c/47bf8c8d-3a0d-4360-b1ae-c13e8f7d2c71",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "Does Not Offer Sponsorship"
     },
     {
         "source": "Simplify",
@@ -17506,11 +17506,11 @@
         "company_name": "T. Rowe Price",
         "id": "5de72895-14c4-4e5d-80b9-6dcac9270b09",
         "title": "2024 Global Trading Internship Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
-        "date_updated": 1694474098,
+        "date_updated": 1694532314,
         "date_posted": 1694474098,
         "url": "https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2024-Global-Trading-Internship-Program_67819",
         "locations": [
@@ -17525,11 +17525,11 @@
         "company_name": "T. Rowe Price",
         "id": "68aeb302-58fc-406a-afca-8feeb2e2fd32",
         "title": "2024 Quantitative Investing Internship Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
-        "date_updated": 1694474096,
+        "date_updated": 1694532235,
         "date_posted": 1694474096,
         "url": "https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2024-Quantitative-Investing-Internship-Program_67820",
         "locations": [
@@ -17877,7 +17877,7 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1694503109,
+        "date_updated": 1694531745,
         "date_posted": 1694503109,
         "url": "https://matroid.breezy.hr/p/f4da04f2dfdf/apply",
         "locations": [
@@ -17885,7 +17885,7 @@
         ],
         "company_url": "https://simplify.jobs/c/Matroid",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "U.S. Citizenship is Required"
     },
     {
         "source": "Simplify",
@@ -18240,5 +18240,138 @@
         "date_posted": 1694527668,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "ServiceNow",
+        "id": "3bcba420-cef6-48db-971d-5d7de3a71715",
+        "title": "Utg \u2013 New College Grad - Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694532885,
+        "date_posted": 1694532885,
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/743999929828483",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ServiceNow",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Perpay",
+        "id": "9cbd92a5-bad6-41d7-b1ee-fb170ceb8a49",
+        "title": "Software Engineering Internship - 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694532795,
+        "date_posted": 1694532795,
+        "url": "https://boards.greenhouse.io/perpay/jobs/4076988007",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Perpay",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CACI",
+        "id": "6d29642f-e3ee-4265-88c1-749ca1796389",
+        "title": "Software Engineering Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694531904,
+        "date_posted": 1694531904,
+        "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-FL-Sarasota/Software-Engineering-Intern---Summer-2024_286075-1",
+        "locations": [
+            "Sarasota, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Perpay",
+        "id": "2eee6626-9257-4fab-b76a-0a8674d9aa8a",
+        "title": "Data Science Internship - 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694531901,
+        "date_posted": 1694531901,
+        "url": "https://boards.greenhouse.io/perpay/jobs/4076978007",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Perpay",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Perpay",
+        "id": "2d992297-70f1-4f62-852b-75acf2b9ef3b",
+        "title": "Strategic Analytics Internship - 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694531900,
+        "date_posted": 1694531900,
+        "url": "https://boards.greenhouse.io/perpay/jobs/4076934007",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Perpay",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Perpay",
+        "id": "2649b240-bda5-4d10-bbcc-5ddb74bb2202",
+        "title": "Data Engineering Internship - 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694531901,
+        "date_posted": 1694531901,
+        "url": "https://boards.greenhouse.io/perpay/jobs/4076965007",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Perpay",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Schonfeld",
+        "id": "5ec061f2-6fce-44b1-9bd1-c1ca14162f98",
+        "title": "2024 Quantitative Researcher Summer Intern - NYC",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694531510,
+        "date_posted": 1694531510,
+        "url": "https://boards.greenhouse.io/schonfeld/jobs/5311469",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Schonfeld",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
