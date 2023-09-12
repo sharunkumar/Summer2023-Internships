@@ -18161,5 +18161,84 @@
         "company_url": "https://simplify.jobs/c/Oshkosh",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1694527589,
+        "url": "https://simplify.jobs/p/af3bc6af-5c85-4cd2-95cf-8421da78cde8/Software-Engineering-Intern",
+        "company_name": "WillowTree",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "Cambridge, MA",
+            "Durham, NC",
+            "Columbus, OH",
+            "Charlottesville, VA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "samgilmore",
+        "id": "c21e7abc-b60f-4a03-bb5c-d4b94732c823",
+        "date_posted": 1694527589,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1694527613,
+        "url": "https://www.lockheedmartinjobs.com/job/manassas/software-engineer-intern/694/54027923856",
+        "company_name": "Lockheed Martin",
+        "title": "Software Engineer",
+        "locations": [
+            "Manassas, Virginia"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "San68bot",
+        "id": "86a41632-f69a-46eb-ad9a-0af4cece9e92",
+        "date_posted": 1694527613,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1694527643,
+        "url": "https://www.myrocketcareer.com/job-detail-page/19076652/software-engineer-intern-summer-2024-detroit-mi/",
+        "company_name": "Rocket Mortgage",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Detroit, MI"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "Michael-ha02",
+        "id": "84451e87-236d-4a53-ac12-23b1def38471",
+        "date_posted": 1694527643,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1694527668,
+        "url": "https://careers.loreal.com/en_US/jobs/JobDetail/2024-L-Or-al-USA-IT-Summer-Internship-Undergraduate-Information-Technology/161749",
+        "company_name": "L\u2019Or\u00e9al",
+        "title": "Information Technology Intership",
+        "locations": [
+            "NYC"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "VitaliPri",
+        "id": "2b5152f0-7332-4aeb-a096-a755a58dc06e",
+        "date_posted": 1694527668,
+        "company_url": "",
+        "is_visible": true
     }
 ]
