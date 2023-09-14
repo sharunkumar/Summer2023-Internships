@@ -19111,20 +19111,58 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Bristol-Myers Squibb",
+        "company_name": "Bristol Meyers",
         "id": "8bb5b6da-4d12-44ca-ac77-0b45fb630522",
-        "title": "Cell Therapy Intern - Cell Core Data Analysis",
+        "title": "Cell Therapy",
         "active": true,
         "terms": [
             "Summer 2023"
         ],
-        "date_updated": 1694646562,
+        "date_updated": 1694694389,
         "date_posted": 1694646562,
         "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/BMS/job/Seattle---WA---US/Cell-Therapy-Intern---Cell-Core-Data-Analysis_R1573249",
         "locations": [
             "Seattle, WA"
         ],
         "company_url": "https://simplify.jobs/c/Bristol-Myers-Squibb",
+        "is_visible": false,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cloudflare",
+        "id": "a30d5d58-d921-4c58-bfec-649a5597374b",
+        "title": "Software Engineer \u2013 Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694675496,
+        "date_posted": 1694675496,
+        "url": "https://boards.greenhouse.io/cloudflare/jobs/5366615",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Cloudflare",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Valkyrie Trading",
+        "id": "b580435b-85e2-4ae2-9172-21aeb60d2147",
+        "title": "Quantitative Researcher Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1694675276,
+        "date_posted": 1694675276,
+        "url": "https://jobs.lever.co/valkyrietrading/1145db8c-68b3-4746-901d-bf22e8d71d30/apply",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Valkyrie-Trading",
         "is_visible": true,
         "sponsorship": "Other"
     }
