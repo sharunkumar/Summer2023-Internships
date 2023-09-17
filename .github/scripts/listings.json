@@ -259,12 +259,12 @@
         ],
         "active": true,
         "url": "https://jobs.citi.com/job/new-york/nam-quantitative-analysis-summer-analyst-new-york-city-north-america-2024/287/51453955504",
-        "is_visible": true,
+        "is_visible": false,
         "source": "Markdown",
         "company_url": "",
-        "date_updated": 1690430400,
+        "date_updated": 1694971388,
         "id": "236b4fbe-e1d8-4f39-a620-8a7d519c48d2",
-        "sponsorship": "Offers Sponsorship"
+        "sponsorship": "Other"
     },
     {
         "source": "Simplify",
@@ -737,14 +737,14 @@
         "terms": [
             "Summer 2024"
         ],
-        "active": true,
+        "active": false,
         "url": "https://morganstanley.tal.net/vx/candidate/apply/15076",
         "is_visible": true,
         "source": "Markdown",
         "company_url": "",
-        "date_updated": 1690430400,
+        "date_updated": 1694971445,
         "id": "c99dbb07-fe1f-4219-8d22-49329dcee356",
-        "sponsorship": "Offers Sponsorship"
+        "sponsorship": "Other"
     },
     {
         "company_name": "Nomura",
@@ -20258,5 +20258,64 @@
         "company_url": "https://simplify.jobs/c/Reliable-Robotics",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1694971246,
+        "url": "https://mantech.wd1.myworkdayjobs.com/External/job/USA-WV-Clarksburg/Application-Developer-Intern_R42953?source=LinkedIn",
+        "company_name": "ManTech",
+        "title": "Application Developer Intern",
+        "locations": [
+            "Clarksburg, WV"
+        ],
+        "terms": [
+            "Fall 2023",
+            "Winter 2024",
+            "Spring 2024"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "VitaliPri",
+        "id": "9d75b6f3-efd5-4be2-8557-37cf151c4200",
+        "date_posted": 1694971246,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1694971273,
+        "url": "https://jobs.stryten.com/stryten-home/jobs/4252?lang=en-us",
+        "company_name": "Stryten Energy",
+        "title": "Frontend and/or Backend engineering",
+        "locations": [
+            "Alpharetta, Georgia"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "VitaliPri",
+        "id": "0467dc14-66f0-4317-a13c-956fbad44563",
+        "date_posted": 1694971273,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1694971302,
+        "url": "https://careers.arm.com/job/boston/intern-software-engineer/33099/54450222080",
+        "company_name": "Arm",
+        "title": "Intern Software Engineer",
+        "locations": [
+            "Boston"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "MatthewZepf",
+        "id": "05bcfbf9-9700-424c-9f6f-23b55ae5fe50",
+        "date_posted": 1694971302,
+        "company_url": "",
+        "is_visible": true
     }
 ]
