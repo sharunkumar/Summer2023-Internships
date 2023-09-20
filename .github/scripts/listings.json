@@ -5688,7 +5688,7 @@
         "sponsorship": "Offers Sponsorship"
     },
     {
-        "date_updated": 1690948800,
+        "date_updated": 1695219836,
         "url": "https://pef.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions?keyword=Software+Engineering+Intern&mode=location&sortBy=RELEVANCY",
         "company_name": "National Instruments",
         "title": "Software Engineer",
@@ -5698,13 +5698,13 @@
         "terms": [
             "Summer 2024"
         ],
-        "active": true,
+        "active": false,
         "source": "hemanthy1",
         "id": "48ae226e-5f6e-4c8f-98be-d0a9256561d9",
         "date_posted": 1690948800,
         "company_url": "",
         "is_visible": true,
-        "sponsorship": "Offers Sponsorship"
+        "sponsorship": "Other"
     },
     {
         "source": "Simplify",
@@ -15408,7 +15408,7 @@
         "company_name": "CACI",
         "id": "e135fa5f-911a-4cab-8470-e6332ca0d824",
         "title": "Software Developer Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -18823,7 +18823,7 @@
         "company_name": "MarketAxess",
         "id": "8ea9668d-f05d-47f7-9d68-c6de832099c3",
         "title": "Research Intern 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -18882,7 +18882,7 @@
         "company_name": "MarketAxess",
         "id": "d43d7758-4d60-4a23-a97d-3ec8d41cfe5a",
         "title": "Data Software Engineering Intern 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2023"
         ],
@@ -19616,7 +19616,7 @@
         "terms": [
             "Summer 2023"
         ],
-        "date_updated": 1694762299,
+        "date_updated": 1695225411,
         "date_posted": 1694762299,
         "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Minneapolis-MN/Summer-Intern---Software-Engineering_4114",
         "locations": [
@@ -19624,7 +19624,7 @@
         ],
         "company_url": "https://simplify.jobs/c/AeroVironment",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "U.S. Citizenship is Required"
     },
     {
         "source": "Simplify",
@@ -19690,7 +19690,7 @@
         "company_name": "MarketAxess",
         "id": "e9db452f-e1a7-48dc-ad45-9c9b200ab57d",
         "title": "Software Engineering Intern 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2023"
         ],
@@ -19943,7 +19943,7 @@
         "terms": [
             "Summer 2023"
         ],
-        "date_updated": 1694819758,
+        "date_updated": 1695225995,
         "date_posted": 1694819758,
         "url": "https://boards.greenhouse.io/devtechnology/jobs/6908840002",
         "locations": [
@@ -19951,7 +19951,7 @@
         ],
         "company_url": "https://simplify.jobs/c/DevTechGrp",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "U.S. Citizenship is Required"
     },
     {
         "source": "Simplify",
@@ -19962,7 +19962,7 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1694819760,
+        "date_updated": 1695226084,
         "date_posted": 1694819760,
         "url": "https://boards.greenhouse.io/devtechnology/jobs/6917180002",
         "locations": [
@@ -19970,7 +19970,7 @@
         ],
         "company_url": "https://simplify.jobs/c/DevTechGrp",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "U.S. Citizenship is Required"
     },
     {
         "source": "Simplify",
@@ -20000,7 +20000,7 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1695052332,
+        "date_updated": 1695225898,
         "date_posted": 1694819756,
         "url": "https://boards.greenhouse.io/devtechnology/jobs/6917650002",
         "locations": [
@@ -20655,7 +20655,7 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1695078654,
+        "date_updated": 1695220413,
         "date_posted": 1695078654,
         "url": "https://jobs.lever.co/anduril/678e291a-29a7-4823-9bef-5a565660d67e/apply",
         "locations": [
@@ -21384,7 +21384,7 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1695165271,
+        "date_updated": 1695219818,
         "date_posted": 1695165271,
         "url": "https://boards.greenhouse.io/lunarenergy/jobs/4799758004",
         "locations": [
@@ -21541,7 +21541,7 @@
         "company_name": "Bose",
         "id": "8a1157b3-1f85-483f-923f-9fb3ca091305",
         "title": "Audio Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -21634,6 +21634,46 @@
             "Newark, CA"
         ],
         "company_url": "https://simplify.jobs/c/Lucid-Motors",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "d00fc675-0ca2-4e63-812e-945fbec734d0",
+        "title": "Jr. Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1695223041,
+        "date_posted": 1695223041,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Tucson-AZ/Jr-Software-Engineer-Intern_R-00119068",
+        "locations": [
+            "Tucson, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Bose",
+        "id": "4b574f28-8504-4b76-aa58-65c652c0f6cc",
+        "title": "DSP Research Co-op",
+        "active": true,
+        "terms": [
+            "Winter 2025",
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1695194395,
+        "date_posted": 1695194395,
+        "url": "https://boseallaboutme.wd1.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/DSP-Research-Co-op_R25823",
+        "locations": [
+            "Framingham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/bose",
         "is_visible": true,
         "sponsorship": "Other"
     }
