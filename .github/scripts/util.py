@@ -1,8 +1,6 @@
 import json
-
-from datetime import date, datetime, timezone, timedelta
-import random
 import os
+from datetime import datetime
 
 # SIMPLIFY_BUTTON = "https://i.imgur.com/kvraaHg.png"
 SIMPLIFY_BUTTON = "https://i.imgur.com/MXdpmi0.png" # says apply
@@ -12,8 +10,9 @@ LONG_APPLY_BUTTON = "https://i.imgur.com/u1KNU8z.png"
 
 
 def setOutput(key, value):
-    with open(os.environ['GITHUB_OUTPUT'], 'a') as fh:
-        print(f'{key}={value}', file=fh)
+    if output := os.getenv('GITHUB_OUTPUT', None):
+        with open(output, 'a') as fh:
+            print(f'{key}={value}', file=fh)
 
 def fail(why):
     setOutput("error_message", why)
@@ -48,34 +47,44 @@ def getLink(listing):
     
     simplifyLink = "https://simplify.jobs/p/" + listing["id"] + "?utm_source=GHList"
     return f'<a href="{link}"><img src="{SHORT_APPLY_BUTTON}" width="84" alt="Apply"></a> <a href="{simplifyLink}"><img src="{SQUARE_SIMPLIFY_BUTTON}" width="30" alt="Simplify"></a>'
- 
+
 
 def create_md_table(listings, offSeason=False):
     table = ""
     if offSeason:
         table += "| Company | Role | Location | Terms | Application/Link | Date Posted |\n"
-        table += "| --- | --- | --- | --- | :---: | :---: |\n"
+        table += "| ------- | ---- | -------- | ----- | ---------------- | ----------- |\n"
     else:
         table += "| Company | Role | Location | Application/Link | Date Posted |\n"
-        table += "| --- | --- | --- | :---: | :---: |\n"
+        table += "| ------- | ---- | -------- | ---------------- | ----------- |\n"
+
+    prev_company = None
+    prev_date = None
     for listing in listings:
         company_url = listing["company_url"]
-        company = listing["company_name"]
-        company = f"[{company}]({company_url})" if len(
-            company_url) > 0 and listing["active"] else company
+        company = f"**[{listing['company_name']}]({company_url})**" if len(
+            company_url) > 0 else listing["company_name"]
         location = getLocations(listing)
         position = listing["title"] + getSponsorship(listing)
         terms = ", ".join(listing["terms"])
         link = getLink(listing)
-        month = datetime.fromtimestamp(listing["date_posted"]).strftime('%b')
-        dayMonth = datetime.fromtimestamp(listing["date_posted"]).strftime('%b %d')
-        isBeforeJuly18 = datetime.fromtimestamp(listing["date_posted"]) < datetime(2023, 7, 18, 0, 0, 0)
-        datePosted = month if isBeforeJuly18 else dayMonth
-        if offSeason:
-            table += f"| **{company}** | {position} | {location} | {terms} | {link} | {datePosted} |\n"
+
+        year_month = datetime.fromtimestamp(listing["date_posted"]).strftime('%b %Y')
+        day_month = datetime.fromtimestamp(listing["date_posted"]).strftime('%b %d')
+        is_before_july_18 = datetime.fromtimestamp(listing["date_posted"]) < datetime(2023, 7, 18, 0, 0, 0)
+        date_posted = year_month if is_before_july_18 else day_month
+
+        if prev_company == listing['company_name'] and prev_date == date_posted:
+            company = ""
         else:
-            table += f"| **{company}** | {position} | {location} | {link} | {datePosted} |\n"
-        # table += f"| **{company}** | {location} | {position} | {link} | {status} | {datePosted} |\n"
+            prev_company = listing['company_name']
+            prev_date = date_posted
+        
+        if offSeason:
+            table += f"| {company} | {position} | {location} | {terms} | {link} | {date_posted} |\n"
+        else:
+            table += f"| {company} | {position} | {location} | {link} | {date_posted} |\n"
+
     return table
 
 
@@ -83,8 +92,7 @@ def create_md_table(listings, offSeason=False):
 def getListingsFromJSON(filename=".github/scripts/listings.json"):
     with open(filename) as f:
         listings = json.load(f)
-        print("Recieved " + str(len(listings)) +
-              " listings from listings.json")
+        print(f"Received {len(listings)} listings from listings.json")
         return listings
 
 
@@ -121,7 +129,6 @@ def filterOffSeason(listings):
 
 
 def sortListings(listings):
-
     oldestListingFromCompany = {}
     linkForCompany = {}
     for listing in listings:
@@ -131,12 +138,19 @@ def sortListings(listings):
         if listing["company_name"] not in linkForCompany or len(listing["company_url"]) > 0:
             linkForCompany[listing["company_name"]] = listing["company_url"]
 
-    def getKey(listing):
-        date_posted = listing["date_posted"]
-        date_updated = listing["date_updated"]
-        return str(date_posted) + listing["company_name"].lower() + str(date_updated)
-
-    listings.sort(key=getKey, reverse=True)
+    listings.sort(
+        key=lambda x: (
+            datetime(
+                datetime.fromtimestamp(x["date_posted"]).year,
+                datetime.fromtimestamp(x["date_posted"]).month,
+                datetime.fromtimestamp(x["date_posted"]).day
+            ),
+            x['company_name'].lower(),
+            x["active"],
+            x['date_updated']
+        ),
+        reverse=True
+    )
 
     for listing in listings:
         listing["company_url"] = linkForCompany[listing["company_name"]]
