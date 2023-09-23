@@ -4779,7 +4779,7 @@
         "company_name": "Flow Traders",
         "id": "76fc51d4-9af1-45b4-bad3-5082cdaff654",
         "title": "Trading Intern Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -10889,11 +10889,9 @@
         "title": "Research Internship",
         "active": false,
         "terms": [
-            "Spring 2023",
-            "Summer 2023",
-            "Fall 2023"
+            "Summer 2024"
         ],
-        "date_updated": 1692918848,
+        "date_updated": 1695487971,
         "date_posted": 1692918848,
         "url": "https://boards.greenhouse.io/thealleninstitute/jobs/2171612",
         "locations": [
@@ -20081,7 +20079,7 @@
         "company_name": "Bristol-Myers Squibb",
         "id": "1eae4a6e-4a34-4f8f-9be8-0c68ad9f4f91",
         "title": "Gene Delivery Process Development Intern or Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -22584,7 +22582,7 @@
         "company_name": "Tutor Intelligence",
         "id": "bcde9fb9-0e08-41cc-815c-d5d948e0c5b2",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -22977,14 +22975,14 @@
             "Spring 2024",
             "Summer 2024"
         ],
-        "date_updated": 1695453548,
+        "date_updated": 1695489129,
         "date_posted": 1695453548,
         "url": "https://www.flyzipline.com/careers/open-roles?gh_jid=5747988003",
         "locations": [
             "San Bruno, CA"
         ],
         "company_url": "https://simplify.jobs/c/Zipline",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -22997,9 +22995,66 @@
             "Spring 2024",
             "Summer 2024"
         ],
-        "date_updated": 1695453546,
+        "date_updated": 1695489177,
         "date_posted": 1695453546,
         "url": "https://www.flyzipline.com/careers/open-roles?gh_jid=5747930003",
+        "locations": [
+            "San Bruno, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zipline",
+        "is_visible": false,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1695487951,
+        "url": "https://jobs.nike.com/job/R-10295?from=job%20search%20funnel",
+        "company_name": "NIKE",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "Beaverton, Oregon"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "VitaliPri",
+        "id": "2cb0556d-dd3f-4ce1-8468-b2708c5abeae",
+        "date_posted": 1695487951,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1695488921,
+        "url": "https://starbucks.taleo.net/careersection/1000222intern/jobdetail.ftl?job=230066246&tz=GMT-05:00&tzname=America/Chicago",
+        "company_name": "Starbucks",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "Seattle"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "VitaliPri",
+        "id": "218cebd0-d674-42c4-afe8-77137d92905e",
+        "date_posted": 1695488921,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Zipline",
+        "id": "4c8ac933-1287-4338-b0cb-cdac1de7d982",
+        "title": "Simulation Engineering Intern Spring 2024",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1695453565,
+        "date_posted": 1695453565,
+        "url": "https://www.flyzipline.com/careers/open-roles?gh_jid=5747965003",
         "locations": [
             "San Bruno, CA"
         ],
