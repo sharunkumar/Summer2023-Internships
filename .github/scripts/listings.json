@@ -23071,7 +23071,7 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1695568585,
+        "date_updated": 1695692055,
         "date_posted": 1695568585,
         "url": "https://boards.greenhouse.io/two/jobs/4006270005",
         "locations": [
@@ -23090,7 +23090,7 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1695568583,
+        "date_updated": 1695691446,
         "date_posted": 1695568583,
         "url": "https://boards.greenhouse.io/two/jobs/4000581005",
         "locations": [
@@ -23128,7 +23128,7 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1695568576,
+        "date_updated": 1695699717,
         "date_posted": 1695568576,
         "url": "https://boards.greenhouse.io/arine/jobs/4978160004",
         "locations": [
@@ -23282,14 +23282,14 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1695655388,
+        "date_updated": 1695691334,
         "date_posted": 1695655388,
         "url": "https://boards.greenhouse.io/workato/jobs/6940964002",
         "locations": [
             "Remote"
         ],
         "company_url": "https://simplify.jobs/c/Workato",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -23387,5 +23387,44 @@
         "company_url": "https://simplify.jobs/c/Nutanix",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1695691100,
+        "url": "https://careers.homedepot.com/job/19064809/software-engineer-internship-remote-atlanta-ga/",
+        "company_name": "Home Depot",
+        "title": "Software Engineer Internship",
+        "locations": [
+            "Atlanta"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "VitaliPri",
+        "id": "0f1fc94b-178e-47e4-bdf6-a9a6e926ad9f",
+        "date_posted": 1695690995,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1695691193,
+        "url": "https://careers-sas.icims.com/jobs/33550/summer-2024---technical-intern/job?hub=9&_gl=1*6augn5*_ga*MTIwOTg1OTYxMC4xNjk0MDIyMTE5*_ga_5Y2BYGL910*MTY5NTY2NzI3My4zLjEuMTY5NTY2Nzk0Ny4wLjAuMA..&mobile=false&width=1180&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240",
+        "company_name": "SAS Institute",
+        "title": "Software and Data Science Intern",
+        "locations": [
+            "Cary, NC",
+            "Remote"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cg2916",
+        "id": "edd313e6-a095-4eba-8e7a-1560fa62b091",
+        "date_posted": 1695691051,
+        "company_url": "",
+        "is_visible": true
     }
 ]
