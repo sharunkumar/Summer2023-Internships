@@ -23006,7 +23006,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1695504104,
+        "date_updated": 1695781927,
         "url": "https://jobs.nike.com/job/R-10295?from=job%20search%20funnel",
         "company_name": "NIKE",
         "title": "Nike Software Engineer Undergraduate Intern",
@@ -23017,7 +23017,7 @@
             "Summer 2024"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "VitaliPri",
         "id": "2cb0556d-dd3f-4ce1-8468-b2708c5abeae",
         "date_posted": 1695487951,
@@ -23128,7 +23128,7 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1695699717,
+        "date_updated": 1695785326,
         "date_posted": 1695568576,
         "url": "https://boards.greenhouse.io/arine/jobs/4978160004",
         "locations": [
@@ -23464,6 +23464,45 @@
         "source": "cobalt1164",
         "id": "7efebab3-7e04-46cd-afd8-42f644278750",
         "date_posted": 1695772125,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1695785207,
+        "url": "https://foodclub.live/ios-internship",
+        "company_name": "FoodCLUB",
+        "title": "IOS Internship",
+        "locations": [
+            "Remote"
+        ],
+        "terms": [
+            "Fall 2023",
+            "Winter 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "rohitgandhari",
+        "id": "2b14add8-98be-459b-8e09-12e4ebfeffa3",
+        "date_posted": 1695785207,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1695785310,
+        "url": "https://boards.greenhouse.io/springhealth66/jobs/4315743005?gh_src=a8d055a25us",
+        "company_name": "Spring Health",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Remote"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "rohitgandhari",
+        "id": "5e08f825-cfb2-4622-9bef-4eafd6d84dcc",
+        "date_posted": 1695785310,
         "company_url": "",
         "is_visible": true
     }
