@@ -22233,7 +22233,7 @@
         "terms": [
             "Summer 2023"
         ],
-        "date_updated": 1695309390,
+        "date_updated": 1695912711,
         "date_posted": 1695309390,
         "url": "https://boards.greenhouse.io/systemstechnologyresearch/jobs/4273109006",
         "locations": [
@@ -22243,7 +22243,7 @@
             "Burlington, MA"
         ],
         "company_url": "https://simplify.jobs/c/STR",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -22297,7 +22297,7 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1695339340,
+        "date_updated": 1695912772,
         "date_posted": 1695339340,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/RAPIDS-Intern--C---and-CUDA---Summer-2024_JR1970212-1",
         "locations": [
@@ -22917,14 +22917,14 @@
         "terms": [
             "Summer 2023"
         ],
-        "date_updated": 1695661043,
+        "date_updated": 1695912670,
         "date_posted": 1695424206,
         "url": "https://jobs.lever.co/Moonhub/280886f1-1c44-4497-acdf-bf26117e5919/apply",
         "locations": [
             "Palo Alto, CA"
         ],
         "company_url": "https://simplify.jobs/c/MoonhubAI",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -23090,14 +23090,14 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1695691446,
+        "date_updated": 1695912611,
         "date_posted": 1695568583,
         "url": "https://boards.greenhouse.io/two/jobs/4000581005",
         "locations": [
             "Mountain View, CA"
         ],
         "company_url": "https://simplify.jobs/c/TwoPlatforms",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -23109,14 +23109,14 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1695568582,
+        "date_updated": 1695912573,
         "date_posted": 1695568582,
         "url": "https://boards.greenhouse.io/two/jobs/4000592005",
         "locations": [
             "Mountain View, CA"
         ],
         "company_url": "https://simplify.jobs/c/TwoPlatforms",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -23301,14 +23301,14 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1695654795,
+        "date_updated": 1695912526,
         "date_posted": 1695654795,
         "url": "https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Attleboro-Massachusetts/Automation-and-Control-Electrical-Engineer-Intern--Summer-2024_IRC91110",
         "locations": [
             "Attleboro, MA"
         ],
         "company_url": "https://simplify.jobs/c/sensata-tech",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -23507,7 +23507,7 @@
         "is_visible": false
     },
     {
-        "date_updated": 1695852572,
+        "date_updated": 1695912455,
         "url": "https://getcruise.com/careers/jobs/2677320/",
         "company_name": "Cruise",
         "title": "Intern, Systems Engineering",
@@ -23517,16 +23517,16 @@
         "terms": [
             "Summer 2024"
         ],
-        "sponsorship": "Offers Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "bzhang0",
         "id": "0bc8998a-a518-49da-91fc-cc6b767cf4ae",
         "date_posted": 1695852572,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
-        "date_updated": 1695852601,
+        "date_updated": 1695912397,
         "url": "https://getcruise.com/careers/jobs/2677317/",
         "company_name": "Cruise",
         "title": "Intern, Systems Engineering",
@@ -23536,11 +23536,31 @@
         "terms": [
             "Summer 2024"
         ],
-        "sponsorship": "Offers Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "bzhang0",
         "id": "b1970710-6adb-4c55-8914-95665e2e122c",
         "date_posted": 1695852601,
+        "company_url": "",
+        "is_visible": false
+    },
+    {
+        "date_updated": 1695908147,
+        "url": "https://boards.greenhouse.io/grammarly/jobs/5396077?gh_src=0bb770131",
+        "company_name": "Grammarly",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "USA",
+            "Canada"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "KathyJDev",
+        "id": "9fa6f1c9-ff6e-4137-b06d-60ad46c16828",
+        "date_posted": 1695908147,
         "company_url": "",
         "is_visible": true
     }
