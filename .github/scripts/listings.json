@@ -391,14 +391,14 @@
         "terms": [
             "Summer 2024"
         ],
-        "active": true,
+        "active": false,
         "url": "https://jobs.us.pwc.com/job/los-angeles/digital-assurance-and-transparency-dat-data-intern-summer-2024/932/51608839968",
         "is_visible": true,
         "source": "Markdown",
         "company_url": "",
-        "date_updated": 1690430400,
+        "date_updated": 1695954785,
         "id": "ed5e8710-8a4f-455b-9353-d1b45b6dd649",
-        "sponsorship": "Offers Sponsorship"
+        "sponsorship": "Other"
     },
     {
         "company_name": "Sensata Technologies",
@@ -2981,14 +2981,14 @@
         "terms": [
             "Summer 2024"
         ],
-        "active": true,
+        "active": false,
         "url": "https://scholastic.wd5.myworkdayjobs.com/en-US/External/job/Scholastic-Summer-Software-Development-Engineer-In-Test-Intern_R12103",
         "is_visible": true,
         "source": "Markdown",
         "company_url": "",
-        "date_updated": 1690430400,
+        "date_updated": 1695954850,
         "id": "c2ffa368-dffb-4b9e-a990-0ce03187f508",
-        "sponsorship": "Offers Sponsorship"
+        "sponsorship": "Other"
     },
     {
         "source": "Simplify",
@@ -16530,7 +16530,7 @@
         "company_name": "Atlassian",
         "id": "6e36fb02-fde8-4cbf-95de-10e273cc5ea5",
         "title": "Finance & Accounting Intern - 2024 Summer U.S",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -19215,7 +19215,7 @@
         "company_name": "Bankers Healthcare Group",
         "id": "c123b715-344e-495c-a64b-9dfa255b361d",
         "title": "Application Support Analyst Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -24639,6 +24639,25 @@
             "San Bruno, CA"
         ],
         "company_url": "https://simplify.jobs/c/Zipline",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hewlett Packard (HP)",
+        "id": "ca8bcdad-d48b-4a99-b116-b488ed2113d0",
+        "title": "2024 Summer Print Software Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1695949545,
+        "date_posted": 1694157066,
+        "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Vancouver-Washington-United-States-of-America/Print-Summer-Technical-Internship_3123147-1",
+        "locations": [
+            "Vancouver, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
         "is_visible": true,
         "sponsorship": "Other"
     }
