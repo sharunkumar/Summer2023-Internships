@@ -4835,20 +4835,20 @@
         "source": "Simplify",
         "company_name": "Gecko Robotics",
         "id": "e84d0d5e-0f8a-409a-935f-b8dd3f2ef417",
-        "title": "Software Engineer \u2013 Internship",
+        "title": "Software Engineering Internship - Summer 2024",
         "active": false,
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1690776000,
+        "date_updated": 1696083096,
         "url": "https://www.geckorobotics.com/careers/apply?gh_jid=5695257003",
         "locations": [
-            "Cambridge, MA"
+            "Boston, MA"
         ],
         "company_url": "https://simplify.jobs/c/Gecko-Robotics",
-        "is_visible": true,
+        "is_visible": false,
         "date_posted": 1690776000,
-        "sponsorship": "Offers Sponsorship"
+        "sponsorship": "Other"
     },
     {
         "source": "Simplify",
@@ -5082,21 +5082,21 @@
     {
         "company_name": "General Motors",
         "locations": [
-            "Detroit, MI (Hybrid)"
+            "Digital Information"
         ],
         "title": "2024 Summer Intern \u2013 Digital Transformation \u2013 Data Analyst or Data Scientist ",
         "date_posted": 1690257600,
         "terms": [
             "Summer 2024"
         ],
-        "active": true,
+        "active": false,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Detroit-Michigan-United-States-of-America/XMLNAME-2024-Summer-Intern---Digital-Transformation---Data-Analyst-or-Data-Scientist_JR-202313389",
         "is_visible": true,
         "source": "Markdown",
         "company_url": "",
-        "date_updated": 1690862400,
+        "date_updated": 1696086892,
         "id": "21ee2369-304c-4e2a-bd57-aca99cda50ae",
-        "sponsorship": "Does Not Offer Sponsorship"
+        "sponsorship": "Other"
     },
     {
         "company_name": "SkyWorks",
@@ -9910,7 +9910,7 @@
         "company_name": "Ontario Teachers' Pension Plan",
         "id": "020b6a7a-fc87-418f-8372-f3ed8aa8a44a",
         "title": "Intern \u2013 Programmer Analyst - Enterprise Architecture and Emerging Technologies - Winter 2024 - 8 or  Months",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -10296,7 +10296,7 @@
         "company_name": "Ontario Teachers' Pension Plan",
         "id": "cec90057-c23d-4ae2-ac45-42064ef32038",
         "title": "Intern \u2013 Middleware Analyst - Summer - Month contract",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -19043,7 +19043,7 @@
         "company_name": "Bristol Meyers",
         "id": "8bb5b6da-4d12-44ca-ac77-0b45fb630522",
         "title": "Cell Therapy",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -25306,14 +25306,14 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1696029050,
+        "date_updated": 1696088444,
         "date_posted": 1696029050,
         "url": "https://jobs.lever.co/zoox/200608a0-a566-49df-a3e7-2c6b1b52b637/apply",
         "locations": [
             "San Mateo, CA"
         ],
         "company_url": "https://simplify.jobs/c/Zoox",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -25515,14 +25515,14 @@
         "terms": [
             "Summer 2023"
         ],
-        "date_updated": 1696028697,
+        "date_updated": 1696088489,
         "date_posted": 1696028697,
         "url": "https://boards.greenhouse.io/skydio/jobs/4255866003",
         "locations": [
             "San Mateo, CA"
         ],
         "company_url": "https://simplify.jobs/c/Skydio",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -25543,5 +25543,25 @@
         "company_url": "https://simplify.jobs/c/Skydio",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1696086875,
+        "url": "https://generacta.avature.net/careers/JobDetail/Reno-Nevada-United-States-Software-Engineering-Co-Op-Clean-Energy/10866",
+        "company_name": "Generac Clean Energy",
+        "title": "Software-Engineering-Co-Op-Clean-Energy",
+        "locations": [
+            "Reno, NV"
+        ],
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "gnoulk",
+        "id": "bba29fff-119e-4a63-8ef5-5aaa8e12fa93",
+        "date_posted": 1696086875,
+        "company_url": "",
+        "is_visible": true
     }
 ]
