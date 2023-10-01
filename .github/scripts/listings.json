@@ -15267,7 +15267,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1694015340,
+        "date_updated": 1696180646,
         "url": "https://careers.principal.com/us/jobs/40528?lang=en-us",
         "company_name": "Principal Financial Group",
         "title": "Software Engineer Intern",
@@ -15279,8 +15279,8 @@
         "terms": [
             "Summer 2024"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "mygcho",
         "id": "a43081bd-d3a8-47f9-83dc-49af5339f9a1",
         "date_posted": 1694015340,
@@ -15288,19 +15288,18 @@
         "is_visible": true
     },
     {
-        "date_updated": 1694015709,
+        "date_updated": 1696180578,
         "url": "https://boards.greenhouse.io/embed/job_app?token=5269266&gh_src=240b46771",
         "company_name": "Hubspot",
-        "title": "HubSpot Software Engineer Internship & Co-op Program (USA)",
+        "title": "Hubspot Software Engineer Internship & Co-op Program (USA)",
         "locations": [
             "Cambridge, MA"
         ],
         "terms": [
-            "Spring 2024",
             "Summer 2024"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "cwcoogan",
         "id": "9dadb3eb-3378-482d-8981-e1742d20ffd0",
         "date_posted": 1694015709,
@@ -16430,7 +16429,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1694203301,
+        "date_updated": 1696180598,
         "url": "https://ats.rippling.com/rippling/jobs/eed09f08-a8b2-4d7c-8f8f-16402f3f4379",
         "company_name": "Rippling",
         "title": "Software Engineer Intern",
@@ -16442,7 +16441,7 @@
             "Summer 2024"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "mghanem8",
         "id": "693271fe-9c52-488c-9d8b-fad473bcca0b",
         "date_posted": 1694203301,
@@ -19695,7 +19694,7 @@
         "company_name": "T. Rowe Price",
         "id": "a27bc46e-84da-4b1c-b430-135b3dc9a1b2",
         "title": "2024 Software Engineering Internship Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -25561,6 +25560,26 @@
         "source": "gnoulk",
         "id": "bba29fff-119e-4a63-8ef5-5aaa8e12fa93",
         "date_posted": 1696086875,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1696178114,
+        "url": "https://careers.southwestair.com/job/R-2023-35568/Software-Engineer-Summer-2024-Internship%C2%A0",
+        "company_name": "Southwest Airlines",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Dallas, Texas",
+            "Remote"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "KathyJDev",
+        "id": "d3cf5542-6e21-4e0a-83f7-b13fc0840992",
+        "date_posted": 1696178114,
         "company_url": "",
         "is_visible": true
     }
