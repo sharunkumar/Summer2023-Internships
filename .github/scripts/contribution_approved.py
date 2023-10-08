@@ -94,7 +94,6 @@ def main():
         listing_text = (listing["title"].strip() + " at " + listing["company_name"].strip() + " " + closed_text + " " + sponsorship_text).strip()
         return listing_text
 
-    listings = []
     with open(".github/scripts/listings.json", "r") as f:
         listings = json.load(f)
 
