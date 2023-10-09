@@ -4,6 +4,7 @@
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| **[Wayfair](https://simplify.jobs/c/Wayfair)** | Software Engineering Internship | Boston, Massachusetts | <a href="https://www.wayfair.com/careers/job/software-engineering-internship---summer-----/6914515002?gh_src=&source=&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
 | Spectrum | Front End Software Developer | Austin, TX | <a href="https://www.linkedin.com/jobs/view/spectrum-2024-summer-intern-front-end-software-developer-spectrum-enterprise-application-via-wayup-at-spectrum-real-time-visual-solutions-3731909713/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
 | Notion | Data Scientist Intern, Sales and Success (Summer 2024) | San Francisco, CA | <a href="https://app.ripplematch.com/v2/public/job/041fe806/details?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
 | **[Unity](https://simplify.jobs/c/Unity)** | Software Engineer Intern | Austin, TX | <a href="https://boards.greenhouse.io/embed/job_app?token=5415165&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/b9ec5665-df42-49a8-bf43-5815601e4ec5?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Oct 05 |
