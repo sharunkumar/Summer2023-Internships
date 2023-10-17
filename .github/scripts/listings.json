@@ -30440,14 +30440,14 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1697239713,
+        "date_updated": 1697496784,
         "date_posted": 1697239713,
         "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-us/crowdstrikecareers/job/USA---Austin-TX/Sales-Excellence-Data-Quality-Intern---Part-Time_R14733",
         "locations": [
             "Austin, TX"
         ],
         "company_url": "https://simplify.jobs/c/Crowdstrike",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -30535,14 +30535,14 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1697239270,
+        "date_updated": 1697496750,
         "date_posted": 1697239270,
         "url": "https://www.fanduel.careers/open-positions?gh_jid=5436770",
         "locations": [
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/FanDuel",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -30757,14 +30757,14 @@
             "Spring 2024",
             "Summer 2024"
         ],
-        "date_updated": 1697238574,
+        "date_updated": 1697496716,
         "date_posted": 1697238574,
         "url": "https://www.sharkninja.com/careers-application/?gh_jid=4290437006",
         "locations": [
             "Needham, MA"
         ],
         "company_url": "https://simplify.jobs/c/SharkNinja",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -30879,6 +30879,44 @@
         "source": "rygeorge",
         "id": "d043e9c5-3cd6-4bfe-b2fd-6e71e028d395",
         "date_posted": 1697480213,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1697480492,
+        "url": "https://jobs.lumen.com/global/en/job/331305/Intern-Software-Developer-Summer-2024",
+        "company_name": "Lumen",
+        "title": "Software Developer Intern",
+        "locations": [
+            "Remote"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "VitaliPri",
+        "id": "2effbbc6-20a4-454d-b41a-109f503e6e57",
+        "date_posted": 1697480492,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1697480530,
+        "url": "https://jobs.lumen.com/global/en/job/331271/Intern-Software-Engineer-Summer-2024",
+        "company_name": "Lumen",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Remote"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "VitaliPri",
+        "id": "98e13437-6988-45df-8aec-53a44903293a",
+        "date_posted": 1697480530,
         "company_url": "",
         "is_visible": true
     }
