@@ -4,6 +4,7 @@
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Sabre | Data Science - 2024 Summer Intern | Dallas, TX | <a href="https://sabre.wd1.myworkdayjobs.com/en-US/SabreJobs/job/Dallas-Fort-Worth-Metroplex/Data-Science---2024-Summer-Intern_JR102529?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
 | Samsung | Data Science Researcher Intern | Mountain View, CA | <a href="https://boards.greenhouse.io/samsungresearchamericainternship/jobs/6804869002?gh_src=13c38d562us&source=LinkedIn&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 16 |
 | Ark Biotech (Sponsors Canadians) | Software Engineering Intern | Boston, MA | <a href="https://jobs.lever.co/arkbiotech/28a1b65c-b984-4c98-9685-7490b810dbdc?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 16 |
 | **[Tamr](https://simplify.jobs/c/Tamr)** | Devops Engineering Co-Op | Cambridge, MA</br>Remote in USA | <a href="https://jobs.lever.co/tamr/2b610183-7c1e-42af-b5e4-0c680fea886c/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/45f87a7b-434d-46d7-816e-adf2da278536?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Oct 13 |

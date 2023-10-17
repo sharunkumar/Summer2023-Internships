@@ -30919,5 +30919,81 @@
         "date_posted": 1697480530,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1697560863,
+        "url": "https://careers-stonex.icims.com/jobs/9844/intern---web-developer/job?mode=job&iis=Job+Board&iisn=LinkedIn&mobile=false&width=1569&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240",
+        "company_name": "StoneX",
+        "title": "Web Developer",
+        "locations": [
+            "Winter Park, FL"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "VitaliPri",
+        "id": "1104fa6c-1cfa-423f-a1e2-5f4505a55e5b",
+        "date_posted": 1697560863,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1697560882,
+        "url": "https://corningjobs.corning.com/job/Corning-Data-Science-Intern-NY-14831/1082184300/",
+        "company_name": "Corning",
+        "title": "Data Science Intern",
+        "locations": [
+            "Corning, NY"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "rygeorge",
+        "id": "7fb0c186-8b5d-41f1-93a8-8714aa9e81d4",
+        "date_posted": 1697560882,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1697560901,
+        "url": "https://jobs.lumen.com/global/en/job/331302/Intern-Cybersecurity-Analyst",
+        "company_name": "Lumen",
+        "title": "Cybersecurity Analyst",
+        "locations": [
+            "Remote"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "VitaliPri",
+        "id": "258b7974-e359-4aff-890f-6225f64f80da",
+        "date_posted": 1697560901,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1697560938,
+        "url": "https://sabre.wd1.myworkdayjobs.com/en-US/SabreJobs/job/Dallas-Fort-Worth-Metroplex/Data-Science---2024-Summer-Intern_JR102529",
+        "company_name": "Sabre",
+        "title": "Data Science - 2024 Summer Intern",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "rygeorge",
+        "id": "53b22acb-d964-468f-99ca-a639d23e796f",
+        "date_posted": 1697560938,
+        "company_url": "",
+        "is_visible": true
     }
 ]
