@@ -212,21 +212,21 @@
     {
         "company_name": "Panasonic",
         "locations": [
-            "The Colony, TX"
+            "TX"
         ],
         "title": "Software Electrical Engineer Intern",
         "date_posted": 1684036800,
         "terms": [
             "Summer 2024"
         ],
-        "active": true,
+        "active": false,
         "url": "https://careers.na.panasonic.com/careers/software-electrical-engineer-intern",
         "is_visible": true,
         "source": "Markdown",
         "company_url": "",
-        "date_updated": 1690430400,
+        "date_updated": 1697591864,
         "id": "2a5eb400-51dd-4b98-aeec-1cfbf30ea0f1",
-        "sponsorship": "Offers Sponsorship"
+        "sponsorship": "Other"
     },
     {
         "company_name": "Internet Brands",
@@ -30459,14 +30459,14 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1697239711,
+        "date_updated": 1697591913,
         "date_posted": 1697239711,
         "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-us/crowdstrikecareers/job/USA---Austin-TX/Sales-Excellence-Data-Quality-Intern---Part-Time_R14732",
         "locations": [
             "Austin, TX"
         ],
         "company_url": "https://simplify.jobs/c/Crowdstrike",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -30478,14 +30478,14 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1697239714,
+        "date_updated": 1697591846,
         "date_posted": 1697239714,
         "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-us/crowdstrikecareers/job/USA---Austin-TX/Sales-Excellence-Data-Quality-Intern---Part-Time_R14734",
         "locations": [
             "Austin, TX"
         ],
         "company_url": "https://simplify.jobs/c/Crowdstrike",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -30497,14 +30497,14 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1697239270,
+        "date_updated": 1697591965,
         "date_posted": 1697239270,
         "url": "https://www.fanduel.careers/open-positions?gh_jid=5436920",
         "locations": [
             "Atlanta, GA"
         ],
         "company_url": "https://simplify.jobs/c/FanDuel",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -30554,14 +30554,14 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1697239267,
+        "date_updated": 1697592232,
         "date_posted": 1697239267,
         "url": "https://www.fanduel.careers/open-positions?gh_jid=5436774",
         "locations": [
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/FanDuel",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
