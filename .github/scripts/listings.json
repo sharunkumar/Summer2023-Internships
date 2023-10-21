@@ -5108,14 +5108,14 @@
         "terms": [
             "Summer 2024"
         ],
-        "active": true,
+        "active": false,
         "url": "https://careers.skyworksinc.com/job/Austin-Embedded-FW-Summer-Intern-2024-TX-73301/1054957600",
         "is_visible": true,
         "source": "Markdown",
         "company_url": "",
-        "date_updated": 1690862400,
+        "date_updated": 1697838422,
         "id": "9deb21ce-c334-41e8-817f-c9efa04de1d9",
-        "sponsorship": "Offers Sponsorship"
+        "sponsorship": "Other"
     },
     {
         "company_name": "Cole Engineering Services, Inc.",
@@ -8893,7 +8893,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1692230634,
+        "date_updated": 1697838397,
         "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/OFallon-Missouri/Software-Engineer-Intern--Summer-2024---United-States_R-201216-1",
         "company_name": "Mastercard",
         "title": "Software Engineer Intern",
@@ -8905,8 +8905,8 @@
         "terms": [
             "Summer 2024"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "TNGO04",
         "id": "7bd5a9c2-de42-427c-a939-d9b85ae67f2a",
         "date_posted": 1692230634,
@@ -9569,7 +9569,7 @@
         "company_name": "Cambly",
         "id": "1e0b9d44-937c-4a7b-b01b-15fbb7c0a0e8",
         "title": "Software Engineering Internship - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -17278,7 +17278,7 @@
         "company_name": "Capital One",
         "id": "d56af935-d991-4e6a-87a5-5dc697918a03",
         "title": "Technology Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -19788,7 +19788,7 @@
         "company_name": "T.Rowe Price",
         "id": "a27bc46e-84da-4b1c-b430-135b3dc9a1b2",
         "title": "2024 Software Engineering Internship Program",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -24964,7 +24964,7 @@
         "company_name": "84.51 Degrees",
         "id": "b2223549-ee20-4080-ab2f-70a2b7698fbf",
         "title": "Software Engineer \u2013 Co-op Program - Spring 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2024"
         ],
@@ -27792,7 +27792,7 @@
         "company_name": "Ontario Teachers' Pension Plan",
         "id": "4d4801d6-818a-457f-8a72-98c9ddaad89c",
         "title": "Intern \u2013 Trading Floor Risk Analyst - Fall 2024 - Month term",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2024"
         ],
@@ -28703,7 +28703,7 @@
         "company_name": "Cohere Health",
         "id": "987ca5b1-00cf-48d2-91f3-40fae7eda29a",
         "title": "Data Science Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -28796,7 +28796,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1696949889,
+        "date_updated": 1697839350,
         "url": "https://jobs.disneycareers.com/job/bristol/software-engineering-intern-disney-entertainment-and-espn-technology-summer-2024/391/55512551056",
         "company_name": "The Walt Disney Company",
         "title": "Software Engineering Intern",
@@ -28812,7 +28812,7 @@
             "Summer 2024"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "itskevinshi",
         "id": "43a5e827-6e3f-4538-8778-230915c6ad55",
         "date_posted": 1696949889,
@@ -29877,7 +29877,7 @@
         "company_name": "Locus Robotics",
         "id": "f22eaa56-c8a7-4203-a822-7ac834f78e3b",
         "title": "Software Engineer Intern - ML / Perception",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -30325,7 +30325,7 @@
             "Fall 2023",
             "Winter 2024"
         ],
-        "date_updated": 1697211436,
+        "date_updated": 1697839328,
         "date_posted": 1697211436,
         "url": "https://jobs.lever.co/tamr/2b610183-7c1e-42af-b5e4-0c680fea886c/apply",
         "locations": [
@@ -30402,7 +30402,7 @@
         "terms": [
             "Summer 2023"
         ],
-        "date_updated": 1697241152,
+        "date_updated": 1697839415,
         "date_posted": 1697241152,
         "url": "https://branch.io/careers/apply/?gh_jid=5420734",
         "locations": [
@@ -30493,7 +30493,7 @@
         "company_name": "FanDuel",
         "id": "6035e90b-8583-4f45-8e61-849e6ecaff9d",
         "title": "Commercial Strategy Internship - Dfs - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -30531,7 +30531,7 @@
         "company_name": "FanDuel",
         "id": "0b8c18a6-1afe-4374-8798-12f29a669eb5",
         "title": "Commercial Strategy Internship - Dfs - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -32333,7 +32333,7 @@
         "company_name": "Beacon Platform",
         "id": "59cccdd4-0cd7-4b9d-b20a-c8afaff47ce3",
         "title": "Integrations Engineer \u2013 Summer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -32390,7 +32390,7 @@
         "company_name": "Beacon Platform",
         "id": "803af091-0165-4323-b354-04a514998187",
         "title": "Foundations Engineer \u2013 Summer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -32696,7 +32696,7 @@
         "company_name": "Crowdstrike",
         "id": "cbb6ce6f-a268-4242-a3f6-3496894c52e7",
         "title": "Software Engineer Intern - Summer 2024 - Remote",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -32804,6 +32804,493 @@
             "Swindon, UK"
         ],
         "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1697837633,
+        "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday_Early_Career/job/Software-Development-Engineer-Intern_JR-81163",
+        "company_name": "Workday",
+        "title": "Software Development Engineer Intern",
+        "locations": [
+            "Pleasanton, CA",
+            "Beaverton, OR",
+            "Atlanta, GA",
+            "Boulder, CO"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "MJFree34",
+        "id": "765af622-618d-4a01-9688-357693ebbbdf",
+        "date_posted": 1697837633,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1697837730,
+        "url": "https://careers-keysight.icims.com/jobs/13604/software-engineering-internship/job",
+        "company_name": "Keysight Technologies",
+        "title": "Software Engineering Internship",
+        "locations": [
+            "Austin, TX"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "MJFree34",
+        "id": "38a79a9d-94a7-4fe1-aa30-2d5e9825fd73",
+        "date_posted": 1697837730,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1697837791,
+        "url": "https://careers-keysight.icims.com/jobs/13612/intern-tech-ii/job",
+        "company_name": "Keysight Technologies",
+        "title": "Intern Tech II",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "MJFree34",
+        "id": "a4cbf855-486b-4fef-8bc8-8835b243b7d9",
+        "date_posted": 1697837791,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1697838187,
+        "url": "https://jobs.dish.com/jobs/80708?mode=job&iis=Job+Board&iisn=LinkedIN.COM",
+        "company_name": "Dish",
+        "title": "Intern - SWE: Front End Development - Summer '24",
+        "locations": [
+            "Littleton, CO, US",
+            "Englewood, Colorado, US"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "MonishSoundarRaj",
+        "id": "b4525b2f-69ae-43ed-a2a6-27c5359b049c",
+        "date_posted": 1697838187,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1697838488,
+        "url": "https://jobs.thermofisher.com/global/en/job/R-01208462/Data-Science-Intern?rx_ch=jobpost&rx_job=R-01208462&rx_medium=post&rx_paid=0&rx_r=none&rx_source=linkedin&rx_ts=20231019T124203Z&rx_vp=linkedindirectindex&utm_medium=post",
+        "company_name": "Thermo Fisher",
+        "title": "Data Science Intern",
+        "locations": [
+            "Carlsbad, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "rygeorge",
+        "id": "17160037-accb-4f66-93ad-a3f9277babe1",
+        "date_posted": 1697838488,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1697838698,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Ontario-CAN---Remote/Software-Engineer-Intern--Winter-2024-_23WD72449-1",
+        "company_name": "Autodesk",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Montreal, QC",
+            "Remote"
+        ],
+        "terms": [
+            "Winter 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "rygeorge",
+        "id": "38802f12-090f-4021-8fd9-0d559773ecd5",
+        "date_posted": 1697838698,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1697838771,
+        "url": "https://app.ripplematch.com/v2/public/job/5ac02637/details?from_page=company_branded_page",
+        "company_name": "eBay",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "San Jose, CA",
+            "Bellevue, WA",
+            "New York, NY"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "rygeorge",
+        "id": "8b3d6b96-b4e4-4a6b-b28e-4a17e1a0140e",
+        "date_posted": 1697838771,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1697838888,
+        "url": "https://pearson.jobs/durham-nc/intern-software-engineer/BA04FCAEABA1470080E438016D7D8666/job/?vs=10",
+        "company_name": "Pearson",
+        "title": "Intern - Software Engineer",
+        "locations": [
+            "Durham, North Carolina, US"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "MonishSoundarRaj",
+        "id": "7d5f9ac5-9244-4714-9ec6-014cc2946a3c",
+        "date_posted": 1697838888,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1697839068,
+        "url": "https://us-redhat.icims.com/jobs/100485/software-engineering-intern---pipeline/job?mobile=false&width=1140&height=500&bga=true&needsRedirect=false&jan1offset=-480&jun1offset=-420",
+        "company_name": "Red Hat",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "Remote"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "rygeorge",
+        "id": "6d01810b-6843-4559-bd94-6a71bf836394",
+        "date_posted": 1697839068,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1697839094,
+        "url": "https://www.tesla.com/careers/search/job/203929",
+        "company_name": "Tesla",
+        "title": "Software Engineer Intern - Data Platforms",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "terms": [
+            "Winter 2024",
+            "Spring 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "rygeorge",
+        "id": "1da4ad1d-3a9d-4b19-ab52-8e90cd2ee454",
+        "date_posted": 1697839094,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1697839179,
+        "url": "https://jobs.lumen.com/global/en/job/331383/Intern-Data-Science-Summer-2024",
+        "company_name": "Lumen",
+        "title": "Data Science",
+        "locations": [
+            "Remote"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "VitaliPri",
+        "id": "2cba0deb-f6cf-4525-8cb1-a31a4c97a672",
+        "date_posted": 1697839179,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1697839199,
+        "url": "https://jobs.lumen.com/global/en/job/331304/Intern-Robotic-Process-Developer-Summer-2024",
+        "company_name": "Lumen",
+        "title": "Robotic Process Developer",
+        "locations": [
+            "Remote"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "VitaliPri",
+        "id": "17f743b0-8711-46a3-a644-64485c1825f7",
+        "date_posted": 1697839199,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1697839220,
+        "url": "https://careers.ancestry.com/jobs/f3f46ea1-7550-4bb2-86ef-a9e3574752f7?src=LinkedIn&source=linkedin",
+        "company_name": "Ancestry",
+        "title": "Product Manager, Summer Intern - Search",
+        "locations": [
+            "Lehi, UT"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "rygeorge",
+        "id": "8fb64d32-a26a-4991-a906-2fe452586ff5",
+        "date_posted": 1697839220,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1697839246,
+        "url": "https://toyota.wd5.myworkdayjobs.com/TMNA_College/job/Plano-Texas/TFS-Data-Science-Summer-2024-Internship_10243939",
+        "company_name": "Toyota",
+        "title": "TFS Data Science Summer 2024 Internship",
+        "locations": [
+            "Plano, TX"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "rygeorge",
+        "id": "ab823b66-7f95-4397-a089-f07b5e015114",
+        "date_posted": 1697839246,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "OCC",
+        "id": "d47ab259-1a4a-44ad-a9aa-3ace8501ac4a",
+        "title": "Year-Round Intern - UI/UX",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1697844853,
+        "date_posted": 1697844853,
+        "url": "https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/Year-Round-Intern---UI-UX_REQ-3498",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/OptionsClearingCorporation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Global Atlantic Financial Group",
+        "id": "042b8387-629e-4d9b-be7c-af0b3de05ec5",
+        "title": "2024 Investments & Risk Technology Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1697844859,
+        "date_posted": 1697844859,
+        "url": "https://boards.greenhouse.io/gainternships/jobs/5406894",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/GlobalAtlantic",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "HashiCorp",
+        "id": "ec8bca34-d553-4535-a332-c1c1a40b5750",
+        "title": "Cloud Support Intern - Undergraduate",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1697844726,
+        "date_posted": 1697844726,
+        "url": "https://www.hashicorp.com/career/5319663?gh_jid=5319663",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/HashiCorp",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Locus Robotics",
+        "id": "8e7f9327-1ef7-490a-bf34-8675d08331f7",
+        "title": "Simulation Developer Intern - Spring 2024",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1697844243,
+        "date_posted": 1697844243,
+        "url": "https://jobs.smartrecruiters.com/LocusRobotics/743999938549115",
+        "locations": [
+            "Stillwater, OK",
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/LocusRobotics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Guidewire",
+        "id": "1cc1e814-bf7c-49ac-bb98-e31f5b712d47",
+        "title": "Machine Learning Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1697844197,
+        "date_posted": 1697844197,
+        "url": "https://jobs.lever.co/guidewire/b8768601-a37f-4170-85fa-36100ea059c1/apply",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Guidewire",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Torc Robotics",
+        "id": "b30178ca-1784-4381-8f71-26c0e53b415d",
+        "title": "Motion Estimation Internship - Masters Degree",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1697843979,
+        "date_posted": 1697843979,
+        "url": "https://boards.greenhouse.io/torcrobotics/jobs/6869782002",
+        "locations": [
+            "Blacksburg, VA",
+            "Austin, TX",
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Torc-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "472aa166-accb-4282-aac2-47fd686c06ee",
+        "title": "Digital Marketing Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1697843837,
+        "date_posted": 1697843837,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/UK-Reading/Digital-Marketing-Intern_JR1973956",
+        "locations": [
+            "Reading, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "8333b73b-d88a-4ecb-85bd-7a743b6dc31a",
+        "title": "MBA 2024 Internships: Product Management - Marketing - Finance and Operations",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1697843836,
+        "date_posted": 1697843836,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/MBA-2024-Internships--Product-Management--Marketing--Finance-and-Operations_JR1974403",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Alchemy",
+        "id": "e2ce5fc8-c368-4a87-b196-3bf803084143",
+        "title": "Engineering Internship - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1697843178,
+        "date_posted": 1697843178,
+        "url": "https://boards.greenhouse.io/alchemy/jobs/4330442005",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Alchemy",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "OCC",
+        "id": "6cc65b6b-61c0-4ca2-8a43-39b7aebebe6d",
+        "title": "Year-Round Intern - Security Engineering PAM",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1697843168,
+        "date_posted": 1697843168,
+        "url": "https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/Year-Round-Intern---Security-Engineering-PAM_REQ-3492-1",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/OptionsClearingCorporation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "OCC",
+        "id": "08f29f1b-1e01-48c9-a6d0-46cabdfe5113",
+        "title": "Year-Round Intern - Enterprise Delivery Governance - Edg - Analyst",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1697843166,
+        "date_posted": 1697843166,
+        "url": "https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/Year-Round-Intern---Enterprise-Delivery-Governance--EDG--Analyst_REQ-3490",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/OptionsClearingCorporation",
         "is_visible": true,
         "sponsorship": "Other"
     }
