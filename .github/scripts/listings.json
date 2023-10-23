@@ -326,19 +326,19 @@
     {
         "company_name": "BTIG",
         "locations": [
-            "NYC SF"
+            "Multiple Locations"
         ],
-        "title": "Internship Program \ud83d\udec2",
+        "title": "Software Engineer Intern",
         "date_posted": 1684555200,
         "terms": [
             "Summer 2024"
         ],
         "active": false,
         "url": "https://boards.greenhouse.io/btig27/jobs/6743060002",
-        "is_visible": false,
+        "is_visible": true,
         "source": "Markdown",
         "company_url": "",
-        "date_updated": 1698045755,
+        "date_updated": 1698084836,
         "id": "95411fb3-8e62-4669-a456-9e6939d73e75",
         "sponsorship": "Other"
     },
@@ -371,14 +371,14 @@
         "terms": [
             "Summer 2024"
         ],
-        "active": true,
+        "active": false,
         "url": "https://jobs.us.pwc.com/job/atlanta/digital-assurance-and-transparency-dat-tech-intern-summer-2024/932/51608860064",
         "is_visible": true,
         "source": "Markdown",
         "company_url": "",
-        "date_updated": 1690430400,
+        "date_updated": 1698083706,
         "id": "65702d60-b399-4744-889a-ba2a752973d5",
-        "sponsorship": "Offers Sponsorship"
+        "sponsorship": "Other"
     },
     {
         "company_name": "PwC",
@@ -1255,14 +1255,14 @@
         "terms": [
             "Summer 2024"
         ],
-        "active": true,
+        "active": false,
         "url": "https://recruiting.ultipro.com/CHE1006CBH/JobBoard/fee83a4e-4604-4753-bd3a-98e8811baf6f/OpportunityDetail?opportunityId=0ced27e9-9198-4f3b-a2ba-4d18d75b0935",
         "is_visible": true,
         "source": "Markdown",
         "company_url": "",
-        "date_updated": 1690430400,
+        "date_updated": 1698083677,
         "id": "5c93cab8-5c12-470e-9074-850a8434fc90",
-        "sponsorship": "Offers Sponsorship"
+        "sponsorship": "Other"
     },
     {
         "company_name": "Cherry Bekaert\t",
@@ -3779,10 +3779,10 @@
         ],
         "active": false,
         "url": "https://www.capstoneco.com/careers/2024-summer-internship-software-engineer-nyc/?gh_jid=6784275002",
-        "is_visible": true,
+        "is_visible": false,
         "source": "Markdown",
         "company_url": "",
-        "date_updated": 1698045553,
+        "date_updated": 1698084598,
         "id": "36a1b541-0119-4666-b373-fe5cde9a909c",
         "sponsorship": "Other"
     },
@@ -4839,13 +4839,13 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1696083096,
+        "date_updated": 1698083750,
         "url": "https://www.geckorobotics.com/careers/apply?gh_jid=5695257003",
         "locations": [
             "Boston, MA"
         ],
         "company_url": "https://simplify.jobs/c/Gecko-Robotics",
-        "is_visible": false,
+        "is_visible": true,
         "date_posted": 1690776000,
         "sponsorship": "Other"
     },
@@ -5316,14 +5316,14 @@
         "terms": [
             "Summer 2024"
         ],
-        "active": true,
+        "active": false,
         "url": "https://ge.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/GE-Aerospace-Engineering-Engines-Computer-or-Software-Engineering-Intern---Summer-2024_R3726060",
         "is_visible": true,
         "source": "Markdown",
         "company_url": "",
-        "date_updated": 1690862400,
+        "date_updated": 1698084782,
         "id": "e5c70c92-1744-49b8-b31c-08e1b4eaa338",
-        "sponsorship": "Offers Sponsorship"
+        "sponsorship": "Other"
     },
     {
         "company_name": "GE Aerospace",
@@ -5861,7 +5861,7 @@
         "sponsorship": "U.S. Citizenship is Required"
     },
     {
-        "date_updated": 1691035200,
+        "date_updated": 1698083599,
         "url": "https://careers.skyworksinc.com/job/Hillsboro-AI-Engineering-Intern-OR-97006/1050573100/",
         "company_name": "Skyworks",
         "title": "AI Engineering Intern",
@@ -5871,13 +5871,13 @@
         "terms": [
             "Summer 2024"
         ],
-        "active": true,
+        "active": false,
         "source": "hemanthy1",
         "id": "f02f97fd-7982-4d1a-b0b6-3fee1b29ba27",
         "date_posted": 1691035200,
         "company_url": "",
         "is_visible": true,
-        "sponsorship": "Offers Sponsorship"
+        "sponsorship": "Other"
     },
     {
         "date_updated": 1693854270,
@@ -6444,7 +6444,7 @@
         "company_name": "Point72",
         "id": "180bd680-96fb-4069-a847-daf86d11d550",
         "title": "2024 Summer Internship - Data Scientist - Proprietary Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -6463,7 +6463,7 @@
         "company_name": "Point72",
         "id": "e738af7e-485d-4322-95e7-75ddb0ab0420",
         "title": "2024 Summer Internship - Data Engineer - Proprietary Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -8249,7 +8249,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1692036104,
+        "date_updated": 1698084896,
         "url": "https://recruiting.ultipro.com/PHI1009PHED/JobBoard/d8224c32-ade8-4917-8a97-3ea2d4094e2d/OpportunityDetail?opportunityId=70d18b2e-546d-4fb7-90a5-de41eedf2ead",
         "company_name": "Phillip Edison",
         "title": "Information Technology Intern (Cybersecurity) - Sponsorship requirement unknown",
@@ -8260,7 +8260,7 @@
             "Summer 2024"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "possibly-AA9",
         "id": "701ecabf-bbf9-4ff3-a57c-7ae288e9ff2f",
         "date_posted": 1692036104,
@@ -8871,7 +8871,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1692230527,
+        "date_updated": 1698084799,
         "url": "https://aexp.eightfold.ai/careers/job/17434998",
         "company_name": "American Express",
         "title": "Software Engineering Intern",
@@ -8882,7 +8882,7 @@
             "Summer 2024"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "TNGO04",
         "id": "09164286-8e48-4fca-a068-50162b04e0b9",
         "date_posted": 1692230527,
@@ -9838,7 +9838,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1692555166,
+        "date_updated": 1698084376,
         "url": "https://jobs.thecignagroup.com/us/en/job/CIGNUS23015032EXTERNALENUS/Technology-Development-Program-TECDP-Summer-Intern-2024-Evernorth",
         "company_name": "The Cigna Group",
         "title": "Technology Development Program (TECDP) Summer Internship",
@@ -9848,15 +9848,14 @@
             "Bloomington, MN",
             "Denver, CO",
             "Morris Plains, NJ",
-            "Nashville, TN",
-            "Philadelphia, PA",
+            "Nashville, TN Philadelphia, PA",
             "St. Louis, MO"
         ],
         "terms": [
             "Summer 2024"
         ],
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "mtlogs",
         "id": "6e2e84e5-b550-4e3d-bdeb-59e18e227630",
         "date_posted": 1692555166,
@@ -11511,10 +11510,10 @@
         "sponsorship": "U.S. Citizenship is Required"
     },
     {
-        "date_updated": 1693094040,
+        "date_updated": 1698084349,
         "url": "https://jobs.bnsf.com/us/en/job/90748/Engineering-Network-Control-Systems-Summer-Intern-2024-Paid",
         "company_name": "BNSF",
-        "title": "Network Control Systems Intern",
+        "title": "Technology Services Intern",
         "locations": [
             "Fort Worth, TX"
         ],
@@ -11522,7 +11521,7 @@
             "Summer 2024"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "source": "dxiao01",
         "id": "337a5136-2e94-4e44-ac1a-d2b52c0d66a4",
         "date_posted": 1693094040,
@@ -12336,7 +12335,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1693322406,
+        "date_updated": 1698084326,
         "url": "https://jobs.statefarm.com/main/jobs/33008?lang=en-us&iis=LinkedIn&iisn=LinkedIn",
         "company_name": "State Farm",
         "title": "2024 Summer Intern Software Engineer - PCM",
@@ -12350,7 +12349,7 @@
             "Summer 2024"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "source": "cwcoogan",
         "id": "6527cc61-d572-4f9c-a028-ee7c73d660e9",
         "date_posted": 1693322406,
@@ -13964,7 +13963,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1693599602,
+        "date_updated": 1698084114,
         "url": "https://jobs.parsons.com/job/18988955/software-development-intern-summer-2024-remote/",
         "company_name": "Parsons",
         "title": "Software Development Intern",
@@ -13976,7 +13975,7 @@
             "Summer 2024"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "source": "varun-kanna",
         "id": "2cadc7a8-d03d-4742-a2f7-04d84ed92342",
         "date_posted": 1693599602,
@@ -14047,7 +14046,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1693606007,
+        "date_updated": 1698084149,
         "url": "https://jobs.cisco.com/jobs/ProjectDetail/Site-Reliability-Engineer-Intern-Summer-2024-Internship-Meraki/1409439",
         "company_name": "Cisco (Meraki)",
         "title": "Site Reliability Engineer Intern",
@@ -14060,7 +14059,7 @@
             "Summer 2024"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "source": "RichardZhangRZ",
         "id": "c6393efd-29cf-460c-bcad-be463243ad92",
         "date_posted": 1693606007,
@@ -14847,7 +14846,7 @@
         "company_name": "CACI",
         "id": "eb8ae481-79cc-46f5-8e35-4825d8433184",
         "title": "Signal Processing and Data Analysis Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -15402,11 +15401,11 @@
         "company_name": "CACI",
         "id": "e135fa5f-911a-4cab-8470-e6332ca0d824",
         "title": "Software Developer Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1694013319,
+        "date_updated": 1698084017,
         "date_posted": 1694013319,
         "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-TX-Austin/Software-Developer-Intern---Summer-2024_285919-1",
         "locations": [
@@ -19785,7 +19784,7 @@
         "company_name": "T.Rowe Price",
         "id": "a27bc46e-84da-4b1c-b430-135b3dc9a1b2",
         "title": "2024 Software Engineering Internship Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -23111,10 +23110,10 @@
         "is_visible": true
     },
     {
-        "date_updated": 1695488921,
+        "date_updated": 1698084537,
         "url": "https://starbucks.taleo.net/careersection/1000222intern/jobdetail.ftl?job=230066246&tz=GMT-05:00&tzname=America/Chicago",
         "company_name": "Starbucks",
-        "title": "Software Engineering Intern",
+        "title": "Software Engineer, Intern - Summer 2024",
         "locations": [
             "Seattle"
         ],
@@ -23122,7 +23121,7 @@
             "Summer 2024"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "VitaliPri",
         "id": "218cebd0-d674-42c4-afe8-77137d92905e",
         "date_posted": 1695488921,
@@ -23631,7 +23630,7 @@
         "is_visible": false
     },
     {
-        "date_updated": 1695908147,
+        "date_updated": 1698084555,
         "url": "https://boards.greenhouse.io/grammarly/jobs/5396077?gh_src=0bb770131",
         "company_name": "Grammarly",
         "title": "Software Engineering Intern",
@@ -23642,8 +23641,8 @@
         "terms": [
             "Summer 2024"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "KathyJDev",
         "id": "9fa6f1c9-ff6e-4137-b06d-60ad46c16828",
         "date_posted": 1695908147,
@@ -31330,13 +31329,13 @@
         "title": "Vulnerability Research Summer Intern",
         "active": true,
         "terms": [
-            "Summer 2023"
+            "Summer 2024"
         ],
-        "date_updated": 1697671828,
+        "date_updated": 1698084255,
         "date_posted": 1697671828,
         "url": "https://boards.greenhouse.io/twosixtechnologies/jobs/4987007004",
         "locations": [
-            "Arlington, VA"
+            "Arlington, Virginia"
         ],
         "company_url": "https://simplify.jobs/c/Two-Six-Technologies",
         "is_visible": true,
@@ -32061,7 +32060,7 @@
         "company_name": "Autodesk",
         "id": "6d45ab4b-52be-43e1-9862-99d4cc0262bd",
         "title": "Intern \u2013 Machine Learning Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024",
@@ -32178,7 +32177,7 @@
         "company_name": "Intel",
         "id": "8f20c43f-0337-40f0-9b23-9e9b5bdadc56",
         "title": "Foundational AI Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -33366,5 +33365,178 @@
         "company_url": "https://simplify.jobs/c/Zipline",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1698083820,
+        "url": "https://careers-keysight.icims.com/jobs/13589/software-engineering-internship-%28iot%29/job",
+        "company_name": "Keysight Technologies",
+        "title": "Software Development Internship",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "MJFree34",
+        "id": "e362566f-3446-456c-9374-05e8a89a77bf",
+        "date_posted": 1698083820,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1698083843,
+        "url": "https://careers-keysight.icims.com/jobs/13650/full-stack-software-development-internship/job",
+        "company_name": "Keysight Technologies",
+        "title": "Full Stack Software Development Internship",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "MJFree34",
+        "id": "563e1eeb-111c-4e9f-b850-55b767a780a7",
+        "date_posted": 1698083843,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1698083861,
+        "url": "https://careers-keysight.icims.com/jobs/13651/full-stack-software-development-internship/job",
+        "company_name": "Keysight Technologies",
+        "title": "Full Stack Software Development Internship",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "MJFree34",
+        "id": "edc4ff64-d663-4582-911a-9fc6203446ac",
+        "date_posted": 1698083861,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1698083878,
+        "url": "https://careers-keysight.icims.com/jobs/13706/software-developer-internship/job",
+        "company_name": "Keysight Technologies",
+        "title": "Software Developer Internship",
+        "locations": [
+            "Santa Rosa, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "MJFree34",
+        "id": "84bf10b6-924c-4c2b-b913-251384d28493",
+        "date_posted": 1698083878,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1698084281,
+        "url": "https://app.ripplematch.com/v2/public/job/832b2d10/details",
+        "company_name": "eBay",
+        "title": "Technical Product Manager Intern",
+        "locations": [
+            "San Jose, CA",
+            "Bellevue, WA",
+            "New York, NY"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "mtlogs",
+        "id": "0df9dfb8-8a2b-4afd-a03b-8678e94fbabe",
+        "date_posted": 1698084281,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1698084452,
+        "url": "https://app.careerpuck.com/job-board/lyft/job/6979428002?gh_jid=6979428002",
+        "company_name": "Lyft",
+        "title": "UX Research Intern",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "rygeorge",
+        "id": "86945d6f-e724-4110-8a85-3f07a1869ee3",
+        "date_posted": 1698084452,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1698084500,
+        "url": "https://careers.blizzard.com/global/en/job/R021281/2024-US-Summer-Internship-UI-UX-Design",
+        "company_name": "Blizzard Entertainment",
+        "title": "2024 US Summer Internship - UI/UX Design",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "rygeorge",
+        "id": "5f812283-bba0-435d-989d-d9094a3c620e",
+        "date_posted": 1698084500,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1698084630,
+        "url": "https://app.careerpuck.com/job-board/lyft/job/6979418002?gh_jid=6979418002",
+        "company_name": "Lyft",
+        "title": "Product Design Intern",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "rygeorge",
+        "id": "ae4b4629-27fb-4358-83f3-ec1280206730",
+        "date_posted": 1698084630,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1698084853,
+        "url": "https://careers-keysight.icims.com/jobs/13594/software-digital-transformation-internship/job",
+        "company_name": "Keysight Technologies",
+        "title": "Software Digital Transformation Internship",
+        "locations": [
+            "Santa Rosa, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "MJFree34",
+        "id": "fbf1e502-ca59-4066-a829-ae47d01d20f8",
+        "date_posted": 1698084853,
+        "company_url": "",
+        "is_visible": true
     }
 ]
