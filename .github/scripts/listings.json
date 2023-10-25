@@ -7367,7 +7367,7 @@
         "company_name": "PayPal",
         "id": "de7f25d2-af21-4fc7-be7f-633e662b4300",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Fall 2024"
@@ -17177,7 +17177,7 @@
         "company_name": "Kinaxis",
         "id": "63e0c583-fb70-4d6b-be9d-76b4e9546fae",
         "title": "Co-Op/Intern Developer - Data Server Tools - Back End Technologies",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -26528,7 +26528,7 @@
         "company_name": "Symbotic",
         "id": "7483ed3f-225d-4d51-988a-9c2be6f64c11",
         "title": "Co-op-Software Engineer - UI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023",
             "Spring 2024",
@@ -34036,5 +34036,24 @@
         "company_url": "https://simplify.jobs/c/Luminar-Technologies",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1698253721,
+        "url": "https://ats.rippling.com/rippling/jobs/14d8c154-2161-4c47-b47a-4159954bdabe",
+        "company_name": "Rippling",
+        "title": "Software Engineer Front End Intern",
+        "locations": [
+            "NYC"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "VitaliPri",
+        "id": "ea7c9f6e-35d5-4718-a45b-7215b03ac329",
+        "date_posted": 1698253721,
+        "company_url": "",
+        "is_visible": true
     }
 ]
