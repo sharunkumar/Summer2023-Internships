@@ -30954,7 +30954,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1697560901,
+        "date_updated": 1698528688,
         "url": "https://jobs.lumen.com/global/en/job/331302/Intern-Cybersecurity-Analyst",
         "company_name": "Lumen",
         "title": "Cybersecurity Analyst",
@@ -30965,7 +30965,7 @@
             "Summer 2024"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "source": "VitaliPri",
         "id": "258b7974-e359-4aff-890f-6225f64f80da",
         "date_posted": 1697560901,
@@ -35239,6 +35239,25 @@
         "source": "rygeorge",
         "id": "2c15f8cf-1817-48b7-9348-2766233b1ded",
         "date_posted": 1698485707,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1698528601,
+        "url": "https://careers.siriusxm.com/careers/jobs/15089/job",
+        "company_name": "SiriusXM",
+        "title": "Android Automotive Application Developer",
+        "locations": [
+            "Deerfield Beach, Florida"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "VitaliPri",
+        "id": "77d2fc15-69e3-4402-aef7-6dfbb56b2fb1",
+        "date_posted": 1698528601,
         "company_url": "",
         "is_visible": true
     }
