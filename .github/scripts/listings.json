@@ -19784,7 +19784,7 @@
         "company_name": "T.Rowe Price",
         "id": "a27bc46e-84da-4b1c-b430-135b3dc9a1b2",
         "title": "2024 Software Engineering Internship Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -36947,7 +36947,7 @@
         "company_name": "Smartsheet",
         "id": "d52ba3ba-0fd7-4115-a24d-da25c225dcc6",
         "title": "Software Engineer Intern - Core Views",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -37181,11 +37181,11 @@
         "company_name": "Rockwell Automation",
         "id": "49a05496-bc60-4e80-957f-93e8e7c38ae4",
         "title": "Intern \u2013 Firmware Test Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1699052770,
+        "date_updated": 1699137941,
         "date_posted": 1699052770,
         "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Mequon-Wisconsin-United-States/Intern--Firmware-Test-Development_R23-12415-1",
         "locations": [
@@ -37213,5 +37213,24 @@
         "company_url": "https://simplify.jobs/c/Mozilla",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1699137986,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/98240084274225862-technical-program-manager-intern-bsms-summer-2024",
+        "company_name": "Google",
+        "title": "Technical Program Manager Intern, BS/MS",
+        "locations": [
+            "Multiple US Locations"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "andrew-kan",
+        "id": "42a086a3-5766-4586-b882-ddb98e861556",
+        "date_posted": 1699137986,
+        "company_url": "",
+        "is_visible": true
     }
 ]
