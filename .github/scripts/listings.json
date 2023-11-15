@@ -848,7 +848,7 @@
         "company_name": "Walmart",
         "id": "4b60067d-8dcd-4845-b123-3931e5882b6f",
         "title": "Software Engineer internship II",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -1019,7 +1019,7 @@
         "company_name": "Optiver US",
         "id": "a8cd1df9-da5e-4122-a8a7-bdb5912fce36",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -1769,14 +1769,14 @@
         "terms": [
             "Summer 2024"
         ],
-        "active": true,
+        "active": false,
         "url": "https://careers.sig.com/job/7102/Software-Engineering-Internship-Program-Summer-2024-Expression-of-Interest",
         "is_visible": true,
         "source": "Markdown",
         "company_url": "",
-        "date_updated": 1690430400,
+        "date_updated": 1700017189,
         "id": "4009a859-334e-4a61-95c0-52ab5cb18619",
-        "sponsorship": "Offers Sponsorship"
+        "sponsorship": "Other"
     },
     {
         "source": "Simplify",
@@ -2383,14 +2383,14 @@
         "terms": [
             "Summer 2024"
         ],
-        "active": true,
+        "active": false,
         "url": "https://legacy.flyzipline.com/job?gh_jid=5631836003/",
         "is_visible": true,
         "source": "Markdown",
         "company_url": "https://simplify.jobs/c/Zipline",
-        "date_updated": 1690430400,
+        "date_updated": 1700017176,
         "id": "2d61797e-9cb4-4f90-bc96-aad33cd486cc",
-        "sponsorship": "Offers Sponsorship"
+        "sponsorship": "Other"
     },
     {
         "company_name": "Rakuten",
@@ -4158,7 +4158,7 @@
         "company_name": "The Boring Company",
         "id": "515a9bb8-49cf-4db0-8ec0-53dccccfd006",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023"
         ],
@@ -12020,7 +12020,7 @@
         "company_name": "Humane",
         "id": "16238106-3868-42b6-b5a1-24d1a5c69a37",
         "title": "System Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024",
@@ -12832,7 +12832,7 @@
         "company_name": "Bristol-Myers Squibb",
         "id": "66bfcf1a-1e38-4565-be08-946578646844",
         "title": "Co-Op \u2013 Neuroscience - Spring 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -13276,7 +13276,7 @@
         "company_name": "Wayfair",
         "id": "984f3bcf-e8ab-4eee-8555-e997540e5bb2",
         "title": "Data Engineering Co-op - January 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -18108,7 +18108,7 @@
         "company_name": "Galaxy",
         "id": "11049fde-ee8b-4f10-a64f-51350f28f577",
         "title": "2024 Tech Summer Internship Program - New York - Hong Kong - London",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -19285,7 +19285,7 @@
         "company_name": "Vectra",
         "id": "6a70b2c0-4a2e-48bd-9454-e7559e6eb33b",
         "title": "Data Science Internship - Boston - MA",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -22255,7 +22255,7 @@
         "company_name": "Chamberlain Group",
         "id": "ecb6b20a-a76b-4fbf-8c8c-cd1d6e87b2c5",
         "title": "Intern \u2013 Myq Middleware - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -29797,7 +29797,7 @@
         "company_name": "Autodesk",
         "id": "392faa41-4404-45b7-9ea7-bba04e972b7d",
         "title": "Intern \u2013 Full Stack Software Engineer - Winter 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -31038,7 +31038,7 @@
         "company_name": "Dell Technologies",
         "id": "2fd56597-58c6-4e3c-a613-266c268aaa33",
         "title": "Software Engineering Internship Program 2024 - Cracow area",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023",
             "Winter 2024"
@@ -31058,7 +31058,7 @@
         "company_name": "Dell Technologies",
         "id": "2a2fd785-6ca0-473c-a48e-9fac77cd7336",
         "title": "Software Engineering Internship Program 2024 - Gda\u0144sk area",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023",
             "Winter 2024"
@@ -31078,7 +31078,7 @@
         "company_name": "Dell Technologies",
         "id": "6909e453-e800-4ff9-adb3-e907fd4d7af3",
         "title": "Software Engineering Internship Program 2024 - Warsaw area",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023",
             "Winter 2024"
@@ -32577,7 +32577,7 @@
         "company_name": "Dropbox",
         "id": "f19ab67a-f0e0-4b5a-b63a-fac43ff0f8ac",
         "title": "Software Engineer Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -37319,7 +37319,7 @@
         "company_name": "Circle",
         "id": "52a48cdc-3964-458f-bd5a-43290084bfe6",
         "title": "Software Engineer \u2013 Intern 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -37461,7 +37461,7 @@
         "company_name": "Schonfeld",
         "id": "096ef7d2-c955-4c9b-b552-7990eb614734",
         "title": "2024 Emerging Technology Summer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -37543,7 +37543,7 @@
         "company_name": "Cockroach Labs",
         "id": "0c096db2-1162-4931-9730-02a15446f1db",
         "title": "Software Engineer Summer Intern - Backend - New York - NY",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -37892,7 +37892,7 @@
         "company_name": "Cockroach Labs",
         "id": "7658576d-9fa3-46ae-a26a-dec949b4d76d",
         "title": "Software Engineer Summer Intern - Frontend - New York City",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -38636,5 +38636,271 @@
         "date_posted": 1700000120,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1700016995,
+        "url": "https://careers.leidos.com/jobs/13590045-software-engineer-intern?tm_job=R-00122995&tm_event=view&tm_company=2502",
+        "company_name": "Leidos",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "vanshb03",
+        "id": "ef9e0d60-cd7f-4d15-86c5-2d5a9f864308",
+        "date_posted": 1700016995,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1700017017,
+        "url": "https://phf.tbe.taleo.net/phf03/ats/careers/requisition.jsp?org=INFINITECAMPUS&cws=1&rid=1521",
+        "company_name": "Infinite Campus",
+        "title": "Software Engineer - Intern",
+        "locations": [
+            "Blaine, MN"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "vanshb03",
+        "id": "e3e42fb7-f872-4997-b65a-f1a881476d4c",
+        "date_posted": 1700017017,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1700017109,
+        "url": "https://curtisswright.wd1.myworkdayjobs.com/en-US/CW_External_Career_Site/job/US-PA-Berwick-Nuclear/Software-Test-Engineer--Intern---Nuclear-Division_JR3390",
+        "company_name": "Curtiss Wright",
+        "title": "Software Test Engineer, Intern",
+        "locations": [
+            "Berwick, PA or Idaho Falls, ID"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "vanshb03",
+        "id": "153ecba7-7dc3-4353-9335-d07ea1b17781",
+        "date_posted": 1700017109,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1700017158,
+        "url": "https://jobs.thermofisher.com/global/en/job/R-01207385/Software-Engineering-Intern-Co-op-2024",
+        "company_name": "Thermo Fisher Scientific",
+        "title": "Software Engineering Intern/Co-op 2024",
+        "locations": [
+            "Hillsboro, OR"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "vanshb03",
+        "id": "e3f525f9-28e2-48fc-8ed5-d5df4b5f3ccd",
+        "date_posted": 1700017158,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1700017304,
+        "url": "https://jda.wd5.myworkdayjobs.com/en-US/university/details/Software-Engineering-Intern---Cloud-and-Java-Development_234581",
+        "company_name": "BlueYonder",
+        "title": "Software Engineering Intern \u2013 Cloud and Java Development",
+        "locations": [
+            "Dallas, TX or Scottsdale, AZ"
+        ],
+        "terms": [
+            "Spring 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "07195992-82c6-4abe-90cc-64ab8c2f4176",
+        "date_posted": 1700017304,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1700017345,
+        "url": "https://www.lockheedmartinjobs.com/job/fort-worth/software-engineer-intern/694/56943633216",
+        "company_name": "Lockheed Martin",
+        "title": "Software Engineer - Intern",
+        "locations": [
+            "Fort Worth, Texas"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "vanshb03",
+        "id": "1036b91a-560a-4b8f-9616-ea030092cc77",
+        "date_posted": 1700017345,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1700017377,
+        "url": "https://www.asml.com/en/careers/find-your-job/internship-software-algorithm-engineer-j00286874",
+        "company_name": "ASML",
+        "title": "Software Algorithm Engineer - Intern",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "1a30f4b4-2af5-4bed-95f6-65bf63d9ab59",
+        "date_posted": 1700017377,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1700017398,
+        "url": "https://www.asml.com/en/careers/find-your-job/internship--software-engineer-j00283786",
+        "company_name": "ASML",
+        "title": "Software Engineer - Intern",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "a9909f6a-0c22-466a-9201-dc93d7795868",
+        "date_posted": 1700017398,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1700017470,
+        "url": "https://careers.vontier.com/us/en/job/VONTUSGIL009871/Software-Engineering-Intern-Remote-Hybrid-Greensboro-NC",
+        "company_name": "Vontier - Gilbarco",
+        "title": "Software Engineering - Intern",
+        "locations": [
+            "Greensboro, NC or Simsbury, CT or Remote"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "824fce29-5b87-49fe-bc14-49a695fcff88",
+        "date_posted": 1700017470,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1700017546,
+        "url": "https://jobs.jnj.com/en/jobs/2306151526w/software-intern-tools-infrastructure/",
+        "company_name": "Johnson & Johnson",
+        "title": "Software Intern - Tools & Infrastructure",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "715a49eb-ad56-47e9-b437-c315a59a6198",
+        "date_posted": 1700017546,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1700017564,
+        "url": "https://jobs.jnj.com/en/jobs/2306152377w/product-software-security-intern/",
+        "company_name": "Johnson & Johnson",
+        "title": "Product Software Security Intern",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "vanshb03",
+        "id": "28f96eba-9c29-42ad-baa6-1245c177bb55",
+        "date_posted": 1700017564,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1700017669,
+        "url": "https://globaleur232.dayforcehcm.com/CandidatePortal/en-US/Copart/Posting/View/19026",
+        "company_name": "Copart",
+        "title": "QA Intern",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "18c9029a-fbdf-41aa-ae56-eb182f26d515",
+        "date_posted": 1700017669,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1700017694,
+        "url": "https://jda.wd5.myworkdayjobs.com/en-US/university/details/Software-Engineering-Intern---Automation-Focus_234045",
+        "company_name": "BlueYonder",
+        "title": "Software Engineering Intern - Automation Focus",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "terms": [
+            "Spring 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "2157e62e-d8c4-4607-a3ef-5d23c767b473",
+        "date_posted": 1700017694,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Pagaya",
+        "id": "b047b0e7-4774-4061-8700-e88d2ceacd53",
+        "title": "Partnerships Internship - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1700014600,
+        "date_posted": 1698103418,
+        "url": "https://boards.greenhouse.io/pagaya/jobs/5784613003",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Pagaya",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
