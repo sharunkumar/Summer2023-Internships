@@ -38902,5 +38902,81 @@
         "company_url": "https://simplify.jobs/c/Pagaya",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1700094524,
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/17171/apply/email?keyword=software+intern&mode=location",
+        "company_name": "Ford",
+        "title": "2024 Software Engineering Internship",
+        "locations": [
+            "Dearborn, MI"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "harshaldulera",
+        "id": "840525e9-c908-4d29-9a1d-b3f9a4af6359",
+        "date_posted": 1700094524,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1700094543,
+        "url": "https://careers.t-mobile.com/job-details/19448690/summer-2024-software-engineering-internship-bellevue-wa/",
+        "company_name": "T-Mobile",
+        "title": "Software Engineering - Intern",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "vanshb03",
+        "id": "bc2f9a6e-b78f-484d-b750-12808d2ea6f4",
+        "date_posted": 1700094543,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1700094563,
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/217959",
+        "company_name": "Oracle",
+        "title": "UX Developer -  Intern",
+        "locations": [
+            "United States"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "e2d6fd85-b4fb-4839-b493-a32d358ba669",
+        "date_posted": 1700094563,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1700094585,
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/217958",
+        "company_name": "Oracle",
+        "title": "UX Data Science - Intern",
+        "locations": [
+            "United States"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "8bd5a510-8a32-47cd-bac1-461e74b3d4e3",
+        "date_posted": 1700094585,
+        "company_url": "",
+        "is_visible": true
     }
 ]
