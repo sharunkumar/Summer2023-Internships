@@ -39398,5 +39398,262 @@
         "date_posted": 1700330130,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1700366199,
+        "url": "https://careers.leidos.com/jobs/13612003-natural-language-processing-research-intern",
+        "company_name": "Leidos",
+        "title": "Natural Language Processing Research - Intern",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "vanshb03",
+        "id": "9740be5b-9f5d-4477-9b21-7609d4a77175",
+        "date_posted": 1700366199,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1700366217,
+        "url": "https://jobs.bayer.com/job/Residence-Based-Process-Insights-&-Analytics-Intern-Resi/991319601/",
+        "company_name": "Bayer",
+        "title": "Process Insights & Analytics Intern",
+        "locations": [
+            "remote"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "petraliu1006",
+        "id": "36f320c1-3ee6-4569-b8a0-bb0a04d5db5e",
+        "date_posted": 1700366217,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1700366231,
+        "url": "https://boards.greenhouse.io/thenewyorktimes/jobs/4340637005",
+        "company_name": "The New York Times",
+        "title": "Data Analyst Insights Intern",
+        "locations": [
+            "NYC",
+            "Hybrid",
+            "Remote"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "VitaliPri",
+        "id": "e129197e-7594-4909-91ce-30ccf5297a08",
+        "date_posted": 1700366231,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1700366246,
+        "url": "https://boards.greenhouse.io/thenewyorktimes/jobs/4340736005",
+        "company_name": "The New York Times",
+        "title": "Data Science Intern",
+        "locations": [
+            "NYC",
+            "Hybrid",
+            "Remote"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "VitaliPri",
+        "id": "28f594a1-3f10-4fe4-8063-a7b7a4d4d63a",
+        "date_posted": 1700366246,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1700366271,
+        "url": "https://boards.greenhouse.io/thenewyorktimes/jobs/4341146005",
+        "company_name": "The New York Times",
+        "title": "Newsroom Software Engineering Intern",
+        "locations": [
+            "NYC",
+            "Hybrid",
+            "Remote"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "VitaliPri",
+        "id": "e17f5c39-85b2-4e61-a479-38dc82342474",
+        "date_posted": 1700366271,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1700366293,
+        "url": "https://boards.greenhouse.io/thenewyorktimes/jobs/4340702005",
+        "company_name": "The New York Times",
+        "title": "Full-Stack Engineering Intern",
+        "locations": [
+            "NYC",
+            "Hybrid",
+            "Remote"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "VitaliPri",
+        "id": "c208b470-0ca0-41a8-a025-d9658c7797a7",
+        "date_posted": 1700366293,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1700366317,
+        "url": "https://boards.greenhouse.io/thenewyorktimes/jobs/4340724005",
+        "company_name": "The New York Times",
+        "title": "Android Engineer Intern",
+        "locations": [
+            "NYC",
+            "Hybrid",
+            "Remote"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "VitaliPri",
+        "id": "17daa888-1552-4abe-88d6-afef3208a6c4",
+        "date_posted": 1700366317,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1700366347,
+        "url": "https://jobs.intel.com/en/job/-/-/599/57401006544",
+        "company_name": "Intel",
+        "title": "Datacenter DevOps - Intern",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "2e2247e3-d2d3-4565-a2a1-beaf18028634",
+        "date_posted": 1700366347,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1700366592,
+        "url": "https://boards.greenhouse.io/thenewyorktimes/jobs/4340660005",
+        "company_name": "The New York Times",
+        "title": "R&D Software Engineer Intern",
+        "locations": [
+            "NYC"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "VitaliPri",
+        "id": "b0155e2d-ec1f-4655-9365-0d3a96b61e91",
+        "date_posted": 1700366592,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1700366629,
+        "url": "https://apply.workable.com/extremereach/j/0AE7D02A48/",
+        "company_name": "Extreme Reach",
+        "title": "Software Development - Intern",
+        "locations": [
+            "Dedham, MA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "764a0266-75bb-4307-978e-cd54bf08da76",
+        "date_posted": 1700366629,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1700366673,
+        "url": "https://careers.intuitive.com/en/jobs/743999944888193/JOB5804/",
+        "company_name": "Intuitive Surgical",
+        "title": "Software Engineer - Intern",
+        "locations": [
+            "Peachtree Corners, GA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "e61bfb51-631e-49f0-9745-9eab1173d617",
+        "date_posted": 1700366673,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1700366711,
+        "url": "https://careers.intuitive.com/en/jobs/743999944875183/JOB5954/",
+        "company_name": "Intuitive Surgical",
+        "title": "Data Science Intern",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "cffb92b2-9f71-42fa-8a88-ebc17570e7b8",
+        "date_posted": 1700366711,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1700366839,
+        "url": "https://gtsgbu.wd3.myworkdayjobs.com/en-US/Careers/job/Toronto/Hardware-Application-Designer---Intern_R1004049",
+        "company_name": "Thales",
+        "title": "Hardware Application Designer - Intern",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "117e90e1-7e8e-418d-b5c2-af45cc68c458",
+        "date_posted": 1700366839,
+        "company_url": "",
+        "is_visible": true
     }
 ]
