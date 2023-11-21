@@ -39438,7 +39438,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1700366231,
+        "date_updated": 1700533623,
         "url": "https://boards.greenhouse.io/thenewyorktimes/jobs/4340637005",
         "company_name": "The New York Times",
         "title": "Data Analyst Insights Intern",
@@ -39451,7 +39451,7 @@
             "Summer 2024"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "source": "VitaliPri",
         "id": "e129197e-7594-4909-91ce-30ccf5297a08",
         "date_posted": 1700366231,
@@ -39459,7 +39459,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1700366246,
+        "date_updated": 1700533606,
         "url": "https://boards.greenhouse.io/thenewyorktimes/jobs/4340736005",
         "company_name": "The New York Times",
         "title": "Data Science Intern",
@@ -39472,7 +39472,7 @@
             "Summer 2024"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "source": "VitaliPri",
         "id": "28f594a1-3f10-4fe4-8063-a7b7a4d4d63a",
         "date_posted": 1700366246,
@@ -39480,7 +39480,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1700366271,
+        "date_updated": 1700533550,
         "url": "https://boards.greenhouse.io/thenewyorktimes/jobs/4341146005",
         "company_name": "The New York Times",
         "title": "Newsroom Software Engineering Intern",
@@ -39493,7 +39493,7 @@
             "Summer 2024"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "source": "VitaliPri",
         "id": "e17f5c39-85b2-4e61-a479-38dc82342474",
         "date_posted": 1700366271,
@@ -39501,20 +39501,18 @@
         "is_visible": true
     },
     {
-        "date_updated": 1700366293,
+        "date_updated": 1700533992,
         "url": "https://boards.greenhouse.io/thenewyorktimes/jobs/4340702005",
         "company_name": "The New York Times",
         "title": "Full-Stack Engineering Intern",
         "locations": [
-            "NYC",
-            "Hybrid",
-            "Remote"
+            "NYC"
         ],
         "terms": [
             "Summer 2024"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "source": "VitaliPri",
         "id": "c208b470-0ca0-41a8-a025-d9658c7797a7",
         "date_posted": 1700366293,
@@ -39562,7 +39560,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1700366592,
+        "date_updated": 1700533236,
         "url": "https://boards.greenhouse.io/thenewyorktimes/jobs/4340660005",
         "company_name": "The New York Times",
         "title": "R&D Software Engineer Intern",
@@ -39573,7 +39571,7 @@
             "Summer 2024"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "source": "VitaliPri",
         "id": "b0155e2d-ec1f-4655-9365-0d3a96b61e91",
         "date_posted": 1700366592,
@@ -39653,6 +39651,215 @@
         "source": "vanshb03",
         "id": "117e90e1-7e8e-418d-b5c2-af45cc68c458",
         "date_posted": 1700366839,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1700533316,
+        "url": "https://careers.northwesternmutual.com/corporate-careers/job/investment-risk-management-internship-summer-2024-milwaukee-wi-corporate-jr-39734/",
+        "company_name": "Northwestern Mutual",
+        "title": "Investment Risk Management - Intern",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "c3280e14-0997-44ea-8fc0-86146d119533",
+        "date_posted": 1700533316,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1700533346,
+        "url": "https://womble.avature.net/careers/JobDetail/Winston-Salem-North-Carolina-United-States-Business-Intelligence-Strategy-Staff-Intern/3422",
+        "company_name": "Womble Bond Dickinson",
+        "title": "Business Intelligence & Strategy - Staff Intern",
+        "locations": [
+            "Winston-Salem, NC"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "10423c25-d599-45b8-9f8f-1f8578ba7258",
+        "date_posted": 1700533346,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1700533361,
+        "url": "https://voloridge-investment-management.hiringthing.com/job/680316/quality-assurance-engineer-intern-2024?",
+        "company_name": "Voloridge Investment Management",
+        "title": "Quality Assurance Engineer - Intern",
+        "locations": [
+            "Jupiter, FL"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "5242798b-ac48-4290-b7b7-d832d70b605f",
+        "date_posted": 1700533361,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1700533414,
+        "url": "https://oclc.wd1.myworkdayjobs.com/en-US/OCLC_Careers/job/Dublin-OH--Hybrid/UX-Accessibility-Intern_R0003025",
+        "company_name": "OCLC",
+        "title": "UX Accessibility - Intern",
+        "locations": [
+            "Dublin, OH"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "62f84736-ccb9-43ba-bd07-69fcfe4e9555",
+        "date_posted": 1700533414,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1700533575,
+        "url": "https://recruiting2.ultipro.com/MUS1000MUSCO/JobBoard/2d04f520-ad08-4844-9db8-7884196c3096/OpportunityDetail?opportunityId=51461f73-a712-4d11-8efe-032282d21c64",
+        "company_name": "Musco Sports Lighting, LLC",
+        "title": "Application Developer - Intern",
+        "locations": [
+            "Oskaloosa, IA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "0b8f93a1-8a3c-4237-bc9b-b06988572c31",
+        "date_posted": 1700533575,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1700533689,
+        "url": "https://boards.greenhouse.io/thenewyorktimes/jobs/4340696005",
+        "company_name": "The New York Times",
+        "title": "iOS Engineer - Intern",
+        "locations": [
+            "New York, NY"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "vanshb03",
+        "id": "b1edd107-ba1f-4ade-baf2-62d39ff7e1f5",
+        "date_posted": 1700533689,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1700533884,
+        "url": "https://boards.greenhouse.io/thenewyorktimes/jobs/4340721005",
+        "company_name": "The New York Times",
+        "title": "https://boards.greenhouse.io/thenewyorktimes/jobs/4340721005",
+        "locations": [
+            "New York, NY"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "f21010c3-606f-4ec7-9c1b-fd3bc249665a",
+        "date_posted": 1700533704,
+        "company_url": "",
+        "is_visible": false
+    },
+    {
+        "date_updated": 1700533720,
+        "url": "https://boards.greenhouse.io/thenewyorktimes/jobs/4340712005",
+        "company_name": "The New York Times",
+        "title": "Frontend Engineering Intern",
+        "locations": [
+            "New York, NY"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "vanshb03",
+        "id": "6581bfb2-8505-4a04-b95e-4100dad74910",
+        "date_posted": 1700533720,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1700533742,
+        "url": "https://careers.leggett.com/job/Lenexa-Internship-Software-Engineer-iOS-KS/1077037600/",
+        "company_name": "Leggett & Platt",
+        "title": "Software Engineer- iOS - Intern",
+        "locations": [
+            "Lenexa, KS"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "430a3d21-1c9b-4002-abcc-7fb1b35a8bb5",
+        "date_posted": 1700533742,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1700533758,
+        "url": "https://careers.intuitive.com/en/jobs/743999944906553/JOB5828/product-security-engineer-intern/",
+        "company_name": "Intuitive",
+        "title": "Product Security Engineer - Intern",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "db432899-1240-4995-a20f-98549837ece5",
+        "date_posted": 1700533758,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1700534041,
+        "url": "https://careers.eisneramper.com/en/career-opportunities/2301/software-developer-consulting-internship-summer-2024-baton-rouge/",
+        "company_name": "EisnerAmper",
+        "title": "Software Developer - Intern",
+        "locations": [
+            "Baton Rouge, LA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "32f08e5f-5327-4cf1-9201-bb38a0ca249e",
+        "date_posted": 1700534041,
         "company_url": "",
         "is_visible": true
     }
