@@ -14652,7 +14652,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1693794108,
+        "date_updated": 1700668403,
         "url": "https://careers-peraton.icims.com/jobs/136572/job",
         "company_name": "Peraton",
         "title": "Software Engineer Intern",
@@ -14663,7 +14663,7 @@
             "Summer 2024"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "source": "neelthepatel8",
         "id": "04ec0571-c87e-4ddf-b177-2ebcbea3b618",
         "date_posted": 1693794108,
@@ -14671,7 +14671,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1693836108,
+        "date_updated": 1700668795,
         "url": "https://www.pinecone.io/careers?id=5696733003",
         "company_name": "Pinecone",
         "title": "SWE Intern: Distributed Systems NYC",
@@ -14681,8 +14681,8 @@
         "terms": [
             "Summer 2024"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "cwcoogan",
         "id": "48dd3483-52ff-430a-b2bf-9bb4a756a043",
         "date_posted": 1693836108,
@@ -15648,7 +15648,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1694039830,
+        "date_updated": 1700668359,
         "url": "https://www.linkedin.com/jobs/view/3705752503/",
         "company_name": "Linkedin",
         "title": "Systems and Infrastructure Engineer Internship - Graduate level",
@@ -15658,8 +15658,8 @@
         "terms": [
             "Summer 2024"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "yukikazedayo",
         "id": "5f47d453-416d-4b00-809f-0837058248d9",
         "date_posted": 1694039830,
@@ -15901,7 +15901,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1694044883,
+        "date_updated": 1700668649,
         "url": "https://app.ripplematch.com/v2/public/job/71309fd0/details",
         "company_name": "General Mills",
         "title": "Data Science Intern",
@@ -15912,7 +15912,7 @@
             "Summer 2024"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "source": "mtlogs",
         "id": "579c5c3e-980b-4a19-8700-17658987dd0e",
         "date_posted": 1694044883,
@@ -16905,7 +16905,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1694226593,
+        "date_updated": 1700668420,
         "url": "https://careers.humana.com/job/19065118/humana-2024-it-summer-internship-remote/",
         "company_name": "Humana",
         "title": "2024 IT Summer Internship",
@@ -16917,7 +16917,7 @@
             "Summer 2024"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "source": "henryxu0",
         "id": "dbbd15cb-d13a-4230-9592-b65ef9a36c06",
         "date_posted": 1694226593,
@@ -39731,7 +39731,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1700533575,
+        "date_updated": 1700668386,
         "url": "https://recruiting2.ultipro.com/MUS1000MUSCO/JobBoard/2d04f520-ad08-4844-9db8-7884196c3096/OpportunityDetail?opportunityId=51461f73-a712-4d11-8efe-032282d21c64",
         "company_name": "Musco Sports Lighting, LLC",
         "title": "Application Developer - Intern",
@@ -39742,7 +39742,7 @@
             "Summer 2024"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "0b8f93a1-8a3c-4237-bc9b-b06988572c31",
         "date_posted": 1700533575,
@@ -39788,7 +39788,7 @@
         "is_visible": false
     },
     {
-        "date_updated": 1700533720,
+        "date_updated": 1700668011,
         "url": "https://boards.greenhouse.io/thenewyorktimes/jobs/4340712005",
         "company_name": "The New York Times",
         "title": "Frontend Engineering Intern",
@@ -39798,8 +39798,8 @@
         "terms": [
             "Summer 2024"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "vanshb03",
         "id": "6581bfb2-8505-4a04-b95e-4100dad74910",
         "date_posted": 1700533720,
@@ -39860,6 +39860,217 @@
         "source": "vanshb03",
         "id": "32f08e5f-5327-4cf1-9201-bb38a0ca249e",
         "date_posted": 1700534041,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1700667687,
+        "url": "https://jobs-thalesdsi.icims.com/jobs/3432/2024-software-engineering-summer-intern---il/job?mode=job&iis=Job+Board&iisn=LinkedIn&mobile=false&width=1170&height=500&bga=true&needsRedirect=false&jan1offset=-360&jun1offset=-300",
+        "company_name": "Thales Defense & Security, Inc.",
+        "title": "2024 Software Engineering Summer Intern - IL",
+        "locations": [
+            "Aurora",
+            "IL",
+            "US"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "Garenbbbb",
+        "id": "b152c29a-95e2-49d6-87ce-7bcee1fb2529",
+        "date_posted": 1700667687,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1700667712,
+        "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Wayne-PA/Investment-Summer-Intern--Product---Data-Analytics-_R2314956",
+        "company_name": "The Hartford",
+        "title": "Investment Summer Intern (Product / Data Analytics)",
+        "locations": [
+            "Wayne, PA Hybrid"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "Garenbbbb",
+        "id": "cc3933cc-e363-42e1-8a6c-7c687d5f0afc",
+        "date_posted": 1700667712,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1700667746,
+        "url": "https://www.careerbeacon.com/en/job-1/523676/extreme-reach/software-development-intern/toronto-on",
+        "company_name": "Extreme Reach",
+        "title": "Software Development - Intern",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "bc599aad-7900-408f-aa31-ccbda7830e9d",
+        "date_posted": 1700667746,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1700667883,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Toronto-ON-CAN/Intern--Software-Engineer_23WD72473-1",
+        "company_name": "Autodesk",
+        "title": "Software Engineer - Intern",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "2cb69b5f-7c7a-4809-b219-934854edad9c",
+        "date_posted": 1700667883,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1700668078,
+        "url": "https://jobs.paccar.com/job/Renton-IT-Intern%2C-Summer-2024-Data-Engineer-Job-WA-98057/1008673901/",
+        "company_name": "PACCAR",
+        "title": "Data Engineer IT - Intern",
+        "locations": [
+            "Renton, WA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "vanshb03",
+        "id": "655df8d2-5f71-48f6-85eb-cf6b3d94601d",
+        "date_posted": 1700668078,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1700668108,
+        "url": "https://jobs.paccar.com/job/Renton-IT-Intern%2C-Summer-2024-Data-Scientist-Job-WA-98057/1008684801/",
+        "company_name": "PACCAR",
+        "title": "Data Scientist IT - Intern",
+        "locations": [
+            "Renton, WA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "vanshb03",
+        "id": "3f8b9bad-7b6e-4dd1-8e36-b44c7a21868d",
+        "date_posted": 1700668108,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1700668192,
+        "url": "https://ascenaretail.wd5.myworkdayjobs.com/us_corporate_jobs/job/Ascena-Corp-ETNA-ascena-Pataskala-OH-43062/Data-Scientist-Intern_R-138106",
+        "company_name": "Ascena",
+        "title": "Data Scientist - Intern",
+        "locations": [
+            "Pataskala, OH"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "fd494b60-8c4b-4289-a869-cf9a9ce09c28",
+        "date_posted": 1700668192,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1700668215,
+        "url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Canada-Vancouver/Intern--Software-Engineering_R237728",
+        "company_name": "Analog Devices",
+        "title": "Software Engineering - Intern",
+        "locations": [
+            "Vancouver, Canada"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "48936fc5-b294-4d0b-8df9-4c0b32604c30",
+        "date_posted": 1700668215,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1700668230,
+        "url": "https://www.wayfair.com/careers/job/software-engineering-intern---summer-2024/7032310002/",
+        "company_name": "Wayfair",
+        "title": "Software Engineering Intern - Summer 2024",
+        "locations": [
+            "Austin, TX"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "4a33af90-f58d-45d5-ad31-c18ec1c6ffe0",
+        "date_posted": 1700668230,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1700668282,
+        "url": "https://recruiting.paylocity.com/recruiting/jobs/Details/2084229/Clarity-Partners-LLC/Front-End-Web-Developer-Internship",
+        "company_name": "Clarity Partners LLC",
+        "title": "Front-End Web Developer - Intern",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "786c6ae6-465e-4e13-a70f-10fdf82343ba",
+        "date_posted": 1700668282,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1700668312,
+        "url": "https://itron.referrals.selectminds.com/jobs/intern-software-engineer-6245",
+        "company_name": "Itron",
+        "title": "Software Engineer - Intern",
+        "locations": [
+            "Liberty Lake, WA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "834632bc-d12f-411e-b7fb-abe670a1666f",
+        "date_posted": 1700668312,
         "company_url": "",
         "is_visible": true
     }
