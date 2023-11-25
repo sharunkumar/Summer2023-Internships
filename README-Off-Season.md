@@ -4,6 +4,9 @@
 
 | Company | Role | Location | Terms | Application/Link | Date Posted |
 | ------- | ---- | -------- | ----- | ---------------- | ----------- |
+| Third Pole, Inc | Embedded Software Engineering - Intern | Waltham, MA | Spring 2024 | <a href="https://www.pole3.com/company/careers/?gh_jid=4340361005&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
+| ↳ | Core Technology Software - Intern | Waltham, MA | Winter 2024, Spring 2024 | <a href="https://www.pole3.com/company/careers/?gh_jid=4342347005&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
+| Ribbit | Software Engineering Intern - Robotics | Toronto, Canada | Spring 2024, Summer 2024 | <a href="https://flyribbit.applytojobs.ca/engineering/26524?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
 | Wikimedia Foundation | Software Engineering - Intern | Remote | Spring 2024 | <a href="https://boards.greenhouse.io/wikimedia/jobs/5511020?gh_src=0e7d3b611us&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | BlueYonder | Software Engineering Intern - Automation Focus | Dallas, TX | Spring 2024 | <a href="https://jda.wd5.myworkdayjobs.com/en-US/university/details/Software-Engineering-Intern---Automation-Focus_234045?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | ↳ | Software Engineering Intern – Cloud and Java Development | Dallas, TX or Scottsdale, AZ | Spring 2024 | <a href="https://jda.wd5.myworkdayjobs.com/en-US/university/details/Software-Engineering-Intern---Cloud-and-Java-Development_234581?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
