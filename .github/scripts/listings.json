@@ -928,7 +928,7 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1689739200,
+        "date_updated": 1701183471,
         "url": "https://boards.greenhouse.io/fetchrewards/jobs/4386323003",
         "locations": [
             "Madison, WI"
@@ -936,7 +936,7 @@
         "company_url": "https://simplify.jobs/c/FetchRewards",
         "is_visible": true,
         "date_posted": 1689739200,
-        "sponsorship": "Offers Sponsorship"
+        "sponsorship": "Other"
     },
     {
         "source": "Simplify",
@@ -35970,7 +35970,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1698863576,
+        "date_updated": 1701183589,
         "url": "https://careers-shure.icims.com/jobs/3360/job",
         "company_name": "Shure",
         "title": "Applications Software Development",
@@ -35981,7 +35981,7 @@
             "Summer 2024"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "source": "VitaliPri",
         "id": "639079ad-0b45-4aee-9418-960da1d9b880",
         "date_posted": 1698863576,
@@ -37421,7 +37421,7 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1701136368,
+        "date_updated": 1701183754,
         "date_posted": 1699287306,
         "url": "https://boards.greenhouse.io/latitude/jobs/5483263",
         "locations": [
@@ -38790,7 +38790,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1700017470,
+        "date_updated": 1701185312,
         "url": "https://careers.vontier.com/us/en/job/VONTUSGIL009871/Software-Engineering-Intern-Remote-Hybrid-Greensboro-NC",
         "company_name": "Vontier - Gilbarco",
         "title": "Software Engineering - Intern",
@@ -38801,7 +38801,7 @@
             "Summer 2024"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "824fce29-5b87-49fe-bc14-49a695fcff88",
         "date_posted": 1700017470,
@@ -38923,7 +38923,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1700094543,
+        "date_updated": 1701185277,
         "url": "https://careers.t-mobile.com/job-details/19448690/summer-2024-software-engineering-internship-bellevue-wa/",
         "company_name": "T-Mobile",
         "title": "Software Engineering - Intern",
@@ -38934,7 +38934,7 @@
             "Summer 2024"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "bc2f9a6e-b78f-484d-b750-12808d2ea6f4",
         "date_posted": 1700094543,
@@ -39133,7 +39133,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1700283357,
+        "date_updated": 1701183802,
         "url": "https://recruiting2.ultipro.com/ULT1008ULTE/JobBoard/71bc1da6-c7b0-4b37-9f7b-076d7d68c57b/OpportunityDetail?opportunityId=d9d12b23-8d91-4560-b951-d64069ef62ee",
         "company_name": "Ulteig",
         "title": "Automations Developer - Intern",
@@ -39144,7 +39144,7 @@
             "Summer 2024"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "001cbedd-9846-436d-957d-49eb0626a748",
         "date_posted": 1700283357,
@@ -39305,7 +39305,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1700283791,
+        "date_updated": 1701183710,
         "url": "https://www.verition.com/open-positions?gh_jid=4049222007",
         "company_name": "Verition Fund Management",
         "title": "Software Engineer Intern (Low Latency Team)",
@@ -39315,8 +39315,8 @@
         "terms": [
             "Summer 2024"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "quantumscholar",
         "id": "23be63e2-8d20-4c42-994b-dc2b6e1a86f5",
         "date_posted": 1700283791,
@@ -39400,10 +39400,10 @@
         "is_visible": true
     },
     {
-        "date_updated": 1700366199,
+        "date_updated": 1701182826,
         "url": "https://careers.leidos.com/jobs/13612003-natural-language-processing-research-intern",
         "company_name": "Leidos",
-        "title": "Natural Language Processing Research - Intern",
+        "title": "Natural Language Processing Research - Intern \ud83c\uddfa\ud83c\uddf8",
         "locations": [
             "Arlington, VA"
         ],
@@ -39411,7 +39411,7 @@
             "Summer 2024"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "source": "vanshb03",
         "id": "9740be5b-9f5d-4477-9b21-7609d4a77175",
         "date_posted": 1700366199,
@@ -40266,6 +40266,178 @@
         "source": "vanshb03",
         "id": "ff77bc90-3098-438a-ace3-2dd3f83e0149",
         "date_posted": 1700927518,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1701182672,
+        "url": "https://www.metacareers.com/jobs/1008990210214752",
+        "company_name": "Meta",
+        "title": "Business Engineer, Intern",
+        "locations": [
+            "Menlo Park, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "Frostfire25",
+        "id": "86ccdef9-d387-4858-a0cc-e2de9eeb0b2e",
+        "date_posted": 1701182672,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1701182846,
+        "url": "https://careers.brocksolutions.com/Careers.aspx?req=CO-OP%20-%20SW%20DEV-NC",
+        "company_name": "Brock Solutions",
+        "title": "Software Developer - Intern",
+        "locations": [
+            "Winston Salem, NC"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "888b112b-cc71-4374-bb25-85c9e365725b",
+        "date_posted": 1701182846,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1701183304,
+        "url": "https://careers.jacobs.com/job/19498363/orbital-debris-modeling-software-engineer-intern-houston-tx/",
+        "company_name": "Jacobs",
+        "title": "Orbital Debris Modeling Software Engineer - Intern",
+        "locations": [
+            "Houston, TX"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "f46d1948-3017-4dd1-b750-afc930b0906f",
+        "date_posted": 1701183304,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1701183321,
+        "url": "https://www.ga-careers.com/job/-/-/499/57629937136",
+        "company_name": "General Atomics",
+        "title": "Computer Engineering Intern",
+        "locations": [
+            "Poway, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "52853fcc-5d5a-4546-a298-6cae72a5f0f2",
+        "date_posted": 1701183321,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1701183457,
+        "url": "https://jobs.jobvite.com/src-inc/job/oFkOpfwW",
+        "company_name": "SRC Inc.",
+        "title": "Software Engineer - Intern",
+        "locations": [
+            "Syracuse, NY"
+        ],
+        "terms": [
+            "Spring 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "a73ac3b7-5461-485f-a780-3b385019a942",
+        "date_posted": 1701183457,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1701183641,
+        "url": "https://blackknight.wd1.myworkdayjobs.com/en-US/ics/details/Intern---Software-Engineer_23-840",
+        "company_name": "ICE (Black Knight)",
+        "title": "SWE Intern",
+        "locations": [
+            "Jacksonville"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "ajain02",
+        "id": "37eca5e5-b6af-41c6-84b1-31a69e97068a",
+        "date_posted": 1701183641,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1701183738,
+        "url": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Software-Engineering-Intern_2321232-2",
+        "company_name": "KLA",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "Ann Arbor"
+        ],
+        "terms": [
+            "Winter 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "JuanLinaresOrihuela",
+        "id": "d6ab1dd4-0254-4b70-8cf4-3693859af83c",
+        "date_posted": 1701183738,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1701183773,
+        "url": "https://bloomberg.wd1.myworkdayjobs.com/en-US/Bloombergindustrygroup_External_Career_Site/job/Arlington---1801-S-Bell-INDG/Intern--Software-Engineering_120909",
+        "company_name": "Bloomberg Industry Group",
+        "title": "Software Engineer",
+        "locations": [
+            "Arlington, TX"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "justinespinal",
+        "id": "0752f63c-2565-446b-87fd-9ab4c8793b6d",
+        "date_posted": 1701183773,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1701185224,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Android-Platform-Software-Engineering-Intern-2024_R40730",
+        "company_name": "Motorola Solutions",
+        "title": "Android Platform Software Engineering - Intern",
+        "locations": [
+            "Plantation, FL",
+            "Schaumburg, IL"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "dcc432fe-6493-4828-b456-65d80599d079",
+        "date_posted": 1701185224,
         "company_url": "",
         "is_visible": true
     }
