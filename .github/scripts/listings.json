@@ -36582,7 +36582,7 @@
         "company_name": "Blizzard Entertainment",
         "id": "01774b33-56d0-498b-b886-e7a30bb8a2a1",
         "title": "2024 US Summer Internship - Analytics & Data Science",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -43404,14 +43404,14 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1701505367,
+        "date_updated": 1701569193,
         "date_posted": 1701505367,
         "url": "https://jobs.lever.co/palantir/0bbfc0d1-1cb5-4e76-aaf8-ac1f12d94306/apply",
         "locations": [
             "Palo Alto, CA"
         ],
         "company_url": "https://simplify.jobs/c/Palantir",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
