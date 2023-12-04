@@ -5288,23 +5288,23 @@
         "sponsorship": "Other"
     },
     {
-        "company_name": "GE Aerospace",
+        "company_name": "GE",
         "locations": [
             "Multiple US Locations"
         ],
-        "title": "Digital Technology Intern",
+        "title": "Digital Analyst",
         "date_posted": 1689134400,
         "terms": [
             "Summer 2024"
         ],
-        "active": true,
+        "active": false,
         "url": "https://ge.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/GE-Aerospace-US-Digital-Technology-Intern---Summer-2024_R3718425-1",
         "is_visible": true,
         "source": "Markdown",
         "company_url": "",
-        "date_updated": 1690862400,
+        "date_updated": 1701651548,
         "id": "36fa58ee-3297-4218-84a1-22957099f996",
-        "sponsorship": "Offers Sponsorship"
+        "sponsorship": "Other"
     },
     {
         "company_name": "GE Aerospace",
@@ -40461,7 +40461,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1701200682,
+        "date_updated": 1701651503,
         "url": "https://ehif.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/iCIMS_131207",
         "company_name": "Wood Group Pratt & Whitney Industrial Turbine Services, LLC",
         "title": "Software Engineering - Intern",
@@ -40471,7 +40471,7 @@
         "terms": [
             "Summer 2024"
         ],
-        "sponsorship": "Other",
+        "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "source": "vanshb03",
         "id": "c68f9f2e-4104-4412-b396-e1ac6bf1b7cb",
@@ -41003,7 +41003,7 @@
         "company_name": "Etsy",
         "id": "73f01644-26cc-4748-940a-34eeba439ef3",
         "title": "Intern Data Scientist",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -41662,14 +41662,14 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1701352975,
+        "date_updated": 1701647250,
         "date_posted": 1701352975,
         "url": "https://jobs.lever.co/zoox/33ca7a7f-0e98-450e-aca8-f72fa13074e0/apply",
         "locations": [
             "San Mateo, CA"
         ],
         "company_url": "https://simplify.jobs/c/Zoox",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -41701,14 +41701,14 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1701352932,
+        "date_updated": 1701647285,
         "date_posted": 1701352932,
         "url": "https://jobs.lever.co/zoox/52e266b7-a901-45b8-9197-5723f96176dd/apply",
         "locations": [
             "San Mateo, CA"
         ],
         "company_url": "https://simplify.jobs/c/Zoox",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -41720,14 +41720,14 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1701352927,
+        "date_updated": 1701647337,
         "date_posted": 1701352927,
         "url": "https://jobs.lever.co/zoox/c9784dc2-d638-4496-9a54-374064691b38/apply",
         "locations": [
             "San Mateo, CA"
         ],
         "company_url": "https://simplify.jobs/c/Zoox",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -42486,14 +42486,14 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1701350096,
+        "date_updated": 1701647379,
         "date_posted": 1701350096,
         "url": "https://boards.greenhouse.io/dvtrading/jobs/4342006005",
         "locations": [
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/DV-Trading",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -43019,7 +43019,7 @@
         "company_name": "Etsy",
         "id": "7a946fcc-84d2-45d9-aae5-bfeb80f177e0",
         "title": "Intern Data Scientist",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2024"
         ],
@@ -43270,14 +43270,14 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1701476588,
+        "date_updated": 1701647207,
         "date_posted": 1701476588,
         "url": "https://jobs.lever.co/MBRDNA/7bf9c8b1-29cf-465d-a5ba-d945fd4ecf64/apply",
         "locations": [
             "Long Beach, CA"
         ],
         "company_url": "https://simplify.jobs/c/Mercedes-Benz",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -43444,14 +43444,52 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1701591494,
+        "date_updated": 1701647176,
         "date_posted": 1701591494,
         "url": "https://boards.greenhouse.io/10xgenomics/jobs/5543155",
         "locations": [
             "Pleasanton, CA"
         ],
         "company_url": "https://simplify.jobs/c/10x-Genomics",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1701651524,
+        "url": "https://jobs.lever.co/boringcompany/2e50dd54-0f2e-42a7-b08d-622ff62e22e8",
+        "company_name": "The Boring Company",
+        "title": "Software Engineering - Intern",
+        "locations": [
+            "Las Vegas, NV"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "vanshb03",
+        "id": "64dbd004-47c8-4077-a5ce-08906658b0b5",
+        "date_posted": 1701651524,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1701651574,
+        "url": "https://boards.greenhouse.io/chanzuckerbergbiohubinternship/jobs/4336495005",
+        "company_name": "Chan Zuckerberg Biohub",
+        "title": "Undergraduate Software Engineer, Data Science and ML Internship",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "JoOkuma",
+        "id": "d466395a-1186-4c86-8202-fbc815d5d663",
+        "date_posted": 1701651574,
+        "company_url": "",
+        "is_visible": true
     }
 ]
