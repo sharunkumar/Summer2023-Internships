@@ -640,12 +640,12 @@
         "terms": [
             "Summer 2024"
         ],
-        "active": true,
+        "active": false,
         "url": "https://drw.com/work-at-drw/listings/software-developer-intern-2567189",
         "is_visible": true,
         "source": "Markdown",
         "company_url": "https://simplify.jobs/c/DRW",
-        "date_updated": 1690430400,
+        "date_updated": 1702178079,
         "id": "3e2f70ad-e3ba-4744-88a0-6efd71b7de71",
         "sponsorship": "Other"
     },
@@ -1177,14 +1177,14 @@
         "terms": [
             "Summer 2024"
         ],
-        "active": true,
+        "active": false,
         "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/details/XMLNAME-2024-Summer-Corporate-Intern---Engineering_R0000211130?q=Engineering",
         "is_visible": true,
         "source": "Markdown",
         "company_url": "",
-        "date_updated": 1690430400,
+        "date_updated": 1702178293,
         "id": "55562ea5-ece4-420a-b6f8-f10d0c743360",
-        "sponsorship": "Offers Sponsorship"
+        "sponsorship": "Other"
     },
     {
         "source": "Simplify",
@@ -3701,14 +3701,14 @@
         "terms": [
             "Summer 2024"
         ],
-        "active": true,
+        "active": false,
         "url": "https://www.deshaw.com/careers/systems-technical-program-manager-intern-new-york-summer-2024-4786",
         "is_visible": true,
         "source": "Markdown",
         "company_url": "",
-        "date_updated": 1690430400,
+        "date_updated": 1702178613,
         "id": "2585c5f8-f18a-451e-8510-0553aeaa363b",
-        "sponsorship": "Offers Sponsorship"
+        "sponsorship": "Other"
     },
     {
         "company_name": "D.E. Shaw",
@@ -4839,7 +4839,7 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1699213400,
+        "date_updated": 1702179000,
         "url": "https://www.geckorobotics.com/careers/apply?gh_jid=5695257003",
         "locations": [
             "Boston, MA"
@@ -4992,14 +4992,14 @@
         "terms": [
             "Summer 2024"
         ],
-        "active": true,
+        "active": false,
         "url": "https://www.pepsicojobs.com/internshipsprograms/jobs/241240?lang=en-us&previousLocale=en-US",
         "is_visible": true,
         "source": "Markdown",
         "company_url": "",
-        "date_updated": 1690862400,
+        "date_updated": 1702179170,
         "id": "d7af47e2-6f11-41b5-aeed-8fa831a72163",
-        "sponsorship": "Does Not Offer Sponsorship"
+        "sponsorship": "Other"
     },
     {
         "company_name": "US Bank",
@@ -5335,14 +5335,14 @@
         "terms": [
             "Summer 2024"
         ],
-        "active": true,
+        "active": false,
         "url": "https://ge.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/GE-Aerospace-Systems-Engineering-Intern---Summer-2024_R3696296-1",
         "is_visible": true,
         "source": "Markdown",
         "company_url": "",
-        "date_updated": 1690862400,
+        "date_updated": 1702178734,
         "id": "ea82c851-0efd-4cf9-87a7-3318a7d5823e",
-        "sponsorship": "Offers Sponsorship"
+        "sponsorship": "Other"
     },
     {
         "company_name": "New York Life",
@@ -6731,7 +6731,7 @@
         "sponsorship": "Offers Sponsorship"
     },
     {
-        "date_updated": 1691256114,
+        "date_updated": 1702177925,
         "url": "https://www.tesla.com/careers/search/job/cell-manufacturing-controls-and-software-automation-engineering-internship-spring-summer-2024-206610",
         "company_name": "Tesla",
         "title": "Software Automation Engineering Intern - Cell Manufacturing",
@@ -6742,13 +6742,13 @@
             "Spring 2024",
             "Summer 2024"
         ],
-        "active": true,
+        "active": false,
         "source": "RiRah123",
         "id": "674db0df-ee78-49c8-a161-0c2bc0378d62",
         "date_posted": 1691256114,
         "company_url": "",
         "is_visible": true,
-        "sponsorship": "Offers Sponsorship"
+        "sponsorship": "Other"
     },
     {
         "date_updated": 1701989688,
@@ -44611,7 +44611,7 @@
         "company_name": "Kitware",
         "id": "972aaf2e-6024-46ba-bc91-de6d90cd5724",
         "title": "Full Stack Web Developer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -44630,7 +44630,7 @@
         "company_name": "Kitware",
         "id": "15ebe41f-9748-4f3f-9b97-d8887fc09db0",
         "title": "Full Stack Web Developer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
