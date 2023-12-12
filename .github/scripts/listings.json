@@ -25886,7 +25886,7 @@
         "company_name": "Visa",
         "id": "11ea6661-efdf-4934-90c6-db717e02ebf0",
         "title": "Intern/Placement Software Engineer months",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -29699,7 +29699,7 @@
         "company_name": "DRW",
         "id": "1d558fe7-a75e-4744-a599-595d9e427d58",
         "title": "Accounts Payable Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -32595,7 +32595,7 @@
         "company_name": "Vectra",
         "id": "d465e0ea-1f77-414c-b227-142e0bbcdbfd",
         "title": "Data Engineering Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -35448,7 +35448,7 @@
         "company_name": "Shamrock Trading",
         "id": "18dc861b-4f2e-4c50-9b90-e903ef90ea49",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -44083,14 +44083,14 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1701908620,
+        "date_updated": 1702342907,
         "date_posted": 1701908620,
         "url": "https://boards.greenhouse.io/thebrattlegroup/jobs/4325755005",
         "locations": [
             "Washington, DC"
         ],
         "company_url": "https://simplify.jobs/c/TheBrattleGroup",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -44102,14 +44102,14 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1701908620,
+        "date_updated": 1702342938,
         "date_posted": 1701908620,
         "url": "https://boards.greenhouse.io/thebrattlegroup/jobs/4325767005",
         "locations": [
             "Washington, DC"
         ],
         "company_url": "https://simplify.jobs/c/TheBrattleGroup",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -44121,14 +44121,14 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1701908619,
+        "date_updated": 1702342968,
         "date_posted": 1701908619,
         "url": "https://boards.greenhouse.io/thebrattlegroup/jobs/4325765005",
         "locations": [
             "Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/TheBrattleGroup",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -44387,14 +44387,14 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1701994509,
+        "date_updated": 1702342854,
         "date_posted": 1701994509,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Internship---Radar-Signal-Processing-Engineer_R-00124119",
         "locations": [
             "Huntsville, AL"
         ],
         "company_url": "https://simplify.jobs/c/Leidos",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -44653,14 +44653,14 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1702081073,
+        "date_updated": 1702342604,
         "date_posted": 1702081073,
         "url": "https://jobs.lever.co/tri/10c7e756-5d60-48ae-b78e-eefc8b4a5d45/apply",
         "locations": [
             "Mountain View, CA"
         ],
         "company_url": "https://simplify.jobs/c/Toyota-Research-Institute",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -44712,14 +44712,14 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1702080777,
+        "date_updated": 1702342756,
         "date_posted": 1702080777,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Electronic-Warfare-Modeling---Simulation-Intern---Summer-2024_R-00124770",
         "locations": [
             "Huntsville, AL"
         ],
         "company_url": "https://simplify.jobs/c/Leidos",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -44750,14 +44750,14 @@
         "terms": [
             "Summer 2023"
         ],
-        "date_updated": 1702080394,
+        "date_updated": 1702342714,
         "date_posted": 1702080394,
         "url": "https://boards.greenhouse.io/recursionpharmaceuticals/jobs/5558224",
         "locations": [
             "Salt Lake City, UT"
         ],
         "company_url": "https://simplify.jobs/c/RecursionPharma",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
