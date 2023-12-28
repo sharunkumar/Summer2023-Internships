@@ -19563,7 +19563,7 @@
         "company_name": "Activision-Blizzard",
         "id": "733ab333-6e2d-4ea5-b02f-65d91a57a570",
         "title": "2024 US Summer Internship - Computer Graphics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -36011,7 +36011,7 @@
         "company_name": "Trace3",
         "id": "67f5a7a8-7d94-44e6-8277-18c824902697",
         "title": "AI Program Intern - Hybrid",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -36581,7 +36581,7 @@
         "company_name": "Blizzard Entertainment",
         "id": "01774b33-56d0-498b-b886-e7a30bb8a2a1",
         "title": "2024 US Summer Internship - Analytics & Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -45656,14 +45656,14 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1702664278,
+        "date_updated": 1703728541,
         "date_posted": 1702664278,
         "url": "https://jobs.lever.co/MBRDNA/b03d87fb-cc99-4717-993c-ef08a6c5a0a8/apply",
         "locations": [
             "Southfield, MI"
         ],
         "company_url": "https://simplify.jobs/c/Mercedes-Benz",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -46058,14 +46058,14 @@
         "terms": [
             "Summer 2023"
         ],
-        "date_updated": 1702918559,
+        "date_updated": 1703728513,
         "date_posted": 1702918559,
         "url": "https://boards.greenhouse.io/auroraur/jobs/5408169002",
         "locations": [
             "Remote"
         ],
         "company_url": "https://simplify.jobs/c/Aurora-University",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -46187,7 +46187,7 @@
         "company_name": "Intel",
         "id": "5fbb5c45-bda1-4f2b-ac01-a1336d1a56b7",
         "title": "Undergraduate Intern Technical",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -46651,14 +46651,14 @@
             "Spring 2025",
             "Summer 2025"
         ],
-        "date_updated": 1703118518,
+        "date_updated": 1703728475,
         "date_posted": 1703118518,
         "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--Multi-Physics-Convergence_23WD74001-1",
         "locations": [
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Autodesk",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -46670,14 +46670,14 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1703118518,
+        "date_updated": 1703728443,
         "date_posted": 1703118518,
         "url": "https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/Milwaukee-WI/Construction-Project-Management-Intern_3039",
         "locations": [
             "Milwaukee, WI"
         ],
         "company_url": "https://simplify.jobs/c/Badger-Meter",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -46770,14 +46770,14 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1703118123,
+        "date_updated": 1703728421,
         "date_posted": 1703118123,
         "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-us/crowdstrikecareers/job/United-Kingdom---Remote/Professional-Services-Red-Team-Intern---Summer-2024--Remote--GBR-_R15470",
         "locations": [
             "Remote"
         ],
         "company_url": "https://simplify.jobs/c/Crowdstrike",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -46846,14 +46846,14 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1703176780,
+        "date_updated": 1703728336,
         "date_posted": 1703176780,
         "url": "https://boards.greenhouse.io/capstoneinvestmentadvisors/jobs/7072543002",
         "locations": [
             "Cambridge, MA"
         ],
         "company_url": "https://simplify.jobs/c/CapstoneCo",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -47169,11 +47169,11 @@
         "company_name": "Intel",
         "id": "ae6021ec-997a-43c3-bf16-6e36e0fe3bcf",
         "title": "Signal integrity intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1703204439,
+        "date_updated": 1703728280,
         "date_posted": 1703204439,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Signal-integrity-intern_JR0254827-1",
         "locations": [
@@ -47181,7 +47181,7 @@
             "Hillsboro, OR"
         ],
         "company_url": "https://simplify.jobs/c/Intel",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -47193,14 +47193,14 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1703204438,
+        "date_updated": 1703728311,
         "date_posted": 1703204438,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Folsom/Graduate-Intern_JR0254857",
         "locations": [
             "Folsom, CA"
         ],
         "company_url": "https://simplify.jobs/c/Intel",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -47231,14 +47231,14 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1703263272,
+        "date_updated": 1703728201,
         "date_posted": 1703263272,
         "url": "https://jibble-group.breezy.hr/p/5f725781f61601/apply",
         "locations": [
             "Remote"
         ],
         "company_url": "https://simplify.jobs/c/Jibble",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -47269,7 +47269,7 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1703291137,
+        "date_updated": 1703728116,
         "date_posted": 1703291137,
         "url": "https://jobs.smartrecruiters.com/RocketInternet/743999952225533",
         "locations": [
@@ -47277,7 +47277,7 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Rocket-Internet",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -47405,14 +47405,14 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1703290549,
+        "date_updated": 1703728240,
         "date_posted": 1703290549,
         "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-us/crowdstrikecareers/job/USA---Remote/TAC-Malware-Triage-Intern-Summer-2024--Remote-_R15486",
         "locations": [
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Crowdstrike",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -47539,14 +47539,14 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1703636003,
+        "date_updated": 1703728044,
         "date_posted": 1703636003,
         "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Austin-Texas-United-States-of-America/Audio-Development-Intern_UNIV810-1",
         "locations": [
             "Austin, TX"
         ],
         "company_url": "https://simplify.jobs/c/Hewlett-Packard",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -47558,14 +47558,14 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1703635845,
+        "date_updated": 1703728085,
         "date_posted": 1703635845,
         "url": "https://boards.greenhouse.io/embed/job_app?token=5500639",
         "locations": [
             "Remote"
         ],
         "company_url": "https://simplify.jobs/c/Dropbox",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -47600,6 +47600,121 @@
             "Illinois"
         ],
         "company_url": "https://simplify.jobs/c/Dropbox",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Opendoor",
+        "id": "2bd9f24b-a997-44d1-b08e-1047d7b3f57d",
+        "title": "Intern \u2013 Data Scientist",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1703722428,
+        "date_posted": 1703722428,
+        "url": "https://boards.greenhouse.io/opendoor/jobs/4300944006",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Opendoor",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "ada6584f-86e5-44ce-9aef-6f3aec86e996",
+        "title": "Solutions Architect Intern - Cybersecurity AI - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1703722292,
+        "date_posted": 1703722292,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Solutions-Architect-Intern--Cybersecurity-AI---Summer-2024_JR1977102",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "F5",
+        "id": "0d6491fd-943d-48da-8ec6-c8324d5323bb",
+        "title": "Software Engineering Intern - Boulder",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1703722307,
+        "date_posted": 1703722307,
+        "url": "https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/Boulder-Louisville/Software-Engineering-Intern--Boulder-_RP1029693-1",
+        "locations": [
+            "Boulder, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/f5",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Two Six Technologies",
+        "id": "6cc6740e-d5bf-4f69-bb1d-05cc5751c521",
+        "title": "Skillbridge Internship - Tsc",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1703722315,
+        "date_posted": 1703722315,
+        "url": "https://boards.greenhouse.io/twosixtechnologies/jobs/4929653004",
+        "locations": [
+            "Odenton, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Two-Six-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intel",
+        "id": "d9edb697-8845-43d1-9323-ee0fbdef7d36",
+        "title": "Data Platforms Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1703722293,
+        "date_posted": 1703722293,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-US/Data-Platforms-Engineering-Intern_JR0254954",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "e485bd5c-6839-4b49-afd7-b38cd0f90df5",
+        "title": "Data Analyst Intern - Developer Programs - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1703722291,
+        "date_posted": 1703722291,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Data-Analyst-Intern--Developer-Programs---Summer-2024_JR1977413-1",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
         "is_visible": true,
         "sponsorship": "Other"
     }
