@@ -679,14 +679,14 @@
         "terms": [
             "Summer 2024"
         ],
-        "active": true,
+        "active": false,
         "url": "https://drw.com/work-at-drw/listings/quantitative-trading-analyst-intern-2551092",
         "is_visible": true,
         "source": "Markdown",
         "company_url": "https://simplify.jobs/c/DRW",
-        "date_updated": 1690430400,
+        "date_updated": 1703804163,
         "id": "b05a3024-c9e6-4f3e-8608-54863f5b750d",
-        "sponsorship": "Offers Sponsorship"
+        "sponsorship": "Other"
     },
     {
         "company_name": "BNP",
@@ -11278,7 +11278,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1692975094,
+        "date_updated": 1703804905,
         "url": "https://careers.sysco.com/jobs/R120545?lang=en-us&source=Indeed+Organic",
         "company_name": "Sysco",
         "title": "Software Dev Engineer Intern",
@@ -11288,8 +11288,8 @@
         "terms": [
             "Summer 2024"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "hemanthy1",
         "id": "94ccd539-346f-4fc2-ad06-732d1f3ec52e",
         "date_posted": 1692975094,
@@ -11528,7 +11528,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1693101556,
+        "date_updated": 1703804865,
         "url": "https://jobs.bnsf.com/us/en/job/90821/Technology-Services-Summer-Intern-2024",
         "company_name": "BNSF",
         "title": "Technology Services Intern",
@@ -11538,8 +11538,8 @@
         "terms": [
             "Summer 2024"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "dxiao01",
         "id": "6e4000d4-259e-426c-acf5-5c7a824419aa",
         "date_posted": 1693101556,
@@ -12311,7 +12311,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1693322235,
+        "date_updated": 1703804492,
         "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/details/XMLNAME-2024-Summer-Corporate-Intern---Digital-and-Analytics_R0000218882-1?q=Summer+2024",
         "company_name": "Caterpillar",
         "title": "Digital & Analytics Intern",
@@ -12325,8 +12325,8 @@
         "terms": [
             "Summer 2024"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "Aleque2023",
         "id": "a19b34e2-2fb3-4cf3-8a38-4c8130abcdb3",
         "date_posted": 1693322235,
@@ -12453,7 +12453,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1693347170,
+        "date_updated": 1703804571,
         "url": "https://jobs.dropbox.com/listing/5265677",
         "company_name": "Dropbox",
         "title": "Software Engineering Intern (Summer 2024)",
@@ -12465,7 +12465,7 @@
             "Summer 2024"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "mtlogs",
         "id": "b5981dc4-3937-49e7-a0c8-dec8a29ce9dc",
         "date_posted": 1693347170,
@@ -24902,7 +24902,7 @@
         "company_name": "Bridgewater Associates",
         "id": "328683e6-519f-4e0c-97c1-5237c57176cd",
         "title": "Investment Engineer Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -24940,7 +24940,7 @@
         "company_name": "Optiver",
         "id": "4cb3632f-a207-48af-bfef-bb5be6642d3f",
         "title": "Campus: Software Engineer Intern - Summer 2024 - Austin",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -25035,7 +25035,7 @@
         "company_name": "Optiver",
         "id": "1c0a9a89-a534-4246-8d4b-bf08b4728317",
         "title": "Campus: Quantitative Trader Intern - Summer 2024 - Chicago",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -44402,7 +44402,7 @@
         "company_name": "Leidos",
         "id": "6ae78601-5347-4a28-b1f4-5b7b8ef52435",
         "title": "Engineering Intern Summer 2024 - Aerospace - Computer Science - AI/ML",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -44421,7 +44421,7 @@
         "company_name": "Leidos",
         "id": "da731157-e76d-450a-8cda-aa79d60c0afc",
         "title": "Intern: Modeling & Simulation Engineer or Analyst or Software Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -44440,7 +44440,7 @@
         "company_name": "Leidos",
         "id": "7f1e84ed-3f9a-4004-93b3-690af124932a",
         "title": "Summer 2024 Intern - Reverse Engineering & Vulnerability Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -44459,7 +44459,7 @@
         "company_name": "Leidos",
         "id": "197b2e3c-69d0-4968-b1d6-64f80c27cd40",
         "title": "Engineering Intern Summer 2024 - Aerospace - Computer Science - AI/ML",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -45149,7 +45149,7 @@
         "company_name": "SentinelOne",
         "id": "498523e4-a86d-4f98-8a57-ecc92c9d3c2d",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -47344,7 +47344,7 @@
         "company_name": "Cohesity",
         "id": "6a02fd61-a473-4c48-97ea-23f75b462ff6",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -47627,7 +47627,7 @@
         "company_name": "NVIDIA",
         "id": "ada6584f-86e5-44ce-9aef-6f3aec86e996",
         "title": "Solutions Architect Intern - Cybersecurity AI - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
