@@ -4519,7 +4519,7 @@
         "company_name": "Capital One",
         "id": "8ab08bfa-385b-4471-886e-4556b58a962f",
         "title": "Cyber Security Internship Program",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -11320,7 +11320,7 @@
         "company_name": "Nutanix",
         "id": "b5ec12d2-4310-460a-9dde-f44dfe75363d",
         "title": "Software Engineering Intern - Undergraduates Only",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2024",
             "Summer 2024"
@@ -18668,7 +18668,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "75aeb815-9001-4251-a70f-a1af246de451",
         "title": "Job Description HP Inc. Workforce Services & Solutions Technical Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -20880,7 +20880,7 @@
         "company_name": "Lucid Motors",
         "id": "63f05467-7efe-447a-bee7-a39212548119",
         "title": "Intern \u2013 Bootloader Embedded Engineer - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -23750,7 +23750,7 @@
         "company_name": "Zoox",
         "id": "47a60c50-ae4a-4835-aeb8-7b194afe5676",
         "title": "Autonomy Insights \u2013 Data Science/Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -25462,7 +25462,7 @@
         "company_name": "Zoox",
         "id": "5d8e063a-563e-4df0-becf-77d5b8965ea7",
         "title": "Manufacturing Operations \u2013 Technical Program Manager Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -29661,7 +29661,7 @@
         "company_name": "Centerfield",
         "id": "6149828d-4c1f-441a-ada1-7a25554b7cb0",
         "title": "Software Engineer Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -36581,7 +36581,7 @@
         "company_name": "Blizzard Entertainment",
         "id": "01774b33-56d0-498b-b886-e7a30bb8a2a1",
         "title": "2024 US Summer Internship - Analytics & Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -37834,7 +37834,7 @@
         "company_name": "Pathward",
         "id": "dbb4cfd2-b593-47c6-821d-026b4653897e",
         "title": "Data Scientist Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -42882,7 +42882,7 @@
         "company_name": "Leidos",
         "id": "3c876a48-8057-4089-bd88-8382c1ebbae5",
         "title": "Electronic Warfare Modeling & Simulation Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -43380,7 +43380,7 @@
         "company_name": "Chewie Labs",
         "id": "4b7a1568-5971-4eb8-a1f0-064d217c2236",
         "title": "Software Development Engineer in Test Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -45592,7 +45592,7 @@
         "company_name": "D2L",
         "id": "e17c6cca-fd6f-416c-8757-f711f8286ceb",
         "title": "Product Support Analyst Winter 2024 Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -48402,14 +48402,14 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1704327824,
+        "date_updated": 1704423521,
         "date_posted": 1704327824,
         "url": "https://careers.strategichrinc.com/job-application/?gh_jid=5848395003",
         "locations": [
             "Cincinnati, OH"
         ],
         "company_url": "https://simplify.jobs/c/Strategic-HR",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -48497,14 +48497,14 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1704356474,
+        "date_updated": 1704423507,
         "date_posted": 1704356474,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Server-BIOS-Firmware-Engineer---Internship_JR0254825",
         "locations": [
             "Hillsboro, OR"
         ],
         "company_url": "https://simplify.jobs/c/Intel",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -48516,7 +48516,7 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1704385239,
+        "date_updated": 1704423473,
         "date_posted": 1704385239,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-NY-New-York/Applied-Research-Intern--Strategic-Partnerships---Summer-2024_JR1976232",
         "locations": [
@@ -48524,6 +48524,254 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": false,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1704423745,
+        "url": "https://careers.ll.mit.edu/job/Lexington-Group-01-Summer-Research-Program-Intern-%28Artificial-Intelligence-Technology%29-MA-02420/1109281200/",
+        "company_name": "MIT Lincoln Laboratory",
+        "title": "Summer Intern (Artificial Intelligence Technology)",
+        "locations": [
+            "Lexington, MA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "Willy-Chan",
+        "id": "e408f772-3f6d-4518-9e2c-f412c5524c43",
+        "date_posted": 1704423745,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1704424262,
+        "url": "https://careers.ll.mit.edu/job/Lexington-Group-38-Summer-Research-Program-Intern-%28Interceptor-and-Sensor-Technology%29-MA-02420/1082688900/",
+        "company_name": "MIT LL",
+        "title": "Summer Intern - Interceptor and Sensor Technology",
+        "locations": [
+            "Lexington, MA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "Willy-Chan",
+        "id": "d95909ef-527c-44a6-b4b8-0a5a311b32de",
+        "date_posted": 1704424262,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1704424321,
+        "url": "https://careers.ll.mit.edu/job/Lexington-Group-39-Summer-Research-Program-Intern-%28Advanced-Concepts-and-Technologies%29-MA-02420/1094633200/",
+        "company_name": "MIT LL",
+        "title": "Summer Intern - Electronic Warfare",
+        "locations": [
+            "Lexington, MA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "Willy-Chan",
+        "id": "a105c8b2-ee0d-4d08-ada6-cec32bfe2288",
+        "date_posted": 1704424321,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1704424414,
+        "url": "https://careers.ll.mit.edu/job/Lexington-Group-37-Summer-Research-Program-Intern-%28Advanced-Undersea-Systems-and-Technology%29-MA-02420/1099074900/",
+        "company_name": "MIT LL",
+        "title": "Summer Intern - Advanced Undersea Systems and Technology",
+        "locations": [
+            "Lexington, MA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "Willy-Chan",
+        "id": "b3a9625f-6c1e-4a00-92ca-d9a78228bf31",
+        "date_posted": 1704424414,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1704424519,
+        "url": "https://careers.ll.mit.edu/job/Lexington-Group-43-Summer-Research-Program-Intern-Air-Traffic-Control-Systems%29-MA-02420/1113651900/",
+        "company_name": "MIT LL",
+        "title": "Summe Intern - Air Traffic Control Software",
+        "locations": [
+            "Lexington, MA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "Willy-Chan",
+        "id": "09dc93de-d726-409d-bce0-e4827dd1d197",
+        "date_posted": 1704424519,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1704424604,
+        "url": "https://careers.ll.mit.edu/job/Lexington-Super-Computing-Center-Summer-Research-Program-Intern-MA-02420/1103288700/",
+        "company_name": "MIT LL",
+        "title": "Super Computing Center-Summer Intern",
+        "locations": [
+            "Lexington, MA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "Willy-Chan",
+        "id": "0c60113d-9191-46b1-85a0-9123e336ef49",
+        "date_posted": 1704424604,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Formlabs",
+        "id": "e1e7839b-cf45-4b81-8088-7b5c3a4f0fd4",
+        "title": "Algorithms Software Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1704414222,
+        "date_posted": 1704414222,
+        "url": "https://careers.formlabs.com/job/5494878/apply/?gh_jid=5494878",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Formlabs",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Applied Materials",
+        "id": "e717cbaf-e442-4241-912c-abf9ae589dc6",
+        "title": "2024 Spring AI ML Co-op - Gloucester",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1704414175,
+        "date_posted": 1704414175,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2023-Fall-AI-ML-Co-op--Gloucester-_R2316281-1",
+        "locations": [
+            "Essex County, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/AMAT",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Kinaxis",
+        "id": "41619f69-e976-4482-b335-5e0f635c1381",
+        "title": "Co-Op/Intern Developer - Clients - Front End Technologies",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1704413988,
+        "date_posted": 1704413988,
+        "url": "https://boards.greenhouse.io/kinaxis/jobs/7082707002",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Kinaxis",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Boring Company",
+        "id": "a4ef2f82-6586-42b5-ac39-2e83618d1d46",
+        "title": "Software Engineering Intern - Winter/Spring 2024",
+        "active": true,
+        "terms": [
+            "Winter 2024",
+            "Spring 2024"
+        ],
+        "date_updated": 1704413959,
+        "date_posted": 1704413959,
+        "url": "https://jobs.lever.co/boringcompany/76b5979f-ffb6-4b59-b639-7adb2237c068/apply",
+        "locations": [
+            "Bastrop, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Boring-Company",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Boring Company",
+        "id": "bac46378-921d-431e-a43a-5ad195a874a0",
+        "title": "Software Engineering Intern - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1704413958,
+        "date_posted": 1704413958,
+        "url": "https://jobs.lever.co/boringcompany/8a8147f3-855d-4bd6-8221-a65a4291fea3/apply",
+        "locations": [
+            "Bastrop, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Boring-Company",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "MasterControl",
+        "id": "f66257ff-7f38-4c63-b167-82fc44d043bc",
+        "title": "Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1704413377,
+        "date_posted": 1704413377,
+        "url": "https://www.mastercontrol.com/careers/job-listings/role/?role=4354178005&gh_jid=4354178005",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/MasterControl",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Harry's",
+        "id": "2a40a975-e107-403a-910f-c60331b3471f",
+        "title": "R&D Product Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1704413140,
+        "date_posted": 1704413140,
+        "url": "https://boards.greenhouse.io/harrys/jobs/5601335",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Harrys",
         "is_visible": true,
         "sponsorship": "Other"
     }
