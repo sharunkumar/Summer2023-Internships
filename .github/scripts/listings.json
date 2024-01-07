@@ -352,14 +352,14 @@
         "terms": [
             "Summer 2024"
         ],
-        "active": true,
+        "active": false,
         "url": "https://www.careers.zurich.com/job/Schaumburg-Zurich-North-America-Summer-Internship-Program-%282024%29-IL-60159/774993902/",
         "is_visible": true,
         "source": "Markdown",
         "company_url": "",
-        "date_updated": 1690430400,
+        "date_updated": 1704579820,
         "id": "a179283d-f5d8-4bcf-8718-d403d6c8bb2a",
-        "sponsorship": "Does Not Offer Sponsorship"
+        "sponsorship": "Other"
     },
     {
         "company_name": "PwC",
@@ -24902,7 +24902,7 @@
         "company_name": "Bridgewater Associates",
         "id": "328683e6-519f-4e0c-97c1-5237c57176cd",
         "title": "Investment Engineer Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -24940,7 +24940,7 @@
         "company_name": "Optiver",
         "id": "4cb3632f-a207-48af-bfef-bb5be6642d3f",
         "title": "Campus: Software Engineer Intern - Summer 2024 - Austin",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -25035,7 +25035,7 @@
         "company_name": "Optiver",
         "id": "1c0a9a89-a534-4246-8d4b-bf08b4728317",
         "title": "Campus: Quantitative Trader Intern - Summer 2024 - Chicago",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -35950,7 +35950,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1698863292,
+        "date_updated": 1704579578,
         "url": "https://careers-cnhind.icims.com/jobs/25064/job",
         "company_name": "CNH",
         "title": "Software Engineer, Intern - Summer 2024",
@@ -35960,8 +35960,8 @@
         "terms": [
             "Summer 2024"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "VitaliPri",
         "id": "db9a7323-a862-411e-9cea-1cce542f67a9",
         "date_posted": 1698863292,
@@ -36406,7 +36406,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1698906117,
+        "date_updated": 1704579700,
         "url": "https://jobs.gecareers.com/healthcare/global/en/job/R3730882/MR-Application-PSD-Development-Engineer-Internship",
         "company_name": "GE",
         "title": "MR Application/PSD Development Engineer",
@@ -36416,8 +36416,8 @@
         "terms": [
             "Summer 2024"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "VitaliPri",
         "id": "117ef068-9a13-4ed8-a467-91e0420b1693",
         "date_posted": 1698906117,
