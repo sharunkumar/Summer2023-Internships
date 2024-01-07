@@ -19563,7 +19563,7 @@
         "company_name": "Activision-Blizzard",
         "id": "733ab333-6e2d-4ea5-b02f-65d91a57a570",
         "title": "2024 US Summer Internship - Computer Graphics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -48547,7 +48547,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1704424262,
+        "date_updated": 1704592745,
         "url": "https://careers.ll.mit.edu/job/Lexington-Group-38-Summer-Research-Program-Intern-%28Interceptor-and-Sensor-Technology%29-MA-02420/1082688900/",
         "company_name": "MIT LL",
         "title": "Summer Intern - Interceptor and Sensor Technology",
@@ -48557,16 +48557,16 @@
         "terms": [
             "Summer 2024"
         ],
-        "sponsorship": "Offers Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "Willy-Chan",
         "id": "d95909ef-527c-44a6-b4b8-0a5a311b32de",
         "date_posted": 1704424262,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
-        "date_updated": 1704424321,
+        "date_updated": 1704592728,
         "url": "https://careers.ll.mit.edu/job/Lexington-Group-39-Summer-Research-Program-Intern-%28Advanced-Concepts-and-Technologies%29-MA-02420/1094633200/",
         "company_name": "MIT LL",
         "title": "Summer Intern - Electronic Warfare",
@@ -48576,16 +48576,16 @@
         "terms": [
             "Summer 2024"
         ],
-        "sponsorship": "Offers Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "Willy-Chan",
         "id": "a105c8b2-ee0d-4d08-ada6-cec32bfe2288",
         "date_posted": 1704424321,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
-        "date_updated": 1704424414,
+        "date_updated": 1704592701,
         "url": "https://careers.ll.mit.edu/job/Lexington-Group-37-Summer-Research-Program-Intern-%28Advanced-Undersea-Systems-and-Technology%29-MA-02420/1099074900/",
         "company_name": "MIT LL",
         "title": "Summer Intern - Advanced Undersea Systems and Technology",
@@ -48595,16 +48595,16 @@
         "terms": [
             "Summer 2024"
         ],
-        "sponsorship": "Offers Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "Willy-Chan",
         "id": "b3a9625f-6c1e-4a00-92ca-d9a78228bf31",
         "date_posted": 1704424414,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
-        "date_updated": 1704424519,
+        "date_updated": 1704592683,
         "url": "https://careers.ll.mit.edu/job/Lexington-Group-43-Summer-Research-Program-Intern-Air-Traffic-Control-Systems%29-MA-02420/1113651900/",
         "company_name": "MIT LL",
         "title": "Summe Intern - Air Traffic Control Software",
@@ -48614,13 +48614,13 @@
         "terms": [
             "Summer 2024"
         ],
-        "sponsorship": "Offers Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "Willy-Chan",
         "id": "09dc93de-d726-409d-bce0-e4827dd1d197",
         "date_posted": 1704424519,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1704424604,
@@ -48765,14 +48765,14 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1704413140,
+        "date_updated": 1704592779,
         "date_posted": 1704413140,
         "url": "https://boards.greenhouse.io/harrys/jobs/5601335",
         "locations": [
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Harrys",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -48822,14 +48822,14 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1704471482,
+        "date_updated": 1704592611,
         "date_posted": 1704471482,
         "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/EDINBURGH-01/Intern_R44949",
         "locations": [
             "Edinburgh, UK"
         ],
         "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -48937,14 +48937,14 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1704499554,
+        "date_updated": 1704592653,
         "date_posted": 1704499554,
         "url": "https://boards.greenhouse.io/harrys/jobs/5602515",
         "locations": [
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Harrys",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     }
 ]
