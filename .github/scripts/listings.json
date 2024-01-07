@@ -19563,7 +19563,7 @@
         "company_name": "Activision-Blizzard",
         "id": "733ab333-6e2d-4ea5-b02f-65d91a57a570",
         "title": "2024 US Summer Internship - Computer Graphics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -24902,7 +24902,7 @@
         "company_name": "Bridgewater Associates",
         "id": "328683e6-519f-4e0c-97c1-5237c57176cd",
         "title": "Investment Engineer Intern - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -24940,7 +24940,7 @@
         "company_name": "Optiver",
         "id": "4cb3632f-a207-48af-bfef-bb5be6642d3f",
         "title": "Campus: Software Engineer Intern - Summer 2024 - Austin",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -25035,7 +25035,7 @@
         "company_name": "Optiver",
         "id": "1c0a9a89-a534-4246-8d4b-bf08b4728317",
         "title": "Campus: Quantitative Trader Intern - Summer 2024 - Chicago",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -36581,7 +36581,7 @@
         "company_name": "Blizzard Entertainment",
         "id": "01774b33-56d0-498b-b886-e7a30bb8a2a1",
         "title": "2024 US Summer Internship - Analytics & Data Science",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -38979,7 +38979,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1700259061,
+        "date_updated": 1704627067,
         "url": "https://boards.greenhouse.io/scm/jobs/721895",
         "company_name": "Stevens Capital Management",
         "title": "Quantitative Research Analyst Internship",
@@ -38989,8 +38989,8 @@
         "terms": [
             "Summer 2024"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "yan-michael",
         "id": "4e59da15-b1b8-4022-b3b3-a75be6a906cf",
         "date_posted": 1700259061,
@@ -45790,14 +45790,14 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1702890891,
+        "date_updated": 1704621196,
         "date_posted": 1702890891,
         "url": "https://gen.wd1.myworkdayjobs.com/careers/job/USA---Arizona-Tempe/Business-Intelligence-Analyst-Intern_52805",
         "locations": [
             "Tempe, AZ"
         ],
         "company_url": "https://simplify.jobs/c/Gen",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -46630,14 +46630,14 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1703118893,
+        "date_updated": 1704627344,
         "date_posted": 1703118893,
         "url": "https://iex.io/careers/apply?gh_jid=5583621",
         "locations": [
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/IEX",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
