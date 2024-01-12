@@ -4519,7 +4519,7 @@
         "company_name": "Capital One",
         "id": "8ab08bfa-385b-4471-886e-4556b58a962f",
         "title": "Cyber Security Internship Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -24902,7 +24902,7 @@
         "company_name": "Bridgewater Associates",
         "id": "328683e6-519f-4e0c-97c1-5237c57176cd",
         "title": "Investment Engineer Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -24940,7 +24940,7 @@
         "company_name": "Optiver",
         "id": "4cb3632f-a207-48af-bfef-bb5be6642d3f",
         "title": "Campus: Software Engineer Intern - Summer 2024 - Austin",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -25035,7 +25035,7 @@
         "company_name": "Optiver",
         "id": "1c0a9a89-a534-4246-8d4b-bf08b4728317",
         "title": "Campus: Quantitative Trader Intern - Summer 2024 - Chicago",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -44330,14 +44330,14 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1701966041,
+        "date_updated": 1705021058,
         "date_posted": 1701966041,
         "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/EDINBURGH-01/Software-Intern_R44849",
         "locations": [
             "Edinburgh, UK"
         ],
         "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -45250,14 +45250,14 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1702489890,
+        "date_updated": 1705021001,
         "date_posted": 1702489890,
         "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Cambridge-Cambridgeshire-United-Kingdom/Software-Engineer-Intern--HP-Wolf-Security_3125478-2",
         "locations": [
             "Cambridge, UK"
         ],
         "company_url": "https://simplify.jobs/c/Hewlett-Packard",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -45923,14 +45923,14 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1702888789,
+        "date_updated": 1705020972,
         "date_posted": 1702888789,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Germany-Munich/Machine-Learning-Frameworks-Intern---f-m-d--_JR0253893-1",
         "locations": [
             "United Kingdom"
         ],
         "company_url": "https://simplify.jobs/c/Intel",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -46229,14 +46229,14 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1702945289,
+        "date_updated": 1705020912,
         "date_posted": 1702945289,
         "url": "https://boards.greenhouse.io/talos/jobs/5040783004",
         "locations": [
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Talos",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -46248,14 +46248,14 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1702945288,
+        "date_updated": 1705020947,
         "date_posted": 1702945288,
         "url": "https://boards.greenhouse.io/talos/jobs/5040905004",
         "locations": [
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Talos",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -47998,14 +47998,14 @@
         "terms": [
             "Summer 2023"
         ],
-        "date_updated": 1703923680,
+        "date_updated": 1705020851,
         "date_posted": 1703923680,
         "url": "https://boards.greenhouse.io/point72/jobs/7061105002",
         "locations": [
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Point72",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -48326,14 +48326,14 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1704298922,
+        "date_updated": 1705021144,
         "date_posted": 1704298922,
         "url": "https://boards.greenhouse.io/dataiku/jobs/5043269004",
         "locations": [
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Dataiku",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -48665,7 +48665,7 @@
         "company_name": "Applied Materials",
         "id": "e717cbaf-e442-4241-912c-abf9ae589dc6",
         "title": "2024 Spring AI ML Co-op - Gloucester",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -49634,7 +49634,7 @@
         "company_name": "Bose",
         "id": "f78fec3d-5f24-4a88-9495-1759238d11a5",
         "title": "Data Science Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024",
             "Spring 2024",
@@ -49869,14 +49869,14 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1704990148,
+        "date_updated": 1705020678,
         "date_posted": 1704990148,
         "url": "https://boards.greenhouse.io/thousandeyes/jobs/5615562",
         "locations": [
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/18d3f6d1-63da-4c67-8053-82ff504a582b",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
