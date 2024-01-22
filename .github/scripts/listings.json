@@ -19563,7 +19563,7 @@
         "company_name": "Activision-Blizzard",
         "id": "733ab333-6e2d-4ea5-b02f-65d91a57a570",
         "title": "2024 US Summer Internship - Computer Graphics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -49481,14 +49481,14 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1704874047,
+        "date_updated": 1705895992,
         "date_posted": 1704874047,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Power-Architect-Intern---Summer-2024_JR1974858-1",
         "locations": [
             "Santa Clara, CA"
         ],
         "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -49698,14 +49698,14 @@
             "Spring 2024",
             "Summer 2024"
         ],
-        "date_updated": 1704932130,
+        "date_updated": 1705895963,
         "date_posted": 1704932130,
         "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Clinical-Pharmacology-Sciences_R0039374",
         "locations": [
             "San Mateo, CA"
         ],
         "company_url": "https://simplify.jobs/c/Gilead-Sciences",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -51857,14 +51857,14 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1705651943,
+        "date_updated": 1705901706,
         "date_posted": 1705651943,
         "url": "https://www.okta.com/company/careers/opportunity/5626490?gh_jid=5626490",
         "locations": [
             "United States"
         ],
         "company_url": "https://simplify.jobs/c/Okta",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -52107,14 +52107,14 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1705709181,
+        "date_updated": 1705895939,
         "date_posted": 1705709181,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/743999961105723",
         "locations": [
             "Milpitas, CA"
         ],
         "company_url": "https://simplify.jobs/c/Western-Digital",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -52157,5 +52157,43 @@
         "company_url": "https://simplify.jobs/c/Uber",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1705901726,
+        "url": "https://jobs.intuit.com/job/-/-/27595/60092990192?cid=pjob_li_click_us_swe-fe-fy24_cn_text_job_intuit-talent&iis=pjob&iisn=li&p_sid=qmTTMDb&p_uid=QDTUVCgBkM&ss=paid&utm_campaign=&utm_content=pj_board&utm_medium=jobad",
+        "company_name": "Intuit",
+        "title": "Front-End Software Engineer Intern",
+        "locations": [
+            "San Diego, California"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "mananvijay7",
+        "id": "f34b20dd-2d80-4974-ab1d-2f1bf210f34b",
+        "date_posted": 1705901726,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1705901739,
+        "url": "https://jobs.intuit.com/job/-/-/27595/60136622192?cid=pjob_li_click_us_swe-other-fy24_cn_text_job_intuit-talent&iis=pjob&iisn=li&p_sid=7a3iV5b&p_uid=8XGyjPTdyc&ss=paid&utm_campaign=&utm_content=pj_board&utm_medium=jobad",
+        "company_name": "Intuit",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Atlanta, Georgia"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "mananvijay7",
+        "id": "1714d749-128b-4e93-9db3-a42053f111ba",
+        "date_posted": 1705901739,
+        "company_url": "",
+        "is_visible": true
     }
 ]
