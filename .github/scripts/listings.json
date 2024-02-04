@@ -24902,7 +24902,7 @@
         "company_name": "Bridgewater Associates",
         "id": "328683e6-519f-4e0c-97c1-5237c57176cd",
         "title": "Investment Engineer Intern - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -53471,7 +53471,7 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1706804022,
+        "date_updated": 1707028822,
         "date_posted": 1706804022,
         "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Indiana/Summer-Internship-2024---Platform-Software-Developer---Fort-Wayne--IN_R504861",
         "locations": [
@@ -53479,7 +53479,7 @@
         ],
         "company_url": "https://simplify.jobs/c/Stryker",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "Does Not Offer Sponsorship"
     },
     {
         "source": "Simplify",
@@ -55651,5 +55651,44 @@
         "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1707028836,
+        "url": "https://www.metsci.com/careers/join-our-team/?gh_jid=4079146007",
+        "company_name": "Metron",
+        "title": "Software Engineering Internship",
+        "locations": [
+            "Reston, VA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "AmolMendonca",
+        "id": "5f5cbfe5-3b83-4086-b927-99553d0a7365",
+        "date_posted": 1707028836,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1707028861,
+        "url": "https://ouryahoo.wd5.myworkdayjobs.com/careers/job/United-States-of-America---Remote/Yahoo-Summer-Intern--US----Sports--Finance--Mail---More-_JR0023139",
+        "company_name": "Yahoo",
+        "title": "Summer Intern (US) - Frontend, Backend, Mobile & more",
+        "locations": [
+            "Remote, US"
+        ],
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AmolMendonca",
+        "id": "446699f3-5479-45ba-8365-0ac00a8ade8b",
+        "date_posted": 1707028861,
+        "company_url": "",
+        "is_visible": true
     }
 ]
