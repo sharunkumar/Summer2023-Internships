@@ -58389,5 +58389,81 @@
         "company_url": "https://simplify.jobs/c/Intel",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1707699677,
+        "url": "https://jobs.lever.co/matchgroup/fcb2a66e-d921-4baa-b1dc-e6dcbe496a07",
+        "company_name": "Tinder",
+        "title": "Product Manager Intern",
+        "locations": [
+            "West Hollywood, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "dababyyeah99",
+        "id": "25ab45aa-8ae2-48f9-a928-c84424fec26b",
+        "date_posted": 1707699677,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1707699769,
+        "url": "https://careers.roberthalf.com/global/en/job/JR-252388/Software-Engineer-Virtual-Internship",
+        "company_name": "Robert Half",
+        "title": "Software Engineer Internship",
+        "locations": [
+            "Remote"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "orebitt",
+        "id": "a400a682-e044-400b-b4d8-2c4b1f10058e",
+        "date_posted": 1707699769,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1707699821,
+        "url": "https://careers-persistentsystems.icims.com/jobs/1899/intern---software-test-engineer-%28summer-2024%29/job",
+        "company_name": "Persistent Systems, LLC",
+        "title": "Intern - Software Test Engineer (Summer 2024)",
+        "locations": [
+            "New York, NY"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "SabrunTheDev",
+        "id": "374b0c7e-79bc-44f5-b4fc-381506486472",
+        "date_posted": 1707699821,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "52f4799f-3cf3-4b82-a5f6-acb8b105f310",
+        "title": "Performance Engineer Intern - Gaming - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1707696435,
+        "date_posted": 1707696435,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-MO-St-Louis/Performance-Engineer-Intern--Gaming---Summer-2024_JR1978283",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
