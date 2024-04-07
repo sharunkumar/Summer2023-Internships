@@ -77317,5 +77317,119 @@
         "company_url": "https://simplify.jobs/c/3f6c26e7-8dd4-404b-bc46-2174bd73fef9",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1712458629,
+        "url": "https://wrkbl.ink/5irrQe1",
+        "company_name": "Mission Bit",
+        "title": "Summer 2024 TA - Intro to Web (in-person at University of SF)",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "johnnylinsf",
+        "id": "cb892030-d172-4c4f-89f0-27c134ba3aaa",
+        "date_posted": 1712458215,
+        "company_url": "",
+        "is_visible": false
+    },
+    {
+        "date_updated": 1712458612,
+        "url": "https://apply.workable.com/j/0764303702?utm_campaign=4a7747fc82&utm_medium=eps",
+        "company_name": "Mission Bit",
+        "title": "Summer 2024 Lead Instructor - Intro to Web (in-person at University of SF)",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "johnnylinsf",
+        "id": "5bda43c4-3e9c-4008-ae5f-85298b58d2ad",
+        "date_posted": 1712458245,
+        "company_url": "",
+        "is_visible": false
+    },
+    {
+        "date_updated": 1712458261,
+        "url": "https://apply.workable.com/j/B0BC5B6C3B?utm_campaign=4a7747fc82&utm_medium=eps",
+        "company_name": "Mission Bit",
+        "title": "Summer 2024 High School Internship - Intro to VR (in-person Meta, Menlo Park)",
+        "locations": [
+            "Menlo Park, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "johnnylinsf",
+        "id": "e25a486d-bc05-4047-8555-ef9e8ba9215f",
+        "date_posted": 1712458261,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1712458597,
+        "url": "https://apply.workable.com/j/E40C294320?utm_campaign=4a7747fc82&utm_medium=eps",
+        "company_name": "Mission Bit",
+        "title": "Summer 2024 TA - Intro to Web (in-person in Oakland)",
+        "locations": [
+            "Oakland, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "johnnylinsf",
+        "id": "dff08694-98f9-4a2a-897d-7b1f2e6dd217",
+        "date_posted": 1712458273,
+        "company_url": "",
+        "is_visible": false
+    },
+    {
+        "date_updated": 1712458581,
+        "url": "https://apply.workable.com/j/7E07590CDE?utm_campaign=4a7747fc82&utm_medium=eps",
+        "company_name": "Mission Bit",
+        "title": "Summer 2024 TA - Intro to Python (in-person at CCSF - Mission, SF)",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "johnnylinsf",
+        "id": "d184f0d7-74bf-4d5e-9032-447954b40477",
+        "date_posted": 1712458303,
+        "company_url": "",
+        "is_visible": false
+    },
+    {
+        "date_updated": 1712458566,
+        "url": "https://apply.workable.com/j/635C2F816F?utm_campaign=4a7747fc82&utm_medium=eps",
+        "company_name": "Mission Bit",
+        "title": "Summer 2024 TA - Intro to Python (in-person in Oakland)",
+        "locations": [
+            "Oakland, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "johnnylinsf",
+        "id": "872c9b9d-e64f-419e-9138-160afa756372",
+        "date_posted": 1712458357,
+        "company_url": "",
+        "is_visible": false
     }
 ]
