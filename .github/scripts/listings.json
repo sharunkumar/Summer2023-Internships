@@ -76849,14 +76849,14 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1712275077,
+        "date_updated": 1712807439,
         "date_posted": 1712275077,
         "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Fort-Belvoir/Human-Factors-Psychology-Intern---Summer-2024_294686-1",
         "locations": [
             "Fort Belvoir, VA"
         ],
         "company_url": "https://simplify.jobs/c/CACI",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -77761,14 +77761,14 @@
             "Spring 2025",
             "Fall 2025"
         ],
-        "date_updated": 1712682616,
+        "date_updated": 1712807380,
         "date_posted": 1712682616,
         "url": "https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Intern--Robot-Perception_R2793",
         "locations": [
             "Burlington, MA"
         ],
         "company_url": "https://simplify.jobs/c/symbotic",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -77799,14 +77799,14 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1712649684,
+        "date_updated": 1712807399,
         "date_posted": 1712649684,
         "url": "https://jobs.lever.co/actian/a76f647b-cc12-4275-88e7-d97b563fd901/apply",
         "locations": [
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/actian",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -77818,14 +77818,14 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1712621732,
+        "date_updated": 1712807421,
         "date_posted": 1712621732,
         "url": "https://www.benesch.com/job-openings/4343731007?gh_jid=4343731007",
         "locations": [
             "Tampa, FL"
         ],
         "company_url": "https://simplify.jobs/c/Benesch",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -77951,14 +77951,14 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1712767945,
+        "date_updated": 1712807338,
         "date_posted": 1712767945,
         "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Miami/Intern-CSU-Argentina_Req1302509",
         "locations": [
             "Miami, FL"
         ],
         "company_url": "https://simplify.jobs/c/Santander",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -77970,14 +77970,14 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1712707960,
+        "date_updated": 1712807359,
         "date_posted": 1712707960,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/743999979426383",
         "locations": [
             "Milpitas, CA"
         ],
         "company_url": "https://simplify.jobs/c/Western-Digital",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -78036,5 +78036,24 @@
         "company_url": "https://simplify.jobs/c/8a54ca8e-9967-4c01-a0c8-52606b1dab8e",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1712807292,
+        "url": "https://simplify.jobs/p/2e62889f-a8b6-42a6-a549-ca78f7607f52/Product-Design-Intern-Secureworks-US-Remote",
+        "company_name": "Dell Technologies",
+        "title": "Product Design Intern",
+        "locations": [
+            "Remote"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "Jahhx57",
+        "id": "3b05cd2f-1ec1-4d2f-928c-232b5d042161",
+        "date_posted": 1712807292,
+        "company_url": "",
+        "is_visible": true
     }
 ]
