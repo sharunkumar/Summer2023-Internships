@@ -77856,7 +77856,7 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1712620669,
+        "date_updated": 1713198573,
         "date_posted": 1712620669,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Tucson-AZ/Junior-Software-Engineer-Intern_R-00133012",
         "locations": [
@@ -77864,7 +77864,7 @@
         ],
         "company_url": "https://simplify.jobs/c/Leidos",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "U.S. Citizenship is Required"
     },
     {
         "source": "Simplify",
@@ -78636,5 +78636,62 @@
         "company_url": "https://simplify.jobs/c/Intel",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1713198479,
+        "url": "https://simplify.jobs/p/5353c0cf-9507-4ebc-a449-f11f4ab452ad/Technical-Program-Manager--Intern-Software-Summer-2024",
+        "company_name": "Astranis",
+        "title": "Technical Program Manager \u2013 Intern- Summer 2024",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "Jahhx57",
+        "id": "1c89ab47-f615-4a68-a60e-1adaea2f5ff7",
+        "date_posted": 1713198479,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1713198514,
+        "url": "https://simplify.jobs/p/1528a23d-9751-4233-b4b6-a5da2256905f/Supply-Chain--Intern-Systems-Summer-2024",
+        "company_name": "Astranis",
+        "title": "Supply Chain \u2013 Intern Systems, Summer 2024",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "Jahhx57",
+        "id": "b6e0b45b-a48f-435d-a505-00e9c5132a2f",
+        "date_posted": 1713198514,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1713198530,
+        "url": "https://simplify.jobs/p/48786275-ab60-40fd-8f3d-5e27060e4821/Network-Planning-Sales-Engineer--Intern-Summer-2024",
+        "company_name": "Astranis",
+        "title": "Network Planning Sales Engineer \u2013 Intern",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "Jahhx57",
+        "id": "74b69f42-de02-4ae2-a5b9-f46f33d134c9",
+        "date_posted": 1713198530,
+        "company_url": "",
+        "is_visible": true
     }
 ]
