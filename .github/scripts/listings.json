@@ -76830,14 +76830,14 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1712276105,
+        "date_updated": 1713921765,
         "date_posted": 1712276105,
         "url": "https://boards.greenhouse.io/legendcareers/jobs/4383131005",
         "locations": [
             "Somerset County, NJ"
         ],
         "company_url": "https://simplify.jobs/c/Legend-Biotech",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -77020,14 +77020,15 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1711498676,
+        "date_updated": 1713921800,
         "date_posted": 1711498676,
         "url": "https://www.wearemiq.com/job/7304380002?gh_jid=7304380002",
         "locations": [
-            "NYC"
+            "NYC",
+            "LA"
         ],
         "company_url": "https://simplify.jobs/c/d3f70073-559f-423b-ba47-2709c81e233b",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -78301,14 +78302,14 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1712852765,
+        "date_updated": 1713921739,
         "date_posted": 1712796496,
         "url": "https://careers.hellofresh.com/global/en/job/5896583?gh_jid=5896583",
         "locations": [
             "Montgomery, IL"
         ],
         "company_url": "https://simplify.jobs/c/Hello-Fresh",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -78434,14 +78435,14 @@
         "terms": [
             "Summer 2025"
         ],
-        "date_updated": 1712793760,
+        "date_updated": 1713921718,
         "date_posted": 1712793760,
         "url": "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Investment-Analyst-Intern---Private-Debt---Equity--Summer-2025_JR-40785",
         "locations": [
             "Milwaukee, WI"
         ],
         "company_url": "https://simplify.jobs/c/Northwestern-Mutual",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -78722,14 +78723,14 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1713200608,
+        "date_updated": 1713921679,
         "date_posted": 1713200608,
         "url": "https://www.avepoint.com/about/careers/job-detail?gh_jid=5906869",
         "locations": [
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/AvePoint",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -79864,14 +79865,14 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1712911606,
+        "date_updated": 1713921696,
         "date_posted": 1712911606,
         "url": "https://silanano.com/job-application/5902748/?gh_jid=5902748",
         "locations": [
             "Alameda, CA"
         ],
         "company_url": "https://simplify.jobs/c/SilaNano",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -80054,14 +80055,14 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1713601911,
+        "date_updated": 1713921654,
         "date_posted": 1713568284,
         "url": "https://boards.greenhouse.io/graymatterrobotics/jobs/4411085005",
         "locations": [
             "West Athens, CA"
         ],
         "company_url": "https://simplify.jobs/c/GrayMatterRobotics",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -80264,7 +80265,7 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1713852731,
+        "date_updated": 1713921625,
         "date_posted": 1713852731,
         "url": "https://boards.greenhouse.io/veranahealth/jobs/7342991002",
         "locations": [
@@ -80273,7 +80274,45 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/VeranaHealth",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1713921814,
+        "url": "https://simplify.jobs/p/8d4af5bc-c3e6-4fe4-a0a2-f5195623cec0/Software-Engineer--Intern-Summer-2024",
+        "company_name": "Nominal",
+        "title": "Software Engineer \u2013 Intern",
+        "locations": [
+            "Austin, TX, USA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "Jahhx57",
+        "id": "1f3331fd-91a3-4a54-8511-88badbe96cae",
+        "date_posted": 1713921814,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1713921830,
+        "url": "https://simplify.jobs/p/f59bb4f5-6cae-4c05-80d2-b727416c9dfe/Software-Engineer--Intern-Summer-2024",
+        "company_name": "Nominal",
+        "title": "Software Engineer \u2013 Intern",
+        "locations": [
+            "New York, NY, USA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "Jahhx57",
+        "id": "3ab8a0c4-e3cd-4449-ad0d-c908758792fe",
+        "date_posted": 1713921830,
+        "company_url": "",
+        "is_visible": true
     }
 ]
