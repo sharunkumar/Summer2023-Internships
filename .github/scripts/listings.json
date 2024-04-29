@@ -77698,7 +77698,7 @@
         "company_name": "Bridgewater Associates",
         "id": "24d08d8d-0e0b-438d-9afe-8da29dbf21da",
         "title": "Investment Engineer Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -80593,14 +80593,14 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1714022611,
+        "date_updated": 1714350863,
         "date_posted": 1714022611,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Peoria-IL/Energy-Efficiency-Engineering-and-Data-Analytics-Intern_R-00134307",
         "locations": [
             "Peoria, IL"
         ],
         "company_url": "https://simplify.jobs/c/Leidos",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -80822,14 +80822,14 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1714222626,
+        "date_updated": 1714350842,
         "date_posted": 1714222626,
         "url": "https://dexisonline.com/jobs/?gh_jid=4413173005",
         "locations": [
             "Washington, DC"
         ],
         "company_url": "https://simplify.jobs/c/Dexis-Consulting-Group",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -80911,5 +80911,66 @@
         "company_url": "https://simplify.jobs/c/Leidos",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Divergent",
+        "id": "fbccb249-73e4-476d-83f7-ebf82b101666",
+        "title": "Data Engineer Intern Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1714306117,
+        "date_posted": 1714306117,
+        "url": "https://jobs.lever.co/divergent3d/f8fa58b4-5c57-4bc4-a0c8-02174ea5ec5d/apply",
+        "locations": [
+            "Carson, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/732aefa5-2ad8-42de-a015-f02066b6a5af",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intel",
+        "id": "d5b7a65e-75eb-4cf5-9fac-bfb00415aaf3",
+        "title": "Software Development \u2013 Undergraduate Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1714248018,
+        "date_posted": 1714248018,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Development---Undergraduate-Intern_JR0263146-1",
+        "locations": [
+            "Austin, TX",
+            "Santa Clara, CA",
+            "Hillsboro, OR",
+            "Folsom, CA",
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1714350877,
+        "url": "https://careers.abb/global/en/job/ABB1GLOBAL91597698EXTERNALENGLOBAL/Software-Engineer-Intern?utm_medium=phenom-feeds",
+        "company_name": "ABB",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Senatobia, MS"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "wwwld1",
+        "id": "4fcd191e-c4f3-4c8c-8e88-6ddfca0a3969",
+        "date_posted": 1714350877,
+        "company_url": "",
+        "is_visible": true
     }
 ]
