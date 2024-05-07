@@ -81118,14 +81118,14 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1714605607,
+        "date_updated": 1715056275,
         "date_posted": 1714605607,
         "url": "https://boards.greenhouse.io/atlassand/jobs/7431959002",
         "locations": [
             "Austin, TX"
         ],
         "company_url": "https://simplify.jobs/c/804746b5-6060-4f05-aa91-e8d69bc643ff",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -81576,7 +81576,7 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1714691706,
+        "date_updated": 1715056252,
         "date_posted": 1714691706,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Simulation-Tools-Intern_JR0263595",
         "locations": [
@@ -81584,7 +81584,7 @@
             "Hillsboro, OR"
         ],
         "company_url": "https://simplify.jobs/c/Intel",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -81903,14 +81903,33 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1715022599,
+        "date_updated": 1715056232,
         "date_posted": 1714777568,
         "url": "https://boards.greenhouse.io/metagenomi/jobs/4416314005",
         "locations": [
             "Oakland, CA"
         ],
         "company_url": "https://simplify.jobs/c/Metagenomi",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1715056350,
+        "url": "https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/StaplesInc/job/2449?utm_medium=jobshare",
+        "company_name": "Staples",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Framingham, MA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "wwwld1",
+        "id": "f3efc33f-fc3b-4569-8966-6fa9c63f34d8",
+        "date_posted": 1715056350,
+        "company_url": "",
+        "is_visible": true
     }
 ]
