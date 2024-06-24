@@ -87675,5 +87675,83 @@
         "company_url": "https://simplify.jobs/c/The-Block",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1719239279,
+        "url": "https://jobs.apple.com/en-us/details/200554363/machine-learning-ai-internships",
+        "company_name": "Apple",
+        "title": "Machine Learning Intern",
+        "locations": [
+            "United States"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AyanT01",
+        "id": "ed4c3e59-22a6-43f2-a552-a0680669ecb5",
+        "date_posted": 1719239279,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1719239461,
+        "url": "https://www.untapped.io/app/discover/jobs/a/a/5d83f2cf-2ce7-4d1e-a6e8-e5383bee812e",
+        "company_name": "BILL",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "San Jose, CA",
+            "Draper, UT",
+            "Salt Lake City, UT"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "hemanthy1",
+        "id": "fff19a40-bd9d-4a86-864d-772115cb6945",
+        "date_posted": 1719239461,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1719239599,
+        "url": "https://www.konrad.com/careers/job/5997801003?gh_jid=5997801003",
+        "company_name": "Konrad",
+        "title": "Software Developer Intern",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "hemanthy1",
+        "id": "4dacf2c4-08a7-4637-ae86-509281858de7",
+        "date_posted": 1719239599,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1719252777,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=5956912003",
+        "company_name": "Celonis",
+        "title": "ML Engineer Intern",
+        "locations": [
+            "New York, US"
+        ],
+        "terms": [
+            "Fall 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "Anuttan",
+        "id": "371e198b-b14a-4433-bd5e-196912b9bc59",
+        "date_posted": 1719252777,
+        "company_url": "",
+        "is_visible": true
     }
 ]
