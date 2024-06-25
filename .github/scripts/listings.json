@@ -71864,7 +71864,7 @@
         "company_name": "HRL Laboratories",
         "id": "bbdeba9c-7d7b-40f3-8b33-a89943a5fb46",
         "title": "Quantum Technology Intern - Undergrad",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -81152,7 +81152,7 @@
         "company_name": "Profitero",
         "id": "d844761c-d8c3-4737-b7b2-7e69b2113151",
         "title": "AI Intern \u2013 6 Months FTC",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -86684,7 +86684,7 @@
         "company_name": "Octopus Energy",
         "id": "890792e5-3d09-4188-b630-80d5b05e9f66",
         "title": "Engineering Internship - Kraken Utilities",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -86857,7 +86857,7 @@
         "company_name": "NVIDIA",
         "id": "8fa32c39-c73a-4a2d-a607-489e792fc283",
         "title": "Software Engineering Intern - Generalist Embodied Agents Research - Fall 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -87696,7 +87696,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1719239461,
+        "date_updated": 1719255623,
         "url": "https://www.untapped.io/app/discover/jobs/a/a/5d83f2cf-2ce7-4d1e-a6e8-e5383bee812e",
         "company_name": "BILL",
         "title": "Software Engineer Intern",
@@ -87714,7 +87714,7 @@
         "id": "fff19a40-bd9d-4a86-864d-772115cb6945",
         "date_posted": 1719239461,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1719239599,
@@ -87751,6 +87751,26 @@
         "source": "Anuttan",
         "id": "371e198b-b14a-4433-bd5e-196912b9bc59",
         "date_posted": 1719252777,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1719267984,
+        "url": "https://rsm.wd1.myworkdayjobs.com/en-US/RSMCareers/job/Des-Moines/Application-Development-Intern---Summer-2025_JR104149",
+        "company_name": "RSM",
+        "title": "Application Development Intern",
+        "locations": [
+            "Des Moines, IA",
+            "Denver, CO"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "reddoy",
+        "id": "7d5377f3-6245-48c2-8e8f-0590c578091d",
+        "date_posted": 1719267984,
         "company_url": "",
         "is_visible": true
     }
