@@ -1821,7 +1821,7 @@
         "company_name": "Uncountable",
         "id": "36d41c74-1e77-485c-87a4-cc7f0bd7e880",
         "title": "Full-Stack Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -87087,7 +87087,7 @@
         "company_name": "Palantir",
         "id": "9a6e1962-5442-494d-b3bd-c93ebb7f642f",
         "title": "Semester at Palantir \u2013 Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -87643,7 +87643,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "666ddabe-802b-47b2-9f98-b1a3bea5db01",
         "title": "Associate Software Developer in Test \u2013 Co-op position - System Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -87755,19 +87755,18 @@
         "is_visible": true
     },
     {
-        "date_updated": 1719267984,
+        "date_updated": 1719439871,
         "url": "https://rsm.wd1.myworkdayjobs.com/en-US/RSMCareers/job/Des-Moines/Application-Development-Intern---Summer-2025_JR104149",
         "company_name": "RSM",
         "title": "Application Development Intern",
         "locations": [
-            "Des Moines, IA",
-            "Denver, CO"
+            "Des Moines, IA Denver, CO"
         ],
         "terms": [
             "Summer 2025"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "source": "reddoy",
         "id": "7d5377f3-6245-48c2-8e8f-0590c578091d",
         "date_posted": 1719267984,
@@ -87795,5 +87794,104 @@
         "company_url": "https://simplify.jobs/c/Rockwell-Automation",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "AMT Engineering",
+        "id": "14f710a9-095d-4d6c-a65a-34dc51faa5b8",
+        "title": "GIS Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1719414473,
+        "date_posted": 1719414473,
+        "url": "https://jobs.lever.co/amtengineering/e8ba2131-558b-41d9-b586-aea81ed1f92d/apply",
+        "locations": [
+            "Towson, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/AMT-Engineering",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Mercedes-Benz",
+        "id": "3940abc9-dddc-4ac5-92c4-ffd5ea57ffcb",
+        "title": "Engineering Intern - Edrive Core Software",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1719357577,
+        "date_posted": 1719357577,
+        "url": "https://jobs.lever.co/MBRDNA/e8752edb-8637-4bba-b1b5-c207434b8102/apply",
+        "locations": [
+            "Southfield, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Mercedes-Benz",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1719435662,
+        "url": "https://jobs.us.pwc.com/job/-/-/932/66835864048",
+        "company_name": "PwC",
+        "title": "Products & Technology Intern",
+        "locations": [
+            "Dallas, TX",
+            "Tampa, FL",
+            "Chicago, IL",
+            "New York, NY"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "reddoy",
+        "id": "773bd3b3-8a21-4b6e-a283-8892ef26b987",
+        "date_posted": 1719435662,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1719436099,
+        "url": "https://ats.rippling.com/rippling/jobs/c164fa22-6164-4bc0-8d53-89d856c4065a",
+        "company_name": "Rippling",
+        "title": "Machine Learning Software Engineer Intern",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "terms": [
+            "Winter 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "reddoy",
+        "id": "f6c86468-4bf7-4310-8305-2ab1ebb0859d",
+        "date_posted": 1719436099,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1719436228,
+        "url": "https://ats.rippling.com/rippling/jobs/6571728d-4dce-411d-b1ab-f137f6b56aa0",
+        "company_name": "Rippling",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "New York, NY",
+            "San Francisco, CA"
+        ],
+        "terms": [
+            "Winter 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "reddoy",
+        "id": "a8f91211-da00-423a-b934-c66a03bd704b",
+        "date_posted": 1719436228,
+        "company_url": "",
+        "is_visible": true
     }
 ]
