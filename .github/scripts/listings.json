@@ -88450,5 +88450,91 @@
         "company_url": "https://simplify.jobs/c/Western-Digital",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1719853112,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210527407/?keyword=2025+Software+Engineer+Program+-+Summer+Internship+%E2%80%93+United+States&mode=location",
+        "company_name": "J. P. Morgan",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Atlanta, GA",
+            "Chicago, IL",
+            "Columbus, OH",
+            "Houston, TX",
+            "Jersey City, NJ",
+            "Palo Alto, CA",
+            "New York, NY",
+            "Plano, TX",
+            "Seattle, WA",
+            "Tampa, FL",
+            "Austin, TX"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "reddoy",
+        "id": "5c01ea70-5a11-452e-95ad-072e71881e5f",
+        "date_posted": 1719853112,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1719853353,
+        "url": "https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c",
+        "company_name": "Palantir",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "reddoy",
+        "id": "8e89d029-fc69-4ceb-850c-bbfddd85468a",
+        "date_posted": 1719853353,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1719853590,
+        "url": "https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d",
+        "company_name": "Palantir",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "New York, NY"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "reddoy",
+        "id": "d392cd10-3f46-468d-8db4-12f671399814",
+        "date_posted": 1719853590,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1719853620,
+        "url": "https://jobs.lever.co/palantir/2fb19022-bb65-4af8-b6fa-31beb345c140",
+        "company_name": "Palantir",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "reddoy",
+        "id": "35b8c1e8-38dd-4ef8-9801-2911d05a4557",
+        "date_posted": 1719853620,
+        "company_url": "",
+        "is_visible": true
     }
 ]
