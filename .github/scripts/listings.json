@@ -4740,7 +4740,7 @@
         "company_name": "Palantir",
         "id": "d0302d05-c84f-4a36-a91e-cc293f08604e",
         "title": "Software Engineer \u2013 Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -5596,7 +5596,7 @@
         "company_name": "Palantir",
         "id": "e1cb71b6-18fc-4d48-9c80-55c54bb62a50",
         "title": "Software Engineer \u2013 Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -5634,7 +5634,7 @@
         "company_name": "Palantir",
         "id": "0f0aeb67-6d9f-4204-85d7-29cb04386943",
         "title": "Software Engineer \u2013 Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -8138,7 +8138,7 @@
         "company_name": "Palantir",
         "id": "b9a66fc7-950d-4574-abc7-4b409156948b",
         "title": "Software Engineer \u2013 Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2023"
         ],
@@ -81038,7 +81038,7 @@
         "company_name": "Zuru",
         "id": "ab62022e-cc11-4a0a-a72f-43cbd141a2df",
         "title": "Data Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -85695,14 +85695,14 @@
         "terms": [
             "Summer 2025"
         ],
-        "date_updated": 1717168964,
+        "date_updated": 1719868428,
         "date_posted": 1717168964,
         "url": "https://boards.greenhouse.io/capstoneinvestmentadvisors/jobs/7470796002",
         "locations": [
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/CapstoneCo",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -88267,14 +88267,14 @@
         "terms": [
             "Summer 2025"
         ],
-        "date_updated": 1719617641,
+        "date_updated": 1719868119,
         "date_posted": 1719617641,
         "url": "https://boards.greenhouse.io/optiverprivate/jobs/7510221002",
         "locations": [
             "Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/Optiver",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -88286,14 +88286,14 @@
         "terms": [
             "Summer 2025"
         ],
-        "date_updated": 1719617643,
+        "date_updated": 1719868005,
         "date_posted": 1719617643,
         "url": "https://boards.greenhouse.io/optiverprivate/jobs/7498434002",
         "locations": [
             "Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/Optiver",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -88305,14 +88305,14 @@
         "terms": [
             "Summer 2025"
         ],
-        "date_updated": 1719617643,
+        "date_updated": 1719868065,
         "date_posted": 1719617643,
         "url": "https://boards.greenhouse.io/optiverprivate/jobs/7325586002",
         "locations": [
             "Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/Optiver",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -88534,6 +88534,25 @@
         "source": "reddoy",
         "id": "35b8c1e8-38dd-4ef8-9801-2911d05a4557",
         "date_posted": 1719853620,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1719873594,
+        "url": "https://jobs.lever.co/palantir/bdcfb29f-4f27-42de-933f-7f83a359b9f0",
+        "company_name": "Palantir",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Washington, D.C."
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "reddoy",
+        "id": "d2a001fc-30ad-4524-9e77-588f5c4c66ad",
+        "date_posted": 1719873594,
         "company_url": "",
         "is_visible": true
     }
