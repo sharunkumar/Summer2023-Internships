@@ -125,8 +125,8 @@ def customFilter(listings):
     return [listing for listing in listings if listing["active"] and listing["sponsorship"] not in ["Does Not Offer Sponsorship", "U.S. Citizenship is Required"]]
 
 
-def filterSummer(listings):
-    return [listing for listing in listings if listing["is_visible"] and any("Summer" in item for item in listing["terms"])]
+def filterSummer(listings, year, earliest_date):
+    return [listing for listing in listings if listing["is_visible"] and any(f"Summer {year}" in item for item in listing["terms"]) and listing['date_posted'] > earliest_date]
 
 
 def filterOffSeason(listings):
