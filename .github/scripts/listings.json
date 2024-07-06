@@ -87331,7 +87331,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1716706800,
+        "date_updated": 1720217114,
         "url": "https://ventas.wd1.myworkdayjobs.com/en-US/ventas_careers/job/Intern--Software-Engineering--Summer-2025-_R0001113",
         "company_name": "Ventas",
         "title": "Software Engineer Intern",
@@ -87341,7 +87341,7 @@
         "terms": [
             "Summer 2025"
         ],
-        "sponsorship": "Offers Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "reddoy",
         "id": "988311c6-0c59-4fa4-ac1f-6db313cb523f",
@@ -88759,5 +88759,43 @@
         "company_url": "https://simplify.jobs/c/Air-Company",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Quanterix",
+        "id": "e328e447-f30c-436c-bda3-d31c357f4ecf",
+        "title": "Data Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1720192737,
+        "date_posted": 1720192737,
+        "url": "https://www.quanterix.com/careers/job?gh_jid=6088572",
+        "locations": [
+            "Billerica, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Quanterix",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1720226246,
+        "url": "https://apply.workable.com/capula-investment-management-ltd/j/CADD57CDA5/",
+        "company_name": "Capula",
+        "title": "Trading and Research Summer Internship",
+        "locations": [
+            "New York, New York, United States"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "JihuiTanUchicago",
+        "id": "330e0143-b984-451c-8e54-229b5620b343",
+        "date_posted": 1720226246,
+        "company_url": "",
+        "is_visible": true
     }
 ]
