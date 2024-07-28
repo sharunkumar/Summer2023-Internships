@@ -90074,5 +90074,43 @@
         "company_url": "https://simplify.jobs/c/Puffco",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sensata",
+        "id": "c751079a-cc4d-4a27-9c4f-d409c8884196",
+        "title": "Software Engineer Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1722036232,
+        "date_posted": 1722036232,
+        "url": "https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Attleboro-Massachusetts/Software-Engineer-Intern---Summer-2025_IRC93689",
+        "locations": [
+            "Attleboro, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/sensata-tech",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1722119270,
+        "url": "https://sensata.wd1.myworkdayjobs.com/Sensata-Careers/job/Attleboro-Massachusetts/Software-Engineer-Intern---Summer-2025_IRC93689",
+        "company_name": "Sensata Technologies",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "locations Attleboro, Massachusetts"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "cboiteux2765",
+        "id": "34262757-5e58-4e1d-850a-1df65ba9cc3b",
+        "date_posted": 1722116067,
+        "company_url": "",
+        "is_visible": false
     }
 ]
