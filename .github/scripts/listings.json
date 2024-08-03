@@ -16135,7 +16135,7 @@
         "company_name": "Zello",
         "id": "0c77230c-f2f8-4c83-b95a-88c36a14bbc5",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -62811,7 +62811,7 @@
         "company_name": "Simbe Robotics",
         "id": "977b607f-6171-4bd6-a099-749d7956380e",
         "title": "Computer Vision Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024",
             "Spring 2025",
@@ -89653,7 +89653,7 @@
         "company_name": "Litmus",
         "id": "2d9c4af1-18e6-4eac-9ec3-41f3a2036eed",
         "title": "Solutions Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -90472,7 +90472,7 @@
         "company_name": "Leidos",
         "id": "08bed13d-8378-4ee9-8349-8df9b733209e",
         "title": "Simulation Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -90495,7 +90495,7 @@
         "terms": [
             "Summer 2025"
         ],
-        "date_updated": 1722527247,
+        "date_updated": 1722634883,
         "date_posted": 1722527247,
         "url": "https://capitalone.wd1.myworkdayjobs.com/Capital_One/job/McLean-VA/Data-Analyst-Intern---Summer-2025_R189631-1",
         "locations": [
@@ -90504,7 +90504,7 @@
         ],
         "company_url": "https://simplify.jobs/c/Capital-One",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "Does Not Offer Sponsorship"
     },
     {
         "source": "Simplify",
@@ -90600,5 +90600,81 @@
         "company_url": "https://simplify.jobs/c/Leidos",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "HPR (Hyannis Port Research)",
+        "id": "97a69c42-89b3-4409-9891-4b877d0f8716",
+        "title": "Software Engineering Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1722555928,
+        "date_posted": 1722555928,
+        "url": "https://job-boards.greenhouse.io/hyannisportresearch/jobs/6038522003",
+        "locations": [
+            "Needham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/HyannisPortResearch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "93b3f1c0-4f15-441b-81a7-f0e0b4e1cb8b",
+        "title": "Junior Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1722554545,
+        "date_posted": 1722554545,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Tucson-AZ/Junior-Software-Engineer-Intern_R-00140738",
+        "locations": [
+            "Tucson, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1722634792,
+        "url": "https://careers.salesforce.com/en/jobs/jr261131/summer-2025-intern-associate-product-manager-apm/",
+        "company_name": "Salesforce",
+        "title": "Associate Product Manager",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "reddoy",
+        "id": "28e2b7ba-7f7a-4979-8760-afe0b41f7d8d",
+        "date_posted": 1722634792,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1722634916,
+        "url": "https://ventas.wd1.myworkdayjobs.com/VTR_NonPublic/job/IL---Chicago/Intern--Software-Engineering--Summer-2025-_R0001113-2",
+        "company_name": "Ventas",
+        "title": "Intern, Software Engineering (Summer 2025)",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "haozed",
+        "id": "58c80faf-9bc1-44a5-90b1-299034d3abf3",
+        "date_posted": 1722634916,
+        "company_url": "",
+        "is_visible": true
     }
 ]
