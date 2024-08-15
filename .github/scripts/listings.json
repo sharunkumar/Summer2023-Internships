@@ -91741,7 +91741,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1723483977,
+        "date_updated": 1723694803,
         "url": "https://careers.qualcomm.com/careers?query=internship&pid=446700989850&domain=qualcomm.com&sort_by=relevance&triggerGoButton=false",
         "company_name": "Qualcomm",
         "title": "Software Engineering Intern",
@@ -91751,13 +91751,13 @@
         "terms": [
             "Summer 2025"
         ],
-        "sponsorship": "Offers Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "nicolasgarza",
         "id": "935bcff9-fdcd-4097-a946-c414a242f8d0",
         "date_posted": 1723483977,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "source": "Simplify",
@@ -92280,5 +92280,43 @@
         "company_url": "https://simplify.jobs/c/Figure-AI",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1723694701,
+        "url": "https://careers.cargill.com/en/job/-/-/23251/68562383440",
+        "company_name": "Cargill",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "haozhou1919",
+        "id": "8c798a50-fad6-435a-8362-2bab6528b87c",
+        "date_posted": 1723694701,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1723694741,
+        "url": "https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=11703",
+        "company_name": "Macquarie",
+        "title": "Technology Interns (Application Development & Solution Architecture and Engineering )",
+        "locations": [
+            "Houston, TX"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "LuaanNguyen",
+        "id": "318e684b-9629-4fb1-b8dd-de5bd48f02c0",
+        "date_posted": 1723694741,
+        "company_url": "",
+        "is_visible": true
     }
 ]
