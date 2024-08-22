@@ -90736,7 +90736,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1723295931,
+        "date_updated": 1724349948,
         "url": "https://capitalone.wd1.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Technology-Internship-Program---Summer-2025_R189727-1?redirect=/Capital_One/job/McLean-VA/Design-Development-Internship-Program---Summer-2025_R189647-1/apply&workerSubType=a12c70bf789e10572aab83c4780919ad",
         "company_name": "Capital One",
         "title": "Technology Internship Program \ud83d\udec2",
@@ -90747,7 +90747,7 @@
             "Summer 2025"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "omarmneimneh",
         "id": "a51111fa-c587-40c7-a7ab-a148cddbfb5d",
         "date_posted": 1722886357,
@@ -90814,7 +90814,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1722886569,
+        "date_updated": 1724350283,
         "url": "https://capitalone.wd1.myworkdayjobs.com/en-US/Capital_One/details/Cyber-Security-Internship-Program---Summer-2025_R189629-1?redirect=/Capital_One/job/McLean-VA/Design-Development-Internship-Program---Summer-2025_R189647-1/apply&workerSubType=a12c70bf789e10572aab83c4780919ad",
         "company_name": "Capitol One",
         "title": "Cyber Security Intern",
@@ -90825,13 +90825,13 @@
         "terms": [
             "Summer 2025"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "reddoy",
         "id": "e251d4ae-70ae-48e3-838d-a10091ba1508",
         "date_posted": 1722886569,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "source": "Simplify",
@@ -90900,7 +90900,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1722973491,
+        "date_updated": 1724350112,
         "url": "https://www.databricks.com/company/careers/university-recruiting/software-engineering-intern-2025-6866529002?gh_jid=6866529002&gh_src=62a881d62",
         "company_name": "Databricks",
         "title": "Software Engineering Intern",
@@ -90910,16 +90910,16 @@
         "terms": [
             "Summer 2025"
         ],
-        "sponsorship": "Offers Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "reddoy",
         "id": "ca4d8473-0dec-49a6-b9b7-5b0c65cd32df",
         "date_posted": 1722973491,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
-        "date_updated": 1722973590,
+        "date_updated": 1724350096,
         "url": "https://www.databricks.com/company/careers/university-recruiting/software-engineering-intern-2025-6865687002",
         "company_name": "Databricks",
         "title": "Software Engineering Intern",
@@ -90929,16 +90929,16 @@
         "terms": [
             "Summer 2025"
         ],
-        "sponsorship": "Offers Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "reddoy",
         "id": "5f6b04e6-ef18-4d15-bf2a-be41538568ae",
         "date_posted": 1722973590,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
-        "date_updated": 1722973636,
+        "date_updated": 1724350084,
         "url": "https://www.databricks.com/company/careers/university-recruiting/software-engineering-intern-2025-6866527002",
         "company_name": "Databricks",
         "title": "Software Engineering Intern",
@@ -90948,13 +90948,13 @@
         "terms": [
             "Summer 2025"
         ],
-        "sponsorship": "Offers Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "reddoy",
         "id": "8cf0fbbe-2048-4ef7-a8f0-5e18c53fb7e1",
         "date_posted": 1722973636,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "source": "Simplify",
@@ -93050,7 +93050,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1724128060,
+        "date_updated": 1724350597,
         "url": "https://www.hudsonrivertrading.com/careers/job?gh_jid=6139035&req_id=482",
         "company_name": "Hudson River Trading (HRT)",
         "title": "Software Engineering / Algorithm Developer Internship",
@@ -93066,7 +93066,7 @@
         "id": "de64c33f-e836-4215-9ac7-fccc748f788a",
         "date_posted": 1724128060,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1724128140,
@@ -93573,14 +93573,14 @@
         "terms": [
             "Summer 2025"
         ],
-        "date_updated": 1724196252,
+        "date_updated": 1724350014,
         "date_posted": 1724196252,
         "url": "https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Nampa-ID/Intern---Manufacturing-Systems-Engineer---Summer-2025_R030200",
         "locations": [
             "Nampa, ID"
         ],
         "company_url": "https://simplify.jobs/c/Plexus",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
