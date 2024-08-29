@@ -94663,5 +94663,63 @@
         "date_posted": 1724887017,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1724903956,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/details/NVIDIA-2025-Internships--Software-Engineering_JR1986535",
+        "company_name": "NVIDIA",
+        "title": "Software Engineering Internships",
+        "locations": [
+            "US, CA, Santa Clara",
+            "US, Remote"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "Ziqi-M",
+        "id": "83343f2a-fcad-446b-8bbb-7f19ae42090f",
+        "date_posted": 1724903956,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1724911403,
+        "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Boston-Massachusetts/John-Hancock-Software-Engineering-Summer-Internship-Program-2025_JR24081349",
+        "company_name": "Manulife",
+        "title": "John Hancock Software Engineering Summer Internship Program 2025",
+        "locations": [
+            "Boston, MA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "8595c15f-2621-446c-9e7b-8f27156185be",
+        "date_posted": 1724911403,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1724911932,
+        "url": "https://td.wd3.myworkdayjobs.com/fr-CA/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2025-Summer-Internship-Program----Platforms---Technology---Software-Engineer_R_1365598",
+        "company_name": "TD",
+        "title": "2025 Summer Internship Program - Platforms & Technology - Software Engineer",
+        "locations": [
+            "Mount Laurel, NJ"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "2f2623d5-93d5-4e97-b28a-ec5e178de75b",
+        "date_posted": 1724911932,
+        "company_url": "",
+        "is_visible": true
     }
 ]
