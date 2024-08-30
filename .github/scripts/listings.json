@@ -94497,7 +94497,7 @@
         "terms": [
             "Summer 2025"
         ],
-        "date_updated": 1724802096,
+        "date_updated": 1725003592,
         "date_posted": 1724802096,
         "url": "https://workiva.wd1.myworkdayjobs.com/careers/job/Denver/XMLNAME-2025-Summer-Intern---Data-Engineering_R9028",
         "locations": [
@@ -94505,7 +94505,7 @@
         ],
         "company_url": "https://simplify.jobs/c/Workiva",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "Does Not Offer Sponsorship"
     },
     {
         "source": "Simplify",
@@ -94723,18 +94723,18 @@
         "is_visible": true
     },
     {
-        "date_updated": 1724946652,
+        "date_updated": 1725003635,
         "url": "https://jobs.ericsson.com/careers/752785",
         "company_name": "Ericsson",
         "title": "Software Developer Intern",
         "locations": [
-            "Plano, Texas, United States"
+            "Plano, TX"
         ],
         "terms": [
             "Summer 2025"
         ],
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": false,
         "source": "LuaanNguyen",
         "id": "0c0cda16-668e-4954-a154-26c2d0b57b34",
         "date_posted": 1724946652,
@@ -94983,7 +94983,7 @@
             "Spring 2025",
             "Summer 2025"
         ],
-        "date_updated": 1724888345,
+        "date_updated": 1725003715,
         "date_posted": 1724888345,
         "url": "https://workiva.wd1.myworkdayjobs.com/careers/job/USA---Remote/XMLNAME-2025-Spring-and-Summer-Intern---Business-Intelligence-Analyst_R9185",
         "locations": [
@@ -94991,7 +94991,7 @@
         ],
         "company_url": "https://simplify.jobs/c/Workiva",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "Does Not Offer Sponsorship"
     },
     {
         "source": "Simplify",
@@ -95032,5 +95032,62 @@
         "company_url": "https://simplify.jobs/c/Splunk",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1725002962,
+        "url": "https://app.ripplematch.com/v2/public/job/09e1dc0b/details",
+        "company_name": "MongoDB",
+        "title": "Software Engineering, Product - Intern - 2025",
+        "locations": [
+            "New York, NY"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "Ziqi-M",
+        "id": "1b375072-fc7d-42ce-8a36-e815f3f04de0",
+        "date_posted": 1725002962,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1725004267,
+        "url": "https://jobs.danaher.com/global/en/job/DANAGLOBALR1271899EXTERNALENGLOBAL/Software-Engineering-Intern",
+        "company_name": "Leica Biosystems",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "Vista, CA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "Ziqi-M",
+        "id": "2c24f7f5-222b-44c7-bc8b-a7b0baa03397",
+        "date_posted": 1725004267,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1725004312,
+        "url": "https://jobs.elcompanies.com/estee-lauder-companies/jobs/2410822",
+        "company_name": "Est\u00e9e Lauder",
+        "title": "Summer 2025 Intern, Information Technology A.I.",
+        "locations": [
+            "United States"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "Ziqi-M",
+        "id": "3a579f0c-7123-4ecc-b645-44e0b715c501",
+        "date_posted": 1725004312,
+        "company_url": "",
+        "is_visible": true
     }
 ]
