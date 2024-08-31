@@ -16135,7 +16135,7 @@
         "company_name": "Zello",
         "id": "0c77230c-f2f8-4c83-b95a-88c36a14bbc5",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -46130,7 +46130,7 @@
         "company_name": "Watershed",
         "id": "fd1e2da3-d3e1-4d0c-8943-9733852ab923",
         "title": "Software engineer \u2013 Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -95404,7 +95404,7 @@
         "terms": [
             "Summer 2025"
         ],
-        "date_updated": 1725045888,
+        "date_updated": 1725079556,
         "date_posted": 1724973328,
         "url": "https://boards.greenhouse.io/embed/job_app?token=6209863",
         "locations": [
@@ -95412,7 +95412,7 @@
         ],
         "company_url": "https://simplify.jobs/c/Dropbox",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "Does Not Offer Sponsorship"
     },
     {
         "source": "Simplify",
@@ -95432,5 +95432,64 @@
         "company_url": "https://simplify.jobs/c/IBKR",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Zip",
+        "id": "5147b477-34a0-43c6-8443-664728e41c9b",
+        "title": "Software Engineer Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725061374,
+        "date_posted": 1725061374,
+        "url": "https://job-boards.greenhouse.io/zip/jobs/5268304004",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Zip",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1725075359,
+        "url": "https://www.amazon.jobs/en/jobs/2750122/amazon-robotics-software-development-engineer-sde-intern-summer-2025",
+        "company_name": "Amazon",
+        "title": "Amazon Robotics - Software Development Engineer (SDE) Intern",
+        "locations": [
+            "Westborough, MA",
+            "North Reading, MA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "Ziqi-M",
+        "id": "803e4a6d-e082-472d-825a-d2f46dffb243",
+        "date_posted": 1725075359,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1725080023,
+        "url": "https://www.amazon.jobs/en/jobs/2750122/amazon-robotics-software-development-engineer-sde-intern-summer-2025?cmpid=SPLICX0248M",
+        "company_name": "Amazon",
+        "title": "Amazon Robotics - Software Development Engineer (SDE) Intern",
+        "locations": [
+            "Westborough, MA",
+            "North Reading, MA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "b70f645b-ba01-4fa0-b074-0332bd8da1ad",
+        "date_posted": 1725079867,
+        "company_url": "",
+        "is_visible": false
     }
 ]
