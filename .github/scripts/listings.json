@@ -95491,5 +95491,44 @@
         "date_posted": 1725079867,
         "company_url": "",
         "is_visible": false
+    },
+    {
+        "date_updated": 1725130251,
+        "url": "https://zebra.eightfold.ai/careers?src=srm_linkedin_jb&domain=zebra.com&pid=343621946480",
+        "company_name": "Zebra Technologies",
+        "title": "2025 Summer Internship - Software Engineer, RFID",
+        "locations": [
+            "Holtsville, NY"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "bf40b0bf-e8d0-4dc1-999a-2fe9c0b81cbc",
+        "date_posted": 1725130251,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1725130461,
+        "url": "https://jobs.siemens.com/careers/job/563156120579876?hl=en&domain=siemens.com",
+        "company_name": "Siemens",
+        "title": "Grid Software Internship: Software Developer",
+        "locations": [
+            "Remote in USA",
+            "Minnetonka, MN"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "e305e717-2858-4a8e-929a-fc0c6e789a47",
+        "date_posted": 1725130461,
+        "company_url": "",
+        "is_visible": true
     }
 ]
