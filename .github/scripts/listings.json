@@ -93417,7 +93417,7 @@
         "company_name": "Sony Music Entertainment UK",
         "id": "18a8669b-316b-4a2e-a76a-87888296bc2e",
         "title": "Insight & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -95707,5 +95707,26 @@
         "date_posted": 1725251234,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "WhatNot",
+        "id": "a7df406b-4cdc-471c-b1c0-5910a13cb4b6",
+        "title": "Software Engineer Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725261081,
+        "date_posted": 1725261081,
+        "url": "https://job-boards.greenhouse.io/whatnot/jobs/5247639004",
+        "locations": [
+            "SF",
+            "LA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/WhatNot",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]

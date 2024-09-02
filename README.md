@@ -4,6 +4,7 @@
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| **[WhatNot](https://simplify.jobs/c/WhatNot)** | Software Engineer Intern - Summer 2025 | SF</br>LA</br>NYC | <a href="https://job-boards.greenhouse.io/whatnot/jobs/5247639004?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/a7df406b-4cdc-471c-b1c0-5910a13cb4b6?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Sep 02 |
 | **[Watershed](https://simplify.jobs/c/Watershed)** | Software Engineer Intern | San Francisco, CA | <a href="https://job-boards.greenhouse.io/watershedclimate/jobs/4096445004?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 01 |
 | Qorvo | Software Engineer Intern | San Jose, CA, US | <a href="https://careers.qorvo.com/job/Software-Engineering-Intern-CA/1207468600/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 01 |
 | Newrez | Software Engineer Intern | Coppell, TX</br>Onsite | <a href="https://newrez.wd1.myworkdayjobs.com/NRZ/job/TX-Coppell/XMLNAME-2025-Summer-Internship---Software-Engineering_R6412-1?source=APPLICANT_SOURCE-3-158&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 01 |
