@@ -95611,5 +95611,101 @@
         "company_url": "https://simplify.jobs/c/84-51",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1725242569,
+        "url": "https://newrez.wd1.myworkdayjobs.com/NRZ/job/TX-Coppell/XMLNAME-2025-Summer-Internship---Software-Engineering_R6412-1?source=APPLICANT_SOURCE-3-158",
+        "company_name": "Newrez",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Coppell, TX",
+            "Onsite"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "LuaanNguyen",
+        "id": "f9ef44b2-0dbc-477b-a5f7-193cf862933c",
+        "date_posted": 1725242569,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1725245350,
+        "url": "https://amazon.jobs/en/jobs/2740350/data-engineer-summer-internship-2025-us",
+        "company_name": "Amazon",
+        "title": "Data Engineer Intern",
+        "locations": [
+            "USA, WA, Seattle"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "LuaanNguyen",
+        "id": "da995daa-8db8-42d3-b256-889a27d093cf",
+        "date_posted": 1725245350,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1725246425,
+        "url": "https://careers.qorvo.com/job/Software-Engineering-Intern-CA/1207468600/",
+        "company_name": "Qorvo",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "San Jose, CA, US"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "LuaanNguyen",
+        "id": "78b8d6aa-2f94-4622-8058-d269abb8af08",
+        "date_posted": 1725246425,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1725250873,
+        "url": "https://db.recsolu.com/external/requisitions/6D4d0CCEl7qoGsP_YCwqYA",
+        "company_name": "Deutsche Bank",
+        "title": "Deutsche Bank Internship Programme \u2013 Quants \u2013 New York \u2013 2025",
+        "locations": [
+            "New York, NY"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "3575c28b-db93-4ee2-95c0-fb980b69820d",
+        "date_posted": 1725250873,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1725251234,
+        "url": "https://job-boards.greenhouse.io/watershedclimate/jobs/4096445004",
+        "company_name": "Watershed",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "LuaanNguyen",
+        "id": "575cc211-7838-4b9c-ab1e-d0a9f3cdaf80",
+        "date_posted": 1725251234,
+        "company_url": "",
+        "is_visible": true
     }
 ]
