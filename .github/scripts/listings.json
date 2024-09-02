@@ -95228,7 +95228,7 @@
         "company_name": "Leidos",
         "id": "d34122ef-c876-4402-94df-2edf967eb6b5",
         "title": "AI / ML Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -95726,6 +95726,44 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/WhatNot",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Maven Securities",
+        "id": "a92912bf-c095-4747-91c4-384e504e7657",
+        "title": "Software Developer Summer Internship London 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725291672,
+        "date_posted": 1725291672,
+        "url": "https://boards.greenhouse.io/mavensecuritiesholdingltd/jobs/5879805",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Maven-Securities",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Maven Securities",
+        "id": "2a9f4f83-6942-497f-8fb1-542bf5692e58",
+        "title": "Trader Summer Internship London 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725291672,
+        "date_posted": 1725291672,
+        "url": "https://boards.greenhouse.io/mavensecuritiesholdingltd/jobs/5883572",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Maven-Securities",
         "is_visible": true,
         "sponsorship": "Other"
     }
