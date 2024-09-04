@@ -88032,7 +88032,7 @@
         "company_name": "Kargo",
         "id": "8b6fb24e-d7ce-444e-a6a0-d5f82e59d4d2",
         "title": "Backend Software Engineer \u2013 Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -96595,5 +96595,62 @@
         "company_url": "https://simplify.jobs/c/Epic-Games",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "SpaceX",
+        "id": "1a2ce0d2-4334-4c7a-9576-c178328358a0",
+        "title": "Spring 2025 Software Engineering Internship/Co-op",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1725420661,
+        "date_posted": 1725420661,
+        "url": "https://boards.greenhouse.io/spacex/jobs/7623212002",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/SpaceX",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "SpaceX",
+        "id": "47c2dea3-2984-4563-b92b-71218b5180c4",
+        "title": "Summer 2025 Software Engineering Internship/Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725423677,
+        "date_posted": 1725420725,
+        "url": "https://boards.greenhouse.io/spacex/jobs/7623213002",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/SpaceX",
+        "is_visible": true,
+        "sponsorship": "U.S. Citizenship is Required"
+    },
+    {
+        "date_updated": 1725423550,
+        "url": "https://boards.greenhouse.io/rsinternboard/jobs/7612314002?gh_jid=7612314002&gh_src=96fcdd272us",
+        "company_name": "Relativity Space",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Long Beach, CA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "ca203c1f-f0af-4489-84fa-6258a34f9373",
+        "date_posted": 1725423550,
+        "company_url": "",
+        "is_visible": true
     }
 ]
