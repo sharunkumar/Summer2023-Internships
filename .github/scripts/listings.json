@@ -91273,7 +91273,7 @@
         "company_name": "Salesforce",
         "id": "fa063a1b-3bfe-48f4-a5e9-6cc2d0253b0a",
         "title": "Summer 2025 Intern - Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -96652,5 +96652,43 @@
         "date_posted": 1725423550,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Red Hat",
+        "id": "de595ad4-7fc5-4375-86b3-05cd270205b0",
+        "title": "Data Engineer Internship",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725447995,
+        "date_posted": 1725447995,
+        "url": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Data-Engineer-Internship_R-041161",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Red-Hat",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Red Hat",
+        "id": "8cae4931-3476-4872-be96-725d20970d9f",
+        "title": "Data Science Internship",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725447997,
+        "date_posted": 1725447997,
+        "url": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Data-Science-Internship_R-041162",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Red-Hat",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
