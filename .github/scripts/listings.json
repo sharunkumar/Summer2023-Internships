@@ -92748,7 +92748,7 @@
         "company_name": "Chicago Trading Company",
         "id": "be0b643c-7e67-46db-ba2f-187ee3617805",
         "title": "Software Engineer Internship - Summer 2025 - Chicago",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -92786,7 +92786,7 @@
         "company_name": "Chicago Trading Company",
         "id": "c4a49da7-88a9-4943-a484-e284bcd64301",
         "title": "Quant Trading Associate Internship - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -93740,7 +93740,7 @@
         "company_name": "DriveTime",
         "id": "6675a0c9-148e-4095-ad5d-e711c67a3daa",
         "title": "Data Analytics Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -95791,7 +95791,7 @@
         "company_name": "Epic Games",
         "id": "652c7422-7682-4b0f-9992-3112df9b6b89",
         "title": "Tools Programmer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -96195,7 +96195,7 @@
         "company_name": "Dev Technology Group",
         "id": "26652ed4-7caa-46ad-81f7-af24cd2af336",
         "title": "Summer M365/Power Platform Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -96330,7 +96330,7 @@
         "company_name": "Epic Games",
         "id": "7fc161f8-fe00-4e1b-9509-5404fb23942a",
         "title": "Gameplay Programmer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -96842,6 +96842,258 @@
             "Boston, MA"
         ],
         "company_url": "https://simplify.jobs/c/InterSystems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Viam",
+        "id": "a94d71a1-7cab-48a5-8b45-1ab70dbe84cc",
+        "title": "Software Engineering Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725477167,
+        "date_posted": 1725477167,
+        "url": "https://job-boards.greenhouse.io/viamrobotics/jobs/5237733004",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Viam",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Formlabs",
+        "id": "6b08a958-5af0-469c-9bc6-d8cebecd6142",
+        "title": "Manufacturing Data Analysis Intern - Winter/Spring 2025",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026"
+        ],
+        "date_updated": 1725476665,
+        "date_posted": 1725476665,
+        "url": "https://careers.formlabs.com/job/6208972/apply/?gh_jid=6208972",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Formlabs",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Red Hat",
+        "id": "07a17367-1924-4607-a9ec-cccca35eac92",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725476605,
+        "date_posted": 1725476605,
+        "url": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Software-Engineering-Intern_R-041327",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Red-Hat",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Plexus",
+        "id": "9e96c34b-c9e8-4d70-880a-a3ba400eee9f",
+        "title": "Intern \u2013 Software Engineer - Spring 2025",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1725463037,
+        "date_posted": 1725463037,
+        "url": "https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Raleigh-NC/Intern---Software-Engineer---Spring-2025_R030244",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Plexus",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Visier Solutions",
+        "id": "4ffcee86-9f76-4e96-b15b-d21ac1982986",
+        "title": "Software Developer Co-op - January 2025 to August 2025",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026"
+        ],
+        "date_updated": 1725478885,
+        "date_posted": 1725478885,
+        "url": "https://job-boards.greenhouse.io/visiersolutionsinc/jobs/4399913006",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Visier",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Epic Games",
+        "id": "70948d2c-c10a-492e-a93d-ce5702e32178",
+        "title": "Gameplay Programmer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725480102,
+        "date_posted": 1725480102,
+        "url": "https://job-boards.greenhouse.io/epicgames/jobs/5278907004",
+        "locations": [
+            "Morrisville, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Epic-Games",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CesiumAstro",
+        "id": "4e50b2a3-4737-4a71-b542-8561a1111f36",
+        "title": "Summer 2025 \u2013 Embedded Software Engineering Internship",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725479368,
+        "date_posted": 1725479368,
+        "url": "https://jobs.lever.co/CesiumAstro/8f855c8e-ba44-4d3c-b2ea-1dbc87920887/apply",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/CesiumAstro",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Dun & Bradstreet",
+        "id": "b57eaaa7-328e-48f2-987d-568d0d5a3805",
+        "title": "2025 Summer Internship Program - Technology",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725481531,
+        "date_posted": 1725481531,
+        "url": "https://jobs.lever.co/dnb/1f4e2397-33cb-4304-b19a-7533a9b2dd97/apply",
+        "locations": [
+            "Austin, TX",
+            "Jacksonville, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Dun-and-Bradstreet",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Epic Games",
+        "id": "5d109a20-a190-4f04-b667-c3b9991b7497",
+        "title": "Tools Programmer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725484197,
+        "date_posted": 1725484197,
+        "url": "https://job-boards.greenhouse.io/epicgames/jobs/5281373004",
+        "locations": [
+            "Morrisville, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Epic-Games",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1725485261,
+        "url": "https://explore.jobs.netflix.net/careers/job/790298739171",
+        "company_name": "Netflix",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Los Gatos, CA",
+            "Los Angeles, CA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "dubemnwiz",
+        "id": "dc6e1f88-88eb-4a2e-baeb-ca67e8b755c4",
+        "date_posted": 1725485261,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1725492795,
+        "url": "https://careers-iridium.icims.com/jobs/4049/intern%2c-software-development/job?mode=submit_apply&ref=Simplify&src=Simplify",
+        "company_name": "Iridium",
+        "title": "Software Development Intern",
+        "locations": [
+            "Chandler, AZ"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "LuaanNguyen",
+        "id": "26260f1e-4576-47aa-8951-883c5b370653",
+        "date_posted": 1725492795,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Matroid",
+        "id": "5b88431b-c2d7-4bde-9683-761298005dba",
+        "title": "Full Stack Engineer Intern for Computer Vision Products - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725494498,
+        "date_posted": 1725494498,
+        "url": "https://matroid.breezy.hr/p/79e27f665d2b/apply",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Matroid",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Anyscale",
+        "id": "1807758d-9ed5-470b-9889-2380f63cb4d7",
+        "title": "Software Engineer \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725496436,
+        "date_posted": 1725496436,
+        "url": "https://jobs.lever.co/anyscale/f26ba61d-729e-4572-a2bc-a29aaefc0bee/apply",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Anyscale",
         "is_visible": true,
         "sponsorship": "Other"
     }
