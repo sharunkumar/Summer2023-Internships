@@ -4759,7 +4759,7 @@
         "company_name": "Palantir",
         "id": "61538fd3-f0aa-476a-a62f-e101cd0f4c6f",
         "title": "Forward Deployed Software Engineer \u2013 Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -5577,7 +5577,7 @@
         "company_name": "Palantir",
         "id": "0503901e-622f-4d1b-b7f9-29d44e59eaab",
         "title": "Forward Deployed Software Engineer \u2013 Internship - US Government",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -5615,7 +5615,7 @@
         "company_name": "Palantir",
         "id": "d58f726c-620e-4c0c-89d7-8b54421280ab",
         "title": "Forward Deployed Software Engineer \u2013 Internship - US Government",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -5653,7 +5653,7 @@
         "company_name": "Palantir",
         "id": "e0e2d81b-c99d-4f8d-a2fa-73f8125abc80",
         "title": "Forward Deployed Software Engineer \u2013 Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -68284,7 +68284,7 @@
         "company_name": "Openmesh Networks",
         "id": "6e6199cd-9df5-47aa-b837-d5c18bd84d49",
         "title": "Researcher in Zero Knowledge Protocols Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -72504,7 +72504,7 @@
         "company_name": "WebFX",
         "id": "f57fcc74-19dd-47a4-9d11-99e5fd1a32e0",
         "title": "Web Project Coordinator Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -77545,7 +77545,7 @@
         "company_name": "Openmesh Networks",
         "id": "51ac41fa-eeb5-4735-af9a-ba85e5346a8f",
         "title": "Junior Analyst Intern - Mathematical Sciences - BA/MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -86342,7 +86342,7 @@
         "company_name": "Capstone Investment Advisors",
         "id": "bff246c1-e508-48d6-8afb-ef8c3d412f71",
         "title": "2025 Summer Internship - Quantitative Risk",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -89956,7 +89956,7 @@
         "company_name": "Rivos",
         "id": "9f55fb4b-5ccf-48ff-9654-a2fd4b002062",
         "title": "Silicon Formal Verification \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -91318,7 +91318,7 @@
         "company_name": "Capstone Investment Advisors",
         "id": "c050b237-c757-4fb8-be33-9434aff91618",
         "title": "2025 Summer Internship - Quantitative Risk Technology",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -91982,7 +91982,7 @@
         "company_name": "Intel",
         "id": "4cc0f3c7-4e1b-49a2-883c-fd6042e7dee1",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -92647,7 +92647,7 @@
         "company_name": "Salesforce",
         "id": "3d0efd81-c286-46aa-93be-ee58e76b91aa",
         "title": "Summer 2025 Intern - Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -92729,7 +92729,7 @@
         "company_name": "Chicago Trading Company",
         "id": "37f9b264-0f7c-498f-a8f8-a3f17bc434c0",
         "title": "Software Engineer Internship - Summer 2025 - New York",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -93569,7 +93569,7 @@
         "company_name": "Plexus",
         "id": "8c5ec152-c856-471c-9e30-edabb29ffcdd",
         "title": "Intern \u2013 Manufacturing Systems Engineer - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -94148,7 +94148,7 @@
         "company_name": "DV Trading",
         "id": "ef491a99-b19a-4e4d-b330-0c01b5fda069",
         "title": "2025 Summer Internship - Trader - DV Energy",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -94453,7 +94453,7 @@
         "company_name": "Stryker",
         "id": "bfc0e1c7-165e-4391-959b-be29352c580f",
         "title": "Kettering University Engineering Co-op - B Section - R&D - Npd",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -94978,7 +94978,7 @@
         "company_name": "Workiva",
         "id": "7af034fd-d034-46ee-a1e0-1c7f9c5af440",
         "title": "2025 Spring and Summer Intern - Sales Business Intelligence Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025"
@@ -96252,7 +96252,7 @@
         "company_name": "Blue Origin",
         "id": "a280c71e-f8ce-451f-a324-8947acca98f6",
         "title": "Summer 2025 Software Applications Engineering Intern - Undergraduate",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -96986,7 +96986,7 @@
         "company_name": "Dun & Bradstreet",
         "id": "b57eaaa7-328e-48f2-987d-568d0d5a3805",
         "title": "2025 Summer Internship Program - Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -97083,7 +97083,7 @@
         "company_name": "Anyscale",
         "id": "1807758d-9ed5-470b-9889-2380f63cb4d7",
         "title": "Software Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -97322,6 +97322,208 @@
             "Philadelphia, PA"
         ],
         "company_url": "https://simplify.jobs/c/Fort-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Palantir",
+        "id": "fe77f108-84fc-48fd-bc64-dfd8921d203f",
+        "title": "Forward Deployed Software Engineer \u2013 Internship - Defense Tech",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1722930369,
+        "date_posted": 1722930369,
+        "url": "https://jobs.lever.co/palantir/cccfe1bd-f15b-4fe5-b044-c793e7961c1b/apply",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Oshkosh",
+        "id": "761bb486-4c95-41f5-ad69-0bc24f1a95ef",
+        "title": "Engineering Intern - Autonomy - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725477776,
+        "date_posted": 1725477776,
+        "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Engineering-Intern---Autonomy_R32222",
+        "locations": [
+            "Oshkosh, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Oshkosh",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Stryker",
+        "id": "22acdd5c-fcf3-4201-a6ec-66c42aed2968",
+        "title": "Summer 2025 Intern - Software Documentation Design - Texas",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725393896,
+        "date_posted": 1725393896,
+        "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Flower-Mound-Texas/Summer-2025-Intern---Software-Documentation-Design---Texas_R527512",
+        "locations": [
+            "Flower Mound, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Stryker",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Akuna Capital",
+        "id": "36410d58-e379-40c3-aa0c-726b28199c7f",
+        "title": "Quantitative Strategist Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1723167202,
+        "date_posted": 1721085367,
+        "url": "https://www.akunacapital.com/job-details?gh_jid=5744549",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Akuna-Capital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DataGrail",
+        "id": "1e61ef39-2c60-4b6d-b8d7-40133822f452",
+        "title": "Managed Services Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725554697,
+        "date_posted": 1725554697,
+        "url": "https://boards.greenhouse.io/datagrail/jobs/6109859003",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/DataGrail",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "National Information Solutions Cooperative (NISC)",
+        "id": "129f0856-64e2-46e3-ba9a-2dab5b0c08b9",
+        "title": "Intern \u2013 Software Development - IOS",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1725555722,
+        "date_posted": 1725555722,
+        "url": "https://boards.greenhouse.io/nisc/jobs/6235211",
+        "locations": [
+            "Bismarck, ND",
+            "Lake St Louis, MO",
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/National-Information-Solutions-Cooperative-(NISC)",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "National Information Solutions Cooperative (NISC)",
+        "id": "3ce96083-8fbc-4266-9dc7-c7caa50d1c2c",
+        "title": "Intern \u2013 Software Development",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1725555529,
+        "date_posted": 1725555529,
+        "url": "https://boards.greenhouse.io/nisc/jobs/6138297",
+        "locations": [
+            "Bismarck, ND",
+            "Lake St Louis, MO",
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/National-Information-Solutions-Cooperative-(NISC)",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "National Information Solutions Cooperative (NISC)",
+        "id": "27d647d4-4a79-466a-934e-52a80965af92",
+        "title": "Intern \u2013 Database Conversion Programming",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1725555350,
+        "date_posted": 1725555350,
+        "url": "https://boards.greenhouse.io/nisc/jobs/6235377",
+        "locations": [
+            "Bismarck, ND",
+            "Lake St Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/National-Information-Solutions-Cooperative-(NISC)",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "National Information Solutions Cooperative (NISC)",
+        "id": "7b1fc6c5-1c0e-4040-b988-fe5bf5680e20",
+        "title": "Intern \u2013 Software Development - Machine Learning",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1725555021,
+        "date_posted": 1725555021,
+        "url": "https://boards.greenhouse.io/nisc/jobs/6235244",
+        "locations": [
+            "Bismarck, ND",
+            "Lake St Louis, MO",
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/National-Information-Solutions-Cooperative-(NISC)",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Gilead Sciences",
+        "id": "f4d6d44b-4dd6-4d32-a0be-aa91107e1383",
+        "title": "Intern \u2013 IT - Data & Analytics - Pdm - Supply Chain & Manufacturing",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "date_updated": 1725556058,
+        "date_posted": 1725556058,
+        "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---IT--Data---Analytics---PDM--Supply-Chain---Manufacturing-_R0042294",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Gilead-Sciences",
         "is_visible": true,
         "sponsorship": "Other"
     }
