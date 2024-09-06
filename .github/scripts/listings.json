@@ -91963,7 +91963,7 @@
         "company_name": "Intel",
         "id": "4fb5070e-9cc4-4d45-82b0-0d84f5a5a440",
         "title": "Software Engineer \u2013 PEY Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -96061,7 +96061,7 @@
         "company_name": "Dev Technology Group",
         "id": "5bdff058-4a4b-4c2d-b45a-5875789e04db",
         "title": "Summer Servicenow Application Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -96080,7 +96080,7 @@
         "company_name": "Dev Technology Group",
         "id": "51f69fa4-d93b-440c-8b44-505066e242e3",
         "title": "Summer Java Application Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -96470,7 +96470,7 @@
         "company_name": "Dev Technology Group",
         "id": "bde2eed1-2719-4a13-938e-6a527bc5af75",
         "title": "Summer AI/ML Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -97311,7 +97311,7 @@
         "company_name": "Fort Robotics",
         "id": "982c6174-ef84-478e-98f5-49ba6e75c190",
         "title": "Co-Op & Internship Resume Submissions",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -97814,5 +97814,81 @@
         "company_url": "https://simplify.jobs/c/Earnin",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1725593668,
+        "url": "https://grnh.se/6ece2b6e1us",
+        "company_name": "Stevens Capital Management LP",
+        "title": "Quant Intern",
+        "locations": [
+            "Radnor, PA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "insikizi23",
+        "id": "1bce2c48-9490-45da-b757-068bed8627bc",
+        "date_posted": 1725593668,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1725593701,
+        "url": "https://grnh.se/9a5dd53e1us",
+        "company_name": "Stevens Capital Management LP",
+        "title": "Developer Intern",
+        "locations": [
+            "Radnor, PA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "insikizi23",
+        "id": "4f119462-71fa-4165-ba58-fa617e051552",
+        "date_posted": 1725593701,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Blue Origin",
+        "id": "b213b26e-2419-47e4-a508-54c1fd96964c",
+        "title": "Summer 2025 Honeybee Robotics Software Engineering Intern - Undergraduate",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725594287,
+        "date_posted": 1725594287,
+        "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Los-Angeles-CA/Summer-2025-Honeybee-Robotics-Software-Engineering-Intern---Undergraduate_R46845",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Blue-Origin",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1725598837,
+        "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4388985101?gh_src=f754f242teu",
+        "company_name": "Veeam Software",
+        "title": "Salesforce Engineer Intern",
+        "locations": [
+            "Alpharetta, GA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "0088bb94-fe23-4f03-a890-c39d4192271b",
+        "date_posted": 1725598837,
+        "company_url": "",
+        "is_visible": true
     }
 ]
