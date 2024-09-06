@@ -51567,7 +51567,7 @@
         "company_name": "Point72",
         "id": "dc8c7221-ace8-40d1-9e01-255a9203e851",
         "title": "2025 Point72 Academy Investment Analyst Summer Internship Program - US",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -77526,7 +77526,7 @@
         "company_name": "Openmesh Networks",
         "id": "fba6184f-85db-480a-b2f8-b4599a9b7461",
         "title": "Big Data Intern - Data Processing and Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -81285,7 +81285,7 @@
         "company_name": "D2L",
         "id": "fd22c957-25d4-4872-b65c-0c52115d00f9",
         "title": "Software Developer \u2013 Fall 2024 Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2024"
         ],
@@ -81880,7 +81880,7 @@
         "company_name": "Openmesh Networks",
         "id": "19e4ace5-2363-4ba4-b1d9-5568f2736a12",
         "title": "Data Analyst Intern - Data Insights and Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -87087,7 +87087,7 @@
         "company_name": "Palantir",
         "id": "9a6e1962-5442-494d-b3bd-c93ebb7f642f",
         "title": "Semester at Palantir \u2013 Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2024"
         ],
@@ -92729,7 +92729,7 @@
         "company_name": "Chicago Trading Company",
         "id": "37f9b264-0f7c-498f-a8f8-a3f17bc434c0",
         "title": "Software Engineer Internship - Summer 2025 - New York",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -94167,7 +94167,7 @@
         "company_name": "DV Trading",
         "id": "2a49cf78-6b4f-4f55-9daa-cd4d1b2493fa",
         "title": "2025 Summer Internship - Trader - DV Energy",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -96061,7 +96061,7 @@
         "company_name": "Dev Technology Group",
         "id": "5bdff058-4a4b-4c2d-b45a-5875789e04db",
         "title": "Summer Servicenow Application Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -96080,7 +96080,7 @@
         "company_name": "Dev Technology Group",
         "id": "51f69fa4-d93b-440c-8b44-505066e242e3",
         "title": "Summer Java Application Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -96470,7 +96470,7 @@
         "company_name": "Dev Technology Group",
         "id": "bde2eed1-2719-4a13-938e-6a527bc5af75",
         "title": "Summer AI/ML Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -97216,7 +97216,7 @@
         "company_name": "Openmesh Networks",
         "id": "7e72bc16-ba0e-4047-b7a7-7c8f4f620d66",
         "title": "Smart Contract Development Intern - Blockchain Technology and Security",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -97524,6 +97524,294 @@
             "San Mateo, CA"
         ],
         "company_url": "https://simplify.jobs/c/Gilead-Sciences",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Epic Games",
+        "id": "b4b438a0-07ed-4fa1-bb56-9d148fa06e2f",
+        "title": "Salesforce Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725566064,
+        "date_posted": 1725566064,
+        "url": "https://job-boards.greenhouse.io/epicgames/jobs/5267665004",
+        "locations": [
+            "Morrisville, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Epic-Games",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Epic Games",
+        "id": "0ef984c0-4193-44a8-a660-f0e1533a7682",
+        "title": "Engine Programmer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725566049,
+        "date_posted": 1725566049,
+        "url": "https://job-boards.greenhouse.io/epicgames/jobs/5285509004",
+        "locations": [
+            "Morrisville, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Epic-Games",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Epic Games",
+        "id": "3495de9e-6fef-4876-8fa4-f78cc6a873c1",
+        "title": "Engine Programmer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725566048,
+        "date_posted": 1725566048,
+        "url": "https://job-boards.greenhouse.io/epicgames/jobs/5285503004",
+        "locations": [
+            "Morrisville, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Epic-Games",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Epic Games",
+        "id": "06a7f603-2373-4623-829c-ad6406287f5e",
+        "title": "Engine Programmer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725566047,
+        "date_posted": 1725566047,
+        "url": "https://job-boards.greenhouse.io/epicgames/jobs/5285486004",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Epic-Games",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DriveTime",
+        "id": "d50d8b02-3fc5-40a1-80d1-945c93a1ee16",
+        "title": "Data Science Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725565656,
+        "date_posted": 1725565656,
+        "url": "https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Data-Science-Intern--Summer-2025-_R9320",
+        "locations": [
+            "Texas",
+            "Arizona"
+        ],
+        "company_url": "https://simplify.jobs/c/drivetime",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Allegion",
+        "id": "4cf9ed52-4fbd-4d41-8960-f2098db2c092",
+        "title": "Firmware Engineer \u2013 Summer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1725566678,
+        "date_posted": 1725566678,
+        "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Hague-Rd/Firmware-Engineer---Summer-Intern_JR30269",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/allegion",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "National Information Solutions Cooperative (NISC)",
+        "id": "6865821a-2a3d-4093-9c0a-7cb07888d7e9",
+        "title": "Intern \u2013 Applications & Data Analyst",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1725578666,
+        "date_posted": 1725578666,
+        "url": "https://boards.greenhouse.io/nisc/jobs/6235434",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/National-Information-Solutions-Cooperative-(NISC)",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Genesis Therapeutics",
+        "id": "afba7098-7508-4a1a-9426-f55103bcfb3f",
+        "title": "Software Engineer Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725579841,
+        "date_posted": 1725579841,
+        "url": "https://jobs.lever.co/genesistherapeutics/d13c7dea-6c8c-4741-9220-a6dd6300a175/apply",
+        "locations": [
+            "Burlingame, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Genesis-Thera",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Appian",
+        "id": "45274461-7c5c-446d-9a28-a9510ec349c5",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725580728,
+        "date_posted": 1725580728,
+        "url": "https://boards.greenhouse.io/appian/jobs/6236838",
+        "locations": [
+            "McLean, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Appian",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Groq",
+        "id": "c26cd0b6-0a60-4dcf-94a3-d061534ef3a3",
+        "title": "Winter Internship Opportunities",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1725580257,
+        "date_posted": 1725580257,
+        "url": "https://groq.com/careers?gh_jid=6107171003",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Groq",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Epic Games",
+        "id": "173e760d-9ece-465f-bbe7-81067363a494",
+        "title": "Engine Programmer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725566046,
+        "date_posted": 1725566046,
+        "url": "https://job-boards.greenhouse.io/epicgames/jobs/5285492004",
+        "locations": [
+            "Morrisville, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Epic-Games",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Snowflake",
+        "id": "743ad175-e435-430b-8cd1-0b09d8e6b054",
+        "title": "Software Engineer Intern - Pey",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1725047033,
+        "date_posted": 1725047033,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7618740002",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Snowflake",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hewlett Packard (HP)",
+        "id": "57164b0d-178f-4775-8056-1f3cbfe5c9ea",
+        "title": "Imaging and Print Software Internship",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725580838,
+        "date_posted": 1725580838,
+        "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Vancouver-Washington-United-States-of-America/Imaging-and-Print-Software-Internship_3141394",
+        "locations": [
+            "Boise, ID",
+            "Vancouver, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Motorola",
+        "id": "5496d160-478f-40cb-8fef-6a0cfbeff6d7",
+        "title": "Android Applications Developer Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725582491,
+        "date_posted": 1725582491,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Android-Applications-Developer-Intern---Summer-2025_R49633",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "EarnIn",
+        "id": "35dbb9db-a889-4211-8e9d-234ff8db2483",
+        "title": "Machine Learning Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725582098,
+        "date_posted": 1725582098,
+        "url": "https://boards.greenhouse.io/earnin/jobs/6233802",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Earnin",
         "is_visible": true,
         "sponsorship": "Other"
     }
