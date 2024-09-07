@@ -80032,7 +80032,7 @@
         "company_name": "Palantir",
         "id": "860d8c08-7297-4a35-9f32-604912fd2830",
         "title": "Deployment Strategist \u2013 Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -96525,7 +96525,7 @@
         "company_name": "Chamberlain Group",
         "id": "0c5d4d4c-355a-4a29-9caf-1aad0449f219",
         "title": "Intern \u2013 Myq Middleware - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -97983,6 +97983,391 @@
             "Washington, DC"
         ],
         "company_url": "https://simplify.jobs/c/AccentureFederalServices",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Reliable Robotics",
+        "id": "918c28d7-dfd0-41bb-9e38-36d2551c95cd",
+        "title": "Flight Software Engineer \u2013 Summer 2025 Internship",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725650967,
+        "date_posted": 1725650967,
+        "url": "https://jobs.lever.co/reliable/816a551e-e70f-4e28-9d59-220326d81d32/apply",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Reliable-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Reliable Robotics",
+        "id": "217a0bf9-9605-4551-941b-9e97cc8b486f",
+        "title": "Embedded Systems Engineer \u2013 Summer 2025 Internship",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725650964,
+        "date_posted": 1725650964,
+        "url": "https://jobs.lever.co/reliable/0e4ad15e-ef30-4a91-a48f-65f352f8a936/apply",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Reliable-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Lyft",
+        "id": "d6152489-a4ce-46db-ab99-1171ea64a91e",
+        "title": "Software Engineer Intern - Frontend - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725650577,
+        "date_posted": 1725650577,
+        "url": "https://app.careerpuck.com/job-board/lyft/job/7617883002?gh_jid=7617883002",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Lyft",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Lyft",
+        "id": "40eebfcb-3f83-4691-a8b5-ee93e2b7f9d0",
+        "title": "Software Engineer Intern - Backend - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725650577,
+        "date_posted": 1725650577,
+        "url": "https://app.careerpuck.com/job-board/lyft/job/7608809002?gh_jid=7608809002",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Lyft",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Lyft",
+        "id": "6a1f18c7-a96d-4d28-abbc-37e66769a113",
+        "title": "Software Engineer Intern - Backend - Toronto - Canada - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725650576,
+        "date_posted": 1725650576,
+        "url": "https://app.careerpuck.com/job-board/lyft/job/7612143002?gh_jid=7612143002",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Lyft",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "5e667339-e653-40f1-9b3b-50e34cd77e74",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1725651703,
+        "date_posted": 1725651703,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Software-Engineer-Intern_R-00143150",
+        "locations": [
+            "Maryland",
+            "Illinois"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "f18dd843-d90e-4557-abdc-c7a6938f327a",
+        "title": "Data Engineer/Analyst Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1725651707,
+        "date_posted": 1725651707,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Shiloh-IL/Data-Engineer-Analyst-Intern_R-00143154",
+        "locations": [
+            "O'Fallon, IL",
+            "Illinois"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "a15487ea-5f80-46f1-a4ba-1693c8b87b9a",
+        "title": "Network Engineering/Software Development Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1725651700,
+        "date_posted": 1725651700,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Shiloh-IL/Network-Engineering-Software-Development-Intern_R-00143151-1",
+        "locations": [
+            "O'Fallon, IL",
+            "Illinois"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CoVar",
+        "id": "87b9fcde-0dc8-4fed-88bc-ba8a41970d84",
+        "title": "Machine Learning Internship - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725651588,
+        "date_posted": 1725651588,
+        "url": "https://job-boards.greenhouse.io/covar/jobs/4500169007",
+        "locations": [
+            "Durham, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/CoVar",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wealthsimple",
+        "id": "5c96f4ba-9d18-44c5-b741-2e5008430144",
+        "title": "Intern \u2013 Data Science - Winter 2025",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1725652370,
+        "date_posted": 1725652370,
+        "url": "https://jobs.lever.co/wealthsimple/1d39e81a-bcfa-425a-a330-a15c0fcb3446/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Wealthsimple",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Santander",
+        "id": "849851a5-18f9-41e5-af56-94882510ee04",
+        "title": "Finance and Data Analysis Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1725654485,
+        "date_posted": 1725654485,
+        "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Boston/Finance-and-Data-Analysis-Intern_Req1363520-1",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Santander",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wealthsimple",
+        "id": "827b6bc1-630d-4152-a066-454d3b7bbe47",
+        "title": "Intern \u2013 Software Development - Winter 2025",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1725654301,
+        "date_posted": 1725654301,
+        "url": "https://jobs.lever.co/wealthsimple/a1b94931-2fa0-4bde-bd6f-f6bcdb4cbfca/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Wealthsimple",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Stryker",
+        "id": "19a9f4c2-3d49-4f15-a644-28d7831c317a",
+        "title": "Summer 2025 Intern - Data Science - Illinois",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725655584,
+        "date_posted": 1725655584,
+        "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Cary-Illinois/Summer-2025-Intern---Data-Science---Illinois_R527346",
+        "locations": [
+            "Cary, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Stryker",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Stryker",
+        "id": "3d7dc036-7b3d-4ed2-b20f-77b50b5e21a1",
+        "title": "2025 Summer Intern - Data Engineering - California",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725666341,
+        "date_posted": 1725666341,
+        "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/San-Jose-California/XMLNAME-2025-Summer-Intern---Data-Engineering---California_R527423",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Stryker",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Santander",
+        "id": "09895717-9451-49bc-837c-40d83f56e83e",
+        "title": "Technology Intern - Chief Data Office",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1725666166,
+        "date_posted": 1725666166,
+        "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Dorchester/Technology-Intern--Chief-Data-Office_Req1363712-2",
+        "locations": [
+            "Quincy, MA",
+            "Dorchester, Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Santander",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Aigen",
+        "id": "0f444ac3-e644-444a-a08a-28646986cf2d",
+        "title": "Field Robot Operator \u2013 Summer Interns 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725666098,
+        "date_posted": 1725666098,
+        "url": "https://jobs.lever.co/aigen/d4d276f8-f8ae-49c0-89f4-be12ed676ab4/apply",
+        "locations": [
+            "Fargo, ND"
+        ],
+        "company_url": "https://simplify.jobs/c/Aigen",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Okta",
+        "id": "a1a82ac3-0bc1-4466-aab1-a5eee4fccc3c",
+        "title": "Software Engineer Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725665907,
+        "date_posted": 1725665907,
+        "url": "https://www.okta.com/company/careers/opportunity/6233281?gh_jid=6233281",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Okta",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Picknik",
+        "id": "0f704521-8611-4fb3-a142-a2e3d5b1f2cd",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725665902,
+        "date_posted": 1725665902,
+        "url": "https://picknik.ai/job/?gh_jid=6108832003",
+        "locations": [
+            "Boulder, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/6679356e-edc4-4405-9b14-7a99164652af",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Okta",
+        "id": "aeda015e-a11a-414e-8a24-2d25212cda8f",
+        "title": "Machine Learning Engineer Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725665886,
+        "date_posted": 1725665886,
+        "url": "https://www.okta.com/company/careers/opportunity/6202021?gh_jid=6202021",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Okta",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Truveta",
+        "id": "5e780f52-a437-4de3-b1b9-d5a4c143a365",
+        "title": "Undergrad Software Engineering Intern - Service Quality",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1725665429,
+        "date_posted": 1725665429,
+        "url": "https://job-boards.greenhouse.io/truveta/jobs/5306101004",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Truveta",
         "is_visible": true,
         "sponsorship": "Other"
     }
