@@ -24225,7 +24225,7 @@
         "company_name": "STR",
         "id": "a7017717-b47f-4295-9842-1f23733068f4",
         "title": "Sensors Spring/Fall Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2023",
             "Summer 2023",
@@ -85691,7 +85691,7 @@
         "company_name": "Capstone Investment Advisors",
         "id": "f4603ba7-0444-4908-b2a2-da4c2a5ae98a",
         "title": "2025 Summer Internship - Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -92324,7 +92324,7 @@
         "company_name": "CACI",
         "id": "6814e858-9b31-4794-af25-682817c62cd5",
         "title": "Software Engineering Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -98086,7 +98086,7 @@
         "company_name": "Leidos",
         "id": "5e667339-e653-40f1-9b3b-50e34cd77e74",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -98447,5 +98447,85 @@
         "date_posted": 1725852849,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1725895673,
+        "url": "https://careers.ansys.com/job/Canonsburg-Summer-2025-Intern-Software-Development-Release-%28Bachelors%29-PA-15317/1209826700/",
+        "company_name": "Ansys",
+        "title": "Summer 2025 Intern - Software Development - Release (Bachelors)",
+        "locations": [
+            "Canonsburg, PA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "f1109112-025b-4734-bd5f-7580c1d87432",
+        "date_posted": 1725895673,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1725896709,
+        "url": "https://careers.travelers.com/job/20959829/engineering-development-program-edp-intern-hartford-ct/",
+        "company_name": "Travelers Insurance",
+        "title": "EDP Intern (Software, Data, Cloud Platform)",
+        "locations": [
+            "Hartford CT",
+            "St. Paul MN",
+            "Atlanta, GA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "A-K-Erol",
+        "id": "51d6a678-dc7c-46a1-9a09-ba1c5162dfb9",
+        "date_posted": 1725896709,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Grammarly",
+        "id": "c651243d-5389-4864-98e9-b14b4ebda2a5",
+        "title": "Software Engineering Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725897602,
+        "date_posted": 1725897602,
+        "url": "https://job-boards.greenhouse.io/grammarly/jobs/6232386",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Grammarly",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wellmark",
+        "id": "a6b73190-2f69-4981-9adc-6ebcad814c6b",
+        "title": "Data Analytics & Governance Internship",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1725899696,
+        "date_posted": 1725899696,
+        "url": "https://jobs.smartrecruiters.com/WellmarkInc/744000012610681",
+        "locations": [
+            "Des Moines, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/Wellmark",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
