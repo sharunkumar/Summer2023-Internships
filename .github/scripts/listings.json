@@ -94531,7 +94531,7 @@
         "company_name": "Bank of Montreal (BMO)",
         "id": "7eaf7f31-02b4-442d-b346-ad020fe9b736",
         "title": "Data Analyst \u2013 Co-op/Internship - Winter 2025 - 4 Months",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -95453,7 +95453,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1725075359,
+        "date_updated": 1725852804,
         "url": "https://www.amazon.jobs/en/jobs/2750122/amazon-robotics-software-development-engineer-sde-intern-summer-2025",
         "company_name": "Amazon",
         "title": "Amazon Robotics - Software Development Engineer (SDE) Intern",
@@ -95464,8 +95464,8 @@
         "terms": [
             "Summer 2025"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "Ziqi-M",
         "id": "803e4a6d-e082-472d-825a-d2f46dffb243",
         "date_posted": 1725075359,
@@ -98226,7 +98226,7 @@
         "terms": [
             "Summer 2025"
         ],
-        "date_updated": 1725655584,
+        "date_updated": 1725852819,
         "date_posted": 1725655584,
         "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Cary-Illinois/Summer-2025-Intern---Data-Science---Illinois_R527346",
         "locations": [
@@ -98234,7 +98234,7 @@
         ],
         "company_url": "https://simplify.jobs/c/Stryker",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "Does Not Offer Sponsorship"
     },
     {
         "source": "Simplify",
@@ -98428,5 +98428,24 @@
         "company_url": "https://simplify.jobs/c/VastSpace",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1725852849,
+        "url": "https://salesforce.wd12.myworkdayjobs.com/Slack/job/California---San-Francisco/Summer-2025-Intern---Software-Engineer_JR262842-3",
+        "company_name": "Slack",
+        "title": "SWE Intern",
+        "locations": [
+            "Multiple"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "omavashia2005",
+        "id": "d5c7df2c-f7b5-4e5b-bf29-7135e03ad612",
+        "date_posted": 1725852849,
+        "company_url": "",
+        "is_visible": true
     }
 ]
