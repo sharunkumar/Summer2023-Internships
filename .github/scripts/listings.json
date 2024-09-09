@@ -97041,7 +97041,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1725492795,
+        "date_updated": 1725836714,
         "url": "https://careers-iridium.icims.com/jobs/4049/intern%2c-software-development/job?mode=submit_apply&ref=Simplify&src=Simplify",
         "company_name": "Iridium",
         "title": "Software Development Intern",
@@ -97051,8 +97051,8 @@
         "terms": [
             "Summer 2025"
         ],
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "LuaanNguyen",
         "id": "26260f1e-4576-47aa-8951-883c5b370653",
         "date_posted": 1725492795,
@@ -97801,7 +97801,7 @@
         "company_name": "EarnIn",
         "id": "35dbb9db-a889-4211-8e9d-234ff8db2483",
         "title": "Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -98303,11 +98303,12 @@
         "terms": [
             "Summer 2025"
         ],
-        "date_updated": 1725665907,
+        "date_updated": 1725836639,
         "date_posted": 1725665907,
         "url": "https://www.okta.com/company/careers/opportunity/6233281?gh_jid=6233281",
         "locations": [
-            "United States"
+            "Remote in United States",
+            "Remote in Canada"
         ],
         "company_url": "https://simplify.jobs/c/Okta",
         "is_visible": true,
@@ -98408,5 +98409,24 @@
         "date_posted": 1725735422,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "VAST",
+        "id": "b40a2735-de02-4583-93af-a549cc192f0f",
+        "title": "Summer 2025 Internship - Software Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725837055,
+        "date_posted": 1725837055,
+        "url": "https://boards.greenhouse.io/vast/jobs/4401100006",
+        "locations": [
+            "Long Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/VastSpace",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
