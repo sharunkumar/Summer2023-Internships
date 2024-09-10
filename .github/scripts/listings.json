@@ -80032,7 +80032,7 @@
         "company_name": "Palantir",
         "id": "860d8c08-7297-4a35-9f32-604912fd2830",
         "title": "Deployment Strategist \u2013 Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -86665,7 +86665,7 @@
         "company_name": "Radix Trading",
         "id": "948bfd49-4a78-4839-a813-b864222db13a",
         "title": "Quantitative Technologist \u2013 C++ Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -89577,7 +89577,7 @@
         "company_name": "Flow Traders",
         "id": "ea8bb611-8208-4c07-83cc-c95dd6ec119b",
         "title": "Trading Intern Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -92748,7 +92748,7 @@
         "company_name": "Chicago Trading Company",
         "id": "be0b643c-7e67-46db-ba2f-187ee3617805",
         "title": "Software Engineer Internship - Summer 2025 - Chicago",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -92786,7 +92786,7 @@
         "company_name": "Chicago Trading Company",
         "id": "c4a49da7-88a9-4943-a484-e284bcd64301",
         "title": "Quant Trading Associate Internship - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -95577,7 +95577,7 @@
         "company_name": "84.51 Degrees",
         "id": "483c3c62-9171-4405-8ef6-52f02391afcc",
         "title": "Software Engineer \u2013 Co-op Program - Spring 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -98430,17 +98430,24 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1725852849,
+        "date_updated": 1725982670,
         "url": "https://salesforce.wd12.myworkdayjobs.com/Slack/job/California---San-Francisco/Summer-2025-Intern---Software-Engineer_JR262842-3",
         "company_name": "Slack",
         "title": "SWE Intern",
         "locations": [
-            "Multiple"
+            "SF, CA",
+            "Boston, MA",
+            "Seattle, WA",
+            "Burlington, MA",
+            "Bellevue, WA",
+            "Dallas, TX",
+            "Atlanta, GA",
+            "Indianapolis, IN"
         ],
         "terms": [
             "Summer 2025"
         ],
-        "sponsorship": "Offers Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "omavashia2005",
         "id": "d5c7df2c-f7b5-4e5b-bf29-7135e03ad612",
@@ -98650,7 +98657,7 @@
         "company_name": "Tessera Therapeutics",
         "id": "d0c61c83-f979-43a1-9b1f-d4de0e6e8bc0",
         "title": "Co-op \u2013 Data Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Summer 2025"
@@ -98823,7 +98830,7 @@
         "company_name": "ManTech",
         "id": "06320da5-f061-4527-8bca-7d56b7208406",
         "title": "Dod Skillbridge CNO Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -99902,6 +99909,120 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/f3c7b41f-e7d9-4771-b0c7-f54003717b71",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Lumentum",
+        "id": "5455fed9-6bff-4082-8f94-c33917f7baff",
+        "title": "Solution Software System Engineer \u2013 Coop",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725973706,
+        "date_posted": 1725973706,
+        "url": "https://lumentum.wd5.myworkdayjobs.com/en-US/LITE/job/Canada---Ottawa-Bill-Leathem/Solution-Software-System-Engineer--Coop-_2024796",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/0985b121-88fd-4402-aea9-c0c55bfbbc99",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "STR",
+        "id": "e5f5cb34-a776-4cbd-9648-759e9eed070a",
+        "title": "Undergraduate Summer Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1725986472,
+        "date_posted": 1725986472,
+        "url": "https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4399890006",
+        "locations": [
+            "Carlsbad, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/STR",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "STR",
+        "id": "708950e4-abfa-4dd5-bb10-0bf6fe3dcc33",
+        "title": "Undergraduate Summer Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1725986473,
+        "date_posted": 1725986473,
+        "url": "https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4399888006",
+        "locations": [
+            "Melbourne, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/STR",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CACI",
+        "id": "00d06e98-e740-45ee-ba58-ee9287a4631d",
+        "title": "Software Engineering Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725986341,
+        "date_posted": 1725986341,
+        "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-TX-Austin/Software-Engineering-Intern---Summer-2025_301640-1",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RELX",
+        "id": "40006e91-701a-4b8a-9327-f987933f48de",
+        "title": "2025 Data Science Internship",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725985992,
+        "date_posted": 1725985992,
+        "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Raleigh-NC/XMLNAME-2025-Data-Science-Internship_R83590",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/1495091e-1f19-4c30-a48a-5afa4aa5e7dd",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RELX",
+        "id": "ec8a6b0e-fee9-41f6-b597-2771f4577baf",
+        "title": "2025 Software Engineer Internship",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725985990,
+        "date_posted": 1725985990,
+        "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Raleigh-NC/XMLNAME-2025-Software-Engineer-Internship_R83592-1",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/1495091e-1f19-4c30-a48a-5afa4aa5e7dd",
         "is_visible": true,
         "sponsorship": "Other"
     }
