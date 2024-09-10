@@ -92729,7 +92729,7 @@
         "company_name": "Chicago Trading Company",
         "id": "37f9b264-0f7c-498f-a8f8-a3f17bc434c0",
         "title": "Software Engineer Internship - Summer 2025 - New York",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -92786,7 +92786,7 @@
         "company_name": "Chicago Trading Company",
         "id": "c4a49da7-88a9-4943-a484-e284bcd64301",
         "title": "Quant Trading Associate Internship - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -96432,7 +96432,7 @@
         "company_name": "Leidos",
         "id": "87d3c076-6325-4899-893f-727215cad757",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -96470,7 +96470,7 @@
         "company_name": "Dev Technology Group",
         "id": "bde2eed1-2719-4a13-938e-6a527bc5af75",
         "title": "Summer AI/ML Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -99705,6 +99705,203 @@
             "Newark, CA"
         ],
         "company_url": "https://simplify.jobs/c/Lucid-Motors",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Lucid Motors",
+        "id": "f8d0360a-d427-41b6-89f3-682ff2ea259a",
+        "title": "Intern \u2013 Embedded and Platform Software Engineer - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725950847,
+        "date_posted": 1725950847,
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/4475740007",
+        "locations": [
+            "Newark, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lucid-Motors",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rockwell Automation",
+        "id": "b2d5c22c-f5db-410e-a137-5a20561698c8",
+        "title": "Intern in Training Acceleration Program \u2013 Process Project Co-op - Lcs",
+        "active": true,
+        "terms": [
+            "Winter 2025",
+            "Summer 2025",
+            "Spring 2026"
+        ],
+        "date_updated": 1725953863,
+        "date_posted": 1725953863,
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Intern-in-Training-Acceleration-Program--LCS---Process-Project-Co-op_R24-4731-1",
+        "locations": [
+            "Mayfield Heights, OH",
+            "Baton Rouge, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Rockwell-Automation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Booz Allen",
+        "id": "20a15b1d-7aa8-4238-88d0-1df25e9c79ae",
+        "title": "2025 Cyber Internship",
+        "active": true,
+        "terms": [
+            "Winter 2025",
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1725955356,
+        "date_posted": 1725955356,
+        "url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/XMLNAME-2025-Cyber-Internship_R0204015-1",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/45cb775d-2ca3-49ea-810f-65334ec70079",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Lucid Motors",
+        "id": "7355890d-6cc3-4d13-bf82-853bcf0be94a",
+        "title": "Intern \u2013 Software Automation Engineer - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725958679,
+        "date_posted": 1725958679,
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/4469216007",
+        "locations": [
+            "Newark, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lucid-Motors",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Lucid Motors",
+        "id": "096b510e-7cf4-4552-8c59-78c52ffe3a36",
+        "title": "Intern \u2013 SQA Data Analyst - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725958679,
+        "date_posted": 1725958679,
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/4472053007",
+        "locations": [
+            "Newark, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lucid-Motors",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Lucid Motors",
+        "id": "ae221c2e-bfee-411a-b431-1a3dbd633eab",
+        "title": "Intern \u2013 Motor Control Software Development and Validation Engineer - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1725958678,
+        "date_posted": 1725958678,
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/4475493007",
+        "locations": [
+            "Newark, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lucid-Motors",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Lumentum",
+        "id": "79c5db95-d616-478b-a076-3fa748f9afb5",
+        "title": "Solution Software System Engineer Co-op/Intern - Test",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725959363,
+        "date_posted": 1725959363,
+        "url": "https://lumentum.wd5.myworkdayjobs.com/en-US/LITE/job/Canada---Ottawa-Bill-Leathem/Solution-Software-System-Engineer--Test-_2024795",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/0985b121-88fd-4402-aea9-c0c55bfbbc99",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Lucid Motors",
+        "id": "0cbb53d5-82f7-4fa7-a46d-0a93c79e1a90",
+        "title": "Intern \u2013 Infotainment Software Engineer - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725940518,
+        "date_posted": 1725940518,
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/4469167007",
+        "locations": [
+            "Newark, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lucid-Motors",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Lumentum",
+        "id": "3e474b6c-a9a8-489c-9d00-fa1138be8b3d",
+        "title": "3D Camera Software Developer Co-op/Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725962540,
+        "date_posted": 1725962540,
+        "url": "https://lumentum.wd5.myworkdayjobs.com/en-US/LITE/job/Canada---Ottawa-Bill-Leathem/XMLNAME-3D-Camera-Software-Developer-Co-op-Intern_2024729",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/0985b121-88fd-4402-aea9-c0c55bfbbc99",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Blockhouse",
+        "id": "10a8a534-fc93-49ad-a5c4-9f32964836c8",
+        "title": "Full Stack Developer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025",
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1725967972,
+        "date_posted": 1725967972,
+        "url": "https://jobs.ashbyhq.com/blockhouse/b515de85-da97-48fd-b66d-a5c8fcf9d821/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/f3c7b41f-e7d9-4771-b0c7-f54003717b71",
         "is_visible": true,
         "sponsorship": "Other"
     }
