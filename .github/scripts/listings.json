@@ -91318,7 +91318,7 @@
         "company_name": "Capstone Investment Advisors",
         "id": "c050b237-c757-4fb8-be33-9434aff91618",
         "title": "2025 Summer Internship - Quantitative Risk Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -91963,7 +91963,7 @@
         "company_name": "Intel",
         "id": "4fb5070e-9cc4-4d45-82b0-0d84f5a5a440",
         "title": "Software Engineer \u2013 PEY Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2024"
         ],
@@ -97140,7 +97140,7 @@
         "company_name": "Allegion",
         "id": "5b7b0de1-a710-4d8e-be4b-fef2497d8d4a",
         "title": "Summer Intern - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -97705,7 +97705,7 @@
         "company_name": "Groq",
         "id": "c26cd0b6-0a60-4dcf-94a3-d061534ef3a3",
         "title": "Winter Internship Opportunities",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -98754,7 +98754,7 @@
         "company_name": "MarketAxess",
         "id": "1023b0c6-218f-45a0-a557-bdd32b69a6c3",
         "title": "Software Engineering Intern 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -99164,7 +99164,7 @@
         "company_name": "Vermeer",
         "id": "0f9fd226-7fa5-47ee-be75-5a7c0ddc67c9",
         "title": "Data Analytics Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -100594,13 +100594,109 @@
             "Spring 2025",
             "Summer 2025"
         ],
-        "date_updated": 1726053045,
+        "date_updated": 1726075631,
         "date_posted": 1726053045,
         "url": "http://www.numerade.com/careers?gh_jid=5317608004",
         "locations": [
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Numerade",
+        "is_visible": true,
+        "sponsorship": "Does Not Offer Sponsorship"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Altruist",
+        "id": "41114bcd-196c-4c40-8edd-1e79de006a21",
+        "title": "2025 Technology and Innovation Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1726067666,
+        "date_posted": 1726067666,
+        "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/XMLNAME-2025-Technology-and-Innovation-Internship_R0092584",
+        "locations": [
+            "Charlotte, NC",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Altruist",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Lumentum",
+        "id": "6712a559-b9b1-483c-850b-879b87535bd1",
+        "title": "Calibration and Test Software Engineer \u2013 Co-op Student",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726067600,
+        "date_posted": 1726067600,
+        "url": "https://lumentum.wd5.myworkdayjobs.com/en-US/LITE/job/Canada---Ottawa-Bill-Leathem/Calibration-and-Test-Software-Engineer--Co-op-Student-_2024953",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/0985b121-88fd-4402-aea9-c0c55bfbbc99",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Lumentum",
+        "id": "c6de3990-4df1-4bd3-a267-5391749098a9",
+        "title": "Calibration and Test Software Engineer \u2013 Co-op Student",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726067599,
+        "date_posted": 1726067599,
+        "url": "https://lumentum.wd5.myworkdayjobs.com/en-US/LITE/job/Canada---Ottawa-Bill-Leathem/Calibration-and-Test-Software-Engineer--Co-op-Student-_2024957",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/0985b121-88fd-4402-aea9-c0c55bfbbc99",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CACI",
+        "id": "5393e50c-f552-48de-a42b-109f6eabfffd",
+        "title": "Business Intelligence \u2013 Developer Intern - BI - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726067209,
+        "date_posted": 1726067209,
+        "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-OK-Oklahoma-City/Business-Intelligence--BI--Developer-Intern---Summer-2025_301572-1",
+        "locations": [
+            "Oklahoma City, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CACI",
+        "id": "eb6c5904-d2c1-4531-aebf-20cd43d9531b",
+        "title": "Software Development Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726067204,
+        "date_posted": 1726067204,
+        "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-OK-Oklahoma-City/Software-Development-Intern---Summer-2025_301575-1",
+        "locations": [
+            "Oklahoma City, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
         "is_visible": true,
         "sponsorship": "Other"
     }
