@@ -94472,7 +94472,7 @@
         "company_name": "Numerade",
         "id": "b6847303-0840-4823-8eb1-98ef4f4119b5",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -100580,6 +100580,27 @@
             "Ames, IA"
         ],
         "company_url": "https://simplify.jobs/c/9ff05b27-3c7e-4c70-82e2-d3bfb40bb992",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Numerade",
+        "id": "4d9ce4b0-99ec-4add-907c-76b2d7745864",
+        "title": "Data Scientist Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025",
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1726053045,
+        "date_posted": 1726053045,
+        "url": "http://www.numerade.com/careers?gh_jid=5317608004",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Numerade",
         "is_visible": true,
         "sponsorship": "Other"
     }
