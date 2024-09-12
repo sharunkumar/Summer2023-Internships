@@ -97782,7 +97782,7 @@
         "company_name": "Motorola",
         "id": "5496d160-478f-40cb-8fef-6a0cfbeff6d7",
         "title": "Android Applications Developer Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -101597,6 +101597,25 @@
             "Des Moines, IA"
         ],
         "company_url": "https://simplify.jobs/c/Wellmark",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Motorola",
+        "id": "bca78123-def4-4666-a996-8ce992712b6c",
+        "title": "Software Engineer Spring 2025 Co-op - Research Park",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1726125269,
+        "date_posted": 1726125269,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Champaign-IL-IL169/Software-Engineer-Spring-2025-Co-op--Research-Park-_R49819",
+        "locations": [
+            "Urbana, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
         "is_visible": true,
         "sponsorship": "Other"
     }
