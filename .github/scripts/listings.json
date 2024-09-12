@@ -89577,7 +89577,7 @@
         "company_name": "Flow Traders",
         "id": "ea8bb611-8208-4c07-83cc-c95dd6ec119b",
         "title": "Trading Intern Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -92185,7 +92185,7 @@
         "company_name": "PayPal",
         "id": "3a961820-edc1-4f45-adac-bb33fba9b0e0",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Fall 2025"
@@ -94201,7 +94201,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1724703970,
+        "date_updated": 1726156592,
         "url": "https://www.mathworks.com/company/jobs/opportunities/25610-multiple-openings-engineering-development-group-internship?source=19813&s_eid=Rci_19813",
         "company_name": "MathWorks",
         "title": "Software Engineer",
@@ -94211,8 +94211,8 @@
         "terms": [
             "Summer 2025"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "nothans",
         "id": "5967940f-b8ae-4217-9675-c441d4a48ffc",
         "date_posted": 1724703970,
@@ -94998,7 +94998,7 @@
         "company_name": "Epic Games",
         "id": "51519136-54e0-4a33-aca6-05f43f47503e",
         "title": "Capture Technician Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -97551,7 +97551,7 @@
         "company_name": "Epic Games",
         "id": "0ef984c0-4193-44a8-a660-f0e1533a7682",
         "title": "Engine Programmer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -97570,7 +97570,7 @@
         "company_name": "Epic Games",
         "id": "3495de9e-6fef-4876-8fa4-f78cc6a873c1",
         "title": "Engine Programmer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -100417,7 +100417,7 @@
         "company_name": "Oshkosh",
         "id": "166f83dd-6187-4317-a762-5f610fc3ba52",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -100766,7 +100766,7 @@
         "company_name": "Span",
         "id": "ecd363e5-f9a1-465d-9ed3-1ae5d470120a",
         "title": "Data Science Internship-Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -100977,7 +100977,7 @@
         "company_name": "Motorola",
         "id": "7c2f83a4-fbbd-4c57-9e94-4120e64ce4d8",
         "title": "Software Engineer Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -100996,7 +100996,7 @@
         "company_name": "Motorola",
         "id": "92caa2d6-dc02-4718-90a3-076f876070b9",
         "title": "Software Engineer Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -101297,7 +101297,7 @@
         "company_name": "Tencent",
         "id": "d43dcaa5-407a-446c-82a4-df46050925d4",
         "title": "Game Research & Development Intern - Engine Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -101318,7 +101318,7 @@
         "company_name": "Tencent",
         "id": "ad3a5d93-a0e2-43bc-8a7a-66e7c6896b07",
         "title": "Game Research & Development Intern - Engine Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -101616,6 +101616,88 @@
             "Urbana, IL"
         ],
         "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wayfair",
+        "id": "a45fb354-9088-4bd3-ac09-86de0f335101",
+        "title": "Software Engineering Co-op - January 2025",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1726154098,
+        "date_posted": 1726154098,
+        "url": "https://www.wayfair.com/careers/jobs/7630511002?gh_jid=7630511002",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Wayfair",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Booz Allen",
+        "id": "33d143e2-e733-4f81-bacb-c91e9814ce71",
+        "title": "University \u2013 Data Scientist Intern",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025",
+            "Fall 2025",
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1726154754,
+        "date_posted": 1726154754,
+        "url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/University---Data-Scientist-Intern_R0205761",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/45cb775d-2ca3-49ea-810f-65334ec70079",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Santander",
+        "id": "787fc0cb-49aa-4973-a224-b07c447e4387",
+        "title": "Technology and Data Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1726154575,
+        "date_posted": 1726154575,
+        "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Dorchester/Technology-and-Data-Analytics-Intern_Req1364555",
+        "locations": [
+            "Quincy, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Santander",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cerebras",
+        "id": "37753852-ed0e-43ab-af8e-c4de705fd9f1",
+        "title": "Applied Machine Learning Engineer \u2013 Internship - PEY 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726154534,
+        "date_posted": 1726154534,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=6120149003",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Cerebras-Systems",
         "is_visible": true,
         "sponsorship": "Other"
     }
