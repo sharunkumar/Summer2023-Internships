@@ -18146,7 +18146,7 @@
         "company_name": "Overbond",
         "id": "035b1a87-168f-416f-96a5-34f2cee06341",
         "title": "Full-Stack Developer Intern-PEY/Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -38990,7 +38990,7 @@
             "Summer 2024"
         ],
         "sponsorship": "Other",
-        "active": false,
+        "active": true,
         "source": "Simplify",
         "id": "9afc8966-ab32-4ef5-b5a5-4184349198ae",
         "date_posted": 1700259061,
@@ -89013,7 +89013,7 @@
         "company_name": "GPTZero",
         "id": "85d9aada-1016-4113-88e9-ad05a178e614",
         "title": "Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -89803,7 +89803,7 @@
         "company_name": "Codeium",
         "id": "8c071f6e-a41b-4034-8f1e-34d82a4c940e",
         "title": "Software Engineering Intern - Fall 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -91056,7 +91056,7 @@
         "company_name": "Asana",
         "id": "ddf6566c-2648-4479-b9b5-ff0aa07e3a22",
         "title": "NYC Summer Software Engineering Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -91630,7 +91630,7 @@
         "company_name": "Belvedere Trading",
         "id": "654fd797-bda0-4a6d-ab70-e56869309ada",
         "title": "Quantitative Trading Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -91963,7 +91963,7 @@
         "company_name": "Intel",
         "id": "4fb5070e-9cc4-4d45-82b0-0d84f5a5a440",
         "title": "Software Engineer \u2013 PEY Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -93607,7 +93607,7 @@
         "company_name": "Fannie Mae",
         "id": "f2e86804-0d07-4f1b-9d2e-a309b6c0b07c",
         "title": "Campus \u2013 Technology Program Intern - Flexible Hybrid",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -93626,7 +93626,7 @@
         "company_name": "Fannie Mae",
         "id": "939f7e5f-d119-41fa-bcb2-3a5e63aa87d3",
         "title": "Campus \u2013 Technology Program Intern - Flexible Hybrid",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -94939,7 +94939,7 @@
         "company_name": "NVIDIA",
         "id": "09160c63-5372-4624-9c59-0f5b24dd2458",
         "title": "NVIDIA 2025 Internships: Deep Learning Computer Architecture",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -96658,7 +96658,7 @@
         "company_name": "Red Hat",
         "id": "de595ad4-7fc5-4375-86b3-05cd270205b0",
         "title": "Data Engineer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -96889,7 +96889,7 @@
         "company_name": "Red Hat",
         "id": "07a17367-1924-4607-a9ec-cccca35eac92",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -96986,7 +96986,7 @@
         "company_name": "Dun & Bradstreet",
         "id": "b57eaaa7-328e-48f2-987d-568d0d5a3805",
         "title": "2025 Summer Internship Program - Technology",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -97292,7 +97292,7 @@
         "company_name": "Walmart",
         "id": "00a27cc7-3d5e-4c1f-bd3b-4caea86728c2",
         "title": "2024 Intern Conversion \u2013 2025 Return Intern: Sr. Data Scientist",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -97469,7 +97469,7 @@
         "company_name": "National Information Solutions Cooperative (NISC)",
         "id": "27d647d4-4a79-466a-934e-52a80965af92",
         "title": "Intern \u2013 Database Conversion Programming",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025"
@@ -97667,7 +97667,7 @@
         "company_name": "Genesis Therapeutics",
         "id": "afba7098-7508-4a1a-9426-f55103bcfb3f",
         "title": "Software Engineer Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -98203,7 +98203,7 @@
         "company_name": "Wealthsimple",
         "id": "827b6bc1-630d-4152-a066-454d3b7bbe47",
         "title": "Intern \u2013 Software Development - Winter 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -98850,7 +98850,7 @@
         "company_name": "ManTech",
         "id": "538d34f6-fe0a-4fb9-a88b-1f2b9331688d",
         "title": "Dod Skillbridge Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -99048,7 +99048,7 @@
         "company_name": "Carter's Careers",
         "id": "028ca418-4914-44cd-97d5-a893f42e0f71",
         "title": "Marketing Data Analytics Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -100129,7 +100129,7 @@
         "company_name": "Waystar",
         "id": "61df5c32-4411-44f5-944c-7eacf6644404",
         "title": "Application Engineer: Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -100167,7 +100167,7 @@
         "company_name": "Super",
         "id": "6d25e009-b307-46c0-b7fb-ae0d9ff0939a",
         "title": "Data Engineering Intern - Remote - Waterloo Winter 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -100243,7 +100243,7 @@
         "company_name": "Super",
         "id": "6e5253f0-e74a-4723-86c4-a9bc16410e25",
         "title": "Data Analyst Intern - Remote - Waterloo Winter 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -100436,7 +100436,7 @@
         "company_name": "Oshkosh",
         "id": "f15eaec3-d5f4-4699-bac7-a2bd4ceeffc4",
         "title": "AI/Autonomy Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -100455,7 +100455,7 @@
         "company_name": "Oshkosh",
         "id": "0c223bd5-29a1-4697-821d-b8429ee22f98",
         "title": "AI/Autonomy Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -100609,7 +100609,7 @@
         "company_name": "Altruist",
         "id": "41114bcd-196c-4c40-8edd-1e79de006a21",
         "title": "2025 Technology and Innovation Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -100724,7 +100724,7 @@
         "company_name": "Span",
         "id": "730dd0d4-3379-4ef1-a94a-27e26948e011",
         "title": "Mobile Engineering Co-op January-June 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -100843,7 +100843,7 @@
         "company_name": "Redhorse",
         "id": "47d8f5ff-bc95-4c74-b14d-24f5db270c5e",
         "title": "Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -101133,6 +101133,470 @@
             "Greenwich, CT"
         ],
         "company_url": "https://simplify.jobs/c/Anteriad",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Crusoe",
+        "id": "efafb530-0d2a-465d-84d6-573a2d85c576",
+        "title": "University Software Engineer \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725664438,
+        "date_posted": 1725664438,
+        "url": "https://jobs.ashbyhq.com/Crusoe/2a6925c6-cf93-4e3c-862a-06e5814fecad/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Crusoe",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "WillowTree",
+        "id": "fd4ac6db-3811-45dd-9182-790a7188f733",
+        "title": "Software Engineering Intern/Co-Op - Canada - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725393373,
+        "date_posted": 1725393373,
+        "url": "https://boards.greenhouse.io/willowtree/jobs/7602775002",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/WillowTree",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Voleon Group",
+        "id": "f8559f30-e4a2-4a26-824b-258ec0dae6e2",
+        "title": "Trading Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1724801623,
+        "date_posted": 1724801623,
+        "url": "https://jobs.lever.co/voleon/9ffefa6d-f066-47ee-89b3-29b9deb3ec26/apply",
+        "locations": [
+            "Berkeley, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Voleon-Group",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wellmark",
+        "id": "1b92bac7-5559-4627-a8bd-664db70b43ab",
+        "title": "Data Science - Part-Time Student - Spring and Summer 2025",
+        "active": true,
+        "terms": [],
+        "date_updated": 1726094314,
+        "date_posted": 1726094314,
+        "url": "https://jobs.smartrecruiters.com/WellmarkInc/744000013170115",
+        "locations": [
+            "Des Moines, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/Wellmark",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Vantage Data Centers",
+        "id": "c1bb1b5f-7c70-4491-89ad-09613488ef94",
+        "title": "Vantage Data Centers Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725924426,
+        "date_posted": 1725924426,
+        "url": "https://vantagedc.wd1.myworkdayjobs.com/en-US/Vantage/job/Denver-Colorado/Vantage-Data-Centers-Intern--NA_R13288",
+        "locations": [
+            "Quincy, WA",
+            "Santa Clara, CA",
+            "Ashburn, VA",
+            "Phoenix, AZ",
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/62df3370-bf7b-46b7-8619-e32dcd7d3fb3",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Chatham Financial",
+        "id": "3a46da13-5a7a-48b0-a1f5-c02841d65c88",
+        "title": "2025 Quantitative Analyst Internship",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725925699,
+        "date_posted": 1725925699,
+        "url": "https://boards.greenhouse.io/chathamfinancial/jobs/6209887",
+        "locations": [
+            "West Chester, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/73e27fa4-30a7-4b07-b2e9-002fbcef664b",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "AQR Capital Management",
+        "id": "1c42a0e3-fb44-473e-9a65-edc3b1404926",
+        "title": "2025 Portfolio Implementation \u2013 Trading and Portfolio Finance Summer Analyst",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1723707031,
+        "date_posted": 1723707031,
+        "url": "https://careers.aqr.com/jobs?gh_jid=6179304&gh_jid=6179304",
+        "locations": [
+            "Greenwich, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/AQR-Capital-Management",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Tencent",
+        "id": "eab42f0d-234b-45ae-a30b-d1ee63f3d08e",
+        "title": "Game Research & Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726111131,
+        "date_posted": 1726111131,
+        "url": "https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/US-Bellevue/Game-Research---Development-Intern_R100340",
+        "locations": [
+            "Palo Alto, CA",
+            "Irvine, CA",
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tencent",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Tencent",
+        "id": "d43dcaa5-407a-446c-82a4-df46050925d4",
+        "title": "Game Research & Development Intern - Engine Research",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726111130,
+        "date_posted": 1726111130,
+        "url": "https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/US-Los-Angeles/Game-Research---Development-Intern--Engine-Research_R102581",
+        "locations": [
+            "Palo Alto, CA",
+            "LA",
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tencent",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Tencent",
+        "id": "ad3a5d93-a0e2-43bc-8a7a-66e7c6896b07",
+        "title": "Game Research & Development Intern - Engine Research",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726111130,
+        "date_posted": 1726111130,
+        "url": "https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/US-Bellevue/Game-Research---Development-Intern--Engine-Research_R102577",
+        "locations": [
+            "Palo Alto, CA",
+            "LA",
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tencent",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Tencent",
+        "id": "c3d973a9-8b5d-429c-9176-c35b65424bf2",
+        "title": "Game Client Development intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726111126,
+        "date_posted": 1726111126,
+        "url": "https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/UK-London/Game-Client-Development-intern_R2024Campus_98",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Tencent",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Tencent",
+        "id": "e6aba0e2-6ffa-4d7f-a6d4-f7196ad57b04",
+        "title": "Backend Development intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726111124,
+        "date_posted": 1726111124,
+        "url": "https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/US-Los-Angeles/Backend-Development-intern_R900009",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tencent",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Tencent",
+        "id": "718219a4-7d45-432a-9a1d-b524894d5a8d",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726111122,
+        "date_posted": 1726111122,
+        "url": "https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/US-Los-Angeles/Software-Engineer-Intern_R104033-1",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tencent",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cadence Design Systems",
+        "id": "ed952e07-2218-41f9-956f-d5b4cb161e2b",
+        "title": "WFO Application Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726111102,
+        "date_posted": 1726111102,
+        "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/SAN-JOSE/WFO-Application-Engineer-Intern_R47398-2",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cadence Design Systems",
+        "id": "e6a3cc07-639b-41ba-a0b5-4871d0f68518",
+        "title": "WFO Application Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726111101,
+        "date_posted": 1726111101,
+        "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/SAN-JOSE/WFO-Application-Engineer-Intern_R47399-1",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cadence Design Systems",
+        "id": "6fd4728e-1e59-4086-8d8f-37cde21b0bd7",
+        "title": "WFO Application Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726111101,
+        "date_posted": 1726111101,
+        "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/SAN-JOSE/WFO-Application-Engineer-Intern_R47397-2",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cadence Design Systems",
+        "id": "655c49fd-bbe3-40ed-a5db-993604abc4fa",
+        "title": "WFO Application Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726111102,
+        "date_posted": 1726111102,
+        "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/SAN-JOSE/WFO-Application-Engineer-Intern_R47396-2",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cadence Design Systems",
+        "id": "60b2b741-85aa-45ab-aa96-32abb6ff6ae6",
+        "title": "WFO Application Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726111101,
+        "date_posted": 1726111101,
+        "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/SAN-JOSE/WFO-Application-Engineer-Intern_R47400-2",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cadence Design Systems",
+        "id": "84f53a6b-ae30-46ca-96bb-b1c1298d2e92",
+        "title": "WFO Application Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726111101,
+        "date_posted": 1726111101,
+        "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/SAN-JOSE/WFO-Application-Engineer-Intern_R47392-2",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cadence Design Systems",
+        "id": "ffe7cf1c-5853-4fb1-b9d6-8a493ffba258",
+        "title": "WFO Application Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726111100,
+        "date_posted": 1726111100,
+        "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/SAN-JOSE/WFO-Application-Engineer-Intern_R47401-2",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cadence Design Systems",
+        "id": "f1fea6c5-b39d-4aad-867f-5c6bc18fbb66",
+        "title": "WFO Application Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726111102,
+        "date_posted": 1726111102,
+        "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/SAN-JOSE/WFO-Application-Engineer-Intern_R47403-2",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cadence Design Systems",
+        "id": "f3494748-eefe-4ce8-b16e-2849f0779ab3",
+        "title": "WFO Application Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726111102,
+        "date_posted": 1726111102,
+        "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/SAN-JOSE/WFO-Application-Engineer-Intern_R47402-2",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "ServiceNow",
+        "id": "2f64f891-c6c6-4de6-a370-889abade9e3c",
+        "title": "Intern \u2013 Data Scientist",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726118430,
+        "date_posted": 1726118430,
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000013301765",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ServiceNow",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wellmark",
+        "id": "3e6c8330-1920-44ac-afe3-bfeaf3ca2997",
+        "title": "Data Analytics Internship - Technology & Experience Analytics",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1726118148,
+        "date_posted": 1726118148,
+        "url": "https://jobs.smartrecruiters.com/WellmarkInc/744000013295400",
+        "locations": [
+            "Des Moines, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/Wellmark",
         "is_visible": true,
         "sponsorship": "Other"
     }
