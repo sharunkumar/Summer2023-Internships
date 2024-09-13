@@ -98597,7 +98597,7 @@
         "company_name": "Allegion",
         "id": "cd0e404c-c82a-44f0-8f78-e9c6b67ba5f4",
         "title": "Software Engineering Intern - Devops",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -100550,7 +100550,7 @@
         "company_name": "PatientPoint",
         "id": "cfbf4f38-d230-4aac-b7b1-ed021cfbbb23",
         "title": "Data and Analytics Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -100939,7 +100939,7 @@
         "company_name": "Achievers",
         "id": "d0e8d64b-ec07-42a3-9e7a-2de6a0c20ad6",
         "title": "Software Developer Co-op - 4 months",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -101725,7 +101725,7 @@
         "company_name": "Booz Allen",
         "id": "75ca00a8-dc9a-4cb7-ac3f-2ee31780f588",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025",
@@ -101973,5 +101973,82 @@
         "company_url": "https://simplify.jobs/c/SecondDinner",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sentry Insurance",
+        "id": "838e27d6-0c16-4446-ab45-637089497877",
+        "title": "Software Developer Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1726240449,
+        "date_posted": 1726240449,
+        "url": "https://sentryinsurance.wd1.myworkdayjobs.com/en-US/SentryCareers/job/Stevens-Point-WI/Software-Developer-Co-op_JR-137073",
+        "locations": [
+            "Plover, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/782e6c3f-aff3-4aed-9d50-50676cb8ed7f",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Bank of Montreal",
+        "id": "0feb75f4-b372-4c97-bf56-b68aa9d8d1e8",
+        "title": "Software Developer \u2013 Co-op/Internship - Winter 2025 - 4 Months",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1726240203,
+        "date_posted": 1726240203,
+        "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Software-Developer--Winter-2025--Co-op-Internship----4-Months_R240023386-2",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BMO",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Bank of Montreal",
+        "id": "5659229e-f2cd-466e-ab0b-57660dd998a0",
+        "title": "Software Developer \u2013 Co-op/Internship - Winter 2025 - 8 Months",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1726240205,
+        "date_posted": 1726240205,
+        "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Software-Developer--Winter-2025--Co-op-Internship----8-Months_R240023387-2",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BMO",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1726244034,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1769194/",
+        "company_name": "Microsoft",
+        "title": "Software Engineer: Internship Opportunities - CTJ - Top Secret",
+        "locations": [
+            "Redmond, WA",
+            "Reston, VA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "657a8234-c05b-41d6-a239-17e08ba377ed",
+        "date_posted": 1726244034,
+        "company_url": "",
+        "is_visible": true
     }
 ]
