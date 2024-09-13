@@ -89216,7 +89216,7 @@
             "Summer 2025"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "source": "Simplify",
         "id": "71cf7b3f-5fb9-4eba-acf3-e1a7cf8c8b34",
         "date_posted": 1721145386,
@@ -93187,7 +93187,7 @@
         "company_name": "Motorola",
         "id": "0e997eb2-3739-4d66-a5df-f9beef7eb436",
         "title": "Google Applications Developer Internship - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -94998,7 +94998,7 @@
         "company_name": "Epic Games",
         "id": "51519136-54e0-4a33-aca6-05f43f47503e",
         "title": "Capture Technician Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -96563,7 +96563,7 @@
         "company_name": "Glean",
         "id": "bd92cc96-a931-4615-9d3d-2cdbd093c941",
         "title": "Software Engineer \u2013 Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -97551,7 +97551,7 @@
         "company_name": "Epic Games",
         "id": "0ef984c0-4193-44a8-a660-f0e1533a7682",
         "title": "Engine Programmer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -97570,7 +97570,7 @@
         "company_name": "Epic Games",
         "id": "3495de9e-6fef-4876-8fa4-f78cc6a873c1",
         "title": "Engine Programmer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -98184,7 +98184,7 @@
         "company_name": "Santander",
         "id": "849851a5-18f9-41e5-af56-94882510ee04",
         "title": "Finance and Data Analysis Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -99240,7 +99240,7 @@
         "company_name": "Disney Careers",
         "id": "1bfbcf92-258d-472d-9f9b-d6b156290a12",
         "title": "System App Dev & Sustainment Intern - Spring 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -99992,7 +99992,7 @@
         "company_name": "RELX",
         "id": "40006e91-701a-4b8a-9327-f987933f48de",
         "title": "2025 Data Science Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -100011,7 +100011,7 @@
         "company_name": "RELX",
         "id": "ec8a6b0e-fee9-41f6-b597-2771f4577baf",
         "title": "2025 Software Engineer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -100977,7 +100977,7 @@
         "company_name": "Motorola",
         "id": "7c2f83a4-fbbd-4c57-9e94-4120e64ce4d8",
         "title": "Software Engineer Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -100996,7 +100996,7 @@
         "company_name": "Motorola",
         "id": "92caa2d6-dc02-4718-90a3-076f876070b9",
         "title": "Software Engineer Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -101698,6 +101698,182 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Cerebras-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Epirus",
+        "id": "33d861dc-4f46-4825-9533-91e0ea4ad593",
+        "title": "Internship-Software",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726168093,
+        "date_posted": 1726168093,
+        "url": "https://www.epirusinc.com/open-roles?gh_jid=5320594004",
+        "locations": [
+            "Carson, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Epirus",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Booz Allen",
+        "id": "75ca00a8-dc9a-4cb7-ac3f-2ee31780f588",
+        "title": "Data Scientist Intern",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025",
+            "Fall 2025",
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1726169180,
+        "date_posted": 1726169180,
+        "url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Data-Scientist-Intern_R0205765",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/45cb775d-2ca3-49ea-810f-65334ec70079",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Pendo",
+        "id": "9e7c3991-97b0-4c95-bea7-53093234b5ab",
+        "title": "Summer 2025 Software Engineering Internship - Front End/Back End/Site Reliability/Security",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726169627,
+        "date_posted": 1726169627,
+        "url": "https://boards.greenhouse.io/pendo/jobs/7636210002",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Pendo",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Oshkosh",
+        "id": "43e1751f-b102-4631-874a-53828b450117",
+        "title": "Advance Technologies Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726169278,
+        "date_posted": 1726169278,
+        "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Hagerstown-Maryland-United-States/Advance-Technologies-Engineering-Intern_R30899",
+        "locations": [
+            "Hagerstown, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Oshkosh",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Santander",
+        "id": "11b8cbd8-0bea-4ad1-a933-49e1745b44a3",
+        "title": "Risk Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1726182870,
+        "date_posted": 1726182870,
+        "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Dallas/Risk-Analytics-Intern_Req1365034",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Santander",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Symmetry Systems",
+        "id": "afcb6859-0c02-4ab6-9ae0-25d1557f267f",
+        "title": "Full Stack Software Engineer \u2013 2025 Summer Intern - SF Bay Area CA",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726182718,
+        "date_posted": 1726182718,
+        "url": "https://jobs.lever.co/SymmetrySystems/1c1ae2af-95c1-4299-b6d7-b539188dafe7/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/SymmetrySystems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Symmetry Systems",
+        "id": "956cda9a-1e3f-4649-81a7-7b78729c6e0d",
+        "title": "Full Stack Software Engineer \u2013 2025 Summer Intern - Austin TX",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726182719,
+        "date_posted": 1726182719,
+        "url": "https://jobs.lever.co/SymmetrySystems/0b0641c0-b639-4d95-a871-98b80eaed1a6/apply",
+        "locations": [],
+        "company_url": "https://simplify.jobs/c/SymmetrySystems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Qumulo",
+        "id": "2487f92a-acde-4d22-bebd-df3d7c6c299a",
+        "title": "Software Development Engineer \u2013 Summer Internship 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726182940,
+        "date_posted": 1726182940,
+        "url": "https://boards.greenhouse.io/qumulo/jobs/6252299",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Qumulo",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Walmart",
+        "id": "90661bd1-fac3-49c8-bbbd-d11b3596c568",
+        "title": "2025 Summer Intern: Software Engineer II",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726182775,
+        "date_posted": 1726182775,
+        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/XMLNAME-2025-Summer-Intern--Software-Engineer-II_R-1977954",
+        "locations": [
+            "Bentonville, AR",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Walmart",
         "is_visible": true,
         "sponsorship": "Other"
     }
