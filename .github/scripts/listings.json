@@ -97816,7 +97816,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1725593668,
+        "date_updated": 1726262785,
         "url": "https://grnh.se/6ece2b6e1us",
         "company_name": "Stevens Capital Management LP",
         "title": "Quant Intern",
@@ -97827,7 +97827,7 @@
             "Summer 2025"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "insikizi23",
         "id": "1bce2c48-9490-45da-b757-068bed8627bc",
         "date_posted": 1725593668,
@@ -98597,7 +98597,7 @@
         "company_name": "Allegion",
         "id": "cd0e404c-c82a-44f0-8f78-e9c6b67ba5f4",
         "title": "Software Engineering Intern - Devops",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -100609,7 +100609,7 @@
         "company_name": "Altruist",
         "id": "41114bcd-196c-4c40-8edd-1e79de006a21",
         "title": "2025 Technology and Innovation Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -102050,5 +102050,414 @@
         "date_posted": 1726244034,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "SingleStore",
+        "id": "ffd9baf1-9c2e-4e5e-b9e3-dc99837c02dd",
+        "title": "Software Engineer \u2013 DB Engine Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726257408,
+        "date_posted": 1726257408,
+        "url": "https://boards.greenhouse.io/singlestore/jobs/6249890",
+        "locations": [
+            "Seattle, WA",
+            "SF",
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/SingleStore",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Lyft",
+        "id": "75a04548-5d17-44fe-bf97-10279668a16a",
+        "title": "Software Engineer Intern - Mobile Android - Toronto - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726257016,
+        "date_posted": 1726257016,
+        "url": "https://app.careerpuck.com/job-board/lyft/job/7629317002?gh_jid=7629317002",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Lyft",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Lyft",
+        "id": "78a6c258-4ae0-4282-a086-283f6f14250a",
+        "title": "Software Engineer Intern - Mobile iOS - Toronto - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726257015,
+        "date_posted": 1726257015,
+        "url": "https://app.careerpuck.com/job-board/lyft/job/7629311002?gh_jid=7629311002",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Lyft",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Lyft",
+        "id": "1242c916-6926-4cd0-ae47-ae2a2e814344",
+        "title": "Software Engineer Intern - Mobile Android - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726257015,
+        "date_posted": 1726257015,
+        "url": "https://app.careerpuck.com/job-board/lyft/job/7632834002?gh_jid=7632834002",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Lyft",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Lyft",
+        "id": "74b41ee5-101d-42ff-8fa2-8fb1bd478223",
+        "title": "Software Engineering Intern - Backend - Montreal - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726257014,
+        "date_posted": 1726257014,
+        "url": "https://app.careerpuck.com/job-board/lyft/job/7619583002?gh_jid=7619583002",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Lyft",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Schonfeld",
+        "id": "0788a26b-f235-4f10-8c89-704727687e1a",
+        "title": "2025 Software Engineering Summer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726257779,
+        "date_posted": 1726257779,
+        "url": "https://job-boards.greenhouse.io/schonfeld/jobs/6253829",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Schonfeld",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Carter's Careers",
+        "id": "bbeadf1c-ea8a-4f8a-afd6-7a484dc37a74",
+        "title": "Data Engineering Intern",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "date_updated": 1726257775,
+        "date_posted": 1726257775,
+        "url": "https://carters.wd1.myworkdayjobs.com/en-US/CartersCareers/job/Atlanta-GA/Data-Engineering-Intern_JR35353",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/65a3e9ca-0aaa-423e-a372-a8f6a6cb9ea0",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Kodiak Robotics",
+        "id": "01d9989b-6700-4e80-9e70-774402c42db0",
+        "title": "Computer Vision and Machine Learning Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1726257737,
+        "date_posted": 1726257737,
+        "url": "https://jobs.lever.co/kodiak/89a618ba-2746-4188-9f26-2110b8763e85/apply",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Kodiak-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Motorola",
+        "id": "33807144-25d3-4ddf-9220-c53b8a2277ad",
+        "title": "Software Engineer Fall 2024 Co-Op - Research Park",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1726257643,
+        "date_posted": 1726257643,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Champaign-IL-IL169/Software-Engineer-Fall-2024-Co-Op--Research-Park-_R49817",
+        "locations": [
+            "Urbana, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Span",
+        "id": "1669166f-7f62-4ae2-a976-0762f7ad833b",
+        "title": "Device Software Engineering Internship-Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726257605,
+        "date_posted": 1726257605,
+        "url": "https://boards.greenhouse.io/spanio/jobs/6144559003",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Span",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "SingleStore",
+        "id": "511c0d0a-ebff-46d9-b65d-9220d7be8fc3",
+        "title": "Software Engineer \u2013 Managed Service Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726257407,
+        "date_posted": 1726257407,
+        "url": "https://boards.greenhouse.io/singlestore/jobs/6249895",
+        "locations": [
+            "Seattle, WA",
+            "SF",
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/SingleStore",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Schonfeld",
+        "id": "01be5c79-6b5b-4c32-9804-1d6642500752",
+        "title": "2025 Quant Research Summer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726257766,
+        "date_posted": 1726257766,
+        "url": "https://job-boards.greenhouse.io/schonfeld/jobs/6250099",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Schonfeld",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Gilead Sciences",
+        "id": "0ac1dd04-d0fc-4d07-a32c-1e4e371036e2",
+        "title": "Intern \u2013 IT - Machine Learning Engineer / Data Scientist",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "date_updated": 1726257434,
+        "date_posted": 1726257434,
+        "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---North-Carolina---Raleigh/Intern----IT--Machine-Learning-Engineer---Data-Scientist_R0042298",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Gilead-Sciences",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Carter's Careers",
+        "id": "dd7ac7bc-763e-4978-8919-b4c527d5225c",
+        "title": "Full Stack Developer \u2013 Ecomm Intern",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "date_updated": 1726257774,
+        "date_posted": 1726257774,
+        "url": "https://carters.wd1.myworkdayjobs.com/en-US/CartersCareers/job/Atlanta-GA/Full-Stack-Developer--eComm-Intern_JR35351",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/65a3e9ca-0aaa-423e-a372-a8f6a6cb9ea0",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Gilead Sciences",
+        "id": "f9503927-d6a4-4c58-9173-96ac27120f52",
+        "title": "Intern \u2013 Quality-Machine Learning Engineer / Data Scientist",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "date_updated": 1726257430,
+        "date_posted": 1726257430,
+        "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Quality--Machine-Learning-Engineer---Data-Scientist_R0042419",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Gilead-Sciences",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wellington Management",
+        "id": "60cf3f7f-859a-4c52-8d19-78e7a120cd7a",
+        "title": "Summer 2025 Technology Undergraduate Intern - Boston",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726259408,
+        "date_posted": 1726259408,
+        "url": "https://wellington.wd5.myworkdayjobs.com/Campus/job/Boston-MA-United-States/Summer-2025-Technology-Undergraduate-Intern---Boston_R91208",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Wellington",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "YOU.com",
+        "id": "c8987857-ce03-4ef1-a197-ad62bb03a5f8",
+        "title": "Software Engineering Intern - Frontend",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1726269343,
+        "date_posted": 1726269343,
+        "url": "https://jobs.ashbyhq.com/youdotcom/27b354ed-cfcd-42e8-8a78-c4dcda5020fa/application",
+        "locations": [
+            "Remote in USA",
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/YOU.com",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Oshkosh",
+        "id": "c9e216ac-b580-4ea6-9de3-36493e2663c3",
+        "title": "Data Scientist Intern - Digital Technology - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726269220,
+        "date_posted": 1726269220,
+        "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Hagerstown-Maryland-United-States/Data-Scientist-Intern---Digital-Technology--Summer-2025-_R30958",
+        "locations": [
+            "Hagerstown, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Oshkosh",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Gilead Sciences",
+        "id": "2c9e8988-f170-468c-85fc-bb06991102b8",
+        "title": "Intern \u2013 Clinical Data Science - Advanced Analytics",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "date_updated": 1726269147,
+        "date_posted": 1726269147,
+        "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Clinical-Data-Science--Advanced-Analytics_R0042355",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Gilead-Sciences",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Lyft",
+        "id": "57aab2fe-2784-4d5f-a5cf-3556a023ba17",
+        "title": "Data Science Intern - Decisions Product - Toronto - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726268856,
+        "date_posted": 1726268856,
+        "url": "https://app.careerpuck.com/job-board/lyft/job/7627220002?gh_jid=7627220002",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Lyft",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wurl",
+        "id": "39310a22-a3d3-4b5b-963f-b35f7ced4ddf",
+        "title": "Adtech Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726268746,
+        "date_posted": 1726268746,
+        "url": "https://job-boards.greenhouse.io/wurl/jobs/6124612003",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Wurl",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
