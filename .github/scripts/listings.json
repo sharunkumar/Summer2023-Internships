@@ -102521,5 +102521,44 @@
         "date_posted": 1726287122,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Walmart",
+        "id": "f92d93be-1ab1-449b-b703-f4e1ab6336cd",
+        "title": "2024 Intern Conversion \u2013 2025 Return Corporate Intern: - USA - Software Engineer II",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1726326605,
+        "date_posted": 1726326605,
+        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Sunnyvale-CA/XMLNAME-2024-Intern-Conversion---2025-Return-Corporate-Intern---USA--Software-Engineer-II_R-1961838",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Walmart",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Walmart",
+        "id": "a535a7ff-6fc8-4a7e-ae0b-4ff8948f2d22",
+        "title": "2024 Intern Conversion \u2013 2025 Return Corporate Intern: - USA - Software Engineer II",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1726326602,
+        "date_posted": 1726326602,
+        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/XMLNAME-2024-Intern-Conversion---2025-Return-Corporate-Intern---USA--Software-Engineer-II_R-1961832",
+        "locations": [
+            "Bentonville, AR",
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Walmart",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
