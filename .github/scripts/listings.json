@@ -98637,7 +98637,7 @@
         "company_name": "Gilead Sciences",
         "id": "d368fa90-fb74-4fe4-8fe1-ec9b82af6576",
         "title": "Intern \u2013 Programming Data Analyst - Pharmacometrics",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024"
@@ -101825,15 +101825,17 @@
         "source": "Simplify",
         "company_name": "Symmetry Systems",
         "id": "956cda9a-1e3f-4649-81a7-7b78729c6e0d",
-        "title": "Full Stack Software Engineer \u2013 2025 Summer Intern - Austin TX",
+        "title": "Full Stack Software Engineer \u2013 2025 Summer Intern",
         "active": true,
         "terms": [
             "Summer 2025"
         ],
-        "date_updated": 1726182719,
+        "date_updated": 1726287767,
         "date_posted": 1726182719,
         "url": "https://jobs.lever.co/SymmetrySystems/0b0641c0-b639-4d95-a871-98b80eaed1a6/apply",
-        "locations": [],
+        "locations": [
+            "Austin, TX"
+        ],
         "company_url": "https://simplify.jobs/c/SymmetrySystems",
         "is_visible": true,
         "sponsorship": "Other"
@@ -101866,7 +101868,7 @@
         "terms": [
             "Summer 2025"
         ],
-        "date_updated": 1726182775,
+        "date_updated": 1726287366,
         "date_posted": 1726182775,
         "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/XMLNAME-2025-Summer-Intern--Software-Engineer-II_R-1977954",
         "locations": [
@@ -101875,7 +101877,7 @@
         ],
         "company_url": "https://simplify.jobs/c/Walmart",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "Does Not Offer Sponsorship"
     },
     {
         "date_updated": 1726196796,
@@ -102459,5 +102461,65 @@
         "company_url": "https://simplify.jobs/c/Wurl",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1726286775,
+        "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Personal-Systems-Software-Engineer-Internship_3141362-1?src=HPCompanyWebsite",
+        "company_name": "HP",
+        "title": "Personal Systems Software Engineer Internship",
+        "locations": [
+            "Spring, Texas, United States of America",
+            "Palo Alto, California, United States of America",
+            "Fort Collins, Colorado, United States of America",
+            "Austin, Texas, United States of America"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "GiridharRNair",
+        "id": "9773e5b8-3641-4673-bf3f-9e8c92b76a10",
+        "date_posted": 1726286775,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1726286868,
+        "url": "https://app.ripplematch.com/v2/public/job/ea284763/details",
+        "company_name": "Greif",
+        "title": "Summer 2025 Engineering/Automation Intern",
+        "locations": [
+            "Alsip, IL"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "mtlogs",
+        "id": "03168838-a75d-40a0-9ebb-1f8a213397a3",
+        "date_posted": 1726286868,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1726287122,
+        "url": "https://app.ripplematch.com/v2/public/job/4b1e6e0d/details",
+        "company_name": "ULINE Inc.",
+        "title": "Network Engineer Intern",
+        "locations": [
+            "Pleasant Prairie, W"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "mtlogs",
+        "id": "93b7db5f-bc2f-469f-8080-19f9e4091099",
+        "date_posted": 1726287122,
+        "company_url": "",
+        "is_visible": true
     }
 ]
