@@ -101072,7 +101072,7 @@
         "company_name": "The Walt Disney Company",
         "id": "d47b3671-0c16-40ad-aef7-a640013ac5c7",
         "title": "Business Intelligence Graduate Intern - Spring 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -102577,6 +102577,44 @@
         "source": "GaryZhous",
         "id": "00729e75-a1a5-4a68-b1d8-54a180c2486d",
         "date_posted": 1726350248,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1726458651,
+        "url": "https://careers.ameriprise.com/search-jobs/r24_0000002803/technology-intern/",
+        "company_name": "Ameriprise Financial",
+        "title": "Technology Intern",
+        "locations": [
+            "Minneapolis MN"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "A-K-Erol",
+        "id": "bdbd07e6-9f72-43ee-851b-1418fc59a0d0",
+        "date_posted": 1726458651,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1726458674,
+        "url": "https://careers.ameriprise.com/search-jobs/r24_0000002716/investments-intern-quantitative-research/",
+        "company_name": "Ameriprise Financial",
+        "title": "Quantitative Research Intern",
+        "locations": [
+            "Boston MA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "A-K-Erol",
+        "id": "5204a68f-37e9-47e8-99da-b6db41e67772",
+        "date_posted": 1726458674,
         "company_url": "",
         "is_visible": true
     }
