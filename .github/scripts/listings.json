@@ -94376,7 +94376,7 @@
         "company_name": "Vectra",
         "id": "4b1b5d88-3a23-4901-bf4f-84b181138bf1",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -98299,7 +98299,7 @@
         "company_name": "Okta",
         "id": "a1a82ac3-0bc1-4466-aab1-a5eee4fccc3c",
         "title": "Software Engineer Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -98338,7 +98338,7 @@
         "company_name": "Okta",
         "id": "aeda015e-a11a-414e-8a24-2d25212cda8f",
         "title": "Machine Learning Engineer Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -98578,7 +98578,7 @@
         "company_name": "Plotly",
         "id": "218790fa-9b6f-4eb8-a1f8-bd1927ae7773",
         "title": "Software Engineering Intern - 2025 Winter - 8 Months",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -98597,7 +98597,7 @@
         "company_name": "Allegion",
         "id": "cd0e404c-c82a-44f0-8f78-e9c6b67ba5f4",
         "title": "Software Engineering Intern - Devops",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -99183,7 +99183,7 @@
         "company_name": "Motorola",
         "id": "cbbeabd3-05e5-441d-9db9-8b14dc0b1b61",
         "title": "Audio Software Engineer Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -101643,7 +101643,7 @@
         "company_name": "Booz Allen",
         "id": "33d143e2-e733-4f81-bacb-c91e9814ce71",
         "title": "University \u2013 Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025",
@@ -101769,7 +101769,7 @@
         "company_name": "Oshkosh",
         "id": "43e1751f-b102-4631-874a-53828b450117",
         "title": "Advance Technologies Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -102331,7 +102331,7 @@
         "company_name": "Gilead Sciences",
         "id": "f9503927-d6a4-4c58-9173-96ac27120f52",
         "title": "Intern \u2013 Quality-Machine Learning Engineer / Data Scientist",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024"
@@ -102673,6 +102673,92 @@
             "Oshkosh, WI"
         ],
         "company_url": "https://simplify.jobs/c/Oshkosh",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1726499095,
+        "url": "https://boards.greenhouse.io/scm/jobs/721888?gh_src=9a5dd53e1us",
+        "company_name": "Stevens Capital Management",
+        "title": "Developer Intern",
+        "locations": [
+            "Radnor, PA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "nij-patel",
+        "id": "4eb9a2d8-c442-47d7-baa5-ec709eb8d882",
+        "date_posted": 1726499095,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Fidelity Investments",
+        "id": "fbccc515-2c13-4ce1-a9ea-7f10afda79bf",
+        "title": "Summer 2025 Undergraduate Internship - Technology",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726500258,
+        "date_posted": 1726500258,
+        "url": "https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Boston-MA/Summer-2025-Undergraduate-Internship---Technology_2098649",
+        "locations": [
+            "Salt Lake City, UT",
+            "Boston, MA",
+            "Westlake, TX",
+            "Durham, NC",
+            "Smithfield, RI",
+            "Merrimack, NH",
+            "NYC",
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Fidelity",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Bose",
+        "id": "556b2171-0583-4172-9fba-f3c525ba0cdf",
+        "title": "Embedded Software Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726499940,
+        "date_posted": 1726499940,
+        "url": "https://boseallaboutme.wd1.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Embedded-Software-Intern_R27531",
+        "locations": [
+            "Framingham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/bose",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Bose",
+        "id": "4047d954-19e4-4019-b0f5-a3a2bd5481d8",
+        "title": "Data Science Co-Op - NLP",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026"
+        ],
+        "date_updated": 1726499937,
+        "date_posted": 1726499937,
+        "url": "https://boseallaboutme.wd1.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Data-Science-Co-Op--NLP-_R27421",
+        "locations": [
+            "Framingham, MA",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/bose",
         "is_visible": true,
         "sponsorship": "Other"
     }
