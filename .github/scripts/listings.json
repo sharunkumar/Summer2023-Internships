@@ -87049,7 +87049,7 @@
         "company_name": "Neuralink",
         "id": "7f826bfb-a9e6-425c-a6dc-82510874e1d0",
         "title": "Software Engineer Intern - Site Reliability Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -91611,7 +91611,7 @@
         "company_name": "Jump Trading",
         "id": "d44d2a3b-10ac-4215-a600-6530f5dfdab3",
         "title": "Campus Software Engineer \u2013 Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -96927,7 +96927,7 @@
         "company_name": "Visier Solutions",
         "id": "4ffcee86-9f76-4e96-b15b-d21ac1982986",
         "title": "Software Developer Co-op - January 2025 to August 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -101034,7 +101034,7 @@
         "company_name": "Figure",
         "id": "4f0aaffd-abff-4630-885d-6b95b8dbadf4",
         "title": "Embedded Software Intern - Winter 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -102982,14 +102982,14 @@
         "terms": [
             "Summer 2025"
         ],
-        "date_updated": 1726514217,
+        "date_updated": 1726555260,
         "date_posted": 1726514217,
         "url": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/5329547004",
         "locations": [
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Galaxy",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -103298,6 +103298,127 @@
             "Birmingham, AL"
         ],
         "company_url": "https://simplify.jobs/c/FetchRewards",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Fetch",
+        "id": "5a764ad7-35b5-4ae1-9167-ee590dd9eacc",
+        "title": "Front-end Software Engineering Internship",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1726557161,
+        "date_posted": 1726557161,
+        "url": "https://boards.greenhouse.io/fetchrewards/jobs/6209637003",
+        "locations": [
+            "Madison, WI",
+            "Birmingham, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/FetchRewards",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Fetch",
+        "id": "a5082961-899f-4624-a26f-303f90a02b17",
+        "title": "Machine Learning Software Engineering Internship",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1726557160,
+        "date_posted": 1726557160,
+        "url": "https://boards.greenhouse.io/fetchrewards/jobs/6209641003",
+        "locations": [
+            "Madison, WI",
+            "Birmingham, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/FetchRewards",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Fetch",
+        "id": "458eb070-d4e6-4543-b985-6f4955f83c29",
+        "title": "Backend Software Engineering Internship",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1726557159,
+        "date_posted": 1726557159,
+        "url": "https://boards.greenhouse.io/fetchrewards/jobs/6209640003",
+        "locations": [
+            "Madison, WI",
+            "Birmingham, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/FetchRewards",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Motorola",
+        "id": "08bf4abd-3509-49b9-bf83-163e0e887c85",
+        "title": "Supply Chain Data Analytics Internship 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726557346,
+        "date_posted": 1726557346,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Supply-Chain-Data-Analytics-Internship-2025_R49655",
+        "locations": [
+            "Chicago, IL",
+            "Hoffman Estates, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Motorola",
+        "id": "ea4bca9a-7497-436e-bc50-056e34105289",
+        "title": "Supply Chain Data Analyst Internship 2025",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1726557343,
+        "date_posted": 1726557343,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Supply-Chain-Data-Analyst-Internship-2025_R49479",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Visa",
+        "id": "25a7eb3b-231d-408b-a3b7-1d659986c658",
+        "title": "Consulting & Analytics Intern",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1726571104,
+        "date_posted": 1726571104,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000014502159",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
         "is_visible": true,
         "sponsorship": "Other"
     }
