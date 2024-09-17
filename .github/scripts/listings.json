@@ -100609,7 +100609,7 @@
         "company_name": "Altruist",
         "id": "41114bcd-196c-4c40-8edd-1e79de006a21",
         "title": "2025 Technology and Innovation Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -101377,7 +101377,7 @@
         "company_name": "Tencent",
         "id": "718219a4-7d45-432a-9a1d-b524894d5a8d",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -102726,7 +102726,7 @@
         "company_name": "Bose",
         "id": "556b2171-0583-4172-9fba-f3c525ba0cdf",
         "title": "Embedded Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -103237,6 +103237,67 @@
             "Murfreesboro, TN"
         ],
         "company_url": "https://simplify.jobs/c/Oshkosh",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sayari",
+        "id": "b26fa41b-5ee1-441f-96ce-32cd2330339f",
+        "title": "Research Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1723558997,
+        "date_posted": 1723045310,
+        "url": "https://jobs.lever.co/sayari/b27b2d5c-7ec8-4423-bff4-b7d417afeb3b/apply",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Sayari",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Fetch",
+        "id": "ad50b352-1e23-4fe6-903b-0fd9c0f4d07f",
+        "title": "Android Software Engineering Internship",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1726542642,
+        "date_posted": 1726542642,
+        "url": "https://boards.greenhouse.io/fetchrewards/jobs/6209561003",
+        "locations": [
+            "Madison, WI",
+            "Birmingham, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/FetchRewards",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Fetch",
+        "id": "ae915db5-5caf-4651-a366-bdfe7d767454",
+        "title": "IOS Software Engineering Internship",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1726542642,
+        "date_posted": 1726542642,
+        "url": "https://boards.greenhouse.io/fetchrewards/jobs/6209636003",
+        "locations": [
+            "Madison, WI",
+            "Birmingham, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/FetchRewards",
         "is_visible": true,
         "sponsorship": "Other"
     }
