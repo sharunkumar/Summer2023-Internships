@@ -89216,7 +89216,7 @@
             "Summer 2025"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": false,
+        "active": true,
         "source": "Simplify",
         "id": "71cf7b3f-5fb9-4eba-acf3-e1a7cf8c8b34",
         "date_posted": 1721145386,
@@ -99720,7 +99720,7 @@
         "company_name": "Lucid Motors",
         "id": "f8d0360a-d427-41b6-89f3-682ff2ea259a",
         "title": "Intern \u2013 Embedded and Platform Software Engineer - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -100474,7 +100474,7 @@
         "company_name": "Saviynt",
         "id": "85564e7e-3a5f-4355-9702-4ebe9ba52fc8",
         "title": "Engineering Intern - UI - Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -100609,7 +100609,7 @@
         "company_name": "Altruist",
         "id": "41114bcd-196c-4c40-8edd-1e79de006a21",
         "title": "2025 Technology and Innovation Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -100805,7 +100805,7 @@
         "company_name": "Allegion",
         "id": "1d16d6ff-eeb8-4d2e-be09-ae0adad570b5",
         "title": "Software Systems Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -101396,7 +101396,7 @@
         "company_name": "Cadence Design Systems",
         "id": "ed952e07-2218-41f9-956f-d5b4cb161e2b",
         "title": "WFO Application Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -101415,7 +101415,7 @@
         "company_name": "Cadence Design Systems",
         "id": "e6a3cc07-639b-41ba-a0b5-4871d0f68518",
         "title": "WFO Application Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -101434,7 +101434,7 @@
         "company_name": "Cadence Design Systems",
         "id": "6fd4728e-1e59-4086-8d8f-37cde21b0bd7",
         "title": "WFO Application Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -101453,7 +101453,7 @@
         "company_name": "Cadence Design Systems",
         "id": "655c49fd-bbe3-40ed-a5db-993604abc4fa",
         "title": "WFO Application Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -101472,7 +101472,7 @@
         "company_name": "Cadence Design Systems",
         "id": "60b2b741-85aa-45ab-aa96-32abb6ff6ae6",
         "title": "WFO Application Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -101510,7 +101510,7 @@
         "company_name": "Cadence Design Systems",
         "id": "ffe7cf1c-5853-4fb1-b9d6-8a493ffba258",
         "title": "WFO Application Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -101529,7 +101529,7 @@
         "company_name": "Cadence Design Systems",
         "id": "f1fea6c5-b39d-4aad-867f-5c6bc18fbb66",
         "title": "WFO Application Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -101548,7 +101548,7 @@
         "company_name": "Cadence Design Systems",
         "id": "f3494748-eefe-4ce8-b16e-2849f0779ab3",
         "title": "WFO Application Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -101706,7 +101706,7 @@
         "company_name": "Epirus",
         "id": "33d861dc-4f46-4825-9533-91e0ea4ad593",
         "title": "Internship-Software",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -102000,7 +102000,7 @@
         "company_name": "Bank of Montreal",
         "id": "0feb75f4-b372-4c97-bf56-b68aa9d8d1e8",
         "title": "Software Developer \u2013 Co-op/Internship - Winter 2025 - 4 Months",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -102759,6 +102759,484 @@
             "Atlanta, GA"
         ],
         "company_url": "https://simplify.jobs/c/bose",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Galaxy",
+        "id": "d16abc67-b490-4184-ae51-f22402adac95",
+        "title": "2025 Sales & Trading Intern - NYC",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726514214,
+        "date_posted": 1726514214,
+        "url": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/5320664004",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Galaxy",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "State Street",
+        "id": "b563e1ed-9299-4d76-8fd8-2f60fb1338a4",
+        "title": "Audit Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726527769,
+        "date_posted": 1726514176,
+        "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Boston-Massachusetts/Audit-Data-Analyst-Intern_R-757843",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/d1ef45b2-fd52-4e9d-9d7d-dc3d5386744f",
+        "is_visible": false,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Visa",
+        "id": "0f39d2d3-f0ef-4495-94a5-2d85eaefcc42",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1726514165,
+        "date_posted": 1726514165,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000014254245",
+        "locations": [
+            "Ashburn, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Visa",
+        "id": "96f09d80-a934-4531-afc3-44bdd3b09529",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1726514162,
+        "date_posted": 1726514162,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000014253576",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Symbotic",
+        "id": "0f48d1d2-9532-4bb2-b394-31b8f4592661",
+        "title": "Co-op-Front End Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726514096,
+        "date_posted": 1726514096,
+        "url": "https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Co-op--Front-End-Software-Engineer_R3996",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/symbotic",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Symbotic",
+        "id": "aa309a8a-f4ae-41bb-8e64-5ea742d60a4d",
+        "title": "Intern \u2013 Bot Controls",
+        "active": true,
+        "terms": [
+            "Summer 2024",
+            "Spring 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1726514043,
+        "date_posted": 1725924137,
+        "url": "https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Intern---Bot-Controls_R3930",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/symbotic",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Bose",
+        "id": "9ea52046-ccda-47cb-8347-b98fb2cb87c0",
+        "title": "Embedded Software Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726514533,
+        "date_posted": 1726514533,
+        "url": "https://boseallaboutme.wd1.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Embedded-Software-Engineer-Co-op_R27474-1",
+        "locations": [
+            "Framingham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/bose",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Visa",
+        "id": "b6989823-e07a-43f3-9929-68dc5f78d100",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1726514163,
+        "date_posted": 1726514163,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000014253581",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Visa",
+        "id": "afdca83d-e589-4f80-b6db-25bb942884a5",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1726514175,
+        "date_posted": 1726514175,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000014256745",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Visa",
+        "id": "061a6dec-f500-4d27-b2b5-fa4fb6e322f8",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1726514163,
+        "date_posted": 1726514163,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000014255436",
+        "locations": [
+            "Highlands Ranch, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Bristol-Myers Squibb",
+        "id": "3168a7eb-fda2-4535-9301-1c6ee21e4963",
+        "title": "Co-Op \u2013 Machine Learning - Spring 2025",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1726514373,
+        "date_posted": 1726514373,
+        "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/BMS/job/Cambridge-Crossing---MA---US/Co-Op---Machine-Learning--Spring-2025-_R1585534",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Bristol-Myers-Squibb",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Galaxy",
+        "id": "9ed25ce2-e689-4723-854d-e21c3c0df2db",
+        "title": "2025 Blockchain Engineering Intern - London",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726514217,
+        "date_posted": 1726514217,
+        "url": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/5329547004",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Galaxy",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Visa",
+        "id": "702e6a72-01c4-4e63-a1de-523e6b58ab2e",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1726514163,
+        "date_posted": 1726514163,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000014255255",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sentry Insurance",
+        "id": "dc5fd824-b32b-4ff5-b021-f6867a17239a",
+        "title": "Software Developer Co-op - Madison - WI Student Opportunity",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1726514426,
+        "date_posted": 1726514426,
+        "url": "https://sentryinsurance.wd1.myworkdayjobs.com/en-US/SentryCareers/job/Madison-WI/Software-Developer-Co-op---Madison--WI-Student-Opportunity_JR-137070",
+        "locations": [
+            "Madison, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/782e6c3f-aff3-4aed-9d50-50676cb8ed7f",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Motorola",
+        "id": "3a5ad663-2662-4f96-9651-28568fb4ace1",
+        "title": "Data Engineer Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726514716,
+        "date_posted": 1726514716,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Data-Engineer-Intern---Summer-2025_R50049",
+        "locations": [
+            "Chicago, IL",
+            "Hoffman Estates, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Western Digital",
+        "id": "5433ee73-9173-4937-9878-669333bcf5cc",
+        "title": "Ramp Co Op - Jan 2025 - July 2025 - SIT-Lab Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726522149,
+        "date_posted": 1726515856,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000014248145",
+        "locations": [
+            "Rochester, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": false,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Bose",
+        "id": "07937a11-b6d5-4d31-ae03-87d4e55ec96f",
+        "title": "Embedded Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726514537,
+        "date_posted": 1726514537,
+        "url": "https://boseallaboutme.wd1.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Embedded-Software-Engineer-Intern_R27475",
+        "locations": [
+            "Framingham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/bose",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Bose",
+        "id": "aad9f2af-2658-42ce-803f-74035800469a",
+        "title": "Data Engineer Co-Op",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726514534,
+        "date_posted": 1726514534,
+        "url": "https://boseallaboutme.wd1.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Data-Engineer-Co-Op_R27512",
+        "locations": [
+            "Framingham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/bose",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Expedition Technology",
+        "id": "d14b5491-b96d-4539-a6a3-1926d1d5bb55",
+        "title": "Summer 2025 Internship in Deep Learning and Computer Vision",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726528466,
+        "date_posted": 1726528466,
+        "url": "https://www.exptechinc.com/careers/?gh_jid=4517665007",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/ExpeditionTech",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Expedition Technology",
+        "id": "9964dea0-ea9e-45f7-980f-1dc17b9b6cb6",
+        "title": "Summer 2025 Internship in Software Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726528465,
+        "date_posted": 1726528465,
+        "url": "https://www.exptechinc.com/careers/?gh_jid=4518627007",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/ExpeditionTech",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Expedition Technology",
+        "id": "ce6ff3d5-e81a-488f-824d-8a9ca3c237a3",
+        "title": "Summer 2025 Internship in Machine Learning and RF Signal Processing",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726528464,
+        "date_posted": 1726528464,
+        "url": "https://www.exptechinc.com/careers/?gh_jid=4518608007",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/ExpeditionTech",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "ServiceNow",
+        "id": "b006ffbb-1042-4766-8fd0-f3bfa5e084a8",
+        "title": "Digital Technology \u2013 Software Engineer Internships - Dt - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726528165,
+        "date_posted": 1726528165,
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000014302725",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ServiceNow",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Enova",
+        "id": "14029806-df2a-4780-85f0-9216a4ec6f88",
+        "title": "Software Engineer Internship Summer 2025 - Hybrid",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726528007,
+        "date_posted": 1726528007,
+        "url": "https://boards.greenhouse.io/enova/jobs/6256826",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Enova",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Enova",
+        "id": "70ec6e61-b142-4d23-b719-118ab9983970",
+        "title": "Analytics Internship Summer 2025 - Hybrid",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726528003,
+        "date_posted": 1726528003,
+        "url": "https://boards.greenhouse.io/enova/jobs/6257059",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Enova",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Oshkosh",
+        "id": "08fad577-c9de-4356-80d8-674cb58599de",
+        "title": "Engineer Intern - Software - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726528619,
+        "date_posted": 1726528619,
+        "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Murfreesboro-Tennessee-United-States/Engineering-Intern---Software--Summer-2025-_R32558",
+        "locations": [
+            "Murfreesboro, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/Oshkosh",
         "is_visible": true,
         "sponsorship": "Other"
     }
