@@ -1612,7 +1612,7 @@
         "company_name": "Covariant",
         "id": "6c3f7766-854b-4b07-a73b-cbfa529ef5a2",
         "title": "Machine Learning - AI Research Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023"
         ],
@@ -81285,7 +81285,7 @@
         "company_name": "D2L",
         "id": "fd22c957-25d4-4872-b65c-0c52115d00f9",
         "title": "Software Developer \u2013 Fall 2024 Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -89803,7 +89803,7 @@
         "company_name": "Codeium",
         "id": "8c071f6e-a41b-4034-8f1e-34d82a4c940e",
         "title": "Software Engineering Intern - Fall 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2024"
         ],
@@ -90549,7 +90549,7 @@
         "company_name": "Codeium",
         "id": "21309919-68fe-4bc7-9637-aadc734b0fd3",
         "title": "Software Engineering Intern - Spring 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2025"
         ],
@@ -91056,7 +91056,7 @@
         "company_name": "Asana",
         "id": "ddf6566c-2648-4479-b9b5-ff0aa07e3a22",
         "title": "NYC Summer Software Engineering Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -91630,7 +91630,7 @@
         "company_name": "Belvedere Trading",
         "id": "654fd797-bda0-4a6d-ab70-e56869309ada",
         "title": "Quantitative Trading Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -97647,7 +97647,7 @@
         "company_name": "National Information Solutions Cooperative (NISC)",
         "id": "6865821a-2a3d-4093-9c0a-7cb07888d7e9",
         "title": "Intern \u2013 Applications & Data Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025"
@@ -98165,7 +98165,7 @@
         "company_name": "Wealthsimple",
         "id": "5c96f4ba-9d18-44c5-b741-2e5008430144",
         "title": "Intern \u2013 Data Science - Winter 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -99528,7 +99528,7 @@
         "company_name": "MarketAxess",
         "id": "3cdb8768-36d2-479e-8f33-7bd9d111a62e",
         "title": "Data Software Engineering Intern 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -100493,7 +100493,7 @@
         "company_name": "Okta",
         "id": "c17e44b5-965e-46e9-b758-0207ba4a1d42",
         "title": "Software Engineer Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -100531,7 +100531,7 @@
         "company_name": "ICF",
         "id": "02cf2ccd-3aa8-46e6-8bab-669404351ee0",
         "title": "2025 Summer Intern - Data Analyst - Bachelors; Remote or Hybrid from Reston - VA",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -100588,7 +100588,7 @@
         "company_name": "Numerade",
         "id": "4d9ce4b0-99ec-4add-907c-76b2d7745864",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -101276,7 +101276,7 @@
         "company_name": "Tencent",
         "id": "eab42f0d-234b-45ae-a30b-d1ee63f3d08e",
         "title": "Game Research & Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -101339,7 +101339,7 @@
         "company_name": "Tencent",
         "id": "c3d973a9-8b5d-429c-9176-c35b65424bf2",
         "title": "Game Client Development intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -102370,7 +102370,7 @@
         "company_name": "YOU.com",
         "id": "c8987857-ce03-4ef1-a197-ad62bb03a5f8",
         "title": "Software Engineering Intern - Frontend",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -102700,7 +102700,7 @@
         "company_name": "Fidelity Investments",
         "id": "fbccc515-2c13-4ce1-a9ea-7f10afda79bf",
         "title": "Summer 2025 Undergraduate Internship - Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -102745,7 +102745,7 @@
         "company_name": "Bose",
         "id": "4047d954-19e4-4019-b0f5-a3a2bd5481d8",
         "title": "Data Science Co-Op - NLP",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -103226,7 +103226,7 @@
         "company_name": "Oshkosh",
         "id": "08fad577-c9de-4356-80d8-674cb58599de",
         "title": "Engineer Intern - Software - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -103421,5 +103421,205 @@
         "company_url": "https://simplify.jobs/c/Visa",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Red Hat",
+        "id": "3243bf9f-a377-4ce1-8d0a-9bfbaf2beebd",
+        "title": "Software Engineering Internship",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725447998,
+        "date_posted": 1725447998,
+        "url": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Boston/Software-Engineering-Internship_R-041167",
+        "locations": [
+            "Boston, MA",
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Red-Hat",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "WillowTree",
+        "id": "85807221-a9b3-4ec8-b9c9-896d918315aa",
+        "title": "Software Engineering Intern - US - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1725377862,
+        "date_posted": 1725377862,
+        "url": "https://boards.greenhouse.io/willowtree/jobs/7596209002",
+        "locations": [
+            "Durham, NC",
+            "Columbus, OH",
+            "Charlottesville, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/WillowTree",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Capital One",
+        "id": "edbb4d6b-ecbe-4199-8eb6-403599804fee",
+        "title": "Product Development Internship Program - Carnegie Mellon University - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726586106,
+        "date_posted": 1726586106,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Product-Development-Internship-Program---Carnegie-Mellon-University---Summer-2025_R196617-1",
+        "locations": [
+            "Plano, TX",
+            "McLean, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CACI",
+        "id": "7ff71059-98f4-4f29-ae65-4134ccec468f",
+        "title": "Cleared Software Engineer Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726585948,
+        "date_posted": 1726585948,
+        "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-CO-Denver/Cleared-Software-Engineer-Intern---Summer-2025_301978-1",
+        "locations": [
+            "Denver, CO",
+            "Dulles, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Immuta",
+        "id": "c166b6d1-509b-4992-8389-b69a81483f61",
+        "title": "Product Engineering Internship - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726585810,
+        "date_posted": 1726585810,
+        "url": "https://jobs.lever.co/immuta/bc8de9df-4ae8-450a-b715-58adeea4789a/apply",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Immuta",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Minitab",
+        "id": "245a58fe-9bf6-4d73-aa00-d5c3e034476b",
+        "title": "Intern Opportunities - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726585810,
+        "date_posted": 1726585810,
+        "url": "https://job-boards.greenhouse.io/minitab/jobs/6209470003",
+        "locations": [
+            "State College, PA",
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Minitab",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Booz Allen",
+        "id": "83eefff5-a3dc-4eb9-9395-45386e7c2949",
+        "title": "Data Scientist Intern",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1726586341,
+        "date_posted": 1726586341,
+        "url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Atlanta-GA/Data-Scientist-Intern_R0205248",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/45cb775d-2ca3-49ea-810f-65334ec70079",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rockwell Automation",
+        "id": "f211aba9-cef3-4f83-9ea1-da39bb74c595",
+        "title": "Co-op \u2013 Software Engineering",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024",
+            "Fall 2024",
+            "Winter 2025"
+        ],
+        "date_updated": 1726586183,
+        "date_posted": 1726586183,
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Co-op--Software-Engineering_R24-5171-2",
+        "locations": [
+            "Mayfield Heights, OH",
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Rockwell-Automation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Walt Disney Company",
+        "id": "b432e2fb-5ae4-4c0e-86de-5201ea12b783",
+        "title": "Decision Science Data Engineering Intern - Spring 2025",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1726275944,
+        "date_posted": 1726257523,
+        "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Decision-Science-Data-Engineering-Intern--Spring-2025_10101234",
+        "locations": [
+            "Celebration, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Disney",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1726591837,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000014256745-software-engineer-intern",
+        "company_name": "Visa",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "d986c4cc-154f-445d-8e3e-d0ef4510b867",
+        "date_posted": 1726591837,
+        "company_url": "",
+        "is_visible": true
     }
 ]
