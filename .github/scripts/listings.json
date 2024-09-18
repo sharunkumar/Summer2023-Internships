@@ -100609,7 +100609,7 @@
         "company_name": "Altruist",
         "id": "41114bcd-196c-4c40-8edd-1e79de006a21",
         "title": "2025 Technology and Innovation Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -104054,5 +104054,118 @@
         "company_url": "https://simplify.jobs/c/Pinterest",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Medtronic",
+        "id": "29952ced-774c-43b5-b8e8-125921938668",
+        "title": "This Post IS Intended For Students Seeking a Summer 2025 Internship Attending the 2024 SWE.",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1726629120,
+        "date_posted": 1726629120,
+        "url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/THIS-POST-IS-INTENDED-FOR-STUDENTS-SEEKING-A-SUMMER-2025-INTERNSHIP-ATTENDING-THE-2024-SWE-CONFERENCE_R3770-1",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/9b240811-be36-4b51-8f40-6973a27e1f62",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Medtronic",
+        "id": "c9d4b6cc-0d99-42c4-9d10-d7d6239d34a2",
+        "title": "Software Engineering Intern - Summer 2025 - Undergraduate",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1726629118,
+        "date_posted": 1726629118,
+        "url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2025--Undergraduate-_R1748",
+        "locations": [
+            "Wayzata, MN",
+            "Boston, MA",
+            "Orange, CA",
+            "Santa Rosa, CA",
+            "Irvine, CA",
+            "Mansfield, MA",
+            "Tempe, AZ",
+            "Memphis, TN",
+            "Northridge, LA",
+            "Blaine, MN",
+            "Brooklyn Park, MN",
+            "Fort Worth, TX",
+            "North Haven, CT",
+            "Lafayette, CO",
+            "Minneapolis, MN",
+            "Peabody, MA",
+            "Jacksonville, FL",
+            "Boulder, CO",
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/9b240811-be36-4b51-8f40-6973a27e1f62",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Visa",
+        "id": "1e26f896-043d-48bb-9afc-902ecbe6009c",
+        "title": "Systems Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1726630163,
+        "date_posted": 1726630163,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000014671585",
+        "locations": [
+            "Highlands Ranch, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1726633178,
+        "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2025--Undergraduate-_R1748",
+        "company_name": "Medtronic",
+        "title": "Software Engineering Intern \u2013 Summer 2025 (Undergraduate)",
+        "locations": [
+            "Multiple Locations"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "aborra02",
+        "id": "529f68b5-0b76-4933-92c0-223aa40a2bf3",
+        "date_posted": 1726633178,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1726633204,
+        "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Summer-2025-Management-Information-Systems-Intern---Undergraduate_R897-1",
+        "company_name": "Medtronic",
+        "title": "Summer 2025 Management Information Systems Intern - Undergraduate",
+        "locations": [
+            "Multiple Locations"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "aborra02",
+        "id": "aaa812b5-0784-464a-b984-c40c754842d8",
+        "date_posted": 1726633204,
+        "company_url": "",
+        "is_visible": true
     }
 ]
