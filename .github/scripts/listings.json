@@ -96432,7 +96432,7 @@
         "company_name": "Leidos",
         "id": "87d3c076-6325-4899-893f-727215cad757",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -97915,7 +97915,7 @@
         "company_name": "Demiurge Studios",
         "id": "f815ea06-8013-4fee-8d51-e4addc1a84fa",
         "title": "2025 Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -98106,7 +98106,7 @@
         "company_name": "Leidos",
         "id": "f18dd843-d90e-4557-abdc-c7a6938f327a",
         "title": "Data Engineer/Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -98126,7 +98126,7 @@
         "company_name": "Leidos",
         "id": "a15487ea-5f80-46f1-a4ba-1693c8b87b9a",
         "title": "Network Engineering/Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -98792,7 +98792,7 @@
         "company_name": "Motorola",
         "id": "a2f60cbc-f893-4e01-8117-02e2aada45ab",
         "title": "Software Engineering Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -100996,7 +100996,7 @@
         "company_name": "Motorola",
         "id": "92caa2d6-dc02-4718-90a3-076f876070b9",
         "title": "Software Engineer Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -104355,7 +104355,7 @@
         "company_name": "DoorDash",
         "id": "8ab846e6-e0a9-4f38-8d15-5cb1845e7bcd",
         "title": "Software Engineer \u2013 Intern - University Recruiting",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2026",
@@ -104434,5 +104434,63 @@
         "date_posted": 1726720549,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wayfair",
+        "id": "f47e6eb9-adeb-456e-9d66-91d0534d4580",
+        "title": "Data Scientist Intern-Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726758107,
+        "date_posted": 1726758107,
+        "url": "https://www.wayfair.com/careers/jobs/7617146002?gh_jid=7617146002",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Wayfair",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Duolingo",
+        "id": "2884a800-0120-4af8-a039-6c17317534c4",
+        "title": "Data Scientist \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726757585,
+        "date_posted": 1726672199,
+        "url": "https://job-boards.greenhouse.io/duolingo/jobs/7643898002",
+        "locations": [
+            "Pittsburgh, PA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Duolingo",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Duolingo",
+        "id": "4291089e-3974-49cf-8e37-2c5db6e7efe7",
+        "title": "Data Scientist \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726757609,
+        "date_posted": 1726672202,
+        "url": "https://job-boards.greenhouse.io/duolingo/jobs/7642838002",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Duolingo",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
