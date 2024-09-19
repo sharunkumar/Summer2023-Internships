@@ -98165,7 +98165,7 @@
         "company_name": "Wealthsimple",
         "id": "5c96f4ba-9d18-44c5-b741-2e5008430144",
         "title": "Intern \u2013 Data Science - Winter 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -103369,7 +103369,7 @@
         "company_name": "Motorola",
         "id": "08bf4abd-3509-49b9-bf83-163e0e887c85",
         "title": "Supply Chain Data Analytics Internship 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -104347,6 +104347,91 @@
         "source": "GaryZhous",
         "id": "56fd60a2-0efa-457b-a119-a59cff657ce6",
         "date_posted": 1726708487,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DoorDash",
+        "id": "8ab846e6-e0a9-4f38-8d15-5cb1845e7bcd",
+        "title": "Software Engineer \u2013 Intern - University Recruiting",
+        "active": true,
+        "terms": [
+            "Fall 2025",
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026"
+        ],
+        "date_updated": 1726715374,
+        "date_posted": 1726715374,
+        "url": "https://boards.greenhouse.io/doordash/jobs/6247016",
+        "locations": [
+            "Seattle, WA",
+            "SF",
+            "LA",
+            "NYC",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/DoorDash",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Humane",
+        "id": "8dce53af-b258-4d47-bc30-5e6de388c758",
+        "title": "Software Engineering Intern - Device Automation",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1726715192,
+        "date_posted": 1726715192,
+        "url": "https://job-boards.greenhouse.io/humane/jobs/5332610004",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Humane",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1726720362,
+        "url": "https://sentryinsurance.wd1.myworkdayjobs.com/SentryCareers/job/Stevens-Point-WI/Software-Engineer-Internship--Summer-2025_JR-137167",
+        "company_name": "Sentry",
+        "title": "Software Engineer Internship- Summer 2025",
+        "locations": [
+            "Stevens Point, WI"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "28882356-6c5b-4bb0-86cf-d10d89ecbecb",
+        "date_posted": 1726720362,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1726720549,
+        "url": "https://careers.rtx.com/global/en/job/RAYTGLOBAL01728415EXTERNALENGLOBAL/2025-Intern-Raytheon-Fellowship-Program-Software-Engineer-Intern-On-site",
+        "company_name": "Raytheon",
+        "title": "2025 Intern - Raytheon Fellowship Program - Software Engineer Intern",
+        "locations": [
+            "State College, PA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "bd0557dc-d19a-44a4-8e0c-aa7a867369bc",
+        "date_posted": 1726720549,
         "company_url": "",
         "is_visible": true
     }
