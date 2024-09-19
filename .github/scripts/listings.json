@@ -96432,7 +96432,7 @@
         "company_name": "Leidos",
         "id": "87d3c076-6325-4899-893f-727215cad757",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -98299,7 +98299,7 @@
         "company_name": "Okta",
         "id": "a1a82ac3-0bc1-4466-aab1-a5eee4fccc3c",
         "title": "Software Engineer Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -98338,7 +98338,7 @@
         "company_name": "Okta",
         "id": "aeda015e-a11a-414e-8a24-2d25212cda8f",
         "title": "Machine Learning Engineer Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -99164,7 +99164,7 @@
         "company_name": "Vermeer",
         "id": "0f9fd226-7fa5-47ee-be75-5a7c0ddc67c9",
         "title": "Data Analytics Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -101215,7 +101215,7 @@
         "company_name": "Vantage Data Centers",
         "id": "c1bb1b5f-7c70-4491-89ad-09613488ef94",
         "title": "Vantage Data Centers Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -101567,7 +101567,7 @@
         "company_name": "ServiceNow",
         "id": "2f64f891-c6c6-4de6-a370-889abade9e3c",
         "title": "Intern \u2013 Data Scientist",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -102232,7 +102232,7 @@
         "company_name": "Span",
         "id": "1669166f-7f62-4ae2-a976-0762f7ad833b",
         "title": "Device Software Engineering Internship-Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -103035,7 +103035,7 @@
         "company_name": "Motorola",
         "id": "3a5ad663-2662-4f96-9651-28568fb4ace1",
         "title": "Data Engineer Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -103389,7 +103389,7 @@
         "company_name": "Motorola",
         "id": "ea4bca9a-7497-436e-bc50-056e34105289",
         "title": "Supply Chain Data Analyst Internship 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -103977,7 +103977,7 @@
         "company_name": "skillz",
         "id": "63c5953e-f2ee-4657-916f-2176c4d43eec",
         "title": "Software Engineer \u2013 2025 Spring Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -104205,5 +104205,149 @@
         "company_url": "https://simplify.jobs/c/MotorolaSolutions",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Fidelity Investments",
+        "id": "c473b469-713d-47fb-9ec0-540acd19444d",
+        "title": "Summer 2025 Undergraduate Internship - Technology",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726687804,
+        "date_posted": 1726687804,
+        "url": "https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Boston-MA/Summer-2025-Undergraduate-Internship---Technology_2100827",
+        "locations": [
+            "Salt Lake City, UT",
+            "Boston, MA",
+            "Westlake, TX",
+            "Durham, NC",
+            "Smithfield, RI",
+            "Merrimack, NH",
+            "NYC",
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Fidelity",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Motorola",
+        "id": "545fc5f4-0bac-40a0-bc29-fa8243933b22",
+        "title": "Software Engineer Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726687597,
+        "date_posted": 1726687597,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Software-Engineer-Intern---Summer-2025_R50046",
+        "locations": [
+            "Chicago, IL",
+            "Hoffman Estates, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Q2",
+        "id": "cd913a03-70ed-4cd7-beee-68b9e7069ecb",
+        "title": "Engineering/Data Science Internship",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "date_updated": 1726687746,
+        "date_posted": 1726687746,
+        "url": "https://q2ebanking.wd5.myworkdayjobs.com/en-US/Q2/job/Austin-TX/Engineering-Data-Science-Internship_REQ-10697",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Q2Software",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Lucid",
+        "id": "f7e109fc-5854-4f16-96fe-e45e09d37384",
+        "title": "Software Engineer Internship 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726700993,
+        "date_posted": 1726700993,
+        "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/5251374004",
+        "locations": [
+            "South Jordan, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Lucid",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Fullscript",
+        "id": "49da07f8-438f-4f9c-8770-8e9ce57202b9",
+        "title": "Co-op/Intern Ruby Engineer - Winter 2025",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1726700965,
+        "date_posted": 1726700965,
+        "url": "https://jobs.lever.co/fullscript/bcf00242-0247-459c-883e-cce1ee2a225d/apply",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/FullScript",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Fidelity Investments",
+        "id": "a5401268-3a2b-4ac7-a789-84989b4b134c",
+        "title": "Quantitative Development & Data Science Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1726701355,
+        "date_posted": 1726701355,
+        "url": "https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Boston-MA/Quantitative-Development---Data-Science-Internship_2100935-1",
+        "locations": [
+            "Boston, MA",
+            "Merrimack, NH",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Fidelity",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1726708487,
+        "url": "https://careers.confluent.io/jobs/14941884-2025-software-engineering-intern",
+        "company_name": "Confluent",
+        "title": "2025 Software Engineering Intern",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "56fd60a2-0efa-457b-a119-a59cff657ce6",
+        "date_posted": 1726708487,
+        "company_url": "",
+        "is_visible": true
     }
 ]
