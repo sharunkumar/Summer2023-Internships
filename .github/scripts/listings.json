@@ -102527,7 +102527,7 @@
         "company_name": "Walmart",
         "id": "f92d93be-1ab1-449b-b703-f4e1ab6336cd",
         "title": "2024 Intern Conversion \u2013 2025 Return Corporate Intern: - USA - Software Engineer II",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -102546,7 +102546,7 @@
         "company_name": "Walmart",
         "id": "a535a7ff-6fc8-4a7e-ae0b-4ff8948f2d22",
         "title": "2024 Intern Conversion \u2013 2025 Return Corporate Intern: - USA - Software Engineer II",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -104861,6 +104861,26 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Astranis",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DoorDash",
+        "id": "562d7973-68ee-49ad-898f-68dd3f4ad6fc",
+        "title": "Software Engineer \u2013 Intern - Toronto - University Recruiting",
+        "active": false,
+        "terms": [
+            "Winter 2024",
+            "Summer 2024"
+        ],
+        "date_updated": 1726816280,
+        "date_posted": 1726816280,
+        "url": "https://boards.greenhouse.io/doordashcanada/jobs/6247028",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/DoorDash",
         "is_visible": true,
         "sponsorship": "Other"
     }
