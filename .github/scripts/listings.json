@@ -89501,7 +89501,7 @@
         "company_name": "Sunwater Capital",
         "id": "24bd39ce-3dbc-465b-8597-103dd32ed06e",
         "title": "Sunwater Institute Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -92020,7 +92020,7 @@
         "company_name": "The Boeing Company",
         "id": "b27f5b96-3966-4a1c-97d6-55dc5d6a25e4",
         "title": "Boeing Summer 2025 Internship Program - Paid - Information Technology - IT - And Data Analytics - Da - And Digital Aviation Solutions - Das",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -99164,7 +99164,7 @@
         "company_name": "Vermeer",
         "id": "0f9fd226-7fa5-47ee-be75-5a7c0ddc67c9",
         "title": "Data Analytics Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -104881,6 +104881,82 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/DoorDash",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "AQR Capital Management",
+        "id": "3cdaa905-8d9d-465f-bc35-a6fc2bfb2f25",
+        "title": "2025 Quantitative Research Development Summer Analyst",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726844953,
+        "date_posted": 1726844953,
+        "url": "https://careers.aqr.com/jobs?gh_jid=6269811&gh_jid=6269811",
+        "locations": [
+            "Greenwich, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/AQR-Capital-Management",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Thrivent",
+        "id": "30c6b4ad-f683-479c-9961-7af3543a0811",
+        "title": "Software Developer Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726845439,
+        "date_posted": 1726845439,
+        "url": "https://thrivent.wd5.myworkdayjobs.com/external/job/Remote-Minnesota/Software-Developer-Intern---Summer-2025_REQ-40181",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Thrivent",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Thrivent",
+        "id": "426b9829-bf5b-4d16-afa3-022d15506273",
+        "title": "IT Application Engineer Intern - Investments - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726845440,
+        "date_posted": 1726845440,
+        "url": "https://thrivent.wd5.myworkdayjobs.com/external/job/Mpls-Investments-Office/IT-Application-Engineer-Intern--Investments---Summer-2025_REQ-40179",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Thrivent",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Thrivent",
+        "id": "6dbb30ce-27a2-4ac2-b605-ee9986dc3c42",
+        "title": "Data Analyst Intern - Investments - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726845433,
+        "date_posted": 1726845433,
+        "url": "https://thrivent.wd5.myworkdayjobs.com/external/job/Mpls-Investments-Office/Data-Analyst-Intern--Investments---Summer-2025_REQ-40180",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Thrivent",
         "is_visible": true,
         "sponsorship": "Other"
     }
