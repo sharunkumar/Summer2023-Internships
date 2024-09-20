@@ -58742,7 +58742,7 @@
         "company_name": "Astranis",
         "id": "32567b79-e4ee-4a71-bf95-11a392999a71",
         "title": "Software Developer \u2013 Intern - Network/Payload Software - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -104540,7 +104540,7 @@
         "terms": [
             "Summer 2025"
         ],
-        "date_updated": 1726774356,
+        "date_updated": 1726808046,
         "date_posted": 1726774356,
         "url": "https://jobs.smartrecruiters.com/Visa/744000015185403",
         "locations": [
@@ -104548,7 +104548,7 @@
         ],
         "company_url": "https://simplify.jobs/c/Visa",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "Does Not Offer Sponsorship"
     },
     {
         "source": "Simplify",
@@ -104559,7 +104559,7 @@
         "terms": [
             "Summer 2025"
         ],
-        "date_updated": 1726774356,
+        "date_updated": 1726807996,
         "date_posted": 1726774356,
         "url": "https://jobs.smartrecruiters.com/Visa/744000015189165",
         "locations": [
@@ -104567,7 +104567,7 @@
         ],
         "company_url": "https://simplify.jobs/c/Visa",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "Does Not Offer Sponsorship"
     },
     {
         "source": "Simplify",
@@ -104609,5 +104609,259 @@
         "date_posted": 1726779653,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Kodiak Robotics",
+        "id": "7c8462d2-feaf-4283-b094-55aee91c4eb3",
+        "title": "Winter 2025 Data Scientist Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1726802108,
+        "date_posted": 1726802108,
+        "url": "https://jobs.lever.co/kodiak/6cb23126-c256-4d77-ab60-64735556778c/apply",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Kodiak-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Kodiak Robotics",
+        "id": "7199645e-ea7b-4b24-89c9-46043f4c39b3",
+        "title": "Winter 2025 Full Stack Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1726802102,
+        "date_posted": 1726802102,
+        "url": "https://jobs.lever.co/kodiak/8773a2e6-3bdb-4137-a9f3-6ee207fe6fa3/apply",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Kodiak-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Braze",
+        "id": "95547e62-ac14-46cc-8d04-9685ef3c2d06",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1726802069,
+        "date_posted": 1726802069,
+        "url": "https://boards.greenhouse.io/braze/jobs/6268366",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Braze",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DoorDash",
+        "id": "7b186e54-2654-4482-a3e7-7489019c7241",
+        "title": "Software Engineer \u2013 Intern - University Recruiting",
+        "active": true,
+        "terms": [
+            "Fall 2025",
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026"
+        ],
+        "date_updated": 1726802000,
+        "date_posted": 1726802000,
+        "url": "https://boards.greenhouse.io/doordashusa/jobs/6247016",
+        "locations": [
+            "Seattle, WA",
+            "SF",
+            "LA",
+            "NYC",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/DoorDash",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Marvell",
+        "id": "e9bfb947-da4b-4462-a035-ec0841657726",
+        "title": "Product Engineer Intern - Bachelors",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726802316,
+        "date_posted": 1726802316,
+        "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Santa-Clara-CA/Product-Engineer-Intern---Bachelors_2401897",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/80961b05-9ed3-462d-aef9-4b418c7fb796",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NinjaTrader",
+        "id": "a601b641-24bb-487d-8a31-d6d308db1311",
+        "title": "Software Engineer Intern - Fcm - Summer 2025",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726802243,
+        "date_posted": 1726802243,
+        "url": "https://ninjatrader.com/careers/internships/?gh_jid=4403076006",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/NinjaTrader",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NinjaTrader",
+        "id": "bfa39b01-6af3-416f-90df-7124d63d72e0",
+        "title": "Data Analytics Intern - Summer 2025",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726802245,
+        "date_posted": 1726802245,
+        "url": "https://ninjatrader.com/careers/internships/?gh_jid=4403115006",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/NinjaTrader",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NinjaTrader",
+        "id": "7b6b563c-ea8c-49bd-b5fa-a73278c0575c",
+        "title": "Data Engineer Intern - Summer 2025",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726802245,
+        "date_posted": 1726802245,
+        "url": "https://ninjatrader.com/careers/internships/?gh_jid=4403112006",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/NinjaTrader",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NinjaTrader",
+        "id": "ef54770b-b354-41ff-96ce-c396c2fa1836",
+        "title": "Software Engineer Intern - Trading Services - Summer 2025",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726802276,
+        "date_posted": 1726802276,
+        "url": "https://ninjatrader.com/careers/internships/?gh_jid=4403101006",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/NinjaTrader",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Jahnel Group",
+        "id": "3cc235ae-fe61-4c42-850d-78450d8e18d7",
+        "title": "Associate Software Engineer \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1726802250,
+        "date_posted": 1726802250,
+        "url": "https://www.jahnelgroup.com/apply.html?gh_jid=4102298007",
+        "locations": [
+            "Schenectady, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/8f9a7760-f770-41b9-8046-3892b6e193ff",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NinjaTrader",
+        "id": "32b3b579-cbf6-457c-8b16-69e473465d3f",
+        "title": "Web Engineer Intern - Summer 2025",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726802240,
+        "date_posted": 1726802240,
+        "url": "https://ninjatrader.com/careers/internships/?gh_jid=4403107006",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/NinjaTrader",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NinjaTrader",
+        "id": "7c4eb28a-6bd8-45ec-951f-6e7d08e82d35",
+        "title": "Software Developer in Test Intern - Summer 2025",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726802246,
+        "date_posted": 1726802246,
+        "url": "https://ninjatrader.com/careers/internships/?gh_jid=4403117006",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/NinjaTrader",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Astranis",
+        "id": "44dcc6a6-4597-4d0c-9b74-3e35f6674d50",
+        "title": "Software Developer \u2013 Intern - Network/Payload Software - Winter 2025",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1726802138,
+        "date_posted": 1726802138,
+        "url": "https://job-boards.greenhouse.io/astranis/jobs/4404612006",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Astranis",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
