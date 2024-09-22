@@ -104912,7 +104912,7 @@
         "terms": [
             "Summer 2025"
         ],
-        "date_updated": 1726845439,
+        "date_updated": 1726979169,
         "date_posted": 1726845439,
         "url": "https://thrivent.wd5.myworkdayjobs.com/external/job/Remote-Minnesota/Software-Developer-Intern---Summer-2025_REQ-40181",
         "locations": [
@@ -104920,7 +104920,7 @@
         ],
         "company_url": "https://simplify.jobs/c/Thrivent",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "Does Not Offer Sponsorship"
     },
     {
         "source": "Simplify",
@@ -104931,7 +104931,7 @@
         "terms": [
             "Summer 2025"
         ],
-        "date_updated": 1726845440,
+        "date_updated": 1726979220,
         "date_posted": 1726845440,
         "url": "https://thrivent.wd5.myworkdayjobs.com/external/job/Mpls-Investments-Office/IT-Application-Engineer-Intern--Investments---Summer-2025_REQ-40179",
         "locations": [
@@ -104939,7 +104939,7 @@
         ],
         "company_url": "https://simplify.jobs/c/Thrivent",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "Does Not Offer Sponsorship"
     },
     {
         "source": "Simplify",
@@ -104950,7 +104950,7 @@
         "terms": [
             "Summer 2025"
         ],
-        "date_updated": 1726845433,
+        "date_updated": 1726979260,
         "date_posted": 1726845433,
         "url": "https://thrivent.wd5.myworkdayjobs.com/external/job/Mpls-Investments-Office/Data-Analyst-Intern--Investments---Summer-2025_REQ-40180",
         "locations": [
@@ -104958,7 +104958,7 @@
         ],
         "company_url": "https://simplify.jobs/c/Thrivent",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "Does Not Offer Sponsorship"
     },
     {
         "source": "Simplify",
@@ -105041,7 +105041,7 @@
         "company_name": "Intel",
         "id": "bd6fc94d-5668-46f4-ad93-58f09d5c37c5",
         "title": "Software Engineer \u2013 PEY Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
