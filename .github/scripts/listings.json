@@ -18551,7 +18551,7 @@
         "company_name": "Garda Capital Partners",
         "id": "22af376d-6088-4acc-ad84-0257ded57916",
         "title": "Trading Assistant Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -89380,7 +89380,7 @@
         "company_name": "Akuna Capital",
         "id": "87d18c63-3a25-45cc-ab10-d99c351a6a8c",
         "title": "Quantitative Development Internship - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -90242,7 +90242,7 @@
         "company_name": "Akuna Capital",
         "id": "7a39f337-c269-4301-8f0c-9c6d9336687f",
         "title": "Quantitative Research Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -94239,7 +94239,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1724704071,
+        "date_updated": 1727111823,
         "url": "https://www.amazon.jobs/en/jobs/2739024/systems-development-engineer-summer-internship-2025-us",
         "company_name": "Amazon",
         "title": "Systems Development Engineer Intern",
@@ -94249,8 +94249,8 @@
         "terms": [
             "Summer 2025"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "LuaanNguyen",
         "id": "5eedaa0a-7057-4eb8-8bfb-df292be9bfb0",
         "date_posted": 1724704071,
@@ -99625,7 +99625,7 @@
         "company_name": "Lucid Motors",
         "id": "b60a585c-f47e-44a7-8221-4d2fe709f57c",
         "title": "Intern \u2013 Software Engineer - Supply Chain - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -102978,7 +102978,7 @@
         "company_name": "Galaxy",
         "id": "9ed25ce2-e689-4723-854d-e21c3c0df2db",
         "title": "2025 Blockchain Engineering Intern - London",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -104634,7 +104634,7 @@
         "company_name": "Kodiak Robotics",
         "id": "7199645e-ea7b-4b24-89c9-46043f4c39b3",
         "title": "Winter 2025 Full Stack Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -105003,7 +105003,7 @@
         "company_name": "ICF",
         "id": "94e181b8-5549-4cbf-bd77-c51e41ac4805",
         "title": "2025 Summer Intern - Generative AI Research - Global Health - Bachelors/Masters - Remote",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -105166,6 +105166,123 @@
             "Hyattsville, MD"
         ],
         "company_url": "https://simplify.jobs/c/Immuta",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Capital One",
+        "id": "20f0f533-1e76-4476-9e94-681773756562",
+        "title": "Product Development Internship Program - Massachusetts Institute of Technology - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727104518,
+        "date_posted": 1727104518,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Product-Development-Internship-Program---Massachusetts-Institute-of-Technology---Summer-2025_R196614-1",
+        "locations": [
+            "Plano, TX",
+            "McLean, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Duolingo",
+        "id": "4353565f-d3ae-41ea-881b-eff45a041a40",
+        "title": "Software Engineer \u2013 Thrive Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727104480,
+        "date_posted": 1727104480,
+        "url": "https://job-boards.greenhouse.io/duolingo/jobs/7636988002",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Duolingo",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CACI",
+        "id": "61dfc960-07b3-4d24-86f9-8d89cca962d6",
+        "title": "Software Development Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727104347,
+        "date_posted": 1727104347,
+        "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-CO-Denver/Software-Development-Intern---Summer-2025_302072-2",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CACI",
+        "id": "363a1980-cb95-4b51-9688-76326b11b35b",
+        "title": "Application Developer Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727104341,
+        "date_posted": 1727104341,
+        "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-VA-King-George/Application-Developer-Intern---Summer-2025_302154-1",
+        "locations": [
+            "King George County, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Autodesk",
+        "id": "4132f73d-1498-4907-bac0-f8bd7932504e",
+        "title": "Intern \u2013 Event Data Operations",
+        "active": false,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026"
+        ],
+        "date_updated": 1727104103,
+        "date_posted": 1727104103,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--Event-Data-Operations_24WD81857",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Autodesk",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "OpenAI",
+        "id": "0559dbe7-6905-4c1e-85f2-8b03cd46d8a0",
+        "title": "Software Engineer Internship / Co-op - Applied Emerging Talent",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727104720,
+        "date_posted": 1727104720,
+        "url": "https://jobs.ashbyhq.com/openai/6d1b3df9-b086-4e9f-8568-434c5493a00b/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/OpenAI",
         "is_visible": true,
         "sponsorship": "Other"
     }
