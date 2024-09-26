@@ -82918,7 +82918,7 @@
         "company_name": "Seismic",
         "id": "ead893a9-9ea4-403b-bdc3-4534be1c1229",
         "title": "Software Engineer AI/ ML-Co-Op - PEY/ Masters",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -86133,7 +86133,7 @@
         "company_name": "XPeng Motors",
         "id": "e275a4c8-4f25-40d4-83ec-64c54d6d2dcf",
         "title": "Planning Machine Learning Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -93360,7 +93360,7 @@
         "company_name": "Verkada",
         "id": "cc22a5b1-d887-40f7-9b04-8ee61321a911",
         "title": "Android Engineering Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -96432,7 +96432,7 @@
         "company_name": "Leidos",
         "id": "87d3c076-6325-4899-893f-727215cad757",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -97425,7 +97425,7 @@
         "company_name": "National Information Solutions Cooperative (NISC)",
         "id": "129f0856-64e2-46e3-ba9a-2dab5b0c08b9",
         "title": "Intern \u2013 Software Development - IOS",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025"
@@ -99354,7 +99354,7 @@
         "company_name": "Chatham Financial",
         "id": "7fdb9e5d-ea56-464c-a914-c8e74c37a9a6",
         "title": "2025 Full Stack Developer Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -99528,7 +99528,7 @@
         "company_name": "MarketAxess",
         "id": "3cdb8768-36d2-479e-8f33-7bd9d111a62e",
         "title": "Data Software Engineering Intern 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2024"
         ],
@@ -100531,7 +100531,7 @@
         "company_name": "ICF",
         "id": "02cf2ccd-3aa8-46e6-8bab-669404351ee0",
         "title": "2025 Summer Intern - Data Analyst - Bachelors; Remote or Hybrid from Reston - VA",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -105372,7 +105372,7 @@
         "company_name": "Intel",
         "id": "12d300b4-df8a-4234-9423-017c5f076586",
         "title": "Graduate Intern - Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -106171,7 +106171,7 @@
         "company_name": "Litify",
         "id": "7aceea15-a01e-4d8e-a07f-3be5ab1ce809",
         "title": "Software Engineer Co-op - Cooperative Education",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -106215,7 +106215,7 @@
         "terms": [
             "Summer 2025"
         ],
-        "date_updated": 1727277532,
+        "date_updated": 1727296609,
         "date_posted": 1727277532,
         "url": "https://www.uber.com/global/en/careers/list/135629/",
         "locations": [
@@ -106244,6 +106244,126 @@
             "Ottawa, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/0985b121-88fd-4402-aea9-c0c55bfbbc99",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Amazon",
+        "id": "103ba246-82e7-46b5-80c3-2709c381b8c4",
+        "title": "Data Engineer Co-op Winter Internship - 2025 - US",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1727305958,
+        "date_posted": 1727305958,
+        "url": "https://amazon.jobs/en/jobs/2781927/data-engineer-co-op-winter-internship-2025-us",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Amazon",
+        "id": "8c9f42dc-4728-4ad8-9e1f-c20b8c372c10",
+        "title": "Software Development Engineer - Artificial General Intelligence",
+        "active": true,
+        "terms": [],
+        "date_updated": 1727305952,
+        "date_posted": 1727305952,
+        "url": "https://amazon.jobs/en/jobs/2787427/software-development-engineer-artificial-general-intelligence",
+        "locations": [
+            "Cambridge, MA",
+            "Seattle, WA",
+            "Irvine, CA",
+            "Redmond, WA",
+            "Pittsburgh, PA",
+            "Bellevue, WA",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Verkada",
+        "id": "4ef83967-426b-461b-8168-da3b6f907a8f",
+        "title": "Android Engineering Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727305828,
+        "date_posted": 1727305828,
+        "url": "https://job-boards.greenhouse.io/verkada/jobs/4526632007",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Verkada",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Motorola",
+        "id": "148404ba-21d3-457c-bb26-d8dc1d797503",
+        "title": "Supply Chain Data Analyst Internship 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727306188,
+        "date_posted": 1727306188,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Supply-Chain-Data-Analyst-Internship-2025_R50113",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Nelnet",
+        "id": "d7cd7c80-8a2d-46e5-b336-ca086e09f99c",
+        "title": "Intern \u2013 Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1727306152,
+        "date_posted": 1727306152,
+        "url": "https://nelnet.wd1.myworkdayjobs.com/en-US/MyNelnet/job/Lincoln-NE/Intern---Software-Engineer_R20060",
+        "locations": [
+            "Madison, WI",
+            "Centennial, CO",
+            "Lincoln, NE"
+        ],
+        "company_url": "https://simplify.jobs/c/d7662126-9bc7-4ec4-b3e6-a9a3ae307c5d",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Trimble",
+        "id": "7d797cc8-973c-4ef7-842e-58c4b0b4d664",
+        "title": "Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727306125,
+        "date_posted": 1727306125,
+        "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---OH-Dayton/Intern-Undergraduate---Non-Technical_R45891",
+        "locations": [
+            "Dayton, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Trimble",
         "is_visible": true,
         "sponsorship": "Other"
     }
