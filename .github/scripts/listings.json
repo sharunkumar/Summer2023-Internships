@@ -91688,7 +91688,7 @@
         "company_name": "Intel",
         "id": "2d6d268a-4aa7-47af-9062-c74123b9e0fc",
         "title": "Software Engineer \u2013 PEY Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -103729,7 +103729,7 @@
         "company_name": "Elevance Health",
         "id": "1d6f686a-a047-4a50-8f33-ff526f11227b",
         "title": "Engineering Internship-Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -108444,12 +108444,12 @@
         "terms": [
             "Summer 2025"
         ],
-        "date_updated": 1727406966,
+        "date_updated": 1727499036,
         "date_posted": 1727406966,
         "url": "https://www.uber.com/global/en/careers/list/135751/",
         "locations": [],
         "company_url": "https://simplify.jobs/c/Uber",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -108804,6 +108804,46 @@
             "Lincoln, NE"
         ],
         "company_url": "https://simplify.jobs/c/d7662126-9bc7-4ec4-b3e6-a9a3ae307c5d",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Genesis Therapeutics",
+        "id": "ed7573e9-70c2-428a-9f96-99be0a3a6134",
+        "title": "ML Research Intern - Winter/Summer 2025",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026"
+        ],
+        "date_updated": 1727485865,
+        "date_posted": 1725579842,
+        "url": "https://jobs.lever.co/genesistherapeutics/cac2bff2-50ad-46a9-9e3d-c37ca24a4b54/apply",
+        "locations": [
+            "Burlingame, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Genesis-Thera",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Applied Materials",
+        "id": "34a18706-d629-4860-ae2b-2702f68ac556",
+        "title": "Summer 2025 Undergrad Computer Science Intern - Austin - TX",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727493330,
+        "date_posted": 1727493330,
+        "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Summer-2025-Undergrad-Computer-Science-Intern--Austin--TX-_R2416839",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
         "is_visible": true,
         "sponsorship": "Other"
     }
