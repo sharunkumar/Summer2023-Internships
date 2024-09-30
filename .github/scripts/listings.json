@@ -92862,7 +92862,7 @@
         "company_name": "Ontario Teachers' Pension Plan",
         "id": "e1ea1b3e-00b8-4b3d-a4e9-ec0a6d5c5273",
         "title": "Intern \u2013 Trading Floor Risk Analyst - Fall 2024 - Month term",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -105393,7 +105393,7 @@
         "company_name": "Bose",
         "id": "c7755d20-e6cf-4679-ae48-b39b466b9bb8",
         "title": "CE Wearables a/D Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -108863,6 +108863,44 @@
         "source": "LucasMTC",
         "id": "b7d7d369-d8df-4423-bc1c-a41109a5ad00",
         "date_posted": 1727515395,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1727670184,
+        "url": "https://job-boards.eu.greenhouse.io/nice/jobs/4368079101?gh_jid=4368079101",
+        "company_name": "NICE",
+        "title": "DevOps Intern",
+        "locations": [
+            "Richardson, TX"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "d722492f-406b-4fd3-a6a6-7a86685c00ef",
+        "date_posted": 1727670184,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1727670397,
+        "url": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Ithaca---New-York---USA/IT-Co-op-Intern_R2024-3066",
+        "company_name": "BorgWarner",
+        "title": "IT Co-op/Intern",
+        "locations": [
+            "Ithaca, NY"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "fc754c0e-2358-4394-a553-ad4b83578eed",
+        "date_posted": 1727670397,
         "company_url": "",
         "is_visible": true
     }
