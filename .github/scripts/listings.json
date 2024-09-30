@@ -11551,7 +11551,7 @@
         "company_name": "Tombras",
         "id": "ed6d6fa5-d7ca-4fc0-8b27-045fe535537e",
         "title": "Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -92476,7 +92476,7 @@
         "company_name": "Palantir",
         "id": "84ebdbe7-6484-44c0-bf7f-73c5eba09d83",
         "title": "Accelerate \u2013 Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -92495,7 +92495,7 @@
         "company_name": "Palantir",
         "id": "03cb9aee-1081-462c-b14c-d1dcf2d883a3",
         "title": "Accelerate \u2013 Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -99354,7 +99354,7 @@
         "company_name": "Chatham Financial",
         "id": "7fdb9e5d-ea56-464c-a914-c8e74c37a9a6",
         "title": "2025 Full Stack Developer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -101238,7 +101238,7 @@
         "company_name": "Chatham Financial",
         "id": "3a46da13-5a7a-48b0-a1f5-c02841d65c88",
         "title": "2025 Quantitative Analyst Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -103131,7 +103131,7 @@
         "company_name": "Expedition Technology",
         "id": "9964dea0-ea9e-45f7-980f-1dc17b9b6cb6",
         "title": "Summer 2025 Internship in Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -104060,7 +104060,7 @@
         "company_name": "Medtronic",
         "id": "29952ced-774c-43b5-b8e8-125921938668",
         "title": "This Post IS Intended For Students Seeking a Summer 2025 Internship Attending the 2024 SWE.",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -104315,7 +104315,7 @@
         "company_name": "Fidelity Investments",
         "id": "a5401268-3a2b-4ac7-a789-84989b4b134c",
         "title": "Quantitative Development & Data Science Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -105875,7 +105875,7 @@
         "company_name": "Athena Health",
         "id": "d035d135-849e-4160-aadd-b238627a9b4d",
         "title": "2025 Summer Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -106841,7 +106841,7 @@
         "company_name": "Uber",
         "id": "b8218102-2d1d-45ef-a1d7-b49ffad01ef9",
         "title": "2025 Software Engineering Internship - University of Maryland - College Park",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -106863,7 +106863,7 @@
         "company_name": "Uber",
         "id": "0f67f000-a5b6-427e-98c1-6e47ae0c6e06",
         "title": "2025 Software Engineer Internship - UC Berkeley",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -106885,7 +106885,7 @@
         "company_name": "Uber",
         "id": "61b32718-e761-4858-b4da-b782e4a61792",
         "title": "2025 Software Engineering Uberstar Internship - Michigan",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -106908,7 +106908,7 @@
         "company_name": "Uber",
         "id": "cd52e792-dfa7-4902-b756-a35cec61ad14",
         "title": "2025 Software Engineer Internship - Canadian Schools",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -107125,7 +107125,7 @@
         "company_name": "Uber",
         "id": "28294108-0a32-4e96-adc3-ab8d4f423825",
         "title": "2025 Software Engineer Internship - Cornell",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -107147,7 +107147,7 @@
         "company_name": "Uber",
         "id": "5522a205-22a9-4233-97b5-e921e86399b5",
         "title": "2025 Software Engineering Uberstar Internship - Canadian Schools",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -107169,7 +107169,7 @@
         "company_name": "Uber",
         "id": "55c37b6f-2cd6-4649-9268-9978f28130c7",
         "title": "2025 Software Engineering Uberstar Internship - Cornell",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -107301,7 +107301,7 @@
         "company_name": "Uber",
         "id": "7206e696-920d-42f3-a118-812b960d514c",
         "title": "2025 Software Engineering Uberstar Internship - UC Berkeley",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -107364,7 +107364,7 @@
         "company_name": "Uber",
         "id": "e7b6cde7-3012-4e07-bb17-a6192dee8884",
         "title": "2025 Software Engineering Uberstar Internship - UC Berkeley",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -107383,7 +107383,7 @@
         "company_name": "Uber",
         "id": "e1aa5a2d-5fa6-437f-b3b3-d3a4dc954677",
         "title": "2025 Software Engineering Uberstar Internship - Michigan",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -107422,7 +107422,7 @@
         "company_name": "Uber",
         "id": "aa8a542e-513d-421a-9bd8-6d4fd46fbd06",
         "title": "2025 Software Engineer Internship - Canadian Schools",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -107441,7 +107441,7 @@
         "company_name": "Uber",
         "id": "a9a6a266-ee47-4e7b-b5d2-5834f518ecf9",
         "title": "2025 Software Engineering Uberstar Internship - Cornell",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -107460,7 +107460,7 @@
         "company_name": "Uber",
         "id": "a50afc6c-0d3d-488f-8c84-b66ae4319d51",
         "title": "2025 Software Engineer Internship - Cornell",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -107498,7 +107498,7 @@
         "company_name": "Uber",
         "id": "419ca3b8-3683-4ab1-b119-57686a35aa62",
         "title": "2025 Software Engineer Internship - Michigan",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -107536,7 +107536,7 @@
         "company_name": "Uber",
         "id": "044e1894-4326-4d2a-9083-ee147a87a5a8",
         "title": "2025 Software Engineering Uberstar Internship - Canadian Schools",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -107555,7 +107555,7 @@
         "company_name": "Uber",
         "id": "772f0cad-00bc-4a2c-a665-7f3fbd0f2f41",
         "title": "2025 Software Engineer Internship - UC Berkeley",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -107574,7 +107574,7 @@
         "company_name": "Flynn Companies",
         "id": "96926ba6-7b24-4d01-9253-f7259def1201",
         "title": "Innovation and Strategic Development Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -108127,7 +108127,7 @@
         "company_name": "Uber",
         "id": "b055cc40-da76-4c76-a0ea-c356eb9350e7",
         "title": "2025 Software Engineer Internship - Michigan",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -108272,7 +108272,7 @@
         "company_name": "Oshkosh",
         "id": "d4dcbf55-3c03-4f0a-b779-272469b8ea1f",
         "title": "Engineer Intern - Software - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -108354,7 +108354,7 @@
         "company_name": "Uber",
         "id": "1f6932d2-1103-4697-b2dd-ea769ad7bc71",
         "title": "2025 Software Engineering Internship - Carnegie Mellon University",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -108457,7 +108457,7 @@
         "company_name": "Uber",
         "id": "ea8b6381-3859-4716-b5a6-1471558dcbbf",
         "title": "2025 Software Engineering Intern - University of Illinois Urbana-Champaign",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -108561,7 +108561,7 @@
         "company_name": "Uber",
         "id": "cfd955bd-2543-4d48-a0d5-5a77dddc8be7",
         "title": "2025 Software Engineering Intern - University of Illinois Urbana-Champaign",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -108618,7 +108618,7 @@
         "company_name": "Uber",
         "id": "d21fad77-9d59-4914-adcd-444a3568b6b1",
         "title": "2025 Software Engineering Internship - Carnegie Mellon University",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -108922,5 +108922,243 @@
         "company_url": "https://simplify.jobs/c/Disney",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Expedia",
+        "id": "e44b9c72-f9f1-4add-8774-d4e5cc6dd17b",
+        "title": "Software Development Engineering Intern - June 2025 - London",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727709288,
+        "date_posted": 1727709288,
+        "url": "https://expedia.wd5.myworkdayjobs.com/search/job/UK---London/Software-Development-Engineering-Intern---June-2025---London_R-91379-1",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Expedia",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Expedia",
+        "id": "050cec36-c125-414f-a46f-1d46c4f5f9ce",
+        "title": "Data Science \u2013 Analytics Intern - June 2025 - London",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727709285,
+        "date_posted": 1727709285,
+        "url": "https://expedia.wd5.myworkdayjobs.com/search/job/UK---London/Data-Science--Analytics-Intern---June-2025---London_R-90396-1",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Expedia",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Two Six Technologies",
+        "id": "4f618c83-921c-4212-8bd0-7dba77691b8c",
+        "title": "Summer Research Intern - Infrastructure Support",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1727709275,
+        "date_posted": 1727709275,
+        "url": "https://job-boards.greenhouse.io/twosixtechnologies/jobs/5339017004",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Two-Six-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Two Six Technologies",
+        "id": "3c22b742-89b2-4945-935c-427701512dc8",
+        "title": "Summer Research Intern - Software Testing",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1727709273,
+        "date_posted": 1727709273,
+        "url": "https://job-boards.greenhouse.io/twosixtechnologies/jobs/5339066004",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Two-Six-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Two Six Technologies",
+        "id": "1ddcb59f-888b-4187-abd4-fd4922381a3d",
+        "title": "Summer Research Intern - Data",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1727709275,
+        "date_posted": 1727709275,
+        "url": "https://job-boards.greenhouse.io/twosixtechnologies/jobs/5338956004",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Two-Six-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "May Mobility",
+        "id": "3b3f5fe0-2649-4f3d-9736-b444ec8ce926",
+        "title": "Autonomy \u2013 Data Science Intern",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1727709122,
+        "date_posted": 1727709122,
+        "url": "https://boards.greenhouse.io/maymobility/jobs/7661566002",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/May-Mobility",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Two Six Technologies",
+        "id": "6299627d-447c-415c-88a7-87912e3ac78e",
+        "title": "Summer Research Intern - Front End",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1727709273,
+        "date_posted": 1727709273,
+        "url": "https://job-boards.greenhouse.io/twosixtechnologies/jobs/5339043004",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Two-Six-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Two Six Technologies",
+        "id": "2258025c-0dfe-4fe4-918a-80933566cb8f",
+        "title": "Embedded Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727709263,
+        "date_posted": 1727709263,
+        "url": "https://job-boards.greenhouse.io/twosixtechnologies/jobs/5338690004",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Two-Six-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Expedia",
+        "id": "7bc02bfe-d78c-44e5-9b5f-8a36de58d80b",
+        "title": "Technical Program Management Intern - June 2025 - London",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727709292,
+        "date_posted": 1727709292,
+        "url": "https://expedia.wd5.myworkdayjobs.com/search/job/UK---London/Technical-Program-Management-Intern---June-2025---London_R-90394-1",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Expedia",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Two Six Technologies",
+        "id": "baa1f81f-7d6f-4266-9ea9-13c293e79805",
+        "title": "Summer Research Intern - Application Development",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1727709281,
+        "date_posted": 1727709281,
+        "url": "https://job-boards.greenhouse.io/twosixtechnologies/jobs/5338806004",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Two-Six-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1727712121,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/133334514184135366-software-engineering-intern-bs-summer-2025",
+        "company_name": "Google",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "Mountain View, CA, USA",
+            "Atlanta, GA, USA",
+            "Austin, TX, USA",
+            "Boulder, CO, USA",
+            "Cambridge, MA, USA",
+            "Bellevue, WA, USA",
+            "Chicago, IL, USA",
+            "Irvine, CA, USA",
+            "Kirkland, WA, USA",
+            "Los Angeles, CA, USA",
+            "Madison, WI, USA",
+            "New York, NY, USA",
+            "Palo Alto, CA, USA",
+            "Portland, OR, USA",
+            "Pittsburgh, PA, USA",
+            "Raleigh, NC, USA",
+            "Durham, NC, USA",
+            "Reston, VA, USA",
+            "Redmond, WA, USA",
+            "Redwood City, CA, USA",
+            "San Diego, CA, USA",
+            "Goleta, CA, USA",
+            "San Bruno, CA, USA",
+            "Seattle, WA, USA",
+            "San Francisco, CA, USA",
+            "San Jose, CA, USA",
+            "Santa Cruz, CA, USA",
+            "South San Francisco, CA, USA",
+            "Sunnyvale, CA, USA",
+            "Washington D.C., DC, USA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "DanielPHenricks",
+        "id": "7798b748-e0c2-45ce-bee3-e661c5894f1e",
+        "date_posted": 1727712121,
+        "company_url": "",
+        "is_visible": true
     }
 ]
