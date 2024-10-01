@@ -52906,7 +52906,7 @@
         "company_name": "ExodusPoint",
         "id": "405dc370-0c78-4392-910f-b92e23c3b00f",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -92881,7 +92881,7 @@
         "company_name": "Hudl",
         "id": "cb20a3fa-dff5-4043-8ca8-fc22fd9a29d0",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -94300,7 +94300,7 @@
         "company_name": "Artisan Partners",
         "id": "7b96a7c4-a46c-4860-980b-1ea8faaf9e08",
         "title": "Software Developer Intern - Marketing & Distribution",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -96061,7 +96061,7 @@
         "company_name": "Dev Technology Group",
         "id": "5bdff058-4a4b-4c2d-b45a-5875789e04db",
         "title": "Summer Servicenow Application Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -96080,7 +96080,7 @@
         "company_name": "Dev Technology Group",
         "id": "51f69fa4-d93b-440c-8b44-505066e242e3",
         "title": "Summer Java Application Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -96099,7 +96099,7 @@
         "company_name": "Dev Technology Group",
         "id": "a1566eec-cf5f-40ec-9b2b-9d48f855ca46",
         "title": "Summer React/Node Application Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -96195,7 +96195,7 @@
         "company_name": "Dev Technology Group",
         "id": "26652ed4-7caa-46ad-81f7-af24cd2af336",
         "title": "Summer M365/Power Platform Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -96470,7 +96470,7 @@
         "company_name": "Dev Technology Group",
         "id": "bde2eed1-2719-4a13-938e-6a527bc5af75",
         "title": "Summer AI/ML Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -100068,7 +100068,7 @@
         "company_name": "Anduril",
         "id": "dd9480f3-1e1f-453f-a50d-6b94ae23a024",
         "title": "Software Engineering Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -103815,7 +103815,7 @@
         "company_name": "Cohere",
         "id": "d67baf33-510a-4966-b59c-0f40f6c5860d",
         "title": "Machine Learning Intern/Co-op - Winter 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -103834,7 +103834,7 @@
         "company_name": "Cohere",
         "id": "da3e4c38-43a9-4963-af44-5b74076d88a6",
         "title": "Software Engineer Intern/Co-op - Winter 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -104905,7 +104905,7 @@
         "company_name": "Thrivent",
         "id": "30c6b4ad-f683-479c-9961-7af3543a0811",
         "title": "Software Developer Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -105412,7 +105412,7 @@
         "company_name": "ICF",
         "id": "196b4943-b97d-447c-b5d2-51b69fe03e8b",
         "title": "2025 Summer Intern - Generative AI Research - Global Health - Bachelors/Masters - Hybrid or Remote",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -106152,7 +106152,7 @@
         "company_name": "Western Digital",
         "id": "a248c697-6ba0-441f-aca0-9769c87aaf88",
         "title": "Spring 2025 Embedded Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -107700,7 +107700,7 @@
         "company_name": "Uber",
         "id": "7675b2da-a6ee-4911-9bc7-8232f21e0423",
         "title": "2025 Software Engineering Internship - Stanford University",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -108212,7 +108212,7 @@
         "company_name": "Uber",
         "id": "6758878f-45fa-4384-a264-806adcf9841e",
         "title": "2025 Software Engineering Uberstar Internship - Carnegie Mellon University",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -108332,7 +108332,7 @@
         "company_name": "Uber",
         "id": "990b6f3b-4756-4faf-b734-6ae6b4c7fdba",
         "title": "2025 Software Engineering Uberstar Internship - Stanford University",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -108418,7 +108418,7 @@
         "company_name": "Uber",
         "id": "884c6fb4-2616-49a5-ba42-4ba122ad2aeb",
         "title": "2025 Software Engineering Uberstar Internship - University of Illinois Urbana-Champaign",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -108440,7 +108440,7 @@
         "company_name": "Uber",
         "id": "270ee1b2-fb10-4185-af42-f9430e2b8800",
         "title": "2025 Software Engineering Uberstar Internship - University of Washington",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -108479,7 +108479,7 @@
         "company_name": "Uber",
         "id": "a44fb47c-4279-43b6-abe5-412434f28adc",
         "title": "2025 Software Engineering Internship - University of Washington",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -109023,7 +109023,7 @@
         "company_name": "May Mobility",
         "id": "3b3f5fe0-2649-4f3d-9736-b444ec8ce926",
         "title": "Autonomy \u2013 Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -109166,7 +109166,7 @@
         "company_name": "ManTech",
         "id": "66bc9963-fc0a-469c-a5dd-3876490e1793",
         "title": "Software Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -109185,7 +109185,7 @@
         "company_name": "Shamrock Trading",
         "id": "5fe00066-f3ec-42e1-b9c7-e82846f10958",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -109223,7 +109223,7 @@
         "company_name": "Rivian",
         "id": "d5b4fc9d-d3fe-4bb8-b1d6-1928f5e0daa3",
         "title": "Embedded Software/Firmware Internship - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -109411,5 +109411,81 @@
         "company_url": "https://simplify.jobs/c/Zoox",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "KKR",
+        "id": "0d48201f-42db-4531-8e1d-a059f769946a",
+        "title": "2025 Technology Summer Internship Program",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727795629,
+        "date_posted": 1727795629,
+        "url": "https://www.kkr.com/careers/career-opportunities?gh_jid=5318257004",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/KKR",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Nutanix",
+        "id": "c134fc85-037f-458a-ba69-20e83d986106",
+        "title": "Software Engineering Intern Summer 2025 - Undergraduate - Only",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727798628,
+        "date_posted": 1727795527,
+        "url": "https://jobs.jobvite.com/nutanix/job/o92Bufw0?nl=1&nl=1&fr=false",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nutanix",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Visa",
+        "id": "e787962f-4b90-4633-bebe-a1b4329e69a7",
+        "title": "Summer Intern - Software Engineering and Testing",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1727795428,
+        "date_posted": 1727795428,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000017673425",
+        "locations": [
+            "Reading, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "ManTech",
+        "id": "0007a655-9b1f-4c75-9c90-54dd9b3aca21",
+        "title": "Software Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727798704,
+        "date_posted": 1727795819,
+        "url": "https://mantech.wd1.myworkdayjobs.com/en-US/External/job/USA-Remote-Work/Software-Developer-Intern_R54739",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/c6651565-44c8-4050-8412-111c54942390",
+        "is_visible": true,
+        "sponsorship": "U.S. Citizenship is Required"
     }
 ]
