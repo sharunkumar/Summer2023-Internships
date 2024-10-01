@@ -24187,7 +24187,7 @@
         "company_name": "Zoox",
         "id": "56d0cf16-ff55-4a21-8428-1da5cd6ed446",
         "title": "Planning & Control Intern - Control",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -25348,7 +25348,7 @@
         "company_name": "Zoox",
         "id": "e8f2a42e-cd74-48ae-8160-1f33a63dfd84",
         "title": "Test Infrastructure Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -84942,7 +84942,7 @@
         "company_name": "Mercedes-Benz",
         "id": "75ac5225-58de-4e21-bb42-03ab16c3f6d5",
         "title": "Engineering Intern - Middleware",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -96793,7 +96793,7 @@
         "company_name": "Garda Capital Partners",
         "id": "154b838f-0cfb-4da6-b3f2-bbc93fc472aa",
         "title": "Trading Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -99316,7 +99316,7 @@
         "company_name": "Lucid Motors",
         "id": "3f60e486-2527-4741-a8e6-5ba9932c5c4a",
         "title": "Intern \u2013 Android Applications Software Engineer - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -100996,7 +100996,7 @@
         "company_name": "Motorola",
         "id": "92caa2d6-dc02-4718-90a3-076f876070b9",
         "title": "Software Engineer Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -103666,7 +103666,7 @@
         "company_name": "Bristol-Myers Squibb",
         "id": "ec3ab055-1c9f-4a75-9539-18a6d63bfe7d",
         "title": "Summer 2025 \u2013 Clinical Pharmacology Analysis and Reporting/Data Science Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -105913,7 +105913,7 @@
         "company_name": "skillz",
         "id": "ff5d142f-195f-45b0-8816-4604e5e1e448",
         "title": "Data Engineering \u2013 2025 Spring Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -105932,7 +105932,7 @@
         "company_name": "Leidos",
         "id": "00ba9011-4d9a-4da2-a328-77ec9037ebb7",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -106775,7 +106775,7 @@
         "company_name": "Uber",
         "id": "5fa31e22-a0a1-4323-8d7b-99b35e6fa114",
         "title": "2025 Software Engineering Uberstar Internship - Kennesaw State University",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -106930,7 +106930,7 @@
         "company_name": "Uber",
         "id": "0fef101e-9d04-4eb6-bb84-3ed96014058f",
         "title": "2025 Software Engineering Uberstar Internship - Georgia State University",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -106974,7 +106974,7 @@
         "company_name": "Uber",
         "id": "85d69f30-c397-4fe5-8b69-ee78075cda25",
         "title": "2025 Software Engineering Internship - Clark Atlanta University - Morehouse College - Or Spelman College - Aucc",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -107039,7 +107039,7 @@
         "company_name": "Uber",
         "id": "a2d223cb-58b0-466d-8468-b0624be1b03b",
         "title": "2025 Software Engineering Uberstar Internship - Clark Atlanta University - Morehouse College - Or Spelman College - Aucc",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -107191,7 +107191,7 @@
         "company_name": "Uber",
         "id": "d803fa3f-b027-4e48-a1ab-5628394c116a",
         "title": "2025 Software Engineering Uberstar Internship - Bowie State University",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -107213,7 +107213,7 @@
         "company_name": "Uber",
         "id": "b77be0ba-b5e9-4dbc-b142-85c8a6d73d63",
         "title": "2025 Software Engineering Internship - Bowie State University",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -107235,7 +107235,7 @@
         "company_name": "Uber",
         "id": "a96c7949-1e45-45b8-b491-1c46dc0dc15a",
         "title": "2025 Software Engineering Internship - Kennesaw State University",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -107257,7 +107257,7 @@
         "company_name": "Uber",
         "id": "625f516f-d808-4ae6-a3fd-0ea0cfcc242c",
         "title": "2025 Software Engineering Uberstar Internship - Howard University",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -107279,7 +107279,7 @@
         "company_name": "Uber",
         "id": "4e2a4501-cc2a-4804-a0d9-2d94520c049c",
         "title": "2025 Software Engineering Uberstar Internship - Towson University",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -107323,7 +107323,7 @@
         "company_name": "Uber",
         "id": "bc33c4eb-d9f8-4127-8447-a268a56e9a12",
         "title": "2025 Software Engineering Uberstar Internship - University of Maryland - College Park",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -108542,7 +108542,7 @@
         "company_name": "Uber",
         "id": "6b08836d-3ae3-40b7-9e96-c95463c9ecdd",
         "title": "2025 Software Engineering Uberstar Internship - University of Illinois Urbana-Champaign",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -108580,7 +108580,7 @@
         "company_name": "Uber",
         "id": "506af898-892c-4570-bda5-c4b2144b7531",
         "title": "2025 Software Engineering Uberstar Internship - Stanford University",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -108599,7 +108599,7 @@
         "company_name": "Uber",
         "id": "e57c0be2-104a-4744-889c-f06840dab69a",
         "title": "2025 Software Engineering Internship - University of Washington",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -108637,7 +108637,7 @@
         "company_name": "Uber",
         "id": "b854e44a-4ab0-4933-b288-32f77d9dde5a",
         "title": "2025 Software Engineering Uberstar Internship - Carnegie Mellon University",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -108694,7 +108694,7 @@
         "company_name": "Uber",
         "id": "011d0108-c420-43f7-8b53-4fa5ff225f0b",
         "title": "2025 Software Engineering Uberstar Internship - University of Washington",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -108734,7 +108734,7 @@
         "company_name": "Uber",
         "id": "460a2bdb-3df2-475c-a29f-39d464ff9790",
         "title": "2025 Software Engineering Internship - Stanford University",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -109160,5 +109160,179 @@
         "date_posted": 1727712121,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "ManTech",
+        "id": "66bc9963-fc0a-469c-a5dd-3876490e1793",
+        "title": "Software Developer Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727724550,
+        "date_posted": 1727724550,
+        "url": "https://mantech.wd1.myworkdayjobs.com/en-US/External/job/USA-Remote-Work/Software-Developer-Intern_R55102",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/c6651565-44c8-4050-8412-111c54942390",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Shamrock Trading",
+        "id": "5fe00066-f3ec-42e1-b9c7-e82846f10958",
+        "title": "Software Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727723362,
+        "date_posted": 1727723362,
+        "url": "https://jobs.jobvite.com/shamrock/job/owFAufwZ?nl=1&nl=1&fr=false",
+        "locations": [
+            "Overland Park, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/Shamrock-Trading",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rivian",
+        "id": "76f0d6c2-9929-435d-ad5d-2d27fb914638",
+        "title": "Data Science \u2013 & Analytics Internship - Engineering - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727724075,
+        "date_posted": 1727724075,
+        "url": "https://careers.rivian.com/jobs/19371?lang=en-us&icims=1",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Rivian",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rivian",
+        "id": "d5b4fc9d-d3fe-4bb8-b1d6-1928f5e0daa3",
+        "title": "Embedded Software/Firmware Internship - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727724045,
+        "date_posted": 1727724045,
+        "url": "https://careers.rivian.com/jobs/19368?lang=en-us&icims=1",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Rivian",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Western Digital",
+        "id": "d3ec064d-1811-4ffb-82bd-a47630b5e0fb",
+        "title": "Software Engineering \u2013 Intern Spring 2025 - Embedded",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1727723717,
+        "date_posted": 1727380180,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000017344445",
+        "locations": [
+            "Rochester, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rivian",
+        "id": "63154598-ad12-433e-9fb8-44f165c03446",
+        "title": "Software Engineering Internship - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727724098,
+        "date_posted": 1727724098,
+        "url": "https://careers.rivian.com/jobs/19340?lang=en-us&icims=1",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Rivian",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cockroach Labs",
+        "id": "59d64bb2-56df-4381-8bbf-5cd71e5fff7e",
+        "title": "Engineering Internships 2025",
+        "active": false,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "date_updated": 1727725136,
+        "date_posted": 1727725136,
+        "url": "https://www.cockroachlabs.com/careers/job/?gh_jid=6291435",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Cockroach-Labs",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wing",
+        "id": "b45b7a81-c9a5-44b3-86ff-de2260141d3e",
+        "title": "Simulation Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "date_updated": 1727737814,
+        "date_posted": 1727737814,
+        "url": "https://wing.com/careers/7653734002?gh_jid=7653734002",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Wing",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wing",
+        "id": "d0098792-d28e-4243-a84c-08ffd7e8bf9d",
+        "title": "GNC Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "date_updated": 1727737806,
+        "date_posted": 1727737806,
+        "url": "https://wing.com/careers/7653910002?gh_jid=7653910002",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Wing",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
