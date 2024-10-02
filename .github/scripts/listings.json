@@ -64544,7 +64544,7 @@
         "company_name": "Snackpass",
         "id": "0fcee3b4-d66b-4f8b-a3a5-f589a7d814e1",
         "title": "Software Engineer \u2013 Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2024",
             "Summer 2024"
@@ -100531,7 +100531,7 @@
         "company_name": "ICF",
         "id": "02cf2ccd-3aa8-46e6-8bab-669404351ee0",
         "title": "2025 Summer Intern - Data Analyst - Bachelors; Remote or Hybrid from Reston - VA",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -105932,7 +105932,7 @@
         "company_name": "Leidos",
         "id": "00ba9011-4d9a-4da2-a328-77ec9037ebb7",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -106797,7 +106797,7 @@
         "company_name": "Uber",
         "id": "715ea17f-76bd-4308-bb02-fb6e475dded5",
         "title": "2025 Software Engineering Internship - Howard University",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -109554,7 +109554,7 @@
         "company_name": "Challenge Manufacturing",
         "id": "83d6b176-94e6-4dc7-b78f-ff78c2fd2cba",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -109832,6 +109832,82 @@
             "Santa Clara, CA"
         ],
         "company_url": "https://simplify.jobs/c/80961b05-9ed3-462d-aef9-4b418c7fb796",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Harmonia",
+        "id": "bc48004d-d70d-4cde-aeea-8dd9fbb24530",
+        "title": "Software/Data Engineering Internship",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727882088,
+        "date_posted": 1727882088,
+        "url": "https://www.harmonia.com/job-application/?gh_jid=6228985003",
+        "locations": [
+            "McLean, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/ba0c3269-d801-4a03-822e-801359d1ec6b",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Marvell",
+        "id": "2cea654a-969f-4142-9a74-070744c777a2",
+        "title": "Engineering Project Analyst Intern - Pey - Bachelor\u2019s degree",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727882032,
+        "date_posted": 1727882032,
+        "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Toronto-Canada/Engineering-Project-Analyst-Intern---PEY----Bachelor-s-degree_2401842",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/80961b05-9ed3-462d-aef9-4b418c7fb796",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Axon",
+        "id": "16c39ca9-a7ac-4f8b-b823-155a9bb0569f",
+        "title": "2025 London SWE Internship",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727881644,
+        "date_posted": 1727881644,
+        "url": "https://boards.greenhouse.io/axon/jobs/6211868003",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Axon",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Worldcoin",
+        "id": "303b62d5-9910-4125-8afc-0ae3a85610c6",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727882263,
+        "date_posted": 1727882263,
+        "url": "https://job-boards.greenhouse.io/worldcoinorg/jobs/5343776004",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Worldcoin",
         "is_visible": true,
         "sponsorship": "Other"
     }
