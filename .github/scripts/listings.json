@@ -27096,7 +27096,7 @@
         "company_name": "Zoox",
         "id": "b5778e87-34ad-4cbb-8adb-5c33abf179f0",
         "title": "Software Development Engineer in Test \u2013 Intern - Sdet",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -90568,7 +90568,7 @@
         "company_name": "Codeium",
         "id": "7dc59b9b-cd8b-4fe7-9acf-95f0859c91ac",
         "title": "Software Engineering Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -97349,7 +97349,7 @@
         "company_name": "Oshkosh",
         "id": "761bb486-4c95-41f5-ad69-0bc24f1a95ef",
         "title": "Engineering Intern - Autonomy - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -99663,7 +99663,7 @@
         "company_name": "Lucid Motors",
         "id": "892ccd26-edc3-4330-aea3-a5e2ebde0878",
         "title": "Intern \u2013 Cloud Microservices Software Engineer - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -100068,7 +100068,7 @@
         "company_name": "Anduril",
         "id": "dd9480f3-1e1f-453f-a50d-6b94ae23a024",
         "title": "Software Engineering Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -102959,7 +102959,7 @@
         "company_name": "Bristol-Myers Squibb",
         "id": "3168a7eb-fda2-4535-9301-1c6ee21e4963",
         "title": "Co-Op \u2013 Machine Learning - Spring 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2025"
         ],
@@ -103977,7 +103977,7 @@
         "company_name": "skillz",
         "id": "63c5953e-f2ee-4657-916f-2176c4d43eec",
         "title": "Software Engineer \u2013 2025 Spring Co-Op",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2025"
         ],
@@ -104536,7 +104536,7 @@
         "company_name": "Visa",
         "id": "8ceb06f7-fd42-4ef9-8110-cc70b1640265",
         "title": "Data Engineer \u2013 Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -104555,7 +104555,7 @@
         "company_name": "Visa",
         "id": "b96fa42a-d28a-4c13-9115-dd9e5f0b6369",
         "title": "Data Engineer \u2013 Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -104905,7 +104905,7 @@
         "company_name": "Thrivent",
         "id": "30c6b4ad-f683-479c-9961-7af3543a0811",
         "title": "Software Developer Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -109280,7 +109280,7 @@
         "company_name": "Cockroach Labs",
         "id": "59d64bb2-56df-4381-8bbf-5cd71e5fff7e",
         "title": "Engineering Internships 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2024",
             "Summer 2024"
@@ -109908,6 +109908,139 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Worldcoin",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CesiumAstro",
+        "id": "a1adc9b0-a3f7-445d-87a3-3e6ad92e2c5a",
+        "title": "Summer 2025 \u2013 Embedded Software Engineering Internship",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727882197,
+        "date_posted": 1727882197,
+        "url": "https://jobs.lever.co/CesiumAstro/b98dfc8d-5c28-449b-b5fd-62cfa34c1230/apply",
+        "locations": [
+            "Broomfield, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/CesiumAstro",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Snackpass",
+        "id": "5a96a832-a1e6-44f0-9c98-ff93659d741f",
+        "title": "Software Engineer \u2013 Intern - Summer",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1727882275,
+        "date_posted": 1727882275,
+        "url": "https://job-boards.greenhouse.io/snackpasspt/jobs/5343803004",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Snackpass",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Yahoo",
+        "id": "8168435e-2b8c-40ab-bdce-e9c1c1946bcd",
+        "title": "All Yahoo Software Engineering Internships - US - Summer - Apply Here",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1727897119,
+        "date_posted": 1727897119,
+        "url": "https://ouryahoo.wd5.myworkdayjobs.com/en-US/careers/job/United-States-of-America---Remote/ALL-Yahoo-Software-Engineering-Internships--US--Summer----Apply-Here-_JR0024964",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Yahoo",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Bank of Montreal",
+        "id": "f342a668-4767-45c8-b9c1-62ff62c52fde",
+        "title": "Junior Software Developer \u2013 Co-op/Internship - Winter 2025 - 4 months",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1727896279,
+        "date_posted": 1727896279,
+        "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Junior-Software-Developer--Winter-2025--Co-op-Internship----4-months_R240025926",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BMO",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rivian",
+        "id": "e4876e08-2e65-44e3-a9b8-14c85f435721",
+        "title": "AI \u2013 Summer 2025 Internships - ML and Computer Vision Software",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727897975,
+        "date_posted": 1727897975,
+        "url": "https://careers.rivian.com/jobs/19407?lang=en-us&icims=1",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Rivian",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1727899349,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1773452/Explore-Program-Internship-Opportunities:-Second-Year-Students,-Redmond",
+        "company_name": "Microsoft",
+        "title": "Microsoft Explore",
+        "locations": [
+            "Redmond, Washington, USA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "danielaflrs",
+        "id": "a5322694-c27f-4928-b0c2-394a7cea26fb",
+        "date_posted": 1727899349,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Zoox",
+        "id": "4af9f279-457e-4e60-b30d-16ae64e1cd04",
+        "title": "Safety Learnings Data Scientist Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727911070,
+        "date_posted": 1727911070,
+        "url": "https://jobs.lever.co/zoox/7d81def2-c9b2-4726-bd85-ffa7099322c0/apply",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zoox",
         "is_visible": true,
         "sponsorship": "Other"
     }
