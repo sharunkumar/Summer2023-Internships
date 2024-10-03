@@ -103245,7 +103245,7 @@
         "company_name": "Sayari",
         "id": "b26fa41b-5ee1-441f-96ce-32cd2330339f",
         "title": "Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -108812,7 +108812,7 @@
         "company_name": "Genesis Therapeutics",
         "id": "ed7573e9-70c2-428a-9f96-99be0a3a6134",
         "title": "ML Research Intern - Winter/Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -110041,6 +110041,47 @@
             "San Mateo, CA"
         ],
         "company_url": "https://simplify.jobs/c/Zoox",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Oshkosh",
+        "id": "27004f91-df55-4bf5-ac32-2cba0a4e88bc",
+        "title": "Digital Technology \u2013 Intern - Dt - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727925169,
+        "date_posted": 1727925169,
+        "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Hagerstown-Maryland-United-States/Digital-Technology--DT--Intern--Summer-2025-_R30954",
+        "locations": [
+            "Chambersburg, PA",
+            "Hagerstown, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Oshkosh",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Crowdstrike",
+        "id": "6170ad80-c30b-4626-856e-ac7e992cee43",
+        "title": "Internal Tools Developer Intern - Remote",
+        "active": true,
+        "terms": [
+            "Summer 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1727925282,
+        "date_posted": 1727925282,
+        "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-us/crowdstrikecareers/job/USA---Remote/Internal-Tools-Developer-Intern--Remote-_R20462",
+        "locations": [
+            "Remote in USA",
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Crowdstrike",
         "is_visible": true,
         "sponsorship": "Other"
     }
