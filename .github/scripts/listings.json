@@ -98869,7 +98869,7 @@
         "company_name": "Marvell",
         "id": "e14a6592-4123-4e9c-85bf-eba6ed1a8f5a",
         "title": "Firmware Engineer Intern - Bachelors",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -104981,7 +104981,7 @@
         "company_name": "CACI",
         "id": "dce29a72-70d2-4600-9d1a-56fbaf04fa06",
         "title": "Software Engineering Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -109783,7 +109783,7 @@
         "company_name": "Leidos",
         "id": "28dd6bbe-bbab-46d3-a67f-ef1b2a57584b",
         "title": "Research Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -110248,7 +110248,7 @@
         "company_name": "Cyberark",
         "id": "79d7c13c-d905-46cc-9d40-965bbf31d977",
         "title": "C&I Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -110476,7 +110476,7 @@
         "company_name": "Vail Systems",
         "id": "1d64881f-6a81-443e-a41c-95b914c2e364",
         "title": "C++ Software Engineer Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -110495,7 +110495,7 @@
         "company_name": "Telesat",
         "id": "11bd8e7b-5821-4d6a-a0bb-9659d9079de4",
         "title": "Winter 2025 Systems Engineering Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -110584,5 +110584,24 @@
         "date_posted": 1728018086,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Motorola",
+        "id": "9af5b299-2975-4ecd-8d5d-b5a8e945fc6f",
+        "title": "Imaging Specialist \u2013 Co-Op",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728055219,
+        "date_posted": 1728055219,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Vancouver-Canada/Imaging-Specialist--Co-Op_R50707",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
