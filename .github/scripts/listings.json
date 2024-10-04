@@ -90511,7 +90511,7 @@
         "company_name": "Sentry",
         "id": "e1b09348-eef5-443f-b05e-c6845bd3590a",
         "title": "Software Engineer Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -92862,7 +92862,7 @@
         "company_name": "Ontario Teachers' Pension Plan",
         "id": "e1ea1b3e-00b8-4b3d-a4e9-ec0a6d5c5273",
         "title": "Intern \u2013 Trading Floor Risk Analyst - Fall 2024 - Month term",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2024"
         ],
