@@ -84638,7 +84638,7 @@
         "company_name": "Exiger",
         "id": "19cf290c-a417-4960-8f6c-af6371ff8a8b",
         "title": "Analyst \u2013 Intern - Department of Defense Skillbridge",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -105972,7 +105972,7 @@
         "company_name": "K2 Space",
         "id": "5d50d7c3-e94a-4fb8-a4aa-7a2e221f44b8",
         "title": "Software Engineering Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -110809,7 +110809,7 @@
         "terms": [
             "Summer 2025"
         ],
-        "date_updated": 1728083145,
+        "date_updated": 1728105675,
         "date_posted": 1728083145,
         "url": "https://www.wayfair.com/careers/jobs/7665154002?gh_jid=7665154002",
         "locations": [
@@ -110817,6 +110817,25 @@
         ],
         "company_url": "https://simplify.jobs/c/Wayfair",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "Does Not Offer Sponsorship"
+    },
+    {
+        "date_updated": 1728105901,
+        "url": "https://careers.t-mobile.com/summer-2025-machine-learning-ai-intern/job/CC2528375D7C5C53F4B03E07F28DF8AC",
+        "company_name": "T-Mobile",
+        "title": "Summer 2025 Machine Learning & AI Intern",
+        "locations": [
+            "Coppell, TX"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "66557a84-58bd-4a14-92dc-278ba821c5f5",
+        "date_posted": 1728105901,
+        "company_url": "",
+        "is_visible": true
     }
 ]
