@@ -109344,7 +109344,7 @@
         "terms": [
             "Summer 2025"
         ],
-        "date_updated": 1727752469,
+        "date_updated": 1728236888,
         "date_posted": 1727752469,
         "url": "https://job-boards.greenhouse.io/rocketlab/jobs/6216766003",
         "locations": [
@@ -109352,7 +109352,7 @@
         ],
         "company_url": "https://simplify.jobs/c/Rocket-Lab-USA",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "U.S. Citizenship is Required"
     },
     {
         "source": "Simplify",
@@ -110835,6 +110835,45 @@
         "source": "GaryZhous",
         "id": "66557a84-58bd-4a14-92dc-278ba821c5f5",
         "date_posted": 1728105901,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1728237193,
+        "url": "https://jobs.siemens.com/careers/job/563156121257878",
+        "company_name": "Siemens",
+        "title": "Software Engineering Intern - Chicago/Buffalo Grove",
+        "locations": [
+            "Chicago, IL",
+            "Buffalo Grove, IL"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "25776c59-ed6d-405c-8f08-98c11a480baa",
+        "date_posted": 1728237193,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1728237572,
+        "url": "https://jobs.spectrum.com/job/-/-/4673/69922681200",
+        "company_name": "Spectrum",
+        "title": "2025 Summer Intern: Platforms Engineer",
+        "locations": [
+            "Greenwood Village, CO"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "db7fcda8-2857-4960-b1d0-480a69f4c08a",
+        "date_posted": 1728237572,
         "company_url": "",
         "is_visible": true
     }
