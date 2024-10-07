@@ -92324,7 +92324,7 @@
         "company_name": "CACI",
         "id": "6814e858-9b31-4794-af25-682817c62cd5",
         "title": "Software Engineering Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -98519,7 +98519,7 @@
         "company_name": "Wellmark",
         "id": "a6b73190-2f69-4981-9adc-6ebcad814c6b",
         "title": "Data Analytics & Governance Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025",
@@ -98715,7 +98715,7 @@
         "company_name": "CACI",
         "id": "28902964-2b71-4a1c-9835-1c5fef3dd312",
         "title": "Software Engineering Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -98735,7 +98735,7 @@
         "company_name": "CACI",
         "id": "f61af6ad-1835-420b-8c70-f6abc7acae44",
         "title": "Software Test Engineering Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -99916,7 +99916,7 @@
         "company_name": "Lumentum",
         "id": "5455fed9-6bff-4082-8f94-c33917f7baff",
         "title": "Solution Software System Engineer \u2013 Coop",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -99973,7 +99973,7 @@
         "company_name": "CACI",
         "id": "00d06e98-e740-45ee-ba58-ee9287a4631d",
         "title": "Software Engineering Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -100686,7 +100686,7 @@
         "company_name": "CACI",
         "id": "eb6c5904-d2c1-4531-aebf-20cd43d9531b",
         "title": "Software Development Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -101605,7 +101605,7 @@
         "company_name": "Motorola",
         "id": "bca78123-def4-4666-a996-8ce992712b6c",
         "title": "Software Engineer Spring 2025 Co-op - Research Park",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -104296,7 +104296,7 @@
         "company_name": "Fullscript",
         "id": "49da07f8-438f-4f9c-8770-8e9ce57202b9",
         "title": "Co-op/Intern Ruby Engineer - Winter 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -104924,7 +104924,7 @@
         "company_name": "Thrivent",
         "id": "426b9829-bf5b-4d16-afa3-022d15506273",
         "title": "IT Application Engineer Intern - Investments - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -104943,7 +104943,7 @@
         "company_name": "Thrivent",
         "id": "6dbb30ce-27a2-4ac2-b605-ee9986dc3c42",
         "title": "Data Analyst Intern - Investments - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -106332,7 +106332,7 @@
         "company_name": "Nelnet",
         "id": "d7cd7c80-8a2d-46e5-b336-ca086e09f99c",
         "title": "Intern \u2013 Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -108791,7 +108791,7 @@
         "company_name": "Nelnet",
         "id": "4830ff05-9cc6-4bcc-934a-6ba32234d838",
         "title": "Intern \u2013 Software Engineer - RPG/Cobol",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -109185,7 +109185,7 @@
         "company_name": "Shamrock Trading",
         "id": "5fe00066-f3ec-42e1-b9c7-e82846f10958",
         "title": "Software Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -109573,7 +109573,7 @@
         "company_name": "Western Digital",
         "id": "1bfdf63c-0daa-4bb1-8a49-5626798e81f9",
         "title": "RAMP Co-Op Read/Write Channel Firmware Engineer - Spring-Summer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024"
@@ -109802,7 +109802,7 @@
         "company_name": "Leidos",
         "id": "f9114e5c-fe45-4156-847e-44697329d177",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -110609,7 +110609,7 @@
         "company_name": "Amazon",
         "id": "e8334ea4-7f00-4496-8110-4570f4b54f96",
         "title": "Software Dev Engineer Intern 2025 - Automated Reasoning",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -111011,6 +111011,103 @@
             "Burbank, CA"
         ],
         "company_url": "https://simplify.jobs/c/Disney",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "bc710474-d8d7-42b0-b45b-8bec44f61e62",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728313955,
+        "date_posted": 1728313955,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Software-Engineer-Intern_R-00145454-1",
+        "locations": [
+            "Gaithersburg, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "5470e0ed-a39a-4273-97e5-3964f1d3e55d",
+        "title": "Software Engineer \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728313947,
+        "date_posted": 1728313947,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Software-Engineer---Intern_R-00145401",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Santander",
+        "id": "9bcb4318-4ccb-4c79-afb3-48ccf39b2a40",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1728314447,
+        "date_posted": 1728314447,
+        "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Boston/Data-Science-Intern_Req1364943",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Santander",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Motorola",
+        "id": "616e565b-b414-4d89-8058-8ce00c4eb71c",
+        "title": "Critical Communication Networks Software Engineer \u2013 Summer 2025 Internship",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728314304,
+        "date_posted": 1728314304,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Critical-Communication-Networks-Software-Engineer---Summer-2025-Internship_R50656",
+        "locations": [
+            "Chicago, IL",
+            "Hoffman Estates, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Moderna",
+        "id": "5f26e438-6565-49bc-9aaf-cf096aecb0c3",
+        "title": "2025 Co-Op - Quantum Algorithms and Applications",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026"
+        ],
+        "date_updated": 1728314143,
+        "date_posted": 1728314143,
+        "url": "https://modernatx.wd1.myworkdayjobs.com/en-US/M_tx/job/Cambridge-Massachusetts/XMLNAME-2025-Co-Op--Quantum-Algorithms-and-Applications_R16966",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Moderna",
         "is_visible": true,
         "sponsorship": "Other"
     }
