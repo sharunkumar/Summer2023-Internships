@@ -109533,7 +109533,7 @@
         "company_name": "Clever",
         "id": "abd86841-2666-4356-b5d5-c1257622ffbf",
         "title": "Engineering Intern - Undergraduate Student",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025"
@@ -111023,12 +111023,11 @@
         "terms": [
             "Summer 2025"
         ],
-        "date_updated": 1728346805,
+        "date_updated": 1728363512,
         "date_posted": 1728313955,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Software-Engineer-Intern_R-00145454-1",
         "locations": [
-            "Gaithersburg, MD",
-            "San Diego, CA"
+            "Gaithersburg, MD"
         ],
         "company_url": "https://simplify.jobs/c/Leidos",
         "is_visible": true,
@@ -111043,7 +111042,7 @@
         "terms": [
             "Summer 2025"
         ],
-        "date_updated": 1728313947,
+        "date_updated": 1728363372,
         "date_posted": 1728313947,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Software-Engineer---Intern_R-00145401",
         "locations": [
@@ -111051,7 +111050,7 @@
         ],
         "company_url": "https://simplify.jobs/c/Leidos",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "U.S. Citizenship is Required"
     },
     {
         "source": "Simplify",
@@ -111227,6 +111226,128 @@
             "Milwaukee, WI"
         ],
         "company_url": "https://simplify.jobs/c/Northwestern-Mutual",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "PlayStation Global",
+        "id": "c3bc316c-39d9-4283-ac50-3ed4f042f5c6",
+        "title": "Software Engineering Intern - Undergraduate",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1728357303,
+        "date_posted": 1728357303,
+        "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5342871004",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/PlayStation-Global",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "PlayStation Global",
+        "id": "9031a744-2c2f-4620-aa0d-94fca452e262",
+        "title": "Software Engineering Intern - Undergraduate",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1728357303,
+        "date_posted": 1728357303,
+        "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5342820004",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/PlayStation-Global",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "PlayStation Global",
+        "id": "dbb97bda-5ce8-424d-b591-91418cbec5a0",
+        "title": "Software Engineering Intern - Undergraduate",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1728357303,
+        "date_posted": 1728357303,
+        "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5342873004",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/PlayStation-Global",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "PlayStation Global",
+        "id": "c269174b-4f4f-4c2b-bf8a-2e97fce1e2a2",
+        "title": "Software Engineering Intern - Undergraduate",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1728357303,
+        "date_posted": 1728357303,
+        "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5342902004",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/PlayStation-Global",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Zoox",
+        "id": "2cf4ae32-e3ff-45c1-a7c5-d639abf9fc30",
+        "title": "Software Engineer \u2013 Robot Software Infrastructure Internship/Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728357356,
+        "date_posted": 1728357356,
+        "url": "https://jobs.lever.co/zoox/04c16c10-a6e9-4281-9a68-81e8c73b8057/apply",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zoox",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Zoox",
+        "id": "1d5ff256-b73e-49b6-86e4-85a885a617f7",
+        "title": "Data Scientist Internship/Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728357341,
+        "date_posted": 1728357341,
+        "url": "https://jobs.lever.co/zoox/6dca92e6-68ef-44bc-a3ba-99fe3a3ed850/apply",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zoox",
         "is_visible": true,
         "sponsorship": "Other"
     }
