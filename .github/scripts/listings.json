@@ -89380,7 +89380,7 @@
         "company_name": "Akuna Capital",
         "id": "87d18c63-3a25-45cc-ab10-d99c351a6a8c",
         "title": "Quantitative Development Internship - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -95305,7 +95305,7 @@
         "company_name": "Oshkosh",
         "id": "fb3b1d34-f835-4c7c-b86e-eca279d8f15d",
         "title": "Digital Technology Intern - Application Development - Year Round",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -96774,7 +96774,7 @@
         "company_name": "Plexus",
         "id": "36b14131-dbd1-4e01-b060-1891d48df867",
         "title": "Intern \u2013 Software Engineer - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -99145,7 +99145,7 @@
         "company_name": "Vermeer",
         "id": "5c5bae76-a77b-4284-98cb-c5d83cb46149",
         "title": "Data Engineer Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -100068,7 +100068,7 @@
         "company_name": "Anduril",
         "id": "dd9480f3-1e1f-453f-a50d-6b94ae23a024",
         "title": "Software Engineering Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -103547,7 +103547,7 @@
         "company_name": "Booz Allen",
         "id": "83eefff5-a3dc-4eb9-9395-45386e7c2949",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -107083,7 +107083,7 @@
         "company_name": "Uber",
         "id": "fc72b49b-0a96-40ff-a7a5-a49e31dd4c3e",
         "title": "2025 Software Engineering Internship - MESA Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -108501,7 +108501,7 @@
         "company_name": "Uber",
         "id": "5d79a922-9424-4c46-93ee-a81662b9c00a",
         "title": "2025 Software Engineering Internship - University of Texas at El Paso",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -111023,15 +111023,16 @@
         "terms": [
             "Summer 2025"
         ],
-        "date_updated": 1728313955,
+        "date_updated": 1728346805,
         "date_posted": 1728313955,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Software-Engineer-Intern_R-00145454-1",
         "locations": [
-            "Gaithersburg, MD"
+            "Gaithersburg, MD",
+            "San Diego, CA"
         ],
         "company_url": "https://simplify.jobs/c/Leidos",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "U.S. Citizenship is Required"
     },
     {
         "source": "Simplify",
@@ -111108,6 +111109,124 @@
             "Cambridge, MA"
         ],
         "company_url": "https://simplify.jobs/c/Moderna",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Lumentum",
+        "id": "81c0e5d7-c508-474b-9c1e-0ec21979ed40",
+        "title": "Optical Algorithms & Analytics Engineer \u2013 Co-op",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1728329490,
+        "date_posted": 1728329490,
+        "url": "https://lumentum.wd5.myworkdayjobs.com/en-US/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-Algorithms---Analytics-Engineer--Co-op-_2024962",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/0985b121-88fd-4402-aea9-c0c55bfbbc99",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Telesat",
+        "id": "1c48f92a-d608-4070-b7e6-416164b80037",
+        "title": "LS442 \u2013 Software Engineering Coop",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728328712,
+        "date_posted": 1728328712,
+        "url": "https://jobs.lever.co/telesat/4ca58338-9d53-4037-9c91-d81a21dd4a97/apply",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Telesat",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "WeRide",
+        "id": "91a0e08b-523d-4c4a-b89b-1d92081c027f",
+        "title": "2025 Summer Intern - Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728329734,
+        "date_posted": 1728329734,
+        "url": "https://jobs.lever.co/weride/d935a87c-c332-4a6f-bab8-86fc41910b67/apply",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/WeRide",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Loop Returns",
+        "id": "9c1c4167-fd18-42f0-abf2-39d914f65a23",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "date_updated": 1728329883,
+        "date_posted": 1728329883,
+        "url": "https://jobs.lever.co/loopreturns/17a16f96-4d64-4c1a-94bd-be6a80e3d517/apply",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Loop-Returns",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Amazon",
+        "id": "7662002a-77ed-449a-b1fd-53ad0e042d3a",
+        "title": "Software Dev Engineer Intern 2025 - Automated Reasoning",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728343084,
+        "date_posted": 1728343084,
+        "url": "https://amazon.jobs/en/jobs/2798104/software-dev-engineer-intern-2025-automated-reasoning",
+        "locations": [
+            "Seattle, WA",
+            "Arlington, VA",
+            "NYC",
+            "Portland, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Northwestern Mutual",
+        "id": "8a12f295-2219-4688-8ee5-7e8497089f13",
+        "title": "Specialty Markets Data Analyst Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728342564,
+        "date_posted": 1728342564,
+        "url": "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Specialty-Markets-Data-Analyst-Intern--Summer-2025_JR-41933",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Northwestern-Mutual",
         "is_visible": true,
         "sponsorship": "Other"
     }
