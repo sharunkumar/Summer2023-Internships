@@ -100512,7 +100512,7 @@
         "company_name": "Chamberlain Group",
         "id": "905e3d3e-3969-4804-85df-dc2f5b8c528b",
         "title": "Co-op \u2013 Machine Learning - Computer Vision - And AI - Spring 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -102155,7 +102155,7 @@
         "company_name": "Schonfeld",
         "id": "0788a26b-f235-4f10-8c89-704727687e1a",
         "title": "2025 Software Engineering Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -103753,7 +103753,7 @@
         "company_name": "Wellmark",
         "id": "72abe030-031a-45e8-b5a5-beb17b3896bd",
         "title": "Software Engineer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -109726,7 +109726,7 @@
         "company_name": "Berkshire Grey",
         "id": "e5968d4c-395c-45fb-99ea-cc1049c6c667",
         "title": "Spring 2025 Software UIUX Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -109745,7 +109745,7 @@
         "company_name": "Berkshire Grey",
         "id": "578f4b8e-046f-4355-b4dc-1fde3a5f92c5",
         "title": "Spring 2025 Software Applications Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -109764,7 +109764,7 @@
         "company_name": "Berkshire Grey",
         "id": "f3872797-332e-49f1-8a3a-fcde209f446c",
         "title": "Spring 2025 Software Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -111116,7 +111116,7 @@
         "company_name": "Lumentum",
         "id": "81c0e5d7-c508-474b-9c1e-0ec21979ed40",
         "title": "Optical Algorithms & Analytics Engineer \u2013 Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -111135,7 +111135,7 @@
         "company_name": "Telesat",
         "id": "1c48f92a-d608-4070-b7e6-416164b80037",
         "title": "LS442 \u2013 Software Engineering Coop",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -111436,6 +111436,25 @@
             "United States"
         ],
         "company_url": "https://simplify.jobs/c/PlayStation-Global",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "MarketAxess",
+        "id": "84a10623-8c69-4268-b085-fb46b4f747fc",
+        "title": "Trading Systems Intern 2025",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1728400612,
+        "date_posted": 1728400612,
+        "url": "https://www.marketaxess.com/careers/current-openings/detail/jobs/4400322006?gh_jid=4400322006",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/MarketAxess",
         "is_visible": true,
         "sponsorship": "Other"
     }
