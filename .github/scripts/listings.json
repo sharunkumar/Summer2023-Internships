@@ -111663,5 +111663,63 @@
         "company_url": "https://simplify.jobs/c/PlayStation-Global",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Gilead Sciences",
+        "id": "2a51114c-5bbd-4344-88bd-883f820d2048",
+        "title": "Intern \u2013 IT - Kite Techops",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "date_updated": 1728443537,
+        "date_posted": 1728443537,
+        "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---IT--Kite-TechOps_R0042353",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Gilead-Sciences",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1728447163,
+        "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5342967004",
+        "company_name": "Sony Interactive Entertainment",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "2d10962a-7b86-479b-9680-094c695ce9d5",
+        "date_posted": 1728447163,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1728447433,
+        "url": "https://zebra.eightfold.ai/careers?domain=zebra.com&pid=343622121226",
+        "company_name": "Zebra Technologies",
+        "title": "2025 Summer Internship (US) - ADC Software Intern",
+        "locations": [
+            "Holtsville, NY"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "e3c0edc9-cb50-4943-a31f-d591b275f5ed",
+        "date_posted": 1728447433,
+        "company_url": "",
+        "is_visible": true
     }
 ]
