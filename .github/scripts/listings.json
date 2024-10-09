@@ -24187,7 +24187,7 @@
         "company_name": "Zoox",
         "id": "56d0cf16-ff55-4a21-8428-1da5cd6ed446",
         "title": "Planning & Control Intern - Control",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -89380,7 +89380,7 @@
         "company_name": "Akuna Capital",
         "id": "87d18c63-3a25-45cc-ab10-d99c351a6a8c",
         "title": "Quantitative Development Internship - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -91318,7 +91318,7 @@
         "company_name": "Capstone Investment Advisors",
         "id": "c050b237-c757-4fb8-be33-9434aff91618",
         "title": "2025 Summer Internship - Quantitative Risk Technology",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -92324,7 +92324,7 @@
         "company_name": "CACI",
         "id": "6814e858-9b31-4794-af25-682817c62cd5",
         "title": "Software Engineering Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -96869,7 +96869,7 @@
         "company_name": "Formlabs",
         "id": "6b08a958-5af0-469c-9bc6-d8cebecd6142",
         "title": "Manufacturing Data Analysis Intern - Winter/Spring 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026"
@@ -103389,7 +103389,7 @@
         "company_name": "Motorola",
         "id": "ea4bca9a-7497-436e-bc50-056e34105289",
         "title": "Supply Chain Data Analyst Internship 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -104653,7 +104653,7 @@
         "company_name": "Braze",
         "id": "95547e62-ac14-46cc-8d04-9685ef3c2d06",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -106313,7 +106313,7 @@
         "company_name": "Motorola",
         "id": "148404ba-21d3-457c-bb26-d8dc1d797503",
         "title": "Supply Chain Data Analyst Internship 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -107766,7 +107766,7 @@
         "company_name": "PatientPoint",
         "id": "d7a8d43f-96ea-4c14-804a-b2eef1679d2e",
         "title": "Upcoming Patientpoint Internship Opportunities",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -111455,6 +111455,212 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/MarketAxess",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rivian",
+        "id": "6ba77184-816b-42a3-8ad1-534053499e03",
+        "title": "UIUC Research Park Intern - Machine Learning",
+        "active": true,
+        "terms": [
+            "Fall 2024",
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1728415607,
+        "date_posted": 1728415607,
+        "url": "https://careers.rivian.com/jobs/19516?lang=en-us&icims=1",
+        "locations": [
+            "Urbana, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Rivian",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Booz Allen",
+        "id": "c4ec108d-b28d-49a6-b2f7-b7dda1483b9a",
+        "title": "University \u2013 Data Scientist Intern",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025",
+            "Fall 2025",
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1728416466,
+        "date_posted": 1728416466,
+        "url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Norfolk-VA/University---Data-Scientist-Intern_R0207595",
+        "locations": [
+            "Norfolk, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/45cb775d-2ca3-49ea-810f-65334ec70079",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "PlayStation Global",
+        "id": "7d0ac1cb-e489-49ff-8832-245970ded4d7",
+        "title": "Data Engineer Intern - Undergraduate",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1728416450,
+        "date_posted": 1728416450,
+        "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5342904004",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/PlayStation-Global",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "PlayStation Global",
+        "id": "152c9504-a8fa-489b-8474-5882ab014dbd",
+        "title": "Analytics Engineer Intern - Undergraduate",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1728416449,
+        "date_posted": 1728416449,
+        "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5343091004",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/PlayStation-Global",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Teleo",
+        "id": "62c8cff3-2184-44b6-b278-2ddfa49c2069",
+        "title": "Machine Learning \u2013 Perception Internship/Co-op - Winter/Spring 2025",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026"
+        ],
+        "date_updated": 1728429247,
+        "date_posted": 1728429247,
+        "url": "https://jobs.lever.co/teleo/cd4e0769-10c1-45cd-bb26-7286343a0c61/apply",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Teleo",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Northwestern Mutual",
+        "id": "a3b2c634-a737-47b9-be2e-2d28922c1928",
+        "title": "Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1728428960,
+        "date_posted": 1728428960,
+        "url": "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Data-Analyst-Intern_JR-41726-1",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Northwestern-Mutual",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Northwestern Mutual",
+        "id": "b897b8f5-c318-4eed-862e-eb4b6cfcff9d",
+        "title": "Wealth Data Analytics Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728428955,
+        "date_posted": 1728428955,
+        "url": "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Wealth-Data-Analytics-Intern--Summer-2025_JR-41982",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Northwestern-Mutual",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Apex",
+        "id": "0fa527d1-8b32-4a4a-9568-5b31e638ac1c",
+        "title": "Software Engineer Internship - Summer",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1728428960,
+        "date_posted": 1728428960,
+        "url": "https://jobs.lever.co/apex/de4c8b3a-44d0-4ec6-a05f-da97a843625a/apply",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/ApexSpace",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Northwestern Mutual",
+        "id": "7dff9794-a687-4849-a533-3db83593d80d",
+        "title": "Software Engineering Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728428956,
+        "date_posted": 1728428956,
+        "url": "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Software-Engineering-Intern--Summer-2025_JR-41901",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Northwestern-Mutual",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "PlayStation Global",
+        "id": "7bab1660-437e-490c-be82-02918c4eaf86",
+        "title": "Software Development Engineer in Test Intern - Undergraduate",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1728429338,
+        "date_posted": 1728429338,
+        "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5342921004",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/PlayStation-Global",
         "is_visible": true,
         "sponsorship": "Other"
     }
