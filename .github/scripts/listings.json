@@ -90716,18 +90716,17 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1722830699,
+        "date_updated": 1728497703,
         "url": "https://careers.confluent.io/jobs/14738285-2025-software-engineering-intern",
         "company_name": "Confluent",
         "title": "Software Engineering Intern",
         "locations": [
-            "Austin, TX",
-            "Remote"
+            "Austin, TX"
         ],
         "terms": [
             "Summer 2025"
         ],
-        "sponsorship": "Offers Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "Aparna-Rajesh",
         "id": "161a9d8a-d750-4015-bd48-29b5a5c0a290",
@@ -92324,7 +92323,7 @@
         "company_name": "CACI",
         "id": "6814e858-9b31-4794-af25-682817c62cd5",
         "title": "Software Engineering Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -99067,7 +99066,7 @@
         "company_name": "Vermeer",
         "id": "d0de01f2-61e7-430c-a94d-6651c9e896cb",
         "title": "IT Software Engineer Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -104653,7 +104652,7 @@
         "company_name": "Braze",
         "id": "95547e62-ac14-46cc-8d04-9685ef3c2d06",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -110631,7 +110630,7 @@
         "company_name": "Motorola",
         "id": "22d4a198-e683-43b9-9724-e265fec38436",
         "title": "IT Data Analytics \u2013 2025 Summer Internship - IL Hybrid",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -111057,7 +111056,7 @@
         "company_name": "Santander",
         "id": "9bcb4318-4ccb-4c79-afb3-48ccf39b2a40",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -111721,5 +111720,43 @@
         "date_posted": 1728447433,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Motorola",
+        "id": "511d150a-b025-4d95-a9bc-c1c24b89f6c0",
+        "title": "Software Engineering \u2013 Co-Op - Digital Signal Processing - Spring 2025",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1728486954,
+        "date_posted": 1728486954,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Software-Engineering--Digital-Signal-Processing--Co-Op---Spring-2025_R50232",
+        "locations": [
+            "Plantation, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Northwestern Mutual",
+        "id": "029a8092-192b-4a99-831d-b7049b3e09fd",
+        "title": "Software Engineering Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728486560,
+        "date_posted": 1728486560,
+        "url": "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Software-Engineering-Intern--Summer-2025_JR-41902",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Northwestern-Mutual",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
