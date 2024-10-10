@@ -93435,7 +93435,7 @@
         "company_name": "Verkada",
         "id": "608329ef-256c-49f8-91db-966901cd5e21",
         "title": "IOS Engineering Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -104236,7 +104236,7 @@
         "company_name": "Motorola",
         "id": "545fc5f4-0bac-40a0-bc29-fa8243933b22",
         "title": "Software Engineer Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -105287,7 +105287,7 @@
         "company_name": "Autodesk",
         "id": "10072ed3-43c0-445a-9d3c-18988d7dbdd0",
         "title": "Intern \u2013 Software Engineer - United States",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025",
@@ -105630,7 +105630,7 @@
         "company_name": "Potential Motors",
         "id": "174713df-8044-47ad-a035-86b884678c5b",
         "title": "AI Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -105668,7 +105668,7 @@
         "company_name": "Potential Motors",
         "id": "bf63d028-20da-4f51-a92c-5fd039d41742",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -106072,7 +106072,7 @@
         "company_name": "Autodesk",
         "id": "23150fa3-0144-47b7-bbbd-a44fe319e12e",
         "title": "Intern \u2013 Data Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -106170,7 +106170,7 @@
         "company_name": "Litify",
         "id": "7aceea15-a01e-4d8e-a07f-3be5ab1ce809",
         "title": "Software Engineer Co-op - Cooperative Education",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -106270,7 +106270,7 @@
         "company_name": "Amazon",
         "id": "8c9f42dc-4728-4ad8-9e1f-c20b8c372c10",
         "title": "Software Development Engineer - Artificial General Intelligence",
-        "active": false,
+        "active": true,
         "terms": [],
         "date_updated": 1727305952,
         "date_posted": 1727305952,
@@ -109339,7 +109339,7 @@
         "company_name": "Rocket Lab USA",
         "id": "01d6eda4-6d1c-4a2b-95b3-ffed7fd92f16",
         "title": "Software Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -109358,7 +109358,7 @@
         "company_name": "Rocket Lab USA",
         "id": "698e3894-30c4-4654-8b5d-d76aebae56ca",
         "title": "Flight Software Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -110399,7 +110399,7 @@
         "company_name": "Leidos",
         "id": "8b5e68de-e405-4ed3-893f-bd1d42dc15a0",
         "title": "Embedded Software Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -111570,7 +111570,7 @@
         "company_name": "Northwestern Mutual",
         "id": "a3b2c634-a737-47b9-be2e-2d28922c1928",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025"
@@ -111590,7 +111590,7 @@
         "company_name": "Northwestern Mutual",
         "id": "b897b8f5-c318-4eed-862e-eb4b6cfcff9d",
         "title": "Wealth Data Analytics Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -111628,7 +111628,7 @@
         "company_name": "Northwestern Mutual",
         "id": "7dff9794-a687-4849-a533-3db83593d80d",
         "title": "Software Engineering Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -111745,7 +111745,7 @@
         "company_name": "Northwestern Mutual",
         "id": "029a8092-192b-4a99-831d-b7049b3e09fd",
         "title": "Software Engineering Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -112233,6 +112233,63 @@
             "Cambridge, UK"
         ],
         "company_url": "https://simplify.jobs/c/Gearset",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Chamberlain Group",
+        "id": "7928c42a-3236-4f9e-a8c3-fb1ead9f7d02",
+        "title": "Intern \u2013 Implementation Consultant - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728572932,
+        "date_posted": 1728572932,
+        "url": "https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Intern--Implementation-Consultant--Summer-2025-_JR28002",
+        "locations": [
+            "Western Springs, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Chamberlain-Group",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Acadian Asset Management",
+        "id": "f7640bfd-2a24-4b6a-9335-4e0411494e58",
+        "title": "Quant Developer Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728572850,
+        "date_posted": 1728572850,
+        "url": "https://www.acadian-asset.com/careers/open-positions?gh_jid=4409144006",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/acadian-asset-management",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Motorola",
+        "id": "bcc7ec07-1cb5-431d-8a89-c25b4d15ce02",
+        "title": "Software Engineer Summer 2025 Internship - UIUC Research Park",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728573358,
+        "date_posted": 1728573358,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Champaign-IL-IL169/Software-Engineer-Summer-2025-Internship--UIUC-Research-Park-_R50649",
+        "locations": [
+            "Urbana, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
         "is_visible": true,
         "sponsorship": "Other"
     }
