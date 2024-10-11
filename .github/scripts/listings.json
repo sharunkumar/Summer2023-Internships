@@ -90530,7 +90530,7 @@
         "company_name": "Sentry",
         "id": "3d7dbe8a-e064-464f-9b63-3cf9db7fe68a",
         "title": "Software Engineer Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -103665,7 +103665,7 @@
         "company_name": "Bristol-Myers Squibb",
         "id": "ec3ab055-1c9f-4a75-9539-18a6d63bfe7d",
         "title": "Summer 2025 \u2013 Clinical Pharmacology Analysis and Reporting/Data Science Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -105649,7 +105649,7 @@
         "company_name": "TSC",
         "id": "a2623778-df37-42e9-9c15-56f2b2cdd0ab",
         "title": "Internship - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -105931,7 +105931,7 @@
         "company_name": "Leidos",
         "id": "00ba9011-4d9a-4da2-a328-77ec9037ebb7",
         "title": "Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -109512,7 +109512,7 @@
         "company_name": "Khan Academy",
         "id": "ce5e6613-4951-4f0d-a8af-9785c4f1f88e",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -112733,6 +112733,217 @@
             "Reston, VA"
         ],
         "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Allegion",
+        "id": "340d53ce-918e-4f5d-ad69-83ca242c3290",
+        "title": "Summer Intern - Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1728675167,
+        "date_posted": 1728675167,
+        "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Summer-Intern---Software-Engineer_JR30611-1",
+        "locations": [
+            "Carmel, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/allegion",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Solidigm",
+        "id": "ba54553f-829e-47ac-aa42-0541db30c163",
+        "title": "Customer Tools Software Engineering Undergraduate Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728675828,
+        "date_posted": 1728675828,
+        "url": "https://jobs.smartrecruiters.com/Solidigm/744000019969711",
+        "locations": [
+            "Rancho Cordova, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Solidigm",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Visa",
+        "id": "ca49b9fd-222c-4397-af45-d2f2ae31a75d",
+        "title": "Data Storage Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728675743,
+        "date_posted": 1728675743,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000019945615",
+        "locations": [
+            "Highlands Ranch, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Visa",
+        "id": "fa3c1a59-5912-43fb-b1aa-a34431f95897",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1728675719,
+        "date_posted": 1728675719,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000019962855",
+        "locations": [
+            "Miami, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Visa",
+        "id": "767f0e40-58d2-4806-b377-b412a2cc0b7a",
+        "title": "Systems Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1728675704,
+        "date_posted": 1728675704,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000019961577",
+        "locations": [
+            "Highlands Ranch, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Visa",
+        "id": "47ba5cc9-2de2-491f-b208-cb898e530fa9",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1728675705,
+        "date_posted": 1728675705,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000019954505",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "EUNA Solutions",
+        "id": "033978f1-a7c2-4589-90ee-ad702af34688",
+        "title": "Software Developer Co-Op - React/Nodejs",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1728675704,
+        "date_posted": 1728675704,
+        "url": "https://euna.bamboohr.com/careers/208/",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/86636c38-0e05-4ec1-b699-ea03e743f151",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Udig",
+        "id": "95b50947-b7fe-4f8a-b05f-fe7c3afce12c",
+        "title": "Technical Consultant Summer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1728675343,
+        "date_posted": 1728675343,
+        "url": "https://udig.com/careers/job-listing/?gh_jid=6113363003",
+        "locations": [
+            "Nashville, TN",
+            "Richmond, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Udig",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Marvell",
+        "id": "b7f1ed46-5e47-439c-9661-a7f8c361b7a1",
+        "title": "Application Engineering Intern - Bachelors",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728688368,
+        "date_posted": 1728688368,
+        "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Santa-Clara-CA/Application-Engineering-Intern---Bachelors_2401784",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/80961b05-9ed3-462d-aef9-4b418c7fb796",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Marvell",
+        "id": "9add455e-004f-4bd5-be0b-521eaea12515",
+        "title": "Firmware Engineer Intern - Bachelors",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728688368,
+        "date_posted": 1728688368,
+        "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Ottawa-Canada/Firmware-Engineer-Intern---Bachelors_2401848",
+        "locations": [],
+        "company_url": "https://simplify.jobs/c/80961b05-9ed3-462d-aef9-4b418c7fb796",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hewlett Packard (HP)",
+        "id": "6812e468-6429-4348-bc49-5d3839423c50",
+        "title": "Personal Systems AI/Machine Learning Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1728688647,
+        "date_posted": 1728688647,
+        "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Personal-Systems-AI-Machine-Learning-Internship_3142200-1",
+        "locations": [
+            "Palo Alto, CA",
+            "Austin, TX",
+            "Spring, TX",
+            "Boise, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
         "is_visible": true,
         "sponsorship": "Other"
     }
