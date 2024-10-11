@@ -103368,7 +103368,7 @@
         "company_name": "Motorola",
         "id": "08bf4abd-3509-49b9-bf83-163e0e887c85",
         "title": "Supply Chain Data Analytics Internship 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -107655,7 +107655,7 @@
         "company_name": "Uber",
         "id": "ca6a0fb7-28fa-4236-afa0-b613b275b4e1",
         "title": "2025 Software Engineering Intern - Texas a&M University",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -109972,7 +109972,7 @@
         "company_name": "Bank of Montreal",
         "id": "f342a668-4767-45c8-b9c1-62ff62c52fde",
         "title": "Junior Software Developer \u2013 Co-op/Internship - Winter 2025 - 4 months",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -111214,7 +111214,7 @@
         "company_name": "Northwestern Mutual",
         "id": "8a12f295-2219-4688-8ee5-7e8497089f13",
         "title": "Specialty Markets Data Analyst Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -112245,14 +112245,14 @@
         "terms": [
             "Summer 2025"
         ],
-        "date_updated": 1728572932,
+        "date_updated": 1728601937,
         "date_posted": 1728572932,
         "url": "https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Intern--Implementation-Consultant--Summer-2025-_JR28002",
         "locations": [
             "Western Springs, IL"
         ],
         "company_url": "https://simplify.jobs/c/Chamberlain-Group",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -112290,6 +112290,353 @@
             "Urbana, IL"
         ],
         "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "IPG DXTRA",
+        "id": "159ec0ab-1501-489b-82be-9322abe49797",
+        "title": "Capital Markets Intern - Spring 2025",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1728587915,
+        "date_posted": 1728587915,
+        "url": "https://job-boards.greenhouse.io/dxacirca/jobs/7663534002",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/IPG-DXTRA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Lumentum",
+        "id": "8472ab12-03b5-45ab-8489-2cdbadfcc1f5",
+        "title": "Optical Algorithms & Analytics Engineer \u2013 Co-op",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1728588735,
+        "date_posted": 1728588735,
+        "url": "https://lumentum.wd5.myworkdayjobs.com/en-US/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-Algorithms---Analytics-Engineer--Co-op-_20241074",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/0985b121-88fd-4402-aea9-c0c55bfbbc99",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Waymo",
+        "id": "d1e9a963-7734-4792-9e32-3abb07994074",
+        "title": "2025 Summer Intern - BS/MS - Labeling Platform - Full-Stack Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728588364,
+        "date_posted": 1728588364,
+        "url": "https://careers.withwaymo.com/jobs?gh_jid=6317161",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Waymo",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Verkada",
+        "id": "51778e24-f875-4706-b4e7-161edf5e5646",
+        "title": "IOS Engineering Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728588298,
+        "date_posted": 1728588298,
+        "url": "https://job-boards.greenhouse.io/verkada/jobs/4538383007",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Verkada",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "EquipmentShare",
+        "id": "803c4551-cd54-4bf6-af1f-1e4bfa5bc8f9",
+        "title": "Intern: Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728588255,
+        "date_posted": 1728588255,
+        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=6319400",
+        "locations": [
+            "Columbia, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Equipment-Share",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "4d1cefda-8958-4eaa-b674-30522580f3d8",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728588233,
+        "date_posted": 1728588233,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Software-Engineer-Intern_R-00145757",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DriveTime",
+        "id": "9b347adf-04f0-450f-85d3-7043afca8a2b",
+        "title": "Data Engineering Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728588172,
+        "date_posted": 1728588172,
+        "url": "https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Data-Engineering-Intern--Summer-2025-_R9726",
+        "locations": [
+            "Tempe, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/drivetime",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DriveTime",
+        "id": "1170fb83-b777-4746-8837-08060aca1c5d",
+        "title": "Software Engineering Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728588174,
+        "date_posted": 1728588174,
+        "url": "https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Software-Engineering-Intern--Summer-2025-_R9725",
+        "locations": [
+            "Tempe, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/drivetime",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "HCSC",
+        "id": "398e19fe-c3e8-4b0e-92b0-c37cd1b7eedb",
+        "title": "University Relations \u2013 Associate Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1728589147,
+        "date_posted": 1728589147,
+        "url": "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/MT---Helena/University-Relations---Associate-Developer-Intern_R0042360",
+        "locations": [
+            "Helena, MT"
+        ],
+        "company_url": "https://simplify.jobs/c/de9db5fc-93ac-4e2a-873c-61d8a830873c",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Alchemy",
+        "id": "d728c7a5-7f01-4946-857e-59e752481e4e",
+        "title": "Engineering Internship - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728588960,
+        "date_posted": 1728588960,
+        "url": "https://job-boards.greenhouse.io/alchemy/jobs/4480513005",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Alchemy",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Weber Shandwick",
+        "id": "7cf07d70-7b85-4688-92a6-7a5004988f45",
+        "title": "Capital Markets Intern - Spring 2025",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1728588758,
+        "date_posted": 1728588758,
+        "url": "https://www.webershandwick.com/work-at-weber/careers/?gh_jid=7663533002",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Weber-Shandwick",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Pinterest",
+        "id": "295fc430-7a33-4598-a2ee-bf0a3fd1828b",
+        "title": "IT Data Engineer Intern - USA",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1728602043,
+        "date_posted": 1728602043,
+        "url": "https://www.pinterestcareers.com/job-form?gh_jid=6319528",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pinterest",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Pinterest",
+        "id": "c1cc25af-2498-4bf0-93eb-5c7fcb07bb2c",
+        "title": "IT Systems Engineering Intern - USA",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1728602042,
+        "date_posted": 1728602042,
+        "url": "https://www.pinterestcareers.com/job-form?gh_jid=6319532",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pinterest",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Live Ramp",
+        "id": "2bbf958c-8f5d-4ce2-a83d-6a3366db3473",
+        "title": "Software Engineer Co-Op",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728601580,
+        "date_posted": 1728601580,
+        "url": "https://liveramp.wd5.myworkdayjobs.com/en-US/LiveRampCareers/job/San-Francisco/Software-Engineer-Co-Op_JR011332",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Live-Ramp",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hewlett Packard (HP)",
+        "id": "18dcfbf2-9848-411b-b176-1663be1bce18",
+        "title": "Associated Software Developer \u2013 Co-op position - Rapid Response",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1728602386,
+        "date_posted": 1728602386,
+        "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Vancouver-British-Columbia-Canada/Associated-Software-Developer---Rapid-Response--Co-op-position-_3142356-1",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hewlett Packard (HP)",
+        "id": "d5a75174-610c-4071-82be-4060a45d0aaa",
+        "title": "Fullstack Application Developer \u2013 Co-op position",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1728602385,
+        "date_posted": 1728602385,
+        "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Vancouver-British-Columbia-Canada/Fullstack-Application-Developer----Co-op-position-_3142624-1",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hewlett Packard (HP)",
+        "id": "87e74dbd-b001-4b83-af34-7108eb137f0f",
+        "title": "Associate Software Developer \u2013 Co-op position - Anyware Endpoints",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1728602384,
+        "date_posted": 1728602384,
+        "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Vancouver-British-Columbia-Canada/Associate-Software-Developer---Anyware-Endpoints--Co-op-position-_3142353-1",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hewlett Packard (HP)",
+        "id": "437a015f-8c63-4adc-b53d-7f9d17415b0b",
+        "title": "Associate Software Developer \u2013 Co-op position",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1728602385,
+        "date_posted": 1728602385,
+        "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Vancouver-British-Columbia-Canada/Associate-Software-Developer--Co-op-position-_3142500-1",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
         "is_visible": true,
         "sponsorship": "Other"
     }
