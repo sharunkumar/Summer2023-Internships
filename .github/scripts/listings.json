@@ -100704,7 +100704,7 @@
         "company_name": "Capital One",
         "id": "63695765-58f3-42c9-bdef-403db4306574",
         "title": "Full Stack Software Engineer \u2013 Intern - Winter 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -102350,7 +102350,7 @@
         "company_name": "Wellington Management",
         "id": "60cf3f7f-859a-4c52-8d19-78e7a120cd7a",
         "title": "Summer 2025 Technology Undergraduate Intern - Boston",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -105874,7 +105874,7 @@
         "company_name": "Athena Health",
         "id": "d035d135-849e-4160-aadd-b238627a9b4d",
         "title": "2025 Summer Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -109706,7 +109706,7 @@
         "company_name": "Leidos",
         "id": "e6a509a9-cf54-4297-8ea2-50c8a81ef013",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -110418,7 +110418,7 @@
         "company_name": "Leidos",
         "id": "fe811bfd-8a1f-4f72-b149-4804a5b6653f",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -112188,15 +112188,15 @@
         "terms": [
             "Summer 2025"
         ],
-        "date_updated": 1728534004,
+        "date_updated": 1728625364,
         "date_posted": 1728529817,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/AI-Web-Application-Developer-Intern_R-00145781",
         "locations": [
-            "Arlington, VA"
+            "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Leidos",
         "is_visible": true,
-        "sponsorship": "U.S. Citizenship is Required"
+        "sponsorship": "Other"
     },
     {
         "source": "Simplify",
@@ -112639,5 +112639,44 @@
         "company_url": "https://simplify.jobs/c/Hewlett-Packard",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Epic Games",
+        "id": "da41d756-6fb1-4a6a-aded-18b0d309d2d7",
+        "title": "Game Security Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728616353,
+        "date_posted": 1728616353,
+        "url": "https://epicgames.com/careers/jobs/5281072004?gh_jid=5281072004",
+        "locations": [
+            "Morrisville, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Epic-Games",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1728625577,
+        "url": "https://careers.se.com/jobs/77783",
+        "company_name": "Schneider Electric",
+        "title": "Software Engineer Intern (Summer 2025)",
+        "locations": [
+            "North Andover, MA",
+            "Boston, MA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "09b949a7-eb4f-4354-b3b4-cb6e4659608f",
+        "date_posted": 1728625577,
+        "company_url": "",
+        "is_visible": true
     }
 ]
