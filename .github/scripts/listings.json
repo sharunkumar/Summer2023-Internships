@@ -46861,7 +46861,7 @@
         "company_name": "Uber",
         "id": "ae93fb9a-c5cc-4cb1-801f-adf4ce90e48c",
         "title": "2024 Software Engineering Uberstar Internship - UC Berkeley",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -46883,7 +46883,7 @@
         "company_name": "Uber",
         "id": "26e2087a-1820-40dd-b365-7308e8768454",
         "title": "2024 Software Engineering Uberstar Internship - UC Berkeley",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -92137,10 +92137,10 @@
         "is_visible": true
     },
     {
-        "date_updated": 1723584475,
+        "date_updated": 1728707228,
         "url": "https://careers.roblox.com/jobs/6086765",
         "company_name": "Roblox",
-        "title": "[Summer 2025] Software Engineer - InternNew Internship",
+        "title": "Software Engineer - Intern",
         "locations": [
             "San Mateo, CA"
         ],
@@ -103603,7 +103603,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1726591837,
+        "date_updated": 1728707260,
         "url": "https://jobs.smartrecruiters.com/Visa/744000014256745-software-engineer-intern",
         "company_name": "Visa",
         "title": "Software Engineer Intern",
@@ -103613,8 +103613,8 @@
         "terms": [
             "Summer 2025"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "GaryZhous",
         "id": "d986c4cc-154f-445d-8e3e-d0ef4510b867",
         "date_posted": 1726591837,
@@ -106862,7 +106862,7 @@
         "company_name": "Uber",
         "id": "0f67f000-a5b6-427e-98c1-6e47ae0c6e06",
         "title": "2025 Software Engineer Internship - UC Berkeley",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -107300,7 +107300,7 @@
         "company_name": "Uber",
         "id": "7206e696-920d-42f3-a118-812b960d514c",
         "title": "2025 Software Engineering Uberstar Internship - UC Berkeley",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -107363,7 +107363,7 @@
         "company_name": "Uber",
         "id": "e7b6cde7-3012-4e07-bb17-a6192dee8884",
         "title": "2025 Software Engineering Uberstar Internship - UC Berkeley",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -107554,7 +107554,7 @@
         "company_name": "Uber",
         "id": "772f0cad-00bc-4a2c-a665-7f3fbd0f2f41",
         "title": "2025 Software Engineer Internship - UC Berkeley",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -110262,7 +110262,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1727990578,
+        "date_updated": 1728706990,
         "url": "https://www.energysage.com/about-us/careers/?gh_jid=4530574007",
         "company_name": "EnergySage",
         "title": "Software Engineering Intern",
@@ -110274,7 +110274,7 @@
             "Spring 2025"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "zoemyatt",
         "id": "bf7abed3-ca42-4280-9a5a-faaf386f482f",
         "date_posted": 1727990578,
@@ -112917,10 +112917,12 @@
         "terms": [
             "Summer 2025"
         ],
-        "date_updated": 1728688368,
+        "date_updated": 1728708145,
         "date_posted": 1728688368,
         "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Ottawa-Canada/Firmware-Engineer-Intern---Bachelors_2401848",
-        "locations": [],
+        "locations": [
+            "Ottawa, Canada"
+        ],
         "company_url": "https://simplify.jobs/c/80961b05-9ed3-462d-aef9-4b418c7fb796",
         "is_visible": true,
         "sponsorship": "Other"
@@ -112946,5 +112948,64 @@
         "company_url": "https://simplify.jobs/c/Hewlett-Packard",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wing",
+        "id": "65640aae-0d90-48dc-b1ff-74cf856f4890",
+        "title": "Backend Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "date_updated": 1728688175,
+        "date_posted": 1728688175,
+        "url": "https://wing.com/careers/7654026002?gh_jid=7654026002",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Wing",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Galaxy",
+        "id": "640a1f9f-0e8e-4af1-8afe-18b60e092ada",
+        "title": "2025 Sales and Trading Intern - London",
+        "active": true,
+        "terms": [
+            "Summer 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1728702496,
+        "date_posted": 1728702496,
+        "url": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/5353435004",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Galaxy",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1728708385,
+        "url": "https://careers.hologic.com/search/300000366609685/intern-r-d-software-engineering",
+        "company_name": "Hologic",
+        "title": "Intern, R&D Software Engineering",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "ca79ed89-bd57-4747-b02e-f63f7fc33382",
+        "date_posted": 1728708385,
+        "company_url": "",
+        "is_visible": true
     }
 ]
