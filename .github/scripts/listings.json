@@ -91962,7 +91962,7 @@
         "company_name": "Intel",
         "id": "4fb5070e-9cc4-4d45-82b0-0d84f5a5a440",
         "title": "Software Engineer \u2013 PEY Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2024"
         ],
@@ -100067,7 +100067,7 @@
         "company_name": "Anduril",
         "id": "dd9480f3-1e1f-453f-a50d-6b94ae23a024",
         "title": "Software Engineering Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -101863,7 +101863,7 @@
         "company_name": "Walmart",
         "id": "90661bd1-fac3-49c8-bbbd-d11b3596c568",
         "title": "2025 Summer Intern: Software Engineer II",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -109184,7 +109184,7 @@
         "company_name": "Shamrock Trading",
         "id": "5fe00066-f3ec-42e1-b9c7-e82846f10958",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -112741,7 +112741,7 @@
         "company_name": "Allegion",
         "id": "340d53ce-918e-4f5d-ad69-83ca242c3290",
         "title": "Summer Intern - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -113120,6 +113120,45 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Snyk",
+        "id": "f90a6973-9818-4940-8e7b-9479505cf112",
+        "title": "Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728918964,
+        "date_posted": 1728918964,
+        "url": "https://boards.greenhouse.io/snyk/jobs/7682064002",
+        "locations": [
+            "Boston, MA",
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Snyk",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Fresenius Medical Care",
+        "id": "8d7e0889-a008-4de7-88e6-e41e957261fc",
+        "title": "Software Engineering Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728919068,
+        "date_posted": 1728919068,
+        "url": "https://freseniusmedicalcare.wd3.myworkdayjobs.com/en-US/fme/job/Lawrence-MA-USA/Software-Engineering-Co-op_R0176395",
+        "locations": [
+            "Andover, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/4b2e56dd-7341-4054-bc71-20c6f9f2736b",
         "is_visible": true,
         "sponsorship": "Other"
     }
