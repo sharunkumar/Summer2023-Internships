@@ -104652,7 +104652,7 @@
         "company_name": "Braze",
         "id": "95547e62-ac14-46cc-8d04-9685ef3c2d06",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -105874,7 +105874,7 @@
         "company_name": "Athena Health",
         "id": "d035d135-849e-4160-aadd-b238627a9b4d",
         "title": "2025 Summer Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -110900,7 +110900,7 @@
         "company_name": "The Walt Disney Company",
         "id": "8cc1c4d1-9c35-4e7c-bf83-5d763717f379",
         "title": "Disney Experiences Software Engineering Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -110959,7 +110959,7 @@
         "company_name": "The Walt Disney Company",
         "id": "b3b8f78d-b9de-41c6-95a4-b84df04eb245",
         "title": "Enterprise Technology Software Engineering Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -110998,7 +110998,7 @@
         "company_name": "The Walt Disney Company",
         "id": "c7fc6958-da17-4e56-9bf2-08617e1871cb",
         "title": "Enterprise Technology Data Analyst Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -112184,7 +112184,7 @@
         "company_name": "Leidos",
         "id": "4efd4e26-d188-4fbc-9694-2d96d52efa52",
         "title": "AI Web Application Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -112317,7 +112317,7 @@
         "company_name": "Lumentum",
         "id": "8472ab12-03b5-45ab-8489-2cdbadfcc1f5",
         "title": "Optical Algorithms & Analytics Engineer \u2013 Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -112393,7 +112393,7 @@
         "company_name": "Leidos",
         "id": "4d1cefda-8958-4eaa-b674-30522580f3d8",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -112722,7 +112722,7 @@
         "company_name": "Leidos",
         "id": "17ae95f8-01f6-46ca-a145-2b0b01154b81",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -113044,6 +113044,63 @@
         "source": "GaryZhous",
         "id": "cab97ba5-27a6-48f7-88ab-718d2de56c79",
         "date_posted": 1728794250,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Mach Industries",
+        "id": "7a132c30-a474-4ae9-a695-c6050190d08a",
+        "title": "Summer Intern 2025 - Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728880957,
+        "date_posted": 1728875812,
+        "url": "https://jobs.ashbyhq.com/mach/ae1694b8-509d-4ce3-84eb-0a4ccab4870e/application",
+        "locations": [
+            "Huntington Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Mach-Industries",
+        "is_visible": true,
+        "sponsorship": "U.S. Citizenship is Required"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Two Six Technologies",
+        "id": "cd2b7adc-763a-41c7-bf5c-bf06092ced2f",
+        "title": "Summer Research Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1728875658,
+        "date_posted": 1728875658,
+        "url": "https://job-boards.greenhouse.io/twosixtechnologies/jobs/5343484004",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Two-Six-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1728881192,
+        "url": "https://jobs.comcast.com/job/-/-/45483/70239974992",
+        "company_name": "Comcast",
+        "title": "AI-Driven Software Development Intern",
+        "locations": [
+            "West Chester, PA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "ea8529fa-0c1d-4fa3-aead-f7ec9159a65f",
+        "date_posted": 1728881192,
         "company_url": "",
         "is_visible": true
     }
