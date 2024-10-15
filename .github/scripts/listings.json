@@ -96735,7 +96735,7 @@
         "company_name": "Plexus",
         "id": "12972942-c735-4cae-a224-34d066b85e2c",
         "title": "Intern \u2013 Software Engineer - Fall 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -97685,7 +97685,7 @@
         "company_name": "Appian",
         "id": "45274461-7c5c-446d-9a28-a9510ec349c5",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -110048,7 +110048,7 @@
         "company_name": "Oshkosh",
         "id": "27004f91-df55-4bf5-ac32-2cba0a4e88bc",
         "title": "Digital Technology \u2013 Intern - Dt - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -113159,6 +113159,209 @@
             "Andover, MA"
         ],
         "company_url": "https://simplify.jobs/c/4b2e56dd-7341-4054-bc71-20c6f9f2736b",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Symphony",
+        "id": "916e0948-c9b3-41f3-91f4-87d39641fac8",
+        "title": "Intern \u2013 Product & Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728934129,
+        "date_posted": 1728934129,
+        "url": "https://symphony.com/company/apply?gh_jid=6283242",
+        "locations": [
+            "Belfast, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Symphony-Comm",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Allen Institute for AI",
+        "id": "06d0273f-0275-4e49-af67-6697bf1d41af",
+        "title": "Research Internship - Olmo",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024",
+            "Fall 2024",
+            "Winter 2025",
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1728934129,
+        "date_posted": 1728934129,
+        "url": "https://job-boards.greenhouse.io/thealleninstitute/jobs/6322728",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/allenai",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "69676762-4733-4768-9e1f-d4a1e59bae74",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728933650,
+        "date_posted": 1728933650,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Tucson-AZ/Software-Engineer-Intern_R-00145578",
+        "locations": [
+            "Tucson, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "HCSC",
+        "id": "511a4dee-5eaa-47dc-8070-bc94659fb12a",
+        "title": "University Relations \u2013 Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728934480,
+        "date_posted": 1728934480,
+        "url": "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/TX---Richardson/University-Relations---Analytics-Intern_R0042310",
+        "locations": [
+            "Richardson, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/de9db5fc-93ac-4e2a-873c-61d8a830873c",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "TransUnion",
+        "id": "14cca158-3ded-4ae7-83da-d33e5bd14744",
+        "title": "Business Analytics Internship Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728934642,
+        "date_posted": 1728934642,
+        "url": "https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion/job/White-Plains-New-York/Business-Analytics-Internship-Summer-2025_19032230",
+        "locations": [
+            "White Plains, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/00cf2cf8-458d-4e49-8d00-a1a897d7294a",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "HCSC",
+        "id": "bb85d199-9d66-415f-a64c-b94c2e2d13a4",
+        "title": "University Relations \u2013 Associate Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728934483,
+        "date_posted": 1728934483,
+        "url": "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/University-Relations---Associate-Data-Analyst-Intern_R0042322",
+        "locations": [
+            "Chicago, IL",
+            "Richardson, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/de9db5fc-93ac-4e2a-873c-61d8a830873c",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Nelnet",
+        "id": "37639749-4a87-4339-842d-13bb60053f31",
+        "title": "Intern \u2013 Software Engineer - Application Security - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728934347,
+        "date_posted": 1728934347,
+        "url": "https://nelnet.wd1.myworkdayjobs.com/en-US/MyNelnet/job/Madison-WI/Intern---Software-Engineer---Application-Security---Summer-2025_R20147",
+        "locations": [
+            "Madison, WI",
+            "Centennial, CO",
+            "Lincoln, NE"
+        ],
+        "company_url": "https://simplify.jobs/c/d7662126-9bc7-4ec4-b3e6-a9a3ae307c5d",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "HeyGen",
+        "id": "2f956c52-edf6-4b68-99c9-7db4d96de3c0",
+        "title": "Software Engineer \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728947690,
+        "date_posted": 1728947690,
+        "url": "https://job-boards.greenhouse.io/heygen/jobs/4540716007",
+        "locations": [
+            "Palo Alto, CA",
+            "Toronto, ON, Canada",
+            "SF",
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/HeyGen",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Northwestern Mutual",
+        "id": "2095d378-8747-4d0a-b0ee-80cd360f537d",
+        "title": "Investment Analyst Intern",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1728947395,
+        "date_posted": 1728947395,
+        "url": "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Investment-Analyst-Intern_JR-42020",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Northwestern-Mutual",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "T. Rowe Price",
+        "id": "b9436abe-3b2b-4217-9d14-b5e46a6e95a8",
+        "title": "2024 SHPE National Convention \u2013 2025 Summer Software Engineering Internship Program - SHPE Student Attendees ONLY - Global Technology",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1728947955,
+        "date_posted": 1728947955,
+        "url": "https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Owings-Mills-MD/XMLNAME-2024-SHPE-National-Convention--SHPE-Student-Attendees-ONLY--Global-Technology---2025-Summer-Software-Engineering-Internship-Program_73777",
+        "locations": [
+            "Owings Mills, MD",
+            "Baltimore, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/t-rowe-price",
         "is_visible": true,
         "sponsorship": "Other"
     }
