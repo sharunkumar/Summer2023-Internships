@@ -33657,7 +33657,7 @@
         "company_name": "Zoox",
         "id": "ece9d59c-c6ea-48af-b2fb-3bad905ad3c2",
         "title": "Motion Planning Cost Development Internship/Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -100823,7 +100823,7 @@
         "company_name": "Sigma Computing",
         "id": "8fb3730b-b089-45a5-9a40-30ada8227573",
         "title": "Frontend Software Engineering Intern \u2013 Recent Grad",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -101197,7 +101197,7 @@
         "company_name": "Wellmark",
         "id": "1b92bac7-5559-4627-a8bd-664db70b43ab",
         "title": "Data Science - Part-Time Student - Spring and Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [],
         "date_updated": 1726094314,
         "date_posted": 1726094314,
@@ -104015,23 +104015,21 @@
         "source": "Simplify",
         "company_name": "Patreon",
         "id": "2834e3af-155e-4c50-8a9d-72aaec4b9af5",
-        "title": "Software Engineering Intern",
+        "title": "Software Engineering Intern\t",
         "active": true,
         "terms": [
-            "Spring 2025",
-            "Summer 2025",
-            "Fall 2025"
+            "Summer 2025"
         ],
-        "date_updated": 1726614370,
+        "date_updated": 1729035900,
         "date_posted": 1726614370,
         "url": "https://jobs.ashbyhq.com/patreon/281934d5-df77-42ec-a5a1-c06563b9df2a/application",
         "locations": [
-            "SF",
-            "NYC"
+            "NYC",
+            "SF"
         ],
         "company_url": "https://simplify.jobs/c/Patreon",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "Offers Sponsorship"
     },
     {
         "source": "Simplify",
@@ -107300,7 +107298,7 @@
         "company_name": "Uber",
         "id": "7206e696-920d-42f3-a118-812b960d514c",
         "title": "2025 Software Engineering Uberstar Internship - UC Berkeley",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -107363,7 +107361,7 @@
         "company_name": "Uber",
         "id": "e7b6cde7-3012-4e07-bb17-a6192dee8884",
         "title": "2025 Software Engineering Uberstar Internship - UC Berkeley",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -110399,7 +110397,7 @@
         "company_name": "Leidos",
         "id": "8b5e68de-e405-4ed3-893f-bd1d42dc15a0",
         "title": "Embedded Software Engineer \u2013 Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -113444,7 +113442,7 @@
         "terms": [
             "Summer 2025"
         ],
-        "date_updated": 1728990609,
+        "date_updated": 1729035992,
         "date_posted": 1728990609,
         "url": "https://jobs.lever.co/sophos/05d3036e-0136-4706-9db7-886720467a6a/apply",
         "locations": [
@@ -113452,7 +113450,198 @@
             "Oxford, UK"
         ],
         "company_url": "https://simplify.jobs/c/d1f5dbd0-ca93-42bc-a680-4b4613524aae",
+        "is_visible": false,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Live Ramp",
+        "id": "92ea7b8b-06df-44ca-a90b-d7ed99e21713",
+        "title": "Software Engineer Co - Op",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1729019478,
+        "date_posted": 1729019478,
+        "url": "https://liveramp.wd5.myworkdayjobs.com/en-US/LiveRampCareers/job/San-Francisco/Software-Engineer-Co---Op_JR010541",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Live-Ramp",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Skydio",
+        "id": "bef8710c-fd94-4b9a-89ef-0b42463081c1",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729020095,
+        "date_posted": 1729020095,
+        "url": "https://www.skydio.com/jobs/6220519003?gh_jid=6220519003",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Skydio",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "PitchBook",
+        "id": "b31d1aa0-f6ac-43ea-9876-e4a7ea7437d7",
+        "title": "Software Development Engineer \u2013 Summer Intern - Back End",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1729021023,
+        "date_posted": 1729021023,
+        "url": "https://job-boards.greenhouse.io/pitchbookdata/jobs/4410343006",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/PitchBook",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Oshkosh",
+        "id": "e95f7bbf-c00b-4018-885d-fc64ea9820b3",
+        "title": "Knowledge Management Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729020558,
+        "date_posted": 1729020558,
+        "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/McConnellsburg-Pennsylvania-United-States/Knowledge-Management-Development-Intern_R30816",
+        "locations": [
+            "Chambersburg, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Oshkosh",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "PitchBook",
+        "id": "e0155a54-aecf-4855-b646-1dcebfea66a7",
+        "title": "Software Development Platform Engineer Summer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1729021030,
+        "date_posted": 1729021030,
+        "url": "https://job-boards.greenhouse.io/pitchbookdata/jobs/4409657006",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/PitchBook",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Two Six Technologies",
+        "id": "c72b7f6a-da28-408e-8f2c-838fa1d69969",
+        "title": "Summer Research Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1729020773,
+        "date_posted": 1729020773,
+        "url": "https://job-boards.greenhouse.io/twosixtechnologies/jobs/5339070004",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Two-Six-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Solidigm",
+        "id": "f289aacb-93a1-49fb-b43d-e95e1308ed5e",
+        "title": "SSD Validation Development Undergrad Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729021599,
+        "date_posted": 1729021599,
+        "url": "https://jobs.smartrecruiters.com/Solidigm/744000020506065",
+        "locations": [
+            "Rancho Cordova, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Solidigm",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Shield AI",
+        "id": "e5ec76ac-ef44-457c-a5df-2db158638b12",
+        "title": "Software Engineering Simulation Intern \u2013 2025 Summer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729034088,
+        "date_posted": 1729034088,
+        "url": "https://jobs.lever.co/shieldai/88bde188-a407-4903-874f-dbb255100f3f/apply",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Shield-AI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1729035875,
+        "url": "https://careers.ibm.com/job/21086670/front-end-developer-intern-2025-tucson-az/",
+        "company_name": "IBM",
+        "title": "Front End Developer Intern",
+        "locations": [
+            "Tuscon, AZ",
+            "Rochester, MN"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "hamim23z",
+        "id": "55ddd6e6-2a1f-49ce-8703-d20dde3c8fe1",
+        "date_posted": 1729035875,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1729035962,
+        "url": "https://jobs.dolby.com/careers/job/25268410",
+        "company_name": "Dolby",
+        "title": "Software Development Engineering Intern (Summer 2025)",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "devabhixda",
+        "id": "51cfc736-f71d-48ee-bdf7-c392fc17a92e",
+        "date_posted": 1729035962,
+        "company_url": "",
+        "is_visible": true
     }
 ]
