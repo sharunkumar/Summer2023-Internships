@@ -69438,7 +69438,7 @@
         "company_name": "XPeng Motors",
         "id": "34e41df5-95fa-426f-a0ac-def42ab0e35e",
         "title": "Tools and Infrastructure Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -86838,7 +86838,7 @@
         "company_name": "Global Relay",
         "id": "ddd71e8f-dde3-48cd-88d1-6ed464311ed4",
         "title": "Software Development Engineer in Test \u2013 Co-op - Sdet - Fall 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2024"
         ],
@@ -96543,7 +96543,7 @@
         "company_name": "Saronic",
         "id": "1ee4f6f9-5a8e-4d40-8bd9-3a8af2d17ac9",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -103168,7 +103168,7 @@
         "company_name": "ServiceNow",
         "id": "b006ffbb-1042-4766-8fd0-f3bfa5e084a8",
         "title": "Digital Technology \u2013 Software Engineer Internships - Dt - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -106369,7 +106369,7 @@
         "company_name": "ServiceNow",
         "id": "c460ec74-5440-4a34-8ad3-30232eda1d38",
         "title": "Digital Technology \u2013 Associate Data Informatics Analyst Intern - Dt",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -108146,7 +108146,7 @@
         "company_name": "ServiceNow",
         "id": "5367a7d6-26b8-4ca0-af59-5085ace7d3d6",
         "title": "Digital Technology \u2013 Data Scientist Intern - Dt",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -110764,7 +110764,7 @@
         "company_name": "Skyryse",
         "id": "ca2c0c57-58ea-4014-889a-e3534a2cec96",
         "title": "Software Engineering Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -112701,7 +112701,7 @@
         "company_name": "Oshkosh",
         "id": "05dfedc4-331c-4d9c-981f-283dc0beaa90",
         "title": "Data Science Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -113069,7 +113069,7 @@
         "company_name": "Two Six Technologies",
         "id": "cd2b7adc-763a-41c7-bf5c-bf06092ced2f",
         "title": "Summer Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -113438,7 +113438,7 @@
         "company_name": "Sophos",
         "id": "7f01b19c-7631-4475-b7c3-adc9146fe5ec",
         "title": "Software Engineering Intern - Month Fixed Term Placement - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -114205,6 +114205,160 @@
             "Arlington, VA"
         ],
         "company_url": "https://simplify.jobs/c/Two-Six-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Snowflake",
+        "id": "fc807623-95a7-4783-bc3b-54941c72ae98",
+        "title": "Software Engineer Intern - Toronto - Spring 2025",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1729107608,
+        "date_posted": 1729107608,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7687059002",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Snowflake",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "0b047df8-1eee-4dd1-92fb-1010ec14f51b",
+        "title": "Software Engineer Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729107146,
+        "date_posted": 1729107146,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Omaha-NE/Software-Engineer-Intern_R-00146200",
+        "locations": [
+            "Omaha, NE"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "PlayStation Global",
+        "id": "70d22c23-1aa3-4cd6-b8a3-36dd4a07f1ac",
+        "title": "Software Engineering Intern - Undergraduate",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1729107751,
+        "date_posted": 1729107751,
+        "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5340492004",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/PlayStation-Global",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Galaxy",
+        "id": "ac6e2c7e-98ee-4e62-a358-a48505950924",
+        "title": "2025 Strategic Opportunities Intern - London",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729107016,
+        "date_posted": 1729107016,
+        "url": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/5357092004",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Galaxy",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Workleap",
+        "id": "0017b3dd-c924-4057-b888-bd98ec16347e",
+        "title": "Software Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729107426,
+        "date_posted": 1729107426,
+        "url": "https://job-boards.greenhouse.io/workleap/jobs/4541542007",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Workleap",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Shield AI",
+        "id": "6642c07d-a94e-40a3-8573-495b7b7cee48",
+        "title": "Frontend Software Engineering Intern \u2013 2025 Summer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729120460,
+        "date_posted": 1729120460,
+        "url": "https://jobs.lever.co/shieldai/ff659629-7332-417a-bfc8-ad77cf844004/apply",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Shield-AI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Global Relay",
+        "id": "523e8cbc-9141-4fcc-8b3b-674d5d0e8383",
+        "title": "Co-op Java Developer - Winter 2025",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1729120430,
+        "date_posted": 1729120430,
+        "url": "https://www.globalrelay.com/careers/jobs/?gh_jid=4912634004",
+        "locations": [
+            "Halifax Regional Municipality, NS, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Global-Relay",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Taboola",
+        "id": "e6706a9d-cad1-4e46-949f-85cbc7a8447f",
+        "title": "Frontend Engineer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1729120033,
+        "date_posted": 1729120033,
+        "url": "https://www.taboola.com/careers/job/6330625?gh_jid=6330625",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Taboola",
         "is_visible": true,
         "sponsorship": "Other"
     }
