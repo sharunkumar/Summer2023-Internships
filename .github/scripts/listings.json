@@ -99411,7 +99411,7 @@
         "company_name": "Core Specialty",
         "id": "5d227c9a-4161-432e-960a-aae8aeb4838b",
         "title": "Summer Intern - IT Data",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -104902,7 +104902,7 @@
         "company_name": "Thrivent",
         "id": "30c6b4ad-f683-479c-9961-7af3543a0811",
         "title": "Software Developer Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -113146,7 +113146,7 @@
         "company_name": "Fresenius Medical Care",
         "id": "8d7e0889-a008-4de7-88e6-e41e957261fc",
         "title": "Software Engineering Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -113458,7 +113458,7 @@
         "company_name": "Live Ramp",
         "id": "92ea7b8b-06df-44ca-a90b-d7ed99e21713",
         "title": "Software Engineer Co - Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -114291,7 +114291,7 @@
         "company_name": "Workleap",
         "id": "0017b3dd-c924-4057-b888-bd98ec16347e",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -114428,7 +114428,7 @@
         "company_name": "Taboola",
         "id": "1072a509-c837-4c0c-950d-5df2e924eb54",
         "title": "Frontend Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -114504,7 +114504,7 @@
         "company_name": "Workleap",
         "id": "2a6f86bb-6b91-4637-8cb8-81b2e7a0fc42",
         "title": "Software Developer Intern - Ruby on Rails and Ember",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -114835,7 +114835,7 @@
         "company_name": "Transparent Partners",
         "id": "14c8798b-5f34-4bb4-8f86-8b9eee057549",
         "title": "Internship - Data & Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -114854,7 +114854,7 @@
         "company_name": "Transparent Partners",
         "id": "7fbf2fa4-2f4b-4c47-a49f-36ce95ba4c7d",
         "title": "Internship - Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
