@@ -96830,7 +96830,7 @@
         "company_name": "InterSystems",
         "id": "09e22b10-4344-4909-b8b2-e713da6a91f4",
         "title": "Summer Internship 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -98868,7 +98868,7 @@
         "company_name": "Marvell",
         "id": "e14a6592-4123-4e9c-85bf-eba6ed1a8f5a",
         "title": "Firmware Engineer Intern - Bachelors",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -102641,7 +102641,7 @@
         "company_name": "NVIDIA",
         "id": "ac4c005f-2624-4810-b0b3-caa3e232b8bb",
         "title": "NVIDIA 2025 Ignite Internships: Software Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -106268,7 +106268,7 @@
         "company_name": "Amazon",
         "id": "8c9f42dc-4728-4ad8-9e1f-c20b8c372c10",
         "title": "Software Development Engineer - Artificial General Intelligence",
-        "active": true,
+        "active": false,
         "terms": [],
         "date_updated": 1727305952,
         "date_posted": 1727305952,
@@ -109471,7 +109471,7 @@
         "company_name": "ManTech",
         "id": "0007a655-9b1f-4c75-9c90-54dd9b3aca21",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -109551,7 +109551,7 @@
         "company_name": "Challenge Manufacturing",
         "id": "83d6b176-94e6-4dc7-b78f-ff78c2fd2cba",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -110724,7 +110724,7 @@
         "company_name": "Brown Brothers Harriman",
         "id": "69fe89b6-9ac4-4e49-b8d6-f2717549c91c",
         "title": "2025 Technology Intern - Application Development & Business Analysis",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -111762,7 +111762,7 @@
         "company_name": "Snowflake",
         "id": "a32fa1ab-2d65-4d63-971b-590f9e41deeb",
         "title": "Software Engineer Intern - Core Engineering - Spring 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -111781,7 +111781,7 @@
         "company_name": "Snowflake",
         "id": "96e5ca0f-6829-49e3-950c-ad8d418d1dc9",
         "title": "Software Engineer Intern - Infrastructure Automation - Spring 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -111800,7 +111800,7 @@
         "company_name": "Snowflake",
         "id": "ccfefb85-235e-4ad3-bd85-23a88d8cc76e",
         "title": "Software Engineer Intern - Core Engineering - Spring 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -111819,7 +111819,7 @@
         "company_name": "Snowflake",
         "id": "288a86d5-8686-47d2-be54-4da24ddfeb4e",
         "title": "Software Engineer Intern - Infrastructure Automation - Spring 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -111838,7 +111838,7 @@
         "company_name": "Snowflake",
         "id": "03d417ad-648d-4265-87ed-a7e280d23de2",
         "title": "Software Engineer Intern - Infrastructure Automation - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -111857,7 +111857,7 @@
         "company_name": "Snowflake",
         "id": "3c971623-ed4b-451d-a667-0fb0aad06bc5",
         "title": "Software Engineer Intern - Database Engineering - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -111876,7 +111876,7 @@
         "company_name": "Snowflake",
         "id": "5bfc6a45-2283-446f-960c-4d632e352697",
         "title": "Software Engineer Intern - Database Engineering - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -111895,7 +111895,7 @@
         "company_name": "Snowflake",
         "id": "912f5034-868f-477b-8ed1-5e6acf0dee7a",
         "title": "Software Engineer Intern - Core Engineering - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -111914,7 +111914,7 @@
         "company_name": "Snowflake",
         "id": "b499826c-b68a-487f-acd4-f5ac3a5d9232",
         "title": "Software Engineer Intern - Infrastructure Automation - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -111933,7 +111933,7 @@
         "company_name": "Snowflake",
         "id": "7e07e424-7e4e-4505-a7e9-cdb16df1fb82",
         "title": "Software Engineer Intern - Database Engineering - Spring 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -111952,7 +111952,7 @@
         "company_name": "Snowflake",
         "id": "52ce2d5d-424a-4555-a2bb-4c95a0c98fde",
         "title": "Software Engineer Intern - Database Engineering - Spring 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -111971,7 +111971,7 @@
         "company_name": "Snowflake",
         "id": "d571702c-e813-40b2-ab13-a88419e1af7c",
         "title": "Software Engineer Intern - Core Engineering - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -111990,7 +111990,7 @@
         "company_name": "Snowflake",
         "id": "0b19d21c-4ca0-48b7-b264-7c37fd212104",
         "title": "Software Engineer Intern - AI/ML - Spring 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -112028,7 +112028,7 @@
         "company_name": "Snowflake",
         "id": "90762762-b41f-4b5a-aa27-dddf91ef9475",
         "title": "Software Engineer Intern - AI/ML - Spring 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -112182,7 +112182,7 @@
         "company_name": "Leidos",
         "id": "4efd4e26-d188-4fbc-9694-2d96d52efa52",
         "title": "AI Web Application Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -113146,7 +113146,7 @@
         "company_name": "Fresenius Medical Care",
         "id": "8d7e0889-a008-4de7-88e6-e41e957261fc",
         "title": "Software Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -114213,7 +114213,7 @@
         "company_name": "Snowflake",
         "id": "fc807623-95a7-4783-bc3b-54941c72ae98",
         "title": "Software Engineer Intern - Toronto - Spring 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -114232,7 +114232,7 @@
         "company_name": "Leidos",
         "id": "0b047df8-1eee-4dd1-92fb-1010ec14f51b",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -114640,7 +114640,7 @@
         "company_name": "Snowflake",
         "id": "a0751477-f1a1-4345-8b81-61289fa05af1",
         "title": "Software Engineer Intern - Toronto - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -115155,6 +115155,103 @@
             "San Mateo, CA"
         ],
         "company_url": "https://simplify.jobs/c/PlayStation-Global",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wing",
+        "id": "090c2aa4-42ce-4eaf-aa24-58ffd809e0b2",
+        "title": "Backend Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "date_updated": 1729279352,
+        "date_posted": 1729279352,
+        "url": "https://wing.com/careers/7654023002?gh_jid=7654023002",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Wing",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "0b6ecb9a-6b4a-4b5d-8b04-7862bec48c9a",
+        "title": "Database Development and Administration Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729279368,
+        "date_posted": 1729279368,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Bowie-MD/Database-Development-and-Administration-Intern_R-00145056",
+        "locations": [
+            "Bowie, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The New York Times",
+        "id": "c980caeb-7992-47ec-8ecf-2a3224e41602",
+        "title": "Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729293281,
+        "date_posted": 1729293281,
+        "url": "https://boards.greenhouse.io/thenewyorktimes/jobs/4487948005",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/The-New-York-Times",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The New York Times",
+        "id": "63150213-83cf-4389-8937-cca79bb173b8",
+        "title": "Advertising Business Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729293280,
+        "date_posted": 1729293280,
+        "url": "https://boards.greenhouse.io/thenewyorktimes/jobs/4486743005",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/The-New-York-Times",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sigma Computing",
+        "id": "eb2b9162-2be6-4b3f-b6c5-b53f7eed3cd9",
+        "title": "Software Engineering Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729293124,
+        "date_posted": 1729293124,
+        "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/6086991003",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Sigma-Computing",
         "is_visible": true,
         "sponsorship": "Other"
     }
