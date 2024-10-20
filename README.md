@@ -4,6 +4,7 @@
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| **[The New York Times](https://simplify.jobs/c/The-New-York-Times)** | Backend Engineering Intern | NYC | <a href="https://boards.greenhouse.io/thenewyorktimes/jobs/4486222005?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
 | **[The New York Times](https://simplify.jobs/c/The-New-York-Times)** | Data Analyst Intern | NYC | <a href="https://boards.greenhouse.io/thenewyorktimes/jobs/4487948005?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/c980caeb-7992-47ec-8ecf-2a3224e41602?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Oct 18 |
 | ↳ | Advertising Business Analytics Intern | NYC | <a href="https://boards.greenhouse.io/thenewyorktimes/jobs/4486743005?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/63150213-83cf-4389-8937-cca79bb173b8?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Oct 18 |
 | Schneider | Software Engineering Intern | Green Bay, WI | <a href="https://schneiderjobs.com/search-office-jobs/details/242680?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
