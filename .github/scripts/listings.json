@@ -82918,7 +82918,7 @@
         "company_name": "Seismic",
         "id": "ead893a9-9ea4-403b-bdc3-4534be1c1229",
         "title": "Software Engineer AI/ ML-Co-Op - PEY/ Masters",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -90079,7 +90079,7 @@
         "company_name": "Sensata",
         "id": "c751079a-cc4d-4a27-9c4f-d409c8884196",
         "title": "Software Engineer Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -96811,7 +96811,7 @@
         "company_name": "CACI",
         "id": "803eca44-dc02-41cf-88e8-d4b8831e328d",
         "title": "Software Development Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -99487,7 +99487,7 @@
         "company_name": "Gecko Robotics",
         "id": "57b1e7d2-d496-48a1-ab1d-e0c85deb5df5",
         "title": "Software Engineer \u2013 Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2025",
             "Summer 2025"
@@ -105266,7 +105266,7 @@
         "company_name": "OpenAI",
         "id": "0559dbe7-6905-4c1e-85f2-8b03cd46d8a0",
         "title": "Software Engineer Internship / Co-op - Applied Emerging Talent",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -109685,7 +109685,7 @@
         "company_name": "Marvell",
         "id": "e01762b3-744d-48c8-bd4c-fba79100c800",
         "title": "Software Engineer Intern - Bachelor's Degree",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -112182,7 +112182,7 @@
         "company_name": "Leidos",
         "id": "4efd4e26-d188-4fbc-9694-2d96d52efa52",
         "title": "AI Web Application Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -113285,7 +113285,7 @@
         "company_name": "Nelnet",
         "id": "37639749-4a87-4339-842d-13bb60053f31",
         "title": "Intern \u2013 Software Engineer - Application Security - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -113438,7 +113438,7 @@
         "company_name": "Sophos",
         "id": "7f01b19c-7631-4475-b7c3-adc9146fe5ec",
         "title": "Software Engineering Intern - Month Fixed Term Placement - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -114232,7 +114232,7 @@
         "company_name": "Leidos",
         "id": "0b047df8-1eee-4dd1-92fb-1010ec14f51b",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -114563,7 +114563,7 @@
         "company_name": "Aurora Innovation",
         "id": "20c65877-aeed-4493-9442-d2f9c9a12ae5",
         "title": "Software Engineering Internship - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -114601,7 +114601,7 @@
         "company_name": "Commonwealth Fusion Systems",
         "id": "6ba9d01b-95d7-46fb-b656-84e3a415b64d",
         "title": "Intern \u2013 Software Engineer - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -114659,7 +114659,7 @@
         "company_name": "Adobe",
         "id": "57204454-af31-41eb-9a26-cefa44fb110d",
         "title": "2025 Intern - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024",
@@ -114737,7 +114737,7 @@
         "company_name": "Aurora Innovation",
         "id": "9ae4317b-f6fc-4eaa-849b-bf6c5b3cf972",
         "title": "Software Engineering Internship - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -115408,5 +115408,85 @@
         "date_posted": 1729484521,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "57bcc7a8-45cb-4774-b5bf-4141fe81b312",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729523387,
+        "date_posted": 1729523387,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Columbia-MD/Software-Engineer-Intern_R-00146170",
+        "locations": [
+            "Columbia, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "WorldQuant",
+        "id": "cdd23c53-a5e0-4adc-97fd-13584a21e682",
+        "title": "Quantitative Execution Services & Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729523273,
+        "date_posted": 1729523273,
+        "url": "https://boards.greenhouse.io/worldquant/jobs/4412155006",
+        "locations": [
+            "Stamford, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/WorldQuant",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Allegion",
+        "id": "68e37450-3f36-4b2a-85e0-6b36e3754c37",
+        "title": "Software Engineering Verification Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1729523801,
+        "date_posted": 1729523801,
+        "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Golden-CO/Software-Engineering-Verification-Intern_JR30519-2",
+        "locations": [
+            "Remote in USA",
+            "Golden, CO",
+            "Boulder, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/allegion",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Allegion",
+        "id": "7a2e0b29-5711-40e3-bb8a-a214cbbd0faf",
+        "title": "Software Engineering Intern - Mobile",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1729523799,
+        "date_posted": 1729523799,
+        "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Golden-CO/Software-Engineering-Intern--Mobile-_JR30520-2",
+        "locations": [
+            "Remote in USA",
+            "Golden, CO",
+            "Boulder, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/allegion",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
