@@ -99681,7 +99681,7 @@
         "company_name": "Lucid Motors",
         "id": "089af1e3-9081-4a10-b881-4805aeee8898",
         "title": "Intern \u2013 Embedded Software Engineer - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -104650,7 +104650,7 @@
         "company_name": "Braze",
         "id": "95547e62-ac14-46cc-8d04-9685ef3c2d06",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -115372,18 +115372,18 @@
         "is_visible": true
     },
     {
-        "date_updated": 1729484310,
+        "date_updated": 1729568595,
         "url": "https://www.northropgrumman.com/jobs/Administrative-Services/Intern/United-States-of-America/New-York/Bethpage/R10174644/2025-software-engineer-intern-bethpage-ny",
         "company_name": "Northrop Grumman",
-        "title": "2025 Software Engineer Intern",
+        "title": "2025 Software Engineer Intern us",
         "locations": [
             "Bethpage, NY"
         ],
         "terms": [
             "Summer 2025"
         ],
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "GaryZhous",
         "id": "cf858777-728e-4fca-8b7b-714c45f97655",
         "date_posted": 1729484310,
@@ -115418,7 +115418,7 @@
         "terms": [
             "Summer 2025"
         ],
-        "date_updated": 1729523387,
+        "date_updated": 1729562626,
         "date_posted": 1729523387,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Columbia-MD/Software-Engineer-Intern_R-00146170",
         "locations": [
@@ -115426,7 +115426,7 @@
         ],
         "company_url": "https://simplify.jobs/c/Leidos",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "U.S. Citizenship is Required"
     },
     {
         "source": "Simplify",
