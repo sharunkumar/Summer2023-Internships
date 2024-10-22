@@ -101863,7 +101863,7 @@
         "company_name": "Walmart",
         "id": "90661bd1-fac3-49c8-bbbd-d11b3596c568",
         "title": "2025 Summer Intern: Software Engineer II",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -113306,7 +113306,7 @@
         "company_name": "HeyGen",
         "id": "2f956c52-edf6-4b68-99c9-7db4d96de3c0",
         "title": "Software Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -115626,6 +115626,86 @@
             "Mountain View, CA"
         ],
         "company_url": "https://simplify.jobs/c/Reliable-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Stryker",
+        "id": "ededec3b-5724-4025-ab07-d3c59935be23",
+        "title": "Summer 2025 Intern - Product Safety Engineer - New Jersey",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729579602,
+        "date_posted": 1729579602,
+        "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Mahwah-New-Jersey/Summer-2025-Intern---Product-Safety-Engineer---New-Jersey_R527454",
+        "locations": [
+            "Mahwah, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Stryker",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Live Nation Entertainment",
+        "id": "460e98da-f2fc-4648-9e37-55debd904cca",
+        "title": "Mobile Developer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1729579835,
+        "date_posted": 1729579835,
+        "url": "https://livenation.wd1.myworkdayjobs.com/en-US/LNExternalSite/job/Toronto-ON-CA/Mobile-Developer-Intern_JR-73965-1",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Live-Nation-Entertainment",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "PayPal",
+        "id": "1acf2639-0738-4336-a218-74fbf9755b2a",
+        "title": "Dev Ops Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1729580746,
+        "date_posted": 1729580746,
+        "url": "https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/San-Jose-California-United-States-of-America/Dev-Ops-Software-Engineer-Intern_R0118884",
+        "locations": [
+            "San Jose, CA",
+            "Chicago, IL",
+            "Scottsdale, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/PayPal",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "PayPal",
+        "id": "dcb3a28a-4bb9-4601-b2d0-d6d0186ef388",
+        "title": "Machine Learning Intern",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1729580741,
+        "date_posted": 1729580741,
+        "url": "https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/San-Jose-California-United-States-of-America/Machine-Learning-Intern_R0118881",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/PayPal",
         "is_visible": true,
         "sponsorship": "Other"
     }
