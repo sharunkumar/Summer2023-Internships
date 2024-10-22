@@ -88860,7 +88860,7 @@
         "company_name": "DRW",
         "id": "5f101583-a472-4d80-875e-3adb94eb2fdf",
         "title": "Quantitative Trading Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -96754,7 +96754,7 @@
         "company_name": "Plexus",
         "id": "5895d527-3cbb-4b9b-ba09-1610c658c331",
         "title": "Intern \u2013 Software Engineer - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -97386,7 +97386,7 @@
         "company_name": "Akuna Capital",
         "id": "36410d58-e379-40c3-aa0c-726b28199c7f",
         "title": "Quantitative Strategist Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -99085,7 +99085,7 @@
         "company_name": "Vermeer",
         "id": "b7485421-92b2-4064-b125-263657a69003",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -100568,7 +100568,7 @@
         "company_name": "Vermeer",
         "id": "bfd581a8-efe5-42f4-b402-c58225c2d737",
         "title": "Embedded Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -100880,7 +100880,7 @@
         "company_name": "Optiver",
         "id": "f3a3d84b-670b-406d-92c3-518e0db867f6",
         "title": "Trading Operations Analyst Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -101863,7 +101863,7 @@
         "company_name": "Walmart",
         "id": "90661bd1-fac3-49c8-bbbd-d11b3596c568",
         "title": "2025 Summer Intern: Software Engineer II",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -103407,7 +103407,7 @@
         "company_name": "Visa",
         "id": "25a7eb3b-231d-408b-a3b7-1d659986c658",
         "title": "Consulting & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -106230,7 +106230,7 @@
         "company_name": "Lumentum",
         "id": "6bbc3052-c522-417e-9b59-64a86a84c8b2",
         "title": "Optical Algorithms and Analytics Engineering Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -114232,7 +114232,7 @@
         "company_name": "Leidos",
         "id": "0b047df8-1eee-4dd1-92fb-1010ec14f51b",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -115202,7 +115202,7 @@
         "company_name": "The New York Times",
         "id": "c980caeb-7992-47ec-8ecf-2a3224e41602",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -115433,7 +115433,7 @@
         "company_name": "WorldQuant",
         "id": "cdd23c53-a5e0-4adc-97fd-13584a21e682",
         "title": "Quantitative Execution Services & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -115494,7 +115494,7 @@
         "company_name": "Eulerity",
         "id": "3fc69980-7a02-4aa6-af59-78376499ace5",
         "title": "Web Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -115706,6 +115706,64 @@
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/PayPal",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Optiver",
+        "id": "7c90faf6-25a9-43a9-b5f0-272bdd4dea88",
+        "title": "Trading Operations Analyst Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729609907,
+        "date_posted": 1729609907,
+        "url": "https://optiver.com/working-at-optiver/career-opportunities/7694481002/?gh_jid=7694481002",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Optiver",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Autodesk",
+        "id": "f728d564-601a-49ca-a1b6-a1f33dc48d25",
+        "title": "Intern \u2013 Software Developer /Stagiaire - D\u00e9veloppeur.D\u00e9veloppeuse logiciels",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026"
+        ],
+        "date_updated": 1729610397,
+        "date_posted": 1729610397,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--Software-Developer_24WD82069",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Autodesk",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Amazon",
+        "id": "6115baff-e2c4-454b-8106-fd5f11f03242",
+        "title": "2025 Business Intelligence Engineer Internship",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729610165,
+        "date_posted": 1729610165,
+        "url": "https://amazon.jobs/en/jobs/2790327/2025-business-intelligence-engineer-internship",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
         "is_visible": true,
         "sponsorship": "Other"
     }
