@@ -108963,7 +108963,7 @@
         "company_name": "Two Six Technologies",
         "id": "4f618c83-921c-4212-8bd0-7dba77691b8c",
         "title": "Summer Research Intern - Infrastructure Support",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -111762,7 +111762,7 @@
         "company_name": "Snowflake",
         "id": "a32fa1ab-2d65-4d63-971b-590f9e41deeb",
         "title": "Software Engineer Intern - Core Engineering - Spring 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2025"
         ],
@@ -111800,7 +111800,7 @@
         "company_name": "Snowflake",
         "id": "ccfefb85-235e-4ad3-bd85-23a88d8cc76e",
         "title": "Software Engineer Intern - Core Engineering - Spring 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2025"
         ],
@@ -111838,7 +111838,7 @@
         "company_name": "Snowflake",
         "id": "03d417ad-648d-4265-87ed-a7e280d23de2",
         "title": "Software Engineer Intern - Infrastructure Automation - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -111895,7 +111895,7 @@
         "company_name": "Snowflake",
         "id": "912f5034-868f-477b-8ed1-5e6acf0dee7a",
         "title": "Software Engineer Intern - Core Engineering - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -111933,7 +111933,7 @@
         "company_name": "Snowflake",
         "id": "7e07e424-7e4e-4505-a7e9-cdb16df1fb82",
         "title": "Software Engineer Intern - Database Engineering - Spring 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2025"
         ],
@@ -111952,7 +111952,7 @@
         "company_name": "Snowflake",
         "id": "52ce2d5d-424a-4555-a2bb-4c95a0c98fde",
         "title": "Software Engineer Intern - Database Engineering - Spring 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2025"
         ],
@@ -111971,7 +111971,7 @@
         "company_name": "Snowflake",
         "id": "d571702c-e813-40b2-ab13-a88419e1af7c",
         "title": "Software Engineer Intern - Core Engineering - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -111990,7 +111990,7 @@
         "company_name": "Snowflake",
         "id": "0b19d21c-4ca0-48b7-b264-7c37fd212104",
         "title": "Software Engineer Intern - AI/ML - Spring 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2025"
         ],
@@ -112028,7 +112028,7 @@
         "company_name": "Snowflake",
         "id": "90762762-b41f-4b5a-aa27-dddf91ef9475",
         "title": "Software Engineer Intern - AI/ML - Spring 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2025"
         ],
@@ -114213,7 +114213,7 @@
         "company_name": "Snowflake",
         "id": "fc807623-95a7-4783-bc3b-54941c72ae98",
         "title": "Software Engineer Intern - Toronto - Spring 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2025"
         ],
@@ -115574,7 +115574,7 @@
         "company_name": "Axon",
         "id": "1484e885-992e-46d8-bb49-67855fc07607",
         "title": "Software Engineering Internship - Afrotech Candidates Only",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -115764,6 +115764,145 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intradiem",
+        "id": "fca66a6f-4570-45f6-8415-cd89f97dfafd",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1729626118,
+        "date_posted": 1729626118,
+        "url": "https://job-boards.greenhouse.io/intradiem/jobs/4408395006",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intradiem",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "AQR Capital Management",
+        "id": "14453965-9450-4ece-bd59-a5ff58875f5d",
+        "title": "2025 Software Engineering Summer Analyst - Enterprise Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729627746,
+        "date_posted": 1729627746,
+        "url": "https://careers.aqr.com/jobs?gh_jid=6345613&gh_jid=6345613",
+        "locations": [
+            "Greenwich, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/AQR-Capital-Management",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Parafin",
+        "id": "ce05394d-0f7e-4943-a80c-0631e3398712",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1729627616,
+        "date_posted": 1729627616,
+        "url": "https://jobs.ashbyhq.com/parafin/a39ec055-fcf9-45be-8822-0bcb78c592a4/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Parafin",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Adobe",
+        "id": "692a41c2-32df-4457-8925-8504c6f06ac1",
+        "title": "2025 Intern - Software Engineer",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1729628180,
+        "date_posted": 1729628180,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2025-Intern---Software-Engineer_R148757",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Adobe",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Adobe",
+        "id": "5b77fd54-90fc-47bd-97fc-1a6a33e7165a",
+        "title": "2025 Intern - Software Engineer",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1729628182,
+        "date_posted": 1729628182,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2025-Intern---Software-Engineer_R148748",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Adobe",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intradiem",
+        "id": "1675255c-1057-4e5e-81e9-f5abe8240569",
+        "title": "AI/ML Intern",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1729626135,
+        "date_posted": 1729626135,
+        "url": "https://job-boards.greenhouse.io/intradiem/jobs/4408361006",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intradiem",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "PayPal",
+        "id": "9346d576-08fb-4f9c-a83e-8403cb050db8",
+        "title": "RPA Developer Intern",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1729624894,
+        "date_posted": 1729624894,
+        "url": "https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/Austin-Texas-United-States-of-America/RPA-Developer-Intern_R0118095-1",
+        "locations": [
+            "Austin, TX",
+            "Scottsdale, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/PayPal",
         "is_visible": true,
         "sponsorship": "Other"
     }
