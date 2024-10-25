@@ -103526,7 +103526,7 @@
         "company_name": "Minitab",
         "id": "245a58fe-9bf6-4d73-aa00-d5c3e034476b",
         "title": "Intern Opportunities - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -114680,7 +114680,7 @@
         "company_name": "HRL Laboratories",
         "id": "7b70772f-6796-4576-bbda-a6b8796c50fd",
         "title": "Quantum Technology Intern - Masters",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -116684,5 +116684,81 @@
         "company_url": "https://simplify.jobs/c/Western-Digital",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Matroid",
+        "id": "e789569c-40ec-44a5-b961-017c0fd5ee4c",
+        "title": "Computer Vision Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729811854,
+        "date_posted": 1729811854,
+        "url": "https://matroid.breezy.hr/p/22b948693d3f/apply",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Matroid",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Corelogic",
+        "id": "68a3c799-9514-4380-a202-46fa2a6129d1",
+        "title": "Intern \u2013 Data Analytics",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1729811361,
+        "date_posted": 1729811361,
+        "url": "https://corelogic.wd5.myworkdayjobs.com/en-US/Global/job/United-States/Intern---Data-Analytics_REQ15704",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/84f3bc2b-33c1-4bb0-af43-21bb8d59d639",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1729830202,
+        "url": "https://careers.t-mobile.com/summer-2025-business-analyst-full-stack-developer-internship/job/1509A100D2F95A86B30A118915994995",
+        "company_name": "T-Mobile",
+        "title": "Summer 2025 Business Analyst, Full Stack Developer Internship",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "522a0fd7-4353-4b1b-8ff1-80ba7ec65e34",
+        "date_posted": 1729830202,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1729830307,
+        "url": "https://www.pega.com/about/careers/21105/software-engineer-summer-intern-orion",
+        "company_name": "Pegasystems",
+        "title": "Software Engineer Summer Intern, Orion",
+        "locations": [
+            "Waltham, MA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "a5176dd9-033b-4db4-8aa5-89b37a8f7f5e",
+        "date_posted": 1729830307,
+        "company_url": "",
+        "is_visible": true
     }
 ]
