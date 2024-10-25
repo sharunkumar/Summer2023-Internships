@@ -91393,7 +91393,7 @@
         "company_name": "Strider Technologies",
         "id": "e2906226-b81e-4a45-9f94-6318e7715d59",
         "title": "Intelligence Specialist Internship - China Focus",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -95247,7 +95247,7 @@
         "company_name": "Tanium",
         "id": "5768b126-9f93-4ac4-bb30-da0b17e43ca0",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -99507,7 +99507,7 @@
         "company_name": "Gecko Robotics",
         "id": "25bd402b-aa4c-4cf6-aedf-ce95b24e529b",
         "title": "Field Software Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025"
@@ -103487,7 +103487,7 @@
         "company_name": "CACI",
         "id": "7ff71059-98f4-4f29-ae65-4134ccec468f",
         "title": "Cleared Software Engineer Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -104650,7 +104650,7 @@
         "company_name": "Braze",
         "id": "95547e62-ac14-46cc-8d04-9685ef3c2d06",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -113348,7 +113348,7 @@
         "company_name": "T. Rowe Price",
         "id": "b9436abe-3b2b-4217-9d14-b5e46a6e95a8",
         "title": "2024 SHPE National Convention \u2013 2025 Summer Software Engineering Internship Program - SHPE Student Attendees ONLY - Global Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -116614,7 +116614,7 @@
         "company_name": "Marvell",
         "id": "015a8ae6-831a-4bc4-b61d-052f88ded9bb",
         "title": "Software Engineer Intern - Bachelor's/Master's degree",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -116633,7 +116633,7 @@
         "company_name": "Corelogic",
         "id": "0ba9263d-3c3a-484c-952e-c907d530639c",
         "title": "Intern \u2013 Customer Success Data Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -116709,7 +116709,7 @@
         "company_name": "Corelogic",
         "id": "68a3c799-9514-4380-a202-46fa2a6129d1",
         "title": "Intern \u2013 Data Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -116815,6 +116815,46 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/MarketAxess",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "756edce3-257c-41df-8cfd-80990534b7e5",
+        "title": "Associate Software Engineer Intern - Spring Semester - November - May",
+        "active": true,
+        "terms": [
+            "Fall 2024",
+            "Winter 2025",
+            "Spring 2025"
+        ],
+        "date_updated": 1729868852,
+        "date_posted": 1729868852,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Peachtree-Corners-GA/Associate-Software-Engineer-Intern---Spring-Semester--November---May-_R-00146958",
+        "locations": [
+            "Norcross, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cerence",
+        "id": "917869fc-4e79-4a63-b4aa-965000c3662c",
+        "title": "Janvier 2025/January 2025 \u2013 / Software Developer Intern - D\u00e9veloppeur logiciel - Stagiaire",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1729868824,
+        "date_posted": 1729868824,
+        "url": "https://cerence.wd5.myworkdayjobs.com/Cerence/job/Montreal/XMLNAME--JANVIER-2025-JANUARY-2025--Dveloppeur-logiciel--Stagiaire----Software-Developer-Intern_R0005459",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Cerence",
         "is_visible": true,
         "sponsorship": "Other"
     }
