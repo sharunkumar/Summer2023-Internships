@@ -91272,7 +91272,7 @@
         "company_name": "Salesforce",
         "id": "fa063a1b-3bfe-48f4-a5e9-6cc2d0253b0a",
         "title": "Summer 2025 Intern - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -105266,7 +105266,7 @@
         "company_name": "OpenAI",
         "id": "0559dbe7-6905-4c1e-85f2-8b03cd46d8a0",
         "title": "Software Engineer Internship / Co-op - Applied Emerging Talent",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -114582,7 +114582,7 @@
         "company_name": "Waymo",
         "id": "a88ccf65-b84b-42b2-bc4c-06388cba4d4c",
         "title": "2025 Summer Intern - BS/MS - ML Infra - Full-Stack Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -116760,5 +116760,62 @@
         "date_posted": 1729830307,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "MarketAxess",
+        "id": "cf81ff05-c868-4763-b7da-7e0a9e363530",
+        "title": "Trading Software Engineer Intern 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729854987,
+        "date_posted": 1729854987,
+        "url": "https://www.marketaxess.com/careers/current-openings/detail/jobs/4412656006?gh_jid=4412656006",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/MarketAxess",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "MarketAxess",
+        "id": "c23db832-36f8-4de7-b1f0-ee73916ffc45",
+        "title": "Research Intern 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729854983,
+        "date_posted": 1729854983,
+        "url": "https://www.marketaxess.com/careers/current-openings/detail/jobs/4412386006?gh_jid=4412386006",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/MarketAxess",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "MarketAxess",
+        "id": "7419a9c1-e8e3-4692-bdfc-8435d2347fe4",
+        "title": "Software Engineer Intern - Post-Trade",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1729854979,
+        "date_posted": 1729854979,
+        "url": "https://www.marketaxess.com/careers/current-openings/detail/jobs/4412658006?gh_jid=4412658006",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/MarketAxess",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
