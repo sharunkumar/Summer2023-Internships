@@ -118465,7 +118465,7 @@
         "terms": [
             "Summer 2025"
         ],
-        "date_updated": 1729899851,
+        "date_updated": 1729966835,
         "date_posted": 1729899851,
         "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2025-Systems-Software-Intern--Boulder-CO-_R10173225-1",
         "locations": [
@@ -118473,7 +118473,7 @@
         ],
         "company_url": "https://simplify.jobs/c/238c95d8-0d6e-4717-b28c-078b16d675d7",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "U.S. Citizenship is Required"
     },
     {
         "source": "Simplify",
@@ -118541,7 +118541,7 @@
         "terms": [
             "Summer 2025"
         ],
-        "date_updated": 1729900301,
+        "date_updated": 1729966787,
         "date_posted": 1729900301,
         "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2025-Systems-Software-Intern--Huntsville-AL_R10173232-1",
         "locations": [
@@ -118549,7 +118549,7 @@
         ],
         "company_url": "https://simplify.jobs/c/238c95d8-0d6e-4717-b28c-078b16d675d7",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "U.S. Citizenship is Required"
     },
     {
         "source": "Simplify",
@@ -118560,7 +118560,7 @@
         "terms": [
             "Summer 2025"
         ],
-        "date_updated": 1729899682,
+        "date_updated": 1729966875,
         "date_posted": 1729899682,
         "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-McLean/XMLNAME-2025-Systems-Engineer-Intern---McLean-VA_R10173681",
         "locations": [
@@ -118569,7 +118569,7 @@
         ],
         "company_url": "https://simplify.jobs/c/238c95d8-0d6e-4717-b28c-078b16d675d7",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "U.S. Citizenship is Required"
     },
     {
         "source": "Simplify",
@@ -118968,6 +118968,25 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/717694f5-7321-4c6f-91a5-5a46b250f459",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Allegion",
+        "id": "b94b84e5-ee02-4273-9c65-8b78a9648aa7",
+        "title": "Systems Engineer Summer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1725996735,
+        "date_posted": 1725996735,
+        "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Hague-Rd/Systems-Engineer-Summer-Intern_JR30395-1",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/allegion",
         "is_visible": true,
         "sponsorship": "Other"
     }
