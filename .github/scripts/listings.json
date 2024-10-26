@@ -91272,7 +91272,7 @@
         "company_name": "Salesforce",
         "id": "fa063a1b-3bfe-48f4-a5e9-6cc2d0253b0a",
         "title": "Summer 2025 Intern - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -118344,7 +118344,7 @@
         "company_name": "Northrop Grumman",
         "id": "870217fb-6af4-41e2-8bff-894968eefe85",
         "title": "2025 Systems Engineer Intern - Gilbert AZ",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
