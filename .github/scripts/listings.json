@@ -91272,7 +91272,7 @@
         "company_name": "Salesforce",
         "id": "fa063a1b-3bfe-48f4-a5e9-6cc2d0253b0a",
         "title": "Summer 2025 Intern - Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -94051,7 +94051,7 @@
         "company_name": "Nextdoor",
         "id": "d7411e6b-7edf-4a7e-9665-5e5a5038826d",
         "title": "Software Engineer Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -95247,7 +95247,7 @@
         "company_name": "Tanium",
         "id": "5768b126-9f93-4ac4-bb30-da0b17e43ca0",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -96524,7 +96524,7 @@
         "company_name": "Chamberlain Group",
         "id": "0c5d4d4c-355a-4a29-9caf-1aad0449f219",
         "title": "Intern \u2013 Myq Middleware - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -103976,7 +103976,7 @@
         "company_name": "skillz",
         "id": "63c5953e-f2ee-4657-916f-2176c4d43eec",
         "title": "Software Engineer \u2013 2025 Spring Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -104208,7 +104208,7 @@
         "company_name": "Fidelity Investments",
         "id": "c473b469-713d-47fb-9ec0-540acd19444d",
         "title": "Summer 2025 Undergraduate Internship - Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -107058,7 +107058,7 @@
         "company_name": "Expedia",
         "id": "3bda117c-81ad-4363-aff3-140fc8b76dd0",
         "title": "Software Development Engineering Intern - 2025 - Seattle - Austin - Chicago",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2025",
             "Summer 2025"
@@ -110530,7 +110530,7 @@
         "company_name": "Astranis",
         "id": "78e5df1b-47e0-4e18-9bc6-695c9ded0218",
         "title": "Ground Software Engineer \u2013 Intern - Winter 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -110549,7 +110549,7 @@
         "company_name": "Astranis",
         "id": "7644c6a6-8173-4b95-92a4-1718f41f8391",
         "title": "Ground Software Engineer \u2013 Intern - Spring 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -111170,7 +111170,7 @@
         "company_name": "Loop Returns",
         "id": "9c1c4167-fd18-42f0-abf2-39d914f65a23",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024"
@@ -115163,7 +115163,7 @@
         "company_name": "Wing",
         "id": "090c2aa4-42ce-4eaf-aa24-58ffd809e0b2",
         "title": "Backend Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2024",
             "Summer 2024"
@@ -116183,7 +116183,7 @@
         "company_name": "HCSC",
         "id": "0cdd5104-c4be-4ac2-a8d1-d8e2a5ff1411",
         "title": "University Relations \u2013 Data Science Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -116785,7 +116785,7 @@
         "company_name": "MarketAxess",
         "id": "c23db832-36f8-4de7-b1f0-ee73916ffc45",
         "title": "Research Intern 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -116855,6 +116855,1468 @@
             "Montreal, QC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Cerence",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cloudflare",
+        "id": "617042dd-bec0-4337-8a68-ef785ecd0259",
+        "title": "Software Engineer Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729868842,
+        "date_posted": 1729868842,
+        "url": "https://boards.greenhouse.io/cloudflare/jobs/6342326",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Cloudflare",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Apptronik",
+        "id": "eeb96cbd-dabb-4bd1-9840-de7b3f8f915a",
+        "title": "Software Engineer Test Ops \u2013 Intern 2025",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1729884465,
+        "date_posted": 1729884465,
+        "url": "https://boards.greenhouse.io/apptronik/jobs/5362238004",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Apptronik",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Splunk",
+        "id": "77a43eb4-6023-40e8-b6e5-40a3a8729f7f",
+        "title": "Applied Scientist Intern - Boulder - CO - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729886451,
+        "date_posted": 1729886451,
+        "url": "https://jobs.jobvite.com/splunk-careers/job/oHKJufwo?nl=1&nl=1&fr=false",
+        "locations": [
+            "Boulder, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Splunk",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Federal Reserve System",
+        "id": "7dea8abf-ccaf-479f-8371-d7205da2d9f5",
+        "title": "Federal Reserve Summer 2025 Technical Internship",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729899036,
+        "date_posted": 1729899036,
+        "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Richmond-VA/Federal-Reserve-Summer-2025-Technical-Internship_R-0000025554",
+        "locations": [
+            "Richmond, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/6a7a42d3-327f-4b48-a7a7-c68f405e3396",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Federal Reserve System",
+        "id": "b1bd3fc6-80f4-4877-ab79-833816249271",
+        "title": "2025 SF Fed Summer Internship \u2013 Technical Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729898998,
+        "date_posted": 1729898998,
+        "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/San-Francisco-CA/XMLNAME-2025-SF-Fed-Summer-Internship---TECHNICAL-Intern_R-0000026100",
+        "locations": [
+            "Salt Lake City, UT",
+            "SF",
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/6a7a42d3-327f-4b48-a7a7-c68f405e3396",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "BCBST",
+        "id": "b0c2250d-0b25-42fe-ad1d-5e6938459c29",
+        "title": "Data Management Intern",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1729898674,
+        "date_posted": 1729898674,
+        "url": "https://bcbst.wd1.myworkdayjobs.com/en-US/External/job/USA-TN-Chattanooga-Remote/Data-Management-Intern_R-43865",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/6624eec0-5300-4435-a8f4-e88cda773305",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rakuten ",
+        "id": "8138ba10-378c-40f3-93c9-14b6e7be2e95",
+        "title": "Intern \u2013 Software Engineer",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1729898635,
+        "date_posted": 1729898635,
+        "url": "https://rakuten.wd1.myworkdayjobs.com/en-US/RakutenRewards/job/Toronto-Canada/Intern---Software-Engineer_1020530-1",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/a94527d1-21d6-4cb1-891d-6c95353bf6e4",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "FHLBank Chicago",
+        "id": "a2ef90da-a8e1-49b4-b3c4-eda90bcaae96",
+        "title": "Summer Internship - Modern Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1729898710,
+        "date_posted": 1729898710,
+        "url": "https://fhlbc.wd1.myworkdayjobs.com/en-US/Search/job/Chicago/Summer-Intern---Modern-Engineering_R2400297",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/e65bca86-ee8e-4604-8b58-64e20a3b9f39",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Nordson",
+        "id": "224c9e0a-25c0-43bd-af03-b3f9a88c35db",
+        "title": "Intern \u2013 Software Engineering Summer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1729898990,
+        "date_posted": 1729898990,
+        "url": "https://nordsonhcm.wd5.myworkdayjobs.com/en-US/nordsoncareers/job/USA---California---Carlsbad/Intern--Software-Engineering-Summer-Intern-_REQ41630",
+        "locations": [
+            "Carlsbad, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/4a6d9a5a-25c4-4585-a0d2-0a1947c56003",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "FHLBank Chicago",
+        "id": "ee9cc87b-3f83-4673-aef9-6b8a9ea9ca04",
+        "title": "Summer Internship - Data Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1729898702,
+        "date_posted": 1729898702,
+        "url": "https://fhlbc.wd1.myworkdayjobs.com/en-US/Search/job/Chicago/Summer-Internship---Data-Engineering_R2400335",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/e65bca86-ee8e-4604-8b58-64e20a3b9f39",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sanofi",
+        "id": "0dc0903b-5fa7-4c91-be14-69eeaec94f9b",
+        "title": "Summer 2025 Intern - Veeva and Appian COE",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729899947,
+        "date_posted": 1729899947,
+        "url": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Bridgewater-NJ/Summer-2025-Intern---Veeva-and-Appian-COE_R2765078",
+        "locations": [
+            "Bridgewater Township, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/2e32cd23-87b9-4a8f-9544-8fd5f15736cc",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "MSD",
+        "id": "cfc17684-87d7-41eb-8bbc-6281ef8244e3",
+        "title": "2025 University Recruiting \u2013 Data Scientist Co-op - Rahway NJ",
+        "active": true,
+        "terms": [
+            "Fall 2023"
+        ],
+        "date_updated": 1729899747,
+        "date_posted": 1729899747,
+        "url": "https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---New-Jersey---Rahway/XMLNAME-2025-University-Recruiting---Data-Scientist-Co-op---Rahway-NJ_R312179",
+        "locations": [
+            "Linden, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/175953b9-17d1-4a2f-b0af-b77706477183",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Chainguard",
+        "id": "e38dc64d-76f9-4c74-bcc8-718469f169cd",
+        "title": "Undergraduate Research Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729897752,
+        "date_posted": 1729897752,
+        "url": "https://job-boards.greenhouse.io/chainguard/jobs/4413405006",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Chainguard",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "MSD",
+        "id": "6c51bebe-8a3b-4bea-be6b-75531a8d7e2e",
+        "title": "2025 University Recruiting \u2013 Global Clinical Data Integration Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729899675,
+        "date_posted": 1729899675,
+        "url": "https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---New-Jersey---Rahway/XMLNAME-2025-University-Recruiting---Global-Clinical-Data-Integration-Intern_R315007",
+        "locations": [
+            "Linden, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/175953b9-17d1-4a2f-b0af-b77706477183",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "MSD",
+        "id": "0d8e6e7f-deaf-4f88-a1d0-b59a83785347",
+        "title": "2025 University Recruiting \u2013 Global Supplier Management Group Procurement Data Analytics Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2023"
+        ],
+        "date_updated": 1729899648,
+        "date_posted": 1729899648,
+        "url": "https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---New-Jersey---Rahway/XMLNAME-2025-University-Recruiting---Global-Supplier-Management-Group-Procurement-Data-Analytics-Co-op_R316734",
+        "locations": [
+            "North Wales, PA",
+            "Linden, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/175953b9-17d1-4a2f-b0af-b77706477183",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Nordson",
+        "id": "4c2f852c-025e-463f-aade-b0af54245aa1",
+        "title": "Software Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729899021,
+        "date_posted": 1729899021,
+        "url": "https://nordsonhcm.wd5.myworkdayjobs.com/en-US/nordsoncareers/job/USA---Minnesota---Minneapolis---5900-Golden-Hills-Drive/Software-Intern_REQ40935",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/4a6d9a5a-25c4-4585-a0d2-0a1947c56003",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rakuten ",
+        "id": "8832bde5-5c8d-439a-b583-f05b76eec22c",
+        "title": "Software Engineer Server/Full Stack \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1729898624,
+        "date_posted": 1729898624,
+        "url": "https://rakuten.wd1.myworkdayjobs.com/en-US/RakutenRewards/job/Toronto-Canada/Intern---Software-Engineer_1020526",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/a94527d1-21d6-4cb1-891d-6c95353bf6e4",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Federal Reserve System",
+        "id": "0c3b245a-a4ba-48e7-9e68-e726a2dcdc7c",
+        "title": "2025 Summer Internship Program \u2013 BTS Innovation Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729898983,
+        "date_posted": 1729898983,
+        "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2025-Summer-Internship-Program---BTS-Innovation-Analyst-Intern_R-0000026441-1",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/6a7a42d3-327f-4b48-a7a7-c68f405e3396",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Pacific Life",
+        "id": "498881e1-cd8b-4b9d-ac87-e6a6edfbad3a",
+        "title": "Data Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729900365,
+        "date_posted": 1729900365,
+        "url": "https://pacificlife.wd1.myworkdayjobs.com/en-US/PacificLifeCareers/job/Newport-Beach-CA-700/Data-Analytics-Intern_R13239",
+        "locations": [
+            "Newport Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/3b1fc5ef-7faf-4220-ade8-e0d5117a9f07",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Federal Reserve System",
+        "id": "5a3b39d3-f147-4a11-b4eb-4f0741bb27d6",
+        "title": "2025 Summer Internship Program - Supervision & Regulation - Cyber & Emerging Technologies",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729898979,
+        "date_posted": 1729898979,
+        "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2025-Summer-Internship-Program---Supervision---Regulation--Cyber---Emerging-Technologies-_R-0000026395",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/6a7a42d3-327f-4b48-a7a7-c68f405e3396",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Federal Reserve System",
+        "id": "32ef44bb-c088-4224-967a-a935defb7c62",
+        "title": "Summer 2025: Digital Money and Payments R&D Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729899034,
+        "date_posted": 1729899034,
+        "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Boston-MA/Summer-2025--Digital-Money-and-Payments-R-D-Intern_R-0000025601-1",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/6a7a42d3-327f-4b48-a7a7-c68f405e3396",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "AVEVA",
+        "id": "fd111ff5-5c04-450d-8e69-6103691a4f94",
+        "title": "Services and Practices Intern - US",
+        "active": true,
+        "terms": [
+            "Summer 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1729898749,
+        "date_posted": 1729898749,
+        "url": "https://aveva.wd3.myworkdayjobs.com/en-US/AVEVA_careers/job/Houston-Texas-United-States-of-America/Services-and-Practices-Intern---US_R008570",
+        "locations": [
+            "Lake Forest, CA",
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/35520d74-bb92-49ae-bee6-eac689a592ba",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Nordson",
+        "id": "cabf6cc0-1d59-4daa-bf9e-92447dc65d3f",
+        "title": "Intern \u2013 Enterprise Architecture Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729899033,
+        "date_posted": 1729899033,
+        "url": "https://nordsonhcm.wd5.myworkdayjobs.com/en-US/nordsoncareers/job/USA---Ohio---Amherst/Intern--Enterprise-Architecture-Analyst-Intern-_REQ41180",
+        "locations": [
+            "Elyria, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/4a6d9a5a-25c4-4585-a0d2-0a1947c56003",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Blue Yonder",
+        "id": "38541fc5-cc66-46f4-98d9-5c4b769d7fd4",
+        "title": "GenAI Prompt Engineer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1729898832,
+        "date_posted": 1729898832,
+        "url": "https://jda.wd5.myworkdayjobs.com/en-US/JDA_Careers/job/Dallas/GenAI-Prompt-Engineer-Intern_243696-1",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/db6baf80-a321-4d20-ac07-6a38a44b5a05",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "AVEVA",
+        "id": "a9488c3b-e3b3-4b54-8c42-5365045bf62b",
+        "title": "Software Developer Intern - US",
+        "active": true,
+        "terms": [
+            "Summer 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1729898748,
+        "date_posted": 1729898748,
+        "url": "https://aveva.wd3.myworkdayjobs.com/en-US/AVEVA_careers/job/Philadelphia-Pennsylvania-United-States-of-America/Software-Developer-Intern---US_R008577",
+        "locations": [
+            "Lake Forest, CA",
+            "Houston, TX",
+            "Philadelphia, PA",
+            "San Leandro, CA",
+            "Scottsdale, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/35520d74-bb92-49ae-bee6-eac689a592ba",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Dick's Sporting Goods",
+        "id": "1ef9ba2a-eb39-4701-93cf-73360e23d0e7",
+        "title": "Data Science \u2013 Summer 2025 Corporate Internship",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729897701,
+        "date_posted": 1729897701,
+        "url": "https://dickssportinggoods.wd1.myworkdayjobs.com/en-US/DSG/job/Customer-Support-Center/Data-Science---Summer-2025-Corporate-Internship_202415210",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/1f496c9a-0179-4206-9dc5-571200cf653e",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Federal Reserve System",
+        "id": "6dad8651-8acf-4d29-9227-f4b69ec20d90",
+        "title": "2025 Summer Internship Program \u2013 ASO Audit Practices Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729898973,
+        "date_posted": 1729898973,
+        "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2025-Summer-Internship-Program---ASO-Audit-Practices-Intern_R-0000026386-1",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/6a7a42d3-327f-4b48-a7a7-c68f405e3396",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Blue Yonder",
+        "id": "5a603dd2-9b2c-4b1e-a41f-b4cce06f5b66",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1729898826,
+        "date_posted": 1729898826,
+        "url": "https://jda.wd5.myworkdayjobs.com/en-US/JDA_Careers/job/Dallas/Software-Engineering-Intern_243695-1",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/db6baf80-a321-4d20-ac07-6a38a44b5a05",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Dick's Sporting Goods",
+        "id": "a000c354-d321-4dac-9a1d-0af0c1d103a5",
+        "title": "Software Engineering \u2013 Summer 2025 Corporate Internship",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729897702,
+        "date_posted": 1729897702,
+        "url": "https://dickssportinggoods.wd1.myworkdayjobs.com/en-US/DSG/job/Customer-Support-Center/Software-Engineering---Summer-2025-Corporate-Internship_202414503-1",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/1f496c9a-0179-4206-9dc5-571200cf653e",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Analog Devices",
+        "id": "32dee4c3-bccf-48a3-87b0-cb2dd20f5a20",
+        "title": "Embedded Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729899057,
+        "date_posted": 1729899057,
+        "url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Embedded-Software-Engineering-Intern_R243664",
+        "locations": [
+            "Durham, NC",
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/ae32298c-f0ee-4a98-bab4-78caaecde84d",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "ibotta",
+        "id": "1951c500-3e37-4e95-a8b4-fe45fbd9c7f3",
+        "title": "Machine Learning Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729898185,
+        "date_posted": 1729898185,
+        "url": "https://ibotta.wd1.myworkdayjobs.com/en-US/Ibotta/job/Denver-CO/Machine-Learning-Intern_R-101567",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/ibotta",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "JM Family",
+        "id": "7433b379-7fa2-4a70-95ef-ed5d85ac3704",
+        "title": "Intern \u2013 Technology Initiatives",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1729900147,
+        "date_posted": 1729900147,
+        "url": "https://jmfamily.wd1.myworkdayjobs.com/en-US/JMFamily_External/job/Missouri---St-Louis/Intern--Technology-Initiatives_JR102991",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/21dffcc2-c17a-4628-b26d-c6e0b368edc2",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Federal Reserve System",
+        "id": "f745fb66-82de-497e-be4c-fda679f06567",
+        "title": "2025 Summer Internship Program - Supervision & Regulation - Info Tech",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729898967,
+        "date_posted": 1729898967,
+        "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2025-Summer-Internship-Program---Supervision---Regulation--Info-Tech-_R-0000026499-1",
+        "locations": [
+            "Miami, FL",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/6a7a42d3-327f-4b48-a7a7-c68f405e3396",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Autodesk",
+        "id": "75e7e9a0-01b1-43b7-b2ef-d9208e406345",
+        "title": "Intern \u2013 Software Engineer - Starting Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729898962,
+        "date_posted": 1729898962,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Birmingham-GBR/Intern--Software-Engineer--starting-Summer-2025-_24WD79905",
+        "locations": [
+            "Birmingham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/9a5a4634-d168-4118-b172-0c0aae45f2ad",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sanofi",
+        "id": "7f8b98aa-aba8-43e6-b158-780ada4c7bdc",
+        "title": "Data Science and Digital Transformation \u2013 Spring 2025 Co-op - Dsd - Mechanistic Modeling",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1729899931,
+        "date_posted": 1729899931,
+        "url": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Framingham-MA/DSD-Modeling---Spring-2025-Co-op_R2757746",
+        "locations": [
+            "Framingham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/2e32cd23-87b9-4a8f-9544-8fd5f15736cc",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Autodesk",
+        "id": "a8cb1169-f543-4266-91de-f676ab77e258",
+        "title": "Intern \u2013 Software Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729898956,
+        "date_posted": 1729898956,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Cambridge-GBR/Intern--Software-Engineering_24WD82364",
+        "locations": [
+            "OK"
+        ],
+        "company_url": "https://simplify.jobs/c/9a5a4634-d168-4118-b172-0c0aae45f2ad",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Federal Reserve System",
+        "id": "2125b32e-da54-495d-8e65-6cfab42e9638",
+        "title": "2025 Summer Internship Program - Supervision & Regulation - Data Science",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729898955,
+        "date_posted": 1729898955,
+        "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2025-Summer-Internship-Program---Supervision---Regulation--Data-Visualization-_R-0000026498-1",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/6a7a42d3-327f-4b48-a7a7-c68f405e3396",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Federal Reserve System",
+        "id": "586cf661-722a-4fd4-9cca-414697e89299",
+        "title": "Summer 2025 Intern-Data Science and Business Analytics",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729900187,
+        "date_posted": 1729900187,
+        "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Chicago-IL/Summer-2024-Intern-Data-Science-and-Business-Analytics_R-0000026847",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/6a7a42d3-327f-4b48-a7a7-c68f405e3396",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Stanley Black & Decker",
+        "id": "e9235df9-8310-4a43-a05e-66be34b5b56b",
+        "title": "Embedded Software Engineering Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729899364,
+        "date_posted": 1729899364,
+        "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Embedded-Software-Engineering-Intern--Summer-2025_REQ-1000031684",
+        "locations": [
+            "Towson, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/820cabdf-5e2f-4043-b27f-717af1703eef",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "JM Family",
+        "id": "c32908b9-d3ba-4e13-bb12-6beaf96b761a",
+        "title": "Intern \u2013 Data Governance",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1729898585,
+        "date_posted": 1729898585,
+        "url": "https://jmfamily.wd1.myworkdayjobs.com/en-US/JMFamily_External/job/Florida---Deerfield-Beach/Intern--Data-Governance_JR103002",
+        "locations": [
+            "Deerfield Beach, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/21dffcc2-c17a-4628-b26d-c6e0b368edc2",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Manulife Financial",
+        "id": "28d4cf1d-2c21-4f7b-bd74-19a675b9ca7b",
+        "title": "Software Engineering Summer Internship Program - Atlanta - GA",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1729897662,
+        "date_posted": 1729897662,
+        "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Atlanta-Georgia/Software-Engineering-Summer-Internship-Program---Atlanta--GA_JR24100991",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/19e27e44-04ae-4e11-b224-1ae809765346",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "JM Family",
+        "id": "b211f751-b9e5-454f-b592-719c1b906f5b",
+        "title": "Intern \u2013 Data Engineering",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1729898580,
+        "date_posted": 1729898580,
+        "url": "https://jmfamily.wd1.myworkdayjobs.com/en-US/JMFamily_External/job/Florida---Deerfield-Beach/Intern--Data-Engineering_JR102982",
+        "locations": [
+            "Deerfield Beach, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/21dffcc2-c17a-4628-b26d-c6e0b368edc2",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Autodesk",
+        "id": "4d679d02-da11-411f-9d83-c49cc1744d30",
+        "title": "Intern \u2013 Full Stack Software Engineer",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1729898938,
+        "date_posted": 1729898938,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/California-USA---Remote/Intern--Full-Stack-Software-Engineer_24WD81526",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/9a5a4634-d168-4118-b172-0c0aae45f2ad",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Pacific Life",
+        "id": "0fe7ab85-4671-4a1a-a189-43514bdf0e9a",
+        "title": "Investment Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729898578,
+        "date_posted": 1729898578,
+        "url": "https://pacificlife.wd1.myworkdayjobs.com/en-US/PacificLifeCareers/job/Newport-Beach-CA-700/Investment-Analyst-Intern_R13237",
+        "locations": [
+            "Newport Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/3b1fc5ef-7faf-4220-ade8-e0d5117a9f07",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "USAA",
+        "id": "22d4edc9-333e-4b71-a827-cc9e1e48f576",
+        "title": "CFO Intern - Data",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1729898867,
+        "date_posted": 1729898867,
+        "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/CFO-Intern--Data-_R0104065",
+        "locations": [
+            "Charlotte, NC",
+            "San Antonio, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/664e9aa2-3c0e-4e96-9048-739e08b37a63",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "JM Family",
+        "id": "282ab1dc-dd68-4d03-887f-1d226bc70904",
+        "title": "Intern \u2013 Automation Analyst",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1729898576,
+        "date_posted": 1729898576,
+        "url": "https://jmfamily.wd1.myworkdayjobs.com/en-US/JMFamily_External/job/Florida---Deerfield-Beach/Intern--Automation-Analyst_JR102955",
+        "locations": [
+            "Deerfield Beach, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/21dffcc2-c17a-4628-b26d-c6e0b368edc2",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "JM Family",
+        "id": "350fa01a-368a-4bfa-b458-b1576664b7c1",
+        "title": "Intern \u2013 Portfolio Coordinator",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1729898574,
+        "date_posted": 1729898574,
+        "url": "https://jmfamily.wd1.myworkdayjobs.com/en-US/JMFamily_External/job/Florida---Deerfield-Beach/Intern--Portfolio-Coordinator_JR103021",
+        "locations": [
+            "Deerfield Beach, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/21dffcc2-c17a-4628-b26d-c6e0b368edc2",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Pacific Life",
+        "id": "84750896-7790-4fd0-95ab-5cd8b2f660e7",
+        "title": "Data Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729898583,
+        "date_posted": 1729898583,
+        "url": "https://pacificlife.wd1.myworkdayjobs.com/en-US/PacificLifeCareers/job/Newport-Beach-CA-700/Data-Engineering-Intern_R13240",
+        "locations": [
+            "Newport Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/3b1fc5ef-7faf-4220-ade8-e0d5117a9f07",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Symmetry Systems",
+        "id": "6bc46a49-b867-4a80-9ba6-6ed23bc0b0cb",
+        "title": "Full Stack Software Engineer \u2013 2025 Summer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729898215,
+        "date_posted": 1729898215,
+        "url": "https://jobs.lever.co/SymmetrySystems/d50dc474-987d-40c7-956c-7646239b1101/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/SymmetrySystems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Link Logistics",
+        "id": "62cb331c-c9a7-4ad5-be6a-83e5eaac22ef",
+        "title": "Investment Analyst Summer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1729900148,
+        "date_posted": 1729900148,
+        "url": "https://linklogistics.wd5.myworkdayjobs.com/en-US/Link/job/New-York-New-York/Investment-Analyst-Summer-Intern_JR100857",
+        "locations": [
+            "Irvine, CA",
+            "Dallas, TX",
+            "Norridge, IL",
+            "NYC",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/6239df36-c310-4d81-9f43-abc34b0fc63e",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "JM Family",
+        "id": "2bb40c84-63ab-4b6f-a380-c9822c7b716a",
+        "title": "Intern \u2013 Developer Analyst",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1729898571,
+        "date_posted": 1729898571,
+        "url": "https://jmfamily.wd1.myworkdayjobs.com/en-US/JMFamily_External/job/Florida---Deerfield-Beach/Intern--Developer-Analyst_JR103009",
+        "locations": [
+            "Deerfield Beach, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/21dffcc2-c17a-4628-b26d-c6e0b368edc2",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Link Logistics",
+        "id": "43b6fadb-511f-44d4-afa3-bd9490349c35",
+        "title": "Data Science Summer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1729898592,
+        "date_posted": 1729898592,
+        "url": "https://linklogistics.wd5.myworkdayjobs.com/en-US/Link/job/New-York-New-York/Data-Science-Summer-Intern_JR100910",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/6239df36-c310-4d81-9f43-abc34b0fc63e",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Pacific Life",
+        "id": "21c1cbd6-5f9e-47c1-8ad4-4c02c5299be5",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729898579,
+        "date_posted": 1729898579,
+        "url": "https://pacificlife.wd1.myworkdayjobs.com/en-US/PacificLifeCareers/job/Newport-Beach-CA-700/Software-Engineering-Intern_R13241",
+        "locations": [
+            "Newport Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/3b1fc5ef-7faf-4220-ade8-e0d5117a9f07",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Federal Reserve System",
+        "id": "8fa12f03-221b-48a4-ae79-e4716f5231a0",
+        "title": "Summer 2025 Intern-Data Science and Business Analytics",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729898924,
+        "date_posted": 1729898924,
+        "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Chicago-IL/Summer-2025-Intern-Data-Science-and-Business-Analytics_R-0000026854",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/6a7a42d3-327f-4b48-a7a7-c68f405e3396",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Autodesk",
+        "id": "5b987c31-0513-4412-b389-25330424919a",
+        "title": "Intern Technology Consultant / SW-ML Engineer - Starting July 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729898954,
+        "date_posted": 1729898954,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Birmingham-GBR/Intern-Technology-Consultant---SW-ML-Engineer--Starting-July-2025-_24WD81841-2",
+        "locations": [
+            "Birmingham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/9a5a4634-d168-4118-b172-0c0aae45f2ad",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Federal Reserve System",
+        "id": "cae5152e-dc3c-4015-b6e9-73508498f794",
+        "title": "Summer 2025 Intern-Networking and Computer Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729898926,
+        "date_posted": 1729898926,
+        "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Chicago-IL/Summer-2025-Intern-Networking-and-Computer-Engineering_R-0000026851",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/6a7a42d3-327f-4b48-a7a7-c68f405e3396",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "MSD",
+        "id": "081ff100-653d-4126-b9c1-201b5eaf2f99",
+        "title": "2025 University Recruiting \u2013 Clinical Trial Data Management Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729899769,
+        "date_posted": 1729899769,
+        "url": "https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---New-Jersey---Rahway/XMLNAME-2025-University-Recruiting---Clinical-Trial-Data-Management-Intern_R310697",
+        "locations": [
+            "North Wales, PA",
+            "Linden, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/175953b9-17d1-4a2f-b0af-b77706477183",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Applied Materials",
+        "id": "5e4ada73-bc4e-4c1e-b8bb-9219dbd0b88f",
+        "title": "2025 Summer Intern - Software Engineer - Bachelor's Degree",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729899389,
+        "date_posted": 1729899389,
+        "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/XMLNAME-2025-Summer-Intern---Software-Engineer--Bachelor-s-Degree-_R2418965",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Link Logistics",
+        "id": "ba19db97-b066-4620-b6d2-7671610908be",
+        "title": "Data Analyst Summer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1729898575,
+        "date_posted": 1729898575,
+        "url": "https://linklogistics.wd5.myworkdayjobs.com/en-US/Link/job/New-York-New-York/Data-Analyst-Summer-Intern_JR100931",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/6239df36-c310-4d81-9f43-abc34b0fc63e",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "JM Family",
+        "id": "38835c25-61f9-4c5c-ba7f-c429153463be",
+        "title": "Intern \u2013 IT Delivery",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1729898594,
+        "date_posted": 1729898594,
+        "url": "https://jmfamily.wd1.myworkdayjobs.com/en-US/JMFamily_External/job/Florida---Deerfield-Beach/Intern--IT-Delivery_JR103026",
+        "locations": [
+            "Deerfield Beach, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/21dffcc2-c17a-4628-b26d-c6e0b368edc2",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Home Depot",
+        "id": "b776a6ba-5070-454d-8d10-271107723fae",
+        "title": "Spring Orangeworks Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1729899472,
+        "date_posted": 1729899472,
+        "url": "https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Spring-OrangeWorks-Software-Engineering-Intern_Req126628",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/00c1909f-a319-4a12-b75e-478061f3ff68",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Federal Reserve System",
+        "id": "91b098b3-7e14-40a5-acf0-081ae826a610",
+        "title": "Summer 2025 Intern-Computer Science and Software Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729898916,
+        "date_posted": 1729898916,
+        "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Chicago-IL/Summer-2025-Intern-Computer-Science-and-Software-Engineering_R-0000026848",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/6a7a42d3-327f-4b48-a7a7-c68f405e3396",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Bloomberg Industry Group",
+        "id": "25162f20-2c39-4c12-927d-0e6c68cbff2d",
+        "title": "2025 Bloomberg Law Internship",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729898556,
+        "date_posted": 1729898556,
+        "url": "https://bloomberg.wd1.myworkdayjobs.com/en-US/Bloombergindustrygroup_External_Career_Site/job/Arlington---1801-S-Bell-INDG/XMLNAME-2025-Bloomberg-Law-Internship_131161",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/1159ff04-5c95-4f2c-aa33-185e11b5cabd",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Symbotic",
+        "id": "2eb41bd8-cfbd-4ca7-9b46-a59d57f24db8",
+        "title": "Intern \u2013 Embedded Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2024",
+            "Spring 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1729897898,
+        "date_posted": 1729897898,
+        "url": "https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Co-op---Embedded-Software-Engineer_R4129",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/symbotic",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "FHLBank Chicago",
+        "id": "1e1558d1-4a1d-43b6-b00a-b14c1442daea",
+        "title": "Summer Internship - Business Intelligence",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1729898707,
+        "date_posted": 1729898707,
+        "url": "https://fhlbc.wd1.myworkdayjobs.com/en-US/Search/job/Chicago/Summer-Internship---Business-Intelligence_R2400315",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/e65bca86-ee8e-4604-8b58-64e20a3b9f39",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Autodesk",
+        "id": "8d77a420-d5bd-4c81-9af0-ac867428d99a",
+        "title": "Intern \u2013 Data Analytics",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1729898938,
+        "date_posted": 1729898938,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/San-Francisco-CA-USA/Intern--Data-Analytics_24WD81489-1",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/9a5a4634-d168-4118-b172-0c0aae45f2ad",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Autodesk",
+        "id": "57eb6dd0-d539-497c-a342-17f944317a7b",
+        "title": "Intern \u2013 Software Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729898956,
+        "date_posted": 1729898956,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Cambridge-GBR/Intern--Software-Engineering_24WD82457",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/9a5a4634-d168-4118-b172-0c0aae45f2ad",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rakuten International",
+        "id": "6879c940-43af-4ef9-9b73-015a982880e7",
+        "title": "Co-Op: AI Application Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729898747,
+        "date_posted": 1729898747,
+        "url": "https://rakuten.wd1.myworkdayjobs.com/en-US/RakutenAmericas/job/Seattle-Washington/Co-Op--AI-Engineering_1021158",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/8ad80518-8d5f-42bc-b3b6-56142de8fbac",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "LexisNexis Risk Solutions",
+        "id": "40012d5b-915f-47b3-b885-6c9bcf87e2d7",
+        "title": "Technology Summer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1729898719,
+        "date_posted": 1729898719,
+        "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Risk-Solutions-Technology-Intern_R84037",
+        "locations": [
+            "Alpharetta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/9a8ce602-42f0-4474-9ff5-edf7d8868b76",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "JM Family",
+        "id": "716acec0-13dc-4245-b1b2-28f3bff489b0",
+        "title": "Intern \u2013 Data Analytics",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1729898552,
+        "date_posted": 1729898552,
+        "url": "https://jmfamily.wd1.myworkdayjobs.com/en-US/JMFamily_External/job/Florida---Deerfield-Beach/Intern--Data-Analytics_JR103051",
+        "locations": [
+            "Deerfield Beach, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/21dffcc2-c17a-4628-b26d-c6e0b368edc2",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Analog Devices",
+        "id": "feb56629-13d7-4b8d-8c54-0c162d399e7f",
+        "title": "Data Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729899051,
+        "date_posted": 1729899051,
+        "url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Jose-Rio-Robles/Data-Engineering-Intern_R243720",
+        "locations": [
+            "San Jose, CA",
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/ae32298c-f0ee-4a98-bab4-78caaecde84d",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "JM Family",
+        "id": "13628470-1cd0-4775-ade0-7cdbb26e51d9",
+        "title": "Intern \u2013 Data Analyst",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1729898551,
+        "date_posted": 1729898551,
+        "url": "https://jmfamily.wd1.myworkdayjobs.com/en-US/JMFamily_External/job/Florida---Deerfield-Beach/Intern--Data-Analyst_JR103033-1",
+        "locations": [
+            "Deerfield Beach, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/21dffcc2-c17a-4628-b26d-c6e0b368edc2",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Medline",
+        "id": "99db7986-60b7-419a-a245-b6083cbd87b5",
+        "title": "IT Business Intelligence Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729899099,
+        "date_posted": 1729899099,
+        "url": "https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northfield-Illinois/IT-Business-Intelligence-Intern---Summer-2025_R2404956",
+        "locations": [
+            "Northbrook, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/f22ab711-4900-472d-be8a-7263e99e49fa",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Analog Devices",
+        "id": "b421e6ba-76c1-4dd7-af5f-d960efdb1e56",
+        "title": "Machine Learning Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729899054,
+        "date_posted": 1729899054,
+        "url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Machine-Learning-Engineering-Intern_R243707",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/ae32298c-f0ee-4a98-bab4-78caaecde84d",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "JM Family",
+        "id": "45c1ab7d-218e-4d23-ad0a-750365d74965",
+        "title": "Intern \u2013 AI/ML Engineer",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1729898585,
+        "date_posted": 1729898585,
+        "url": "https://jmfamily.wd1.myworkdayjobs.com/en-US/JMFamily_External/job/Florida---Deerfield-Beach/Intern--AI-ML-Engineer_JR102979",
+        "locations": [
+            "Deerfield Beach, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/21dffcc2-c17a-4628-b26d-c6e0b368edc2",
         "is_visible": true,
         "sponsorship": "Other"
     }
