@@ -93568,7 +93568,7 @@
         "company_name": "Plexus",
         "id": "8c5ec152-c856-471c-9e30-edabb29ffcdd",
         "title": "Intern \u2013 Manufacturing Systems Engineer - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -106993,7 +106993,7 @@
         "company_name": "Expedia",
         "id": "2fa9d5d7-e0e8-4e1a-838c-fa2619cf9ab4",
         "title": "Technical Program Management Intern - 2025 - Seattle - Austin - Chicago",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2025",
             "Summer 2025"
@@ -107102,7 +107102,7 @@
         "company_name": "Expedia",
         "id": "e4b6d970-0133-4627-bf86-d524336f5f3d",
         "title": "Data Science \u2013 Analytics Intern - 2025 - Seattle",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2025",
             "Summer 2025"
@@ -108925,7 +108925,7 @@
         "company_name": "Expedia",
         "id": "e44b9c72-f9f1-4add-8774-d4e5cc6dd17b",
         "title": "Software Development Engineering Intern - June 2025 - London",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -116577,14 +116577,14 @@
             "Spring 2025",
             "Summer 2025"
         ],
-        "date_updated": 1729801734,
+        "date_updated": 1729919787,
         "date_posted": 1729801734,
         "url": "https://jobs.smartrecruiters.com/Solidigm/744000022574662",
         "locations": [
             "Rancho Cordova, CA"
         ],
         "company_url": "https://simplify.jobs/c/Solidigm",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -116592,7 +116592,7 @@
         "company_name": "Uber",
         "id": "6749faa6-4de5-40df-8350-d6e2bd6d85c2",
         "title": "2025 Winter Software Engineering Co-op - US",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -116652,7 +116652,7 @@
         "company_name": "Uber",
         "id": "bf0655cc-ee12-44cc-a42d-3fd367148ba2",
         "title": "2025 Winter Software Engineering Co-op - US",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -117251,14 +117251,14 @@
         "terms": [
             "Summer 2025"
         ],
-        "date_updated": 1729899034,
+        "date_updated": 1729919361,
         "date_posted": 1729899034,
         "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Boston-MA/Summer-2025--Digital-Money-and-Payments-R-D-Intern_R-0000025601-1",
         "locations": [
             "Boston, MA"
         ],
         "company_url": "https://simplify.jobs/c/6a7a42d3-327f-4b48-a7a7-c68f405e3396",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -117469,14 +117469,14 @@
             "Spring 2025",
             "Summer 2025"
         ],
-        "date_updated": 1729900147,
+        "date_updated": 1729919716,
         "date_posted": 1729900147,
         "url": "https://jmfamily.wd1.myworkdayjobs.com/en-US/JMFamily_External/job/Missouri---St-Louis/Intern--Technology-Initiatives_JR102991",
         "locations": [
             "St. Louis, MO"
         ],
         "company_url": "https://simplify.jobs/c/21dffcc2-c17a-4628-b26d-c6e0b368edc2",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -117565,14 +117565,14 @@
         "terms": [
             "Summer 2025"
         ],
-        "date_updated": 1729898955,
+        "date_updated": 1729919420,
         "date_posted": 1729898955,
         "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2025-Summer-Internship-Program---Supervision---Regulation--Data-Visualization-_R-0000026498-1",
         "locations": [
             "Atlanta, GA"
         ],
         "company_url": "https://simplify.jobs/c/6a7a42d3-327f-4b48-a7a7-c68f405e3396",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -117702,14 +117702,14 @@
         "terms": [
             "Summer 2025"
         ],
-        "date_updated": 1729898578,
+        "date_updated": 1729919512,
         "date_posted": 1729898578,
         "url": "https://pacificlife.wd1.myworkdayjobs.com/en-US/PacificLifeCareers/job/Newport-Beach-CA-700/Investment-Analyst-Intern_R13237",
         "locations": [
             "Newport Beach, CA"
         ],
         "company_url": "https://simplify.jobs/c/3b1fc5ef-7faf-4220-ade8-e0d5117a9f07",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -117763,14 +117763,14 @@
             "Spring 2025",
             "Summer 2025"
         ],
-        "date_updated": 1729898574,
+        "date_updated": 1729919809,
         "date_posted": 1729898574,
         "url": "https://jmfamily.wd1.myworkdayjobs.com/en-US/JMFamily_External/job/Florida---Deerfield-Beach/Intern--Portfolio-Coordinator_JR103021",
         "locations": [
             "Deerfield Beach, FL"
         ],
         "company_url": "https://simplify.jobs/c/21dffcc2-c17a-4628-b26d-c6e0b368edc2",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -117958,7 +117958,7 @@
         "terms": [
             "Summer 2025"
         ],
-        "date_updated": 1729899769,
+        "date_updated": 1729919543,
         "date_posted": 1729899769,
         "url": "https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---New-Jersey---Rahway/XMLNAME-2025-University-Recruiting---Clinical-Trial-Data-Management-Intern_R310697",
         "locations": [
@@ -117966,7 +117966,7 @@
             "Linden, NJ"
         ],
         "company_url": "https://simplify.jobs/c/175953b9-17d1-4a2f-b0af-b77706477183",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -118317,6 +118317,657 @@
             "Deerfield Beach, FL"
         ],
         "company_url": "https://simplify.jobs/c/21dffcc2-c17a-4628-b26d-c6e0b368edc2",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Otis",
+        "id": "0fe42da1-a671-4024-81f9-95d2e247c9b8",
+        "title": "Digital Technology Internet of Things \u2013 Intern - IoT",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1729900289,
+        "date_posted": 1729900289,
+        "url": "https://otis.wd5.myworkdayjobs.com/en-US/REC_Ext_Gateway/job/OT999-1CP---Farmington-CT-One-Carrier-Place-Farmington-CT-06032-USA/Digital-Technology-Internet-of-Things--IoT--Intern_20114735",
+        "locations": [
+            "Farmington, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/c3c2286b-477f-4e0c-9557-45d26ee52541",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Northrop Grumman",
+        "id": "870217fb-6af4-41e2-8bff-894968eefe85",
+        "title": "2025 Systems Engineer Intern - Gilbert AZ",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729899705,
+        "date_posted": 1729899705,
+        "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Arizona-Gilbert/XMLNAME-2025-Systems-Engineer-Intern---Gilbert-AZ_R10174811",
+        "locations": [
+            "Gilbert, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/238c95d8-0d6e-4717-b28c-078b16d675d7",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Northrop Grumman",
+        "id": "2a959645-0202-4fc1-849f-6055db1ffe85",
+        "title": "2025 Cyber Software Engineer Intern - Cincinnati OH",
+        "active": true,
+        "terms": [
+            "Fall 2024",
+            "Winter 2025",
+            "Spring 2025"
+        ],
+        "date_updated": 1729899805,
+        "date_posted": 1729899805,
+        "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Ohio-Cincinnati/XMLNAME-2025---Cyber-Software-Engineer-Intern---Cincinnati-OH_R10173772-1",
+        "locations": [
+            "Beavercreek, OH",
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/238c95d8-0d6e-4717-b28c-078b16d675d7",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Analog Devices",
+        "id": "aab29e11-4094-49e6-a664-ce8fabda7546",
+        "title": "Algorithm Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729899071,
+        "date_posted": 1729899071,
+        "url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Algorithm-Engineer-Intern_R243657",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/ae32298c-f0ee-4a98-bab4-78caaecde84d",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "FHLBank Chicago",
+        "id": "95c56a23-53b1-4236-be9c-f875f6aa0322",
+        "title": "Summer Internship - Application Development",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1729898713,
+        "date_posted": 1729898713,
+        "url": "https://fhlbc.wd1.myworkdayjobs.com/en-US/Search/job/Chicago/Summer-Intern---Application-Development_R2400296",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/e65bca86-ee8e-4604-8b58-64e20a3b9f39",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "LexisNexis Risk Solutions",
+        "id": "f76ff252-42dc-42ae-a57b-75d184549b8d",
+        "title": "Healthcare Data Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729898754,
+        "date_posted": 1729898754,
+        "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Healthcare-Data-Science-Intern_R84099-1",
+        "locations": [
+            "Alpharetta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/9a8ce602-42f0-4474-9ff5-edf7d8868b76",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "ibotta",
+        "id": "5dea4ada-0bf3-4fd0-b43d-1b0998cf1d2e",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729898184,
+        "date_posted": 1729898184,
+        "url": "https://ibotta.wd1.myworkdayjobs.com/en-US/Ibotta/job/Denver-CO/Software-Engineering-Intern_R-101570",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/ibotta",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Northrop Grumman",
+        "id": "8d308d09-caaf-4a1b-a347-f5628dca7f4f",
+        "title": "2025 Systems/Software Intern-Boulder CO",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729899851,
+        "date_posted": 1729899851,
+        "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2025-Systems-Software-Intern--Boulder-CO-_R10173225-1",
+        "locations": [
+            "Boulder, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/238c95d8-0d6e-4717-b28c-078b16d675d7",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Northrop Grumman",
+        "id": "c0ed9f05-9e91-4161-9676-97e08494871f",
+        "title": "2025 Systems Engineer Intern - Annapolis MD",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729899694,
+        "date_posted": 1729899694,
+        "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis/XMLNAME-2025-Systems-Engineer-Intern---Annapolis-MD_R10174883",
+        "locations": [
+            "Annapolis, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/238c95d8-0d6e-4717-b28c-078b16d675d7",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Teledyne",
+        "id": "959ef2c8-45dd-4be2-8ce0-8e1022895280",
+        "title": "Software Engineer Co-Op",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729899008,
+        "date_posted": 1729899008,
+        "url": "https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Chestnut-Ridge-NY/Software-Engineer-Co-Op_REQ25470",
+        "locations": [
+            "Mahwah, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Nordson",
+        "id": "ae41c0f5-6de8-4aba-8a3d-f325e4b953fe",
+        "title": "Intern \u2013 Dna Summer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1729899023,
+        "date_posted": 1729899023,
+        "url": "https://nordsonhcm.wd5.myworkdayjobs.com/en-US/nordsoncareers/job/USA---Ohio---Amherst/Intern--DnA-Summer-Intern-_REQ41266",
+        "locations": [
+            "Elyria, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/4a6d9a5a-25c4-4585-a0d2-0a1947c56003",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Northrop Grumman",
+        "id": "9971b235-383a-4200-85bd-094808e44ee6",
+        "title": "2025 Systems/Software Intern-Huntsville AL",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729900301,
+        "date_posted": 1729900301,
+        "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2025-Systems-Software-Intern--Huntsville-AL_R10173232-1",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/238c95d8-0d6e-4717-b28c-078b16d675d7",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Northrop Grumman",
+        "id": "1790c9a1-7fc1-4a1e-a9bf-9ed1a38b3ddf",
+        "title": "2025 Systems Engineer Intern - Mclean VA",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729899682,
+        "date_posted": 1729899682,
+        "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-McLean/XMLNAME-2025-Systems-Engineer-Intern---McLean-VA_R10173681",
+        "locations": [
+            "McLean, VA",
+            "Elkton, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/238c95d8-0d6e-4717-b28c-078b16d675d7",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Oshkosh",
+        "id": "97cd097d-c564-4df5-9566-8a8f051b95bd",
+        "title": "Systems Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727792544,
+        "date_posted": 1726096545,
+        "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Greencastle-Pennsylvania-United-States/Systems-Engineer-Intern_R30896",
+        "locations": [
+            "Waynesboro, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Oshkosh",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Salesforce",
+        "id": "cd269514-1b25-4f3f-9c37-e4db8df4033a",
+        "title": "Summer 2025 \u2013 AI Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729906245,
+        "date_posted": 1728515207,
+        "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/California---Palo-Alto/Summer-2025---AI-Software-Engineer-Intern_JR267142-2",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Salesforce",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Motorola",
+        "id": "55f9417b-07f0-49a1-b1a5-4ea25b151e2e",
+        "title": "Sales Systems Engineer Summer 2025 Internship Program",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729192278,
+        "date_posted": 1724975018,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Linthicum-MD/Sales-Systems-Engineer-Summer-2025-Internship-Program_R49569",
+        "locations": [
+            "Halethorpe, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Motorola",
+        "id": "ba67fc4e-e1ee-4a22-9a9b-32e8c3efea68",
+        "title": "Presales Systems Engineer \u2013 2025 Internship",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1728502485,
+        "date_posted": 1728502485,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/San-Diego-CA/Presales-Systems-Engineer--2025-Internship-_R50249",
+        "locations": [
+            "Allen, TX",
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Analog Devices",
+        "id": "c6e6c9dd-2422-433d-b715-2a612b8aeeb1",
+        "title": "FY25 Systems Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729898946,
+        "date_posted": 1729898946,
+        "url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/United-Kingdom-Edinburgh-SC-Freer/FY25-Systems-Engineer-Intern_R244119",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/ae32298c-f0ee-4a98-bab4-78caaecde84d",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Snowflake",
+        "id": "a4abfe75-7674-48ac-b9c3-83a42fc997f2",
+        "title": "Software Engineer Intern - Infrastructure Automation - Spring 2025",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1729912678,
+        "date_posted": 1729912678,
+        "url": "https://jobs.ashbyhq.com/snowflake/60ae5cfb-3b6b-4313-bf58-8438314ff299/application",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Snowflake",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Snowflake",
+        "id": "e7f84bee-fe8c-46e5-894b-99d14601d1d6",
+        "title": "Software Engineer Intern - Database Engineering - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729912674,
+        "date_posted": 1729912674,
+        "url": "https://jobs.ashbyhq.com/snowflake/2bba63f5-7f49-44d6-993e-d3111a082e69/application",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Snowflake",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Snowflake",
+        "id": "df1079cd-d692-4cff-89ee-db8a243bd270",
+        "title": "Software Engineer Intern - Toronto - Spring 2025",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1729912673,
+        "date_posted": 1729912673,
+        "url": "https://jobs.ashbyhq.com/snowflake/ca0cea54-4c3d-4f41-ae88-bb92e3b7fbb6/application",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Snowflake",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Snowflake",
+        "id": "3fe95a96-6151-4a3f-bc02-d47cf818e062",
+        "title": "Software Engineer Intern - Infrastructure Automation - Spring 2025",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1729912672,
+        "date_posted": 1729912672,
+        "url": "https://jobs.ashbyhq.com/snowflake/e6f42b75-39e4-466f-bda4-471d7f341b75/application",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Snowflake",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Snowflake",
+        "id": "bea9aeee-1ba9-4971-8456-8e5fb97c5da8",
+        "title": "Software Engineer Intern - Core Engineering - Spring 2025",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1729912667,
+        "date_posted": 1729912667,
+        "url": "https://jobs.ashbyhq.com/snowflake/fa800891-4be7-42ce-9031-3fa119823404/application",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Snowflake",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Snowflake",
+        "id": "bc3e4348-c9c3-4f55-9b43-3bcc2c007183",
+        "title": "Software Engineer Intern - Infrastructure Automation - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729912668,
+        "date_posted": 1729912668,
+        "url": "https://jobs.ashbyhq.com/snowflake/4a121d87-7ac5-4230-8d0f-9cd9e1493a08/application",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Snowflake",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Snowflake",
+        "id": "b7a8b7e8-94b0-4a29-bbf8-73d4bc86bf73",
+        "title": "Software Engineer Intern - Database Engineering - Spring 2025",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1729912668,
+        "date_posted": 1729912668,
+        "url": "https://jobs.ashbyhq.com/snowflake/f2918973-b075-4727-8922-1d6da096369d/application",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Snowflake",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Snowflake",
+        "id": "9d37bf4f-7d31-4895-b7be-0f115f6f3064",
+        "title": "Software Engineer Intern - Toronto - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729912667,
+        "date_posted": 1729912667,
+        "url": "https://jobs.ashbyhq.com/snowflake/152b293d-ec65-4862-8957-7f50089728ac/application",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Snowflake",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Snowflake",
+        "id": "9779a558-dab8-4de1-a9af-6494671e47a4",
+        "title": "Software Engineer Intern - Core Engineering - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729912666,
+        "date_posted": 1729912666,
+        "url": "https://jobs.ashbyhq.com/snowflake/7b22dd31-9d5b-46f5-8b3f-a27be052fc06/application",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Snowflake",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Snowflake",
+        "id": "6eb9352e-acd3-4723-8dff-3c631bc91e40",
+        "title": "Software Engineer Intern - Database Engineering - Spring 2025",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1729912667,
+        "date_posted": 1729912667,
+        "url": "https://jobs.ashbyhq.com/snowflake/4269d964-d036-48e4-8b99-db60b2ba3729/application",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Snowflake",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Snowflake",
+        "id": "6e540e89-80e8-4631-85e1-fa356073996d",
+        "title": "Software Engineer Intern - Infrastructure Automation - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729912666,
+        "date_posted": 1729912666,
+        "url": "https://jobs.ashbyhq.com/snowflake/ae5b6c6c-e165-4bb7-8ffd-ab14ba72d983/application",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Snowflake",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Snowflake",
+        "id": "4782f900-0029-49e5-87be-3dfa74b4b2ee",
+        "title": "Software Engineer Intern - Core Engineering - Spring 2025",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1729912667,
+        "date_posted": 1729912667,
+        "url": "https://jobs.ashbyhq.com/snowflake/b4a1c5f2-2050-48b0-9359-b0817d15973d/application",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Snowflake",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Snowflake",
+        "id": "46fb8f5e-4402-4ccf-a76e-c349faa43ca9",
+        "title": "Software Engineer Intern - Database Engineering - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729912668,
+        "date_posted": 1729912668,
+        "url": "https://jobs.ashbyhq.com/snowflake/3377623a-ef97-4eaf-abf5-c29180040540/application",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Snowflake",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Snowflake",
+        "id": "1851ddf9-a6b2-47f5-9a72-87b628afc7fc",
+        "title": "Software Engineer Intern - Core Engineering - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729912668,
+        "date_posted": 1729912668,
+        "url": "https://jobs.ashbyhq.com/snowflake/6b9eadd4-d00a-46ab-812f-a9dfce661fed/application",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Snowflake",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sony Pictures Entertainment",
+        "id": "517772c6-92a3-4355-aa49-6084226aa71d",
+        "title": "Systems & Data Analytics Intern - US TV Production - Spring 2025",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1729912617,
+        "date_posted": 1729912617,
+        "url": "https://spe.wd1.myworkdayjobs.com/en-US/SonyPicturesEntertainment/job/Culver-City-California/Systems---Data-Analytics-Intern--US-TV-Production---Spring-2025_JR104689",
+        "locations": [
+            "Culver City, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/cba19b9c-c87b-4670-905f-598655ed2801",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Coinbase",
+        "id": "eac6b5a2-71cc-4b3b-9512-f4c6cc60bd24",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729912367,
+        "date_posted": 1729912367,
+        "url": "https://www.coinbase.com/careers/positions/6266440?gh_jid=6266440",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/717694f5-7321-4c6f-91a5-5a46b250f459",
         "is_visible": true,
         "sponsorship": "Other"
     }
