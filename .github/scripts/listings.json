@@ -118989,5 +118989,43 @@
         "company_url": "https://simplify.jobs/c/allegion",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1730003762,
+        "url": "https://jobs.walgreens.com/en/job/-/-/1242/71853791136",
+        "company_name": "Walgreens",
+        "title": "Software Engineer Internship",
+        "locations": [
+            "Deerfield, IL"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "8afc0c45-bd3d-4b0e-8048-9393a1f5b114",
+        "date_posted": 1730003762,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1730004040,
+        "url": "https://jobs.walgreens.com/en/job/-/-/1242/71858888864",
+        "company_name": "Walgreens",
+        "title": "IT Infrastructure & Engineering Internship",
+        "locations": [
+            "Deerfield, IL"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "65c387a1-e6f4-42e1-a9c9-936794f76649",
+        "date_posted": 1730004040,
+        "company_url": "",
+        "is_visible": true
     }
 ]
