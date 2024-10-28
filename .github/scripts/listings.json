@@ -113208,7 +113208,7 @@
         "company_name": "Leidos",
         "id": "69676762-4733-4768-9e1f-d4a1e59bae74",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -119087,5 +119087,24 @@
         "date_posted": 1730090593,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Walt Disney Company",
+        "id": "ffcdbdc3-548d-46a7-90eb-fd7c75820d49",
+        "title": "Digital Analytics Intern - Spring 2025",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1730099675,
+        "date_posted": 1730099675,
+        "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Celebration-FL-USA/Digital-Analytics-Intern--Spring-2025_10098175",
+        "locations": [
+            "Celebration, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Disney",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
