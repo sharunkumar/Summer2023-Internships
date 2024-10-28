@@ -117113,7 +117113,7 @@
         "company_name": "MSD",
         "id": "6c51bebe-8a3b-4bea-be6b-75531a8d7e2e",
         "title": "2025 University Recruiting \u2013 Global Clinical Data Integration Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -117349,7 +117349,7 @@
         "company_name": "Dick's Sporting Goods",
         "id": "1ef9ba2a-eb39-4701-93cf-73360e23d0e7",
         "title": "Data Science \u2013 Summer 2025 Corporate Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -117406,7 +117406,7 @@
         "company_name": "Dick's Sporting Goods",
         "id": "a000c354-d321-4dac-9a1d-0af0c1d103a5",
         "title": "Software Engineering \u2013 Summer 2025 Corporate Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -117954,7 +117954,7 @@
         "company_name": "MSD",
         "id": "081ff100-653d-4126-b9c1-201b5eaf2f99",
         "title": "2025 University Recruiting \u2013 Clinical Trial Data Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -119025,6 +119025,66 @@
         "source": "GaryZhous",
         "id": "65c387a1-e6f4-42e1-a9c9-936794f76649",
         "date_posted": 1730004040,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1730080785,
+        "url": "https://jobs.thermofisher.com/global/en/job/R-01268670/Software-Engineering-Co-op",
+        "company_name": "Thermo Fisher Scientific",
+        "title": "Software Engineering Co-op",
+        "locations": [
+            "Hillsboro, OR"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "ae32f343-2ce6-44bb-83ef-6b10ed64a26a",
+        "date_posted": 1730080785,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1730090436,
+        "url": "https://careers.gene.com/us/en/job/GENEUS202410126855EXTERNALENUS/2025-Summer-Intern-Product-Development-Data-Sciences",
+        "company_name": "Genentech",
+        "title": "2025 Summer Intern - Product Development Data Sciences",
+        "locations": [
+            "South San Francisco, CA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "d4505f8e-8f7e-4e58-929a-e9188298916c",
+        "date_posted": 1730090436,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1730090593,
+        "url": "https://careers.honeywell.com/us/en/job/HONEUSREQ460193EXTERNALENUS/Future-IT-Leaders-Summer-2025-Intern",
+        "company_name": "Honeywell",
+        "title": "Future IT Leaders - Summer 2025 Intern",
+        "locations": [
+            "Charlotte, NC",
+            "Atlanta, GA",
+            "Phoenix, AZ",
+            "Houston, TX"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "d0ecad09-21c5-41fb-96a9-3b1c640cd3ff",
+        "date_posted": 1730090593,
         "company_url": "",
         "is_visible": true
     }
