@@ -94051,7 +94051,7 @@
         "company_name": "Nextdoor",
         "id": "d7411e6b-7edf-4a7e-9665-5e5a5038826d",
         "title": "Software Engineer Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -98929,7 +98929,7 @@
         "company_name": "Symbotic",
         "id": "e07bd8f5-b3c5-4838-863c-5f631eb21099",
         "title": "Intern \u2013 Back End Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024",
             "Spring 2025",
@@ -100185,7 +100185,7 @@
         "company_name": "Super",
         "id": "432eb6df-4adf-417d-aacd-02a511cb4f27",
         "title": "Software Engineering Intern - Fullstack - Product - Remote - Waterloo Winter 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -103263,7 +103263,7 @@
         "company_name": "Fetch",
         "id": "ad50b352-1e23-4fe6-903b-0fd9c0f4d07f",
         "title": "Android Software Engineering Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025"
@@ -109723,7 +109723,7 @@
         "company_name": "Berkshire Grey",
         "id": "e5968d4c-395c-45fb-99ea-cc1049c6c667",
         "title": "Spring 2025 Software UIUX Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -109742,7 +109742,7 @@
         "company_name": "Berkshire Grey",
         "id": "578f4b8e-046f-4355-b4dc-1fde3a5f92c5",
         "title": "Spring 2025 Software Applications Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -109761,7 +109761,7 @@
         "company_name": "Berkshire Grey",
         "id": "f3872797-332e-49f1-8a3a-fcde209f446c",
         "title": "Spring 2025 Software Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -112467,7 +112467,7 @@
         "company_name": "Alchemy",
         "id": "d728c7a5-7f01-4946-857e-59e752481e4e",
         "title": "Engineering Internship - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -116316,7 +116316,7 @@
         "company_name": "Autodesk",
         "id": "1899850b-0a4f-4574-b91f-6749e596f4f6",
         "title": "Intern \u2013 Software Developer - Jan to April 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -117657,7 +117657,7 @@
         "company_name": "JM Family",
         "id": "b211f751-b9e5-454f-b592-719c1b906f5b",
         "title": "Intern \u2013 Data Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025"
@@ -118012,7 +118012,7 @@
         "company_name": "JM Family",
         "id": "38835c25-61f9-4c5c-ba7f-c429153463be",
         "title": "Intern \u2013 IT Delivery",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025"
@@ -118207,7 +118207,7 @@
         "company_name": "JM Family",
         "id": "716acec0-13dc-4245-b1b2-28f3bff489b0",
         "title": "Intern \u2013 Data Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025"
@@ -118247,7 +118247,7 @@
         "company_name": "JM Family",
         "id": "13628470-1cd0-4775-ade0-7cdbb26e51d9",
         "title": "Intern \u2013 Data Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025"
@@ -118305,7 +118305,7 @@
         "company_name": "JM Family",
         "id": "45c1ab7d-218e-4d23-ad0a-750365d74965",
         "title": "Intern \u2013 AI/ML Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025"
@@ -118325,7 +118325,7 @@
         "company_name": "Otis",
         "id": "0fe42da1-a671-4024-81f9-95d2e247c9b8",
         "title": "Digital Technology Internet of Things \u2013 Intern - IoT",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -119104,6 +119104,64 @@
             "Celebration, FL"
         ],
         "company_url": "https://simplify.jobs/c/Disney",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Northrop Grumman",
+        "id": "ab3de8e6-6400-4494-9c14-73850f68e559",
+        "title": "2025 Software Engineering Intern Linthicum Maryland",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730129559,
+        "date_posted": 1730129559,
+        "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2025-Software-Engineering-Intern-Linthicum-Maryland_R10171579-1",
+        "locations": [
+            "Halethorpe, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/238c95d8-0d6e-4717-b28c-078b16d675d7",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Medline",
+        "id": "3bde79a3-efe0-4b92-82db-a01df76fd7d4",
+        "title": "Business Analytics Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730129258,
+        "date_posted": 1730129258,
+        "url": "https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northfield-Illinois/Business-Analytics-Intern---Summer-2025_R2404523",
+        "locations": [
+            "Northbrook, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/f22ab711-4900-472d-be8a-7263e99e49fa",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "JM Family",
+        "id": "2c684db1-5d49-4659-b5cd-670330f419d2",
+        "title": "Intern \u2013 Predictive Analytics",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1730129066,
+        "date_posted": 1730129066,
+        "url": "https://jmfamily.wd1.myworkdayjobs.com/en-US/JMFamily_External/job/Florida---Deerfield-Beach/Intern--Predictive-Analytics_JR103017",
+        "locations": [
+            "Deerfield Beach, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/21dffcc2-c17a-4628-b26d-c6e0b368edc2",
         "is_visible": true,
         "sponsorship": "Other"
     }
