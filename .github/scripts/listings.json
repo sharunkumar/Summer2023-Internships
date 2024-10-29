@@ -290,7 +290,7 @@
         "company_name": "PDT Partners",
         "id": "25342808-efbf-49cd-83be-6c0a809f5e22",
         "title": "Software Engineering Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -18282,7 +18282,7 @@
         "company_name": "Perpay",
         "id": "9cbd92a5-bad6-41d7-b1ee-fb170ceb8a49",
         "title": "Software Engineering Internship - 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -58742,7 +58742,7 @@
         "company_name": "Astranis",
         "id": "32567b79-e4ee-4a71-bf95-11a392999a71",
         "title": "Software Developer \u2013 Intern - Network/Payload Software - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -98596,7 +98596,7 @@
         "company_name": "Allegion",
         "id": "cd0e404c-c82a-44f0-8f78-e9c6b67ba5f4",
         "title": "Software Engineering Intern - Devops",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -98868,7 +98868,7 @@
         "company_name": "Marvell",
         "id": "e14a6592-4123-4e9c-85bf-eba6ed1a8f5a",
         "title": "Firmware Engineer Intern - Bachelors",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -101806,7 +101806,7 @@
         "company_name": "Symmetry Systems",
         "id": "afcb6859-0c02-4ab6-9ae0-25d1557f267f",
         "title": "Full Stack Software Engineer \u2013 2025 Summer Intern - SF Bay Area CA",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -101825,7 +101825,7 @@
         "company_name": "Symmetry Systems",
         "id": "956cda9a-1e3f-4649-81a7-7b78729c6e0d",
         "title": "Full Stack Software Engineer \u2013 2025 Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -103130,7 +103130,7 @@
         "company_name": "Expedition Technology",
         "id": "9964dea0-ea9e-45f7-980f-1dc17b9b6cb6",
         "title": "Summer 2025 Internship in Software Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -115634,7 +115634,7 @@
         "company_name": "Stryker",
         "id": "ededec3b-5724-4025-ab07-d3c59935be23",
         "title": "Summer 2025 Intern - Product Safety Engineer - New Jersey",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -115949,7 +115949,7 @@
         "company_name": "Versana",
         "id": "24cd3c9b-f72a-49b9-b2a5-c843c71aeb54",
         "title": "Tech Internship - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -116162,7 +116162,7 @@
         "company_name": "HCSC",
         "id": "e5cce041-0bee-4dc4-9c7e-86a0a836b04b",
         "title": "University Relations \u2013 Data Science Product Manager Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Fall 2025",
@@ -119112,7 +119112,7 @@
         "company_name": "Northrop Grumman",
         "id": "ab3de8e6-6400-4494-9c14-73850f68e559",
         "title": "2025 Software Engineering Intern Linthicum Maryland",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -119162,6 +119162,179 @@
             "Deerfield Beach, FL"
         ],
         "company_url": "https://simplify.jobs/c/21dffcc2-c17a-4628-b26d-c6e0b368edc2",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cadence Design Systems",
+        "id": "64b6c1dc-24d2-4c0b-bb8d-69c4f9dbfd5b",
+        "title": "Software Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730146027,
+        "date_posted": 1730146027,
+        "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/SAN-JOSE/Software-Intern_R47859-1",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Merlin Labs",
+        "id": "a22247e9-e47a-4dd5-ab9e-301c9f56f7f3",
+        "title": "Software Engineer Internship - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730147638,
+        "date_posted": 1730147638,
+        "url": "https://jobs.lever.co/merlinlabs/bd6f2137-64b5-4d5c-9f64-02d1a1407cf7/apply",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/MerlinLabs",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Ares Management",
+        "id": "91a17ddd-1356-4317-8825-61060753ef4a",
+        "title": "Intern \u2013 Application Development",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1730147589,
+        "date_posted": 1730147589,
+        "url": "https://aresmgmt.wd1.myworkdayjobs.com/en-US/External/job/Culver-City-CA/Intern--Application-Development_R1202-1",
+        "locations": [
+            "Culver City, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ea25dd6c-f530-49ce-b6aa-60a42ba77d95",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Bose",
+        "id": "c020fbee-97f3-4d46-b4d8-9cb19f78cc84",
+        "title": "Embedded Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730146986,
+        "date_posted": 1730146986,
+        "url": "https://boseallaboutme.wd1.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Embedded-Software-Engineer-Intern_R27660",
+        "locations": [
+            "Framingham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/bose",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Corelogic",
+        "id": "4d409e7a-9744-4d5f-8def-4cfe533ae756",
+        "title": "Intern \u2013 Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730156971,
+        "date_posted": 1730156971,
+        "url": "https://corelogic.wd5.myworkdayjobs.com/en-US/Global/job/United-States/Intern--Software-Engineer_REQ15741",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/84f3bc2b-33c1-4bb0-af43-21bb8d59d639",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Corelogic",
+        "id": "374a2c4a-0133-47c2-af6a-223b1e536ef5",
+        "title": "Intern \u2013 Database Administration",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1730156971,
+        "date_posted": 1730156971,
+        "url": "https://corelogic.wd5.myworkdayjobs.com/en-US/Global/job/Oxford-MS/Intern--Database-Administration_REQ15787",
+        "locations": [
+            "Batesville, MS"
+        ],
+        "company_url": "https://simplify.jobs/c/84f3bc2b-33c1-4bb0-af43-21bb8d59d639",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intradiem",
+        "id": "7be2ab90-74ed-4ec9-97e3-dd8287793e0e",
+        "title": "Summer 2025 UI Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730144496,
+        "date_posted": 1730144496,
+        "url": "https://job-boards.greenhouse.io/intradiem/jobs/4409423006",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intradiem",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "ICF",
+        "id": "5bb2b507-d69b-44b0-9432-ff8bb6367c8d",
+        "title": "2025 Summer Intern - Developer - Bachelor's; Remote or Reston - VA",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730157839,
+        "date_posted": 1730157839,
+        "url": "https://icf.wd5.myworkdayjobs.com/en-US/ICFExternal_Career_Site/job/Reston-VA/XMLNAME-2025-Summer-Intern--Developer--Bachelor-s--Remote-or-Reston--VA-_R2404211",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/750f50d0-c3f8-4334-822f-fb70fa81b529",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Booz Allen",
+        "id": "767c7bf5-0d8d-4089-9029-f401a63e89c7",
+        "title": "University \u2013 Systems Engineer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2024",
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "date_updated": 1730157562,
+        "date_posted": 1730157562,
+        "url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Houston-TX/University--Systems-Engineer-Intern_R0208820",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/45cb775d-2ca3-49ea-810f-65334ec70079",
         "is_visible": true,
         "sponsorship": "Other"
     }
