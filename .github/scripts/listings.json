@@ -33695,7 +33695,7 @@
         "company_name": "Credit Karma",
         "id": "e8b50019-b51c-454a-a43c-5b372f508ee3",
         "title": "Software Engineering Intern - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -89171,7 +89171,7 @@
         "company_name": "IMC Trading",
         "id": "ff2a0b0d-eef4-4929-8247-0eff30725baf",
         "title": "Software Engineer Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -101117,7 +101117,7 @@
         "company_name": "Anteriad",
         "id": "192dabdb-99eb-4216-8efe-85162dbd021e",
         "title": "Marketing Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024",
             "Winter 2025",
@@ -103704,7 +103704,7 @@
         "company_name": "Elevance Health",
         "id": "758e1b35-3b6b-4803-8981-40fee5e1b31f",
         "title": "Data Intern-Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -103728,7 +103728,7 @@
         "company_name": "Elevance Health",
         "id": "1d6f686a-a047-4a50-8f33-ff526f11227b",
         "title": "Engineering Internship-Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -105349,7 +105349,7 @@
         "company_name": "HCSC",
         "id": "0cc51121-41b9-4c36-aaea-475242d2fdc5",
         "title": "University Relations \u2013 Associate Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -109452,7 +109452,7 @@
         "company_name": "Visa",
         "id": "e787962f-4b90-4633-bebe-a1b4329e69a7",
         "title": "Summer Intern - Software Engineering and Testing",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -110206,7 +110206,7 @@
         "company_name": "Waymo",
         "id": "e7598e50-292c-453d-9f55-b55edcbe1a48",
         "title": "2025 Summer Intern - Waymo Commercialization - Fleet Infrastructure",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -111724,7 +111724,7 @@
         "company_name": "Motorola",
         "id": "511d150a-b025-4d95-a9bc-c1c24b89f6c0",
         "title": "Software Engineering \u2013 Co-Op - Digital Signal Processing - Spring 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -112106,7 +112106,7 @@
         "company_name": "Waymo",
         "id": "faf0cf3c-4b3f-4212-b848-9e571fb7f25f",
         "title": "2025 Summer Intern - Waymo Commercialization - Taas",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -112448,7 +112448,7 @@
         "company_name": "HCSC",
         "id": "398e19fe-c3e8-4b0e-92b0-c37cd1b7eedb",
         "title": "University Relations \u2013 Associate Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -114796,7 +114796,7 @@
         "company_name": "Clay",
         "id": "f4b469ab-d276-49a7-a06c-2965587b0999",
         "title": "Software Engineer Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -116006,7 +116006,7 @@
         "company_name": "Western Digital",
         "id": "9456ddf1-7204-4d98-8b80-87a5d0c82b21",
         "title": "Software Engineering Co-op - June-December 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Fall 2025",
@@ -116027,7 +116027,7 @@
         "company_name": "Arrive Logistics",
         "id": "8731a87d-a885-4820-8bdc-5ab42dd6f33e",
         "title": "Data Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -116553,7 +116553,7 @@
         "company_name": "Western Digital",
         "id": "5c887dab-98b9-4b34-a5eb-e415c673161e",
         "title": "Summer 2025 \u2013 Co-Op - Software Engineer - Testing",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -116823,7 +116823,7 @@
         "company_name": "Leidos",
         "id": "756edce3-257c-41df-8cfd-80990534b7e5",
         "title": "Associate Software Engineer Intern - Spring Semester - November - May",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024",
             "Winter 2025",
@@ -117152,7 +117152,7 @@
         "company_name": "Nordson",
         "id": "4c2f852c-025e-463f-aade-b0af54245aa1",
         "title": "Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -118129,7 +118129,7 @@
         "company_name": "Autodesk",
         "id": "8d77a420-d5bd-4c81-9af0-ac867428d99a",
         "title": "Intern \u2013 Data Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025",
@@ -118537,7 +118537,7 @@
         "company_name": "Northrop Grumman",
         "id": "9971b235-383a-4200-85bd-094808e44ee6",
         "title": "2025 Systems/Software Intern-Huntsville AL",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -119208,7 +119208,7 @@
         "company_name": "Ares Management",
         "id": "91a17ddd-1356-4317-8825-61060753ef4a",
         "title": "Intern \u2013 Application Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -119246,7 +119246,7 @@
         "company_name": "Corelogic",
         "id": "4d409e7a-9744-4d5f-8def-4cfe533ae756",
         "title": "Intern \u2013 Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -119414,6 +119414,82 @@
             "Allen, TX"
         ],
         "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hypertherm Associates",
+        "id": "a84e65b3-d832-4ff0-b8ec-93ec18a410e2",
+        "title": "Intern \u2013 Software",
+        "active": false,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1730215569,
+        "date_posted": 1730215569,
+        "url": "https://hypertherm.wd5.myworkdayjobs.com/en-US/hypertherm-careers/job/West-Lebanon-NH/Intern---Software_R3222-1",
+        "locations": [
+            "Hanover, NH"
+        ],
+        "company_url": "https://simplify.jobs/c/62655121-4cb3-4dab-81d2-4abcad089fc6",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rockwell Automation",
+        "id": "7d9ef1b8-bf23-41da-8690-ded76cbcdc35",
+        "title": "Intern \u2013 Innovation Platform Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730215460,
+        "date_posted": 1730215460,
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/United-States-of-America-Milwaukee-South-2nd-Street/Intern--Innovation-Platform-Software-Engineer_R24-5260-1",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Rockwell-Automation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Weber Shandwick",
+        "id": "130b428a-c9e1-4c16-a8a0-7e0e59cc8d94",
+        "title": "Business Analytics Intern - Spring 2025",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1730215447,
+        "date_posted": 1730215447,
+        "url": "https://www.webershandwick.com/work-at-weber/careers/?gh_jid=7703665002",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Weber-Shandwick",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "IPG DXTRA",
+        "id": "d37c9545-c6c6-4f83-a477-25cd5a221ef5",
+        "title": "Business Analytics Intern - Spring 2025",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1730215030,
+        "date_posted": 1730215030,
+        "url": "https://job-boards.greenhouse.io/dxacirca/jobs/7703666002",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/IPG-DXTRA",
         "is_visible": true,
         "sponsorship": "Other"
     }
