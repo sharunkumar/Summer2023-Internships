@@ -95437,7 +95437,7 @@
         "company_name": "Zip",
         "id": "5147b477-34a0-43c6-8443-664728e41c9b",
         "title": "Software Engineer Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -119337,5 +119337,63 @@
         "company_url": "https://simplify.jobs/c/45cb775d-2ca3-49ea-810f-65334ec70079",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Salesforce",
+        "id": "dc2f10cf-b5d7-4780-af81-25cc6f02f538",
+        "title": "Summer 2025 Intern - Database Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730175015,
+        "date_posted": 1730171239,
+        "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/Washington---Bellevue/Summer-2025-Intern---Database-Engineer_JR264518-2",
+        "locations": [
+            "Seattle, WA",
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Salesforce",
+        "is_visible": true,
+        "sponsorship": "U.S. Citizenship is Required"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Astranis",
+        "id": "f5b28466-0a16-442e-bf4a-619697c11ae0",
+        "title": "Software Developer \u2013 Intern - Network/Payload Software - Spring 2025",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1730171960,
+        "date_posted": 1730171960,
+        "url": "https://job-boards.greenhouse.io/astranis/jobs/4414545006",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Astranis",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1730174927,
+        "url": "https://careers.vizientinc.com/careers/job/446702440552",
+        "company_name": "Vizient, Inc",
+        "title": "Summer Intern - Software Engineering",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "63ef9157-c831-4e86-8803-00dcadea5cbe",
+        "date_posted": 1730174927,
+        "company_url": "",
+        "is_visible": true
     }
 ]
