@@ -99182,7 +99182,7 @@
         "company_name": "Motorola",
         "id": "cbbeabd3-05e5-441d-9db9-8b14dc0b1b61",
         "title": "Audio Software Engineer Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -119395,5 +119395,26 @@
         "date_posted": 1730174927,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Motorola",
+        "id": "fce7c752-556b-4eda-b333-2fe86764c387",
+        "title": "Software Engineer Intern \u2013 Fall 2024/Spring 2025 Co-Op",
+        "active": true,
+        "terms": [
+            "Fall 2024",
+            "Winter 2025",
+            "Spring 2025"
+        ],
+        "date_updated": 1730186522,
+        "date_posted": 1730186522,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Allen-TX-TX139/Software-Engineer-Intern---Fall-2024-Spring-2025-Co-Op_R51221",
+        "locations": [
+            "Allen, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
