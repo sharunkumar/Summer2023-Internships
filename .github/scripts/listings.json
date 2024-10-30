@@ -118032,7 +118032,7 @@
         "company_name": "The Home Depot",
         "id": "b776a6ba-5070-454d-8d10-271107723fae",
         "title": "Spring Orangeworks Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -118691,7 +118691,7 @@
         "company_name": "Snowflake",
         "id": "e7f84bee-fe8c-46e5-894b-99d14601d1d6",
         "title": "Software Engineer Intern - Database Engineering - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -118748,7 +118748,7 @@
         "company_name": "Snowflake",
         "id": "bea9aeee-1ba9-4971-8456-8e5fb97c5da8",
         "title": "Software Engineer Intern - Core Engineering - Spring 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -118767,7 +118767,7 @@
         "company_name": "Snowflake",
         "id": "bc3e4348-c9c3-4f55-9b43-3bcc2c007183",
         "title": "Software Engineer Intern - Infrastructure Automation - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -118786,7 +118786,7 @@
         "company_name": "Snowflake",
         "id": "b7a8b7e8-94b0-4a29-bbf8-73d4bc86bf73",
         "title": "Software Engineer Intern - Database Engineering - Spring 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -118824,7 +118824,7 @@
         "company_name": "Snowflake",
         "id": "9779a558-dab8-4de1-a9af-6494671e47a4",
         "title": "Software Engineer Intern - Core Engineering - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -118843,7 +118843,7 @@
         "company_name": "Snowflake",
         "id": "6eb9352e-acd3-4723-8dff-3c631bc91e40",
         "title": "Software Engineer Intern - Database Engineering - Spring 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -118900,7 +118900,7 @@
         "company_name": "Snowflake",
         "id": "46fb8f5e-4402-4ccf-a76e-c349faa43ca9",
         "title": "Software Engineer Intern - Database Engineering - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -119735,6 +119735,429 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "AffiniPay",
+        "id": "33f13332-8dda-4f01-beb7-65777ba5346d",
+        "title": "Software Development Internship - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730258118,
+        "date_posted": 1730258118,
+        "url": "https://www.affinipay.com/other-job-descriptions/?gh_jid=4413027006",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/AffiniPay",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Trade Desk",
+        "id": "adb3d9c4-0fa0-47ce-870b-e23b9ccaf4f4",
+        "title": "2025 North America Software Engineering Internship",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730257985,
+        "date_posted": 1730257985,
+        "url": "https://boards.greenhouse.io/thetradedesk/jobs/4467904007",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/281371f9-4ed3-4440-876f-4bbeaa0d50e0",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Trade Desk",
+        "id": "0832234f-fe1f-43c1-bb0e-84dc6a7341de",
+        "title": "2025 North America Data Science Internship",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730257983,
+        "date_posted": 1730257983,
+        "url": "https://boards.greenhouse.io/thetradedesk/jobs/4427732007",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/281371f9-4ed3-4440-876f-4bbeaa0d50e0",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Trade Desk",
+        "id": "2fb86343-44f1-4dad-b71f-e2bfb86e3c2d",
+        "title": "2025 North America Data Science Internship",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730257981,
+        "date_posted": 1730257981,
+        "url": "https://boards.greenhouse.io/thetradedesk/jobs/4516998007",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/281371f9-4ed3-4440-876f-4bbeaa0d50e0",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Trade Desk",
+        "id": "b1d4c858-044d-4edd-ae61-792f3e5e87a6",
+        "title": "2025 North America Software Engineering Internship",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730257980,
+        "date_posted": 1730257980,
+        "url": "https://boards.greenhouse.io/thetradedesk/jobs/4467897007",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/281371f9-4ed3-4440-876f-4bbeaa0d50e0",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Trade Desk",
+        "id": "5a168492-6d14-4500-a80e-61f9703e3d31",
+        "title": "2025 Summer Intern - Data Science - London",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730257980,
+        "date_posted": 1730257980,
+        "url": "https://boards.greenhouse.io/thetradedesk/jobs/4456655007",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/281371f9-4ed3-4440-876f-4bbeaa0d50e0",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Trade Desk",
+        "id": "21099195-b1bf-4e2d-b2bb-434cfc074a78",
+        "title": "2025 North America Software Engineering Internship",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730257980,
+        "date_posted": 1730257980,
+        "url": "https://boards.greenhouse.io/thetradedesk/jobs/4467911007",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/281371f9-4ed3-4440-876f-4bbeaa0d50e0",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Trade Desk",
+        "id": "f5e93bca-cb21-461b-a62d-af37ab964d4b",
+        "title": "2025 North America Software Engineering Internship",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730257979,
+        "date_posted": 1730257979,
+        "url": "https://boards.greenhouse.io/thetradedesk/jobs/4467899007",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/281371f9-4ed3-4440-876f-4bbeaa0d50e0",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Trade Desk",
+        "id": "f751bd0e-c8ee-4985-a828-7c310614a12f",
+        "title": "2025 North America Software Engineering Internship",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730257978,
+        "date_posted": 1730257978,
+        "url": "https://boards.greenhouse.io/thetradedesk/jobs/4467906007",
+        "locations": [
+            "Ventura, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/281371f9-4ed3-4440-876f-4bbeaa0d50e0",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Trade Desk",
+        "id": "f1ab2960-f037-4b4d-b6a0-0f896ac143f0",
+        "title": "2025 North America Software Engineering Internship",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730257977,
+        "date_posted": 1730257977,
+        "url": "https://boards.greenhouse.io/thetradedesk/jobs/4467907007",
+        "locations": [
+            "Boulder, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/281371f9-4ed3-4440-876f-4bbeaa0d50e0",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Trade Desk",
+        "id": "5746ee59-c5c7-4b18-9a71-213642ec856b",
+        "title": "2025 North America Software Engineering Internship",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730257977,
+        "date_posted": 1730257977,
+        "url": "https://boards.greenhouse.io/thetradedesk/jobs/4417412007",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/281371f9-4ed3-4440-876f-4bbeaa0d50e0",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Trade Desk",
+        "id": "188b13ca-4f2e-42b4-a05a-6ead8a778714",
+        "title": "2025 North America Software Engineering Internship",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730257975,
+        "date_posted": 1730257975,
+        "url": "https://boards.greenhouse.io/thetradedesk/jobs/4467901007",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/281371f9-4ed3-4440-876f-4bbeaa0d50e0",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Boomi",
+        "id": "7c4481a5-50da-435b-9b5b-2b419c0fdf35",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730258377,
+        "date_posted": 1730258377,
+        "url": "https://boomi.com/boomi-jobs/?gh_jid=5337610004",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/609a3e94-5f2d-4faf-9efe-4746e842847b",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Orenda ",
+        "id": "e612c6db-7f4b-4fa8-bc11-8ceea174799c",
+        "title": "Software Engineer Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730258361,
+        "date_posted": 1730258361,
+        "url": "https://orendapower.com/careers/6104901003?gh_jid=6104901003",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/5ca4e159-ee0c-4670-8137-9bdf292ec909",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RF-SMART",
+        "id": "2f72cf23-d40c-4f21-9374-2a6980cee6aa",
+        "title": "Software Development Internship-Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730258308,
+        "date_posted": 1730258308,
+        "url": "https://www.rfsmart.com/current-job-openings?hsCtaTracking=a3b29f1a-3e28-4c56-a139-07e3b9ec3fd9%7Cbba890fe-3ad1-476d-8c70-aa0677d1814f&gh_jid=4122317008",
+        "locations": [
+            "Highlands Ranch, CO",
+            "Jacksonville, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/f006a158-9398-482e-9a19-a635e79862ae",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DL Trading",
+        "id": "9ec6cec7-bea6-4e3c-92da-4acc4ffa2ba7",
+        "title": "Quantitative Sports Trading Internship - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730258305,
+        "date_posted": 1730258305,
+        "url": "https://www.dltrading.io/careers?gh_jid=6236607003",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/6e0ddcae-2349-4505-af44-ed47b11ad363",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "GCM Grosvenor",
+        "id": "811e9286-5786-4274-8cd8-49548fc11fd9",
+        "title": "2025 Software Engineering Summer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730258320,
+        "date_posted": 1730258320,
+        "url": "https://boards.greenhouse.io/gcmgrosvenor/jobs/6236637003",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/c4659eb7-478d-4b6c-9346-8929e1129552",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Autodesk",
+        "id": "adfff4e3-6293-4feb-92a4-690abe6e9c5c",
+        "title": "Intern \u2013 Machine Learning",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1730258201,
+        "date_posted": 1730258201,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/California-USA---Remote/Intern--Machine-Learning_24WD83217-1",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Autodesk",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "PlayStation Global",
+        "id": "8ff6d56e-56ee-4e7c-b0d9-abc2df5f43e5",
+        "title": "Software Engineering Intern - Undergraduate",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1730258097,
+        "date_posted": 1730258097,
+        "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5340580004",
+        "locations": [
+            "Aliso Viejo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/PlayStation-Global",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1730265220,
+        "url": "https://careers.nutanix.com/en/jobs/27655/systems-engineering-intern/",
+        "company_name": "Nutanix",
+        "title": "Systems Engineering Intern",
+        "locations": [
+            "Durham, NC"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "ff5dab8a-a25a-42f2-b2cc-a3548736f184",
+        "date_posted": 1730265220,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1730265358,
+        "url": "https://careers.siriusxm.com/careers/jobs/16198",
+        "company_name": "SiriusXM",
+        "title": "Summer Intern, Software Engineering",
+        "locations": [
+            "Oakland, CA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "1f89aaa6-6de7-4e68-86d9-a4f9e30f83d1",
+        "date_posted": 1730265358,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Vantage Data Centers",
+        "id": "d2af4352-9d8a-4917-9314-a64079970b67",
+        "title": "People Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730272471,
+        "date_posted": 1730272471,
+        "url": "https://vantagedc.wd1.myworkdayjobs.com/en-US/Vantage/job/Remote---US/People-Analytics-Intern--NA_R16627",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/62df3370-bf7b-46b7-8619-e32dcd7d3fb3",
         "is_visible": true,
         "sponsorship": "Other"
     }
