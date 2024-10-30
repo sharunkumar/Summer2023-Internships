@@ -87144,7 +87144,7 @@
         "company_name": "Sigma Computing",
         "id": "6d504fbc-2a44-483f-a97e-607fcf5461d2",
         "title": "Software Engineering Intern \u2013 Recent Grad",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -91272,7 +91272,7 @@
         "company_name": "Salesforce",
         "id": "fa063a1b-3bfe-48f4-a5e9-6cc2d0253b0a",
         "title": "Summer 2025 Intern - Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -95644,8 +95644,8 @@
         ],
         "sponsorship": "Offers Sponsorship",
         "active": true,
-        "source": "LuaanNguyen",
-        "id": "da995daa-8db8-42d3-b256-889a27d093cf",
+        "source": "Simplify",
+        "id": "5a88d0aa-d86e-499b-9664-c878b07fe0f1",
         "date_posted": 1725245350,
         "company_url": "",
         "is_visible": true
@@ -99353,7 +99353,7 @@
         "company_name": "Chatham Financial",
         "id": "7fdb9e5d-ea56-464c-a914-c8e74c37a9a6",
         "title": "2025 Full Stack Developer Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -110206,7 +110206,7 @@
         "company_name": "Waymo",
         "id": "e7598e50-292c-453d-9f55-b55edcbe1a48",
         "title": "2025 Summer Intern - Waymo Commercialization - Fleet Infrastructure",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -110454,7 +110454,7 @@
         "company_name": "Amazon",
         "id": "7e1a001f-2860-41ca-ad42-3d22f50ed2e5",
         "title": "Software Development Engineer Intern 2025 - Canada - Artificial General Intelligence",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -111016,7 +111016,7 @@
         "company_name": "Leidos",
         "id": "bc710474-d8d7-42b0-b45b-8bec44f61e62",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -111645,7 +111645,7 @@
         "company_name": "PlayStation Global",
         "id": "7bab1660-437e-490c-be82-02918c4eaf86",
         "title": "Software Development Engineer in Test Intern - Undergraduate",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024",
@@ -112106,7 +112106,7 @@
         "company_name": "Waymo",
         "id": "faf0cf3c-4b3f-4212-b848-9e571fb7f25f",
         "title": "2025 Summer Intern - Waymo Commercialization - Taas",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -112334,7 +112334,7 @@
         "company_name": "Waymo",
         "id": "d1e9a963-7734-4792-9e32-3abb07994074",
         "title": "2025 Summer Intern - BS/MS - Labeling Platform - Full-Stack Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -115653,7 +115653,7 @@
         "company_name": "Live Nation Entertainment",
         "id": "460e98da-f2fc-4648-9e37-55debd904cca",
         "title": "Mobile Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -117717,7 +117717,7 @@
         "company_name": "USAA",
         "id": "22d4edc9-333e-4b71-a827-cc9e1e48f576",
         "title": "CFO Intern - Data",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025"
@@ -118672,7 +118672,7 @@
         "company_name": "Snowflake",
         "id": "a4abfe75-7674-48ac-b9c3-83a42fc997f2",
         "title": "Software Engineer Intern - Infrastructure Automation - Spring 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -118729,7 +118729,7 @@
         "company_name": "Snowflake",
         "id": "3fe95a96-6151-4a3f-bc02-d47cf818e062",
         "title": "Software Engineer Intern - Infrastructure Automation - Spring 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -118862,7 +118862,7 @@
         "company_name": "Snowflake",
         "id": "6e540e89-80e8-4631-85e1-fa356073996d",
         "title": "Software Engineer Intern - Infrastructure Automation - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -118881,7 +118881,7 @@
         "company_name": "Snowflake",
         "id": "4782f900-0029-49e5-87be-3dfa74b4b2ee",
         "title": "Software Engineer Intern - Core Engineering - Spring 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -118919,7 +118919,7 @@
         "company_name": "Snowflake",
         "id": "1851ddf9-a6b2-47f5-9a72-87b628afc7fc",
         "title": "Software Engineer Intern - Core Engineering - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -119490,6 +119490,251 @@
             "Washington, DC"
         ],
         "company_url": "https://simplify.jobs/c/IPG-DXTRA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Altera",
+        "id": "857ea339-1431-4ff9-a91d-c48fee5b99f9",
+        "title": "Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730230593,
+        "date_posted": 1730230593,
+        "url": "https://jobs.ashbyhq.com/altera.al/fccaee31-5a39-4978-837e-577f74a4d9b5/application",
+        "locations": [
+            "Menlo Park, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Altera",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sony Interactive Entertainment",
+        "id": "bfdd37a0-ab05-4750-898a-da67c5e68c06",
+        "title": "Software Development Engineer in Test Intern - Undergraduate",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1730231808,
+        "date_posted": 1730231808,
+        "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5343132004",
+        "locations": [
+            "California",
+            "San Mateo, CA",
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Sony-Interactive-Entertainment",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sony Interactive Entertainment",
+        "id": "cfdbd924-9167-4ef8-8cb6-174a36181308",
+        "title": "Spatial Computer Vision Engineer Intern - Undergraduate",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1730231829,
+        "date_posted": 1730231829,
+        "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5340510004",
+        "locations": [
+            "San Mateo, CA",
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Sony-Interactive-Entertainment",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sony Interactive Entertainment",
+        "id": "0ee99490-91f7-470b-acd2-3f6d12d087e0",
+        "title": "Software Engineering Intern - Undergraduate",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1730231813,
+        "date_posted": 1730231813,
+        "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5340499004",
+        "locations": [
+            "California",
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Sony-Interactive-Entertainment",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sunwater Capital",
+        "id": "4ba8a9d8-e274-4325-9d0e-c021733f1f08",
+        "title": "Intern-Data Science Spring 2025",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1730231169,
+        "date_posted": 1730231169,
+        "url": "https://jobs.lever.co/sunwatercapital/6df3eca4-d23c-4c80-96b3-d0babb39fe31/apply",
+        "locations": [
+            "North Bethesda, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/SunwaterCapital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Amazon",
+        "id": "c89d767c-de54-4af4-a739-3ea00bd33d57",
+        "title": "Business Intelligence Engineer Summer Internship - 2025 - US",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1730232468,
+        "date_posted": 1730232468,
+        "url": "https://amazon.jobs/en/jobs/2740337/business-intelligence-engineer-summer-internship-2025-us",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "TIH",
+        "id": "0a64d3db-2ded-43e1-859b-e7e7017d01fe",
+        "title": "Intern \u2013 Salesforce Developer",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730232169,
+        "date_posted": 1730232169,
+        "url": "https://tihinsurance.wd1.myworkdayjobs.com/en-US/TIH_Careers/job/Dallas-TX/Intern---Salesforce-Developer_R0000000384",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/2f524a20-88a9-4307-b97b-e39799afb4c7",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Brunswick",
+        "id": "6d0bbab6-dd81-417c-99a8-a1464f233790",
+        "title": "Application Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730233329,
+        "date_posted": 1730233329,
+        "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Application-Software-Engineer-Intern_JR-044279",
+        "locations": [
+            "Fond du Lac, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/a93a0fb2-e10a-434c-a88c-a639748677a4",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hewlett Packard (HP)",
+        "id": "0fe7a36e-7a2f-445b-be7b-e5a0d709ad54",
+        "title": "Apprentice - Software Applications Development",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1730233950,
+        "date_posted": 1730233950,
+        "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Apprentice---Software-Applications-Development_3142013-1",
+        "locations": [
+            "Spring, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Northrop Grumman",
+        "id": "31fd15d8-fde7-4629-ae94-fd6274038c23",
+        "title": "2025 Systems Engineer Internship - Linthicum MD/Annapolis Junction MD",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730234718,
+        "date_posted": 1730234718,
+        "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2025-Systems-Engineer-Internship---Linthicum-MD-Annapolis-Junction-MD_R10175485",
+        "locations": [
+            "Halethorpe, MD",
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/238c95d8-0d6e-4717-b28c-078b16d675d7",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sony Interactive Entertainment",
+        "id": "f3b369cd-1ade-4d99-bfa5-b94a7d9ca95f",
+        "title": "Software Developer in Test Intern - Undergraduate",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1730243758,
+        "date_posted": 1730243758,
+        "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5344752004",
+        "locations": [
+            "Madison, WI",
+            "Wisconsin",
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Sony-Interactive-Entertainment",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "5f9d5402-9664-4f03-8fba-e8ce451adb0f",
+        "title": "Associate Software Engineer Intern - Spring Semester - November - May",
+        "active": true,
+        "terms": [
+            "Fall 2024",
+            "Winter 2025",
+            "Spring 2025"
+        ],
+        "date_updated": 1730244137,
+        "date_posted": 1730244137,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Associate-Software-Engineer-Intern---Spring-Semester--November---May-_R-00147198",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
         "is_visible": true,
         "sponsorship": "Other"
     }
