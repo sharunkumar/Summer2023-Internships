@@ -91272,7 +91272,7 @@
         "company_name": "Salesforce",
         "id": "fa063a1b-3bfe-48f4-a5e9-6cc2d0253b0a",
         "title": "Summer 2025 Intern - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -115672,7 +115672,7 @@
         "company_name": "PayPal",
         "id": "1acf2639-0738-4336-a218-74fbf9755b2a",
         "title": "Dev Ops Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Fall 2025"
@@ -115694,7 +115694,7 @@
         "company_name": "PayPal",
         "id": "dcb3a28a-4bb9-4601-b2d0-d6d0186ef388",
         "title": "Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Fall 2025"
@@ -115890,7 +115890,7 @@
         "company_name": "PayPal",
         "id": "9346d576-08fb-4f9c-a83e-8403cb050db8",
         "title": "RPA Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Fall 2025"
