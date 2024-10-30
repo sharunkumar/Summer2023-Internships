@@ -95866,7 +95866,7 @@
         "company_name": "Alcon",
         "id": "2b140cac-74b8-42de-8d7e-9b8e67a8df74",
         "title": "2025 R&D Summer Intern - Track 2",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -96041,7 +96041,7 @@
         "company_name": "Datadog",
         "id": "8817d72b-d03f-4077-b4eb-a0ea603b1985",
         "title": "Software Engineer \u2013 Winter Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -97101,7 +97101,7 @@
         "company_name": "Allegion",
         "id": "a058cee2-2cc1-4c18-9645-e46d73baf553",
         "title": "Summer Intern - Software Operations Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -101256,7 +101256,7 @@
         "company_name": "AQR Capital Management",
         "id": "1c42a0e3-fb44-473e-9a65-edc3b1404926",
         "title": "2025 Portfolio Implementation \u2013 Trading and Portfolio Finance Summer Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -103507,7 +103507,7 @@
         "company_name": "Immuta",
         "id": "c166b6d1-509b-4992-8389-b69a81483f61",
         "title": "Product Engineering Internship - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -103704,7 +103704,7 @@
         "company_name": "Elevance Health",
         "id": "758e1b35-3b6b-4803-8981-40fee5e1b31f",
         "title": "Data Intern-Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -103728,7 +103728,7 @@
         "company_name": "Elevance Health",
         "id": "1d6f686a-a047-4a50-8f33-ff526f11227b",
         "title": "Engineering Internship-Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -104456,7 +104456,7 @@
         "company_name": "Duolingo",
         "id": "2884a800-0120-4af8-a039-6c17317534c4",
         "title": "Data Scientist \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -104476,7 +104476,7 @@
         "company_name": "Duolingo",
         "id": "4291089e-3974-49cf-8e37-2c5db6e7efe7",
         "title": "Data Scientist \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -111016,7 +111016,7 @@
         "company_name": "Leidos",
         "id": "bc710474-d8d7-42b0-b45b-8bec44f61e62",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -116785,7 +116785,7 @@
         "company_name": "MarketAxess",
         "id": "c23db832-36f8-4de7-b1f0-ee73916ffc45",
         "title": "Research Intern 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -117094,7 +117094,7 @@
         "company_name": "Chainguard",
         "id": "e38dc64d-76f9-4c74-bcc8-718469f169cd",
         "title": "Undergraduate Research Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -117542,7 +117542,7 @@
         "company_name": "Autodesk",
         "id": "a8cb1169-f543-4266-91de-f676ab77e258",
         "title": "Intern \u2013 Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -117916,7 +117916,7 @@
         "company_name": "Autodesk",
         "id": "5b987c31-0513-4412-b389-25330424919a",
         "title": "Intern Technology Consultant / SW-ML Engineer - Starting July 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -118150,7 +118150,7 @@
         "company_name": "Autodesk",
         "id": "57eb6dd0-d539-497c-a342-17f944317a7b",
         "title": "Intern \u2013 Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -120147,7 +120147,7 @@
         "company_name": "Vantage Data Centers",
         "id": "d2af4352-9d8a-4917-9314-a64079970b67",
         "title": "People Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -120158,6 +120158,64 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/62df3370-bf7b-46b7-8619-e32dcd7d3fb3",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Motorola",
+        "id": "e9d2c6d3-5544-4772-9a81-683cda30f331",
+        "title": "Tableau Data Scientist Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730302105,
+        "date_posted": 1730302105,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Tableau-Data-Scientist-Intern---Summer-2025_R51321",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Northrop Grumman",
+        "id": "69403e05-fae8-4104-a421-afa2e2fdc1d5",
+        "title": "2025 Business Intern - Plymouth MN or Mesa AZ",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730302182,
+        "date_posted": 1730302182,
+        "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Minnesota-Plymouth/XMLNAME-2025-Business-Intern---Plymouth-MN-or-Mesa-AZ_R10175729",
+        "locations": [
+            "Wayzata, MN",
+            "Mesa, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/238c95d8-0d6e-4717-b28c-078b16d675d7",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hewlett Packard (HP)",
+        "id": "e613e9f3-5546-4e44-8644-7ff997a28107",
+        "title": "Apprentice - Software Engineering",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1730302073,
+        "date_posted": 1730302073,
+        "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Austin-Texas-United-States-of-America/Apprentice---Software-Engineering_3141415-1",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
         "is_visible": true,
         "sponsorship": "Other"
     }
