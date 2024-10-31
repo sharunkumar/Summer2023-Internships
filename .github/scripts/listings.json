@@ -86380,7 +86380,7 @@
         "company_name": "Bridgewater Associates",
         "id": "5c07fd61-2cf8-4d0e-beaf-8a6aafb43173",
         "title": "Investment Engineer Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -91171,7 +91171,7 @@
         "company_name": "Databricks",
         "id": "8acf89ce-695c-4859-95c3-bf5a153edb59",
         "title": "Software Engineering Intern - 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -91192,7 +91192,7 @@
         "company_name": "Databricks",
         "id": "3c4fd433-d0f1-4616-9949-70e4b7c5c452",
         "title": "Software Engineering Intern - 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -91213,7 +91213,7 @@
         "company_name": "Databricks",
         "id": "6e28daf9-962d-4405-9e24-bf175b13e7b8",
         "title": "Software Engineering Intern - 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -96524,7 +96524,7 @@
         "company_name": "Chamberlain Group",
         "id": "0c5d4d4c-355a-4a29-9caf-1aad0449f219",
         "title": "Intern \u2013 Myq Middleware - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -98908,7 +98908,7 @@
         "company_name": "Symbotic",
         "id": "f0322943-ec96-4ae5-975d-d16889067179",
         "title": "Intern \u2013 Front End Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024",
             "Spring 2025",
@@ -104514,7 +104514,7 @@
         "company_name": "Demiurge Studios",
         "id": "577e00ce-b44e-4041-b80b-b05363252be7",
         "title": "2025 Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -114367,7 +114367,7 @@
         "company_name": "Autodesk",
         "id": "9eb7f287-e8c5-4915-9180-e1a3a66abbf8",
         "title": "Intern \u2013 Technology Consultant - Discrete Event Simulation",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025",
@@ -116086,7 +116086,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "7a883753-023d-44cc-85be-11f348343145",
         "title": "Apprentice - Master Data Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -116124,7 +116124,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "4329a78f-ba29-42bd-ba71-b92ac96fdb7c",
         "title": "Apprentice-Back End Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -116278,7 +116278,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "cddc612c-bbcb-45fe-9ed2-0f28860ad95c",
         "title": "Apprentice - Software Applications Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -117387,7 +117387,7 @@
         "company_name": "Blue Yonder",
         "id": "5a603dd2-9b2c-4b1e-a41f-b4cce06f5b66",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -118957,7 +118957,7 @@
         "company_name": "Coinbase",
         "id": "eac6b5a2-71cc-4b3b-9512-f4c6cc60bd24",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -119641,7 +119641,7 @@
         "company_name": "Brunswick",
         "id": "6d0bbab6-dd81-417c-99a8-a1464f233790",
         "title": "Application Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -119990,7 +119990,7 @@
         "company_name": "Orenda ",
         "id": "e612c6db-7f4b-4fa8-bc11-8ceea174799c",
         "title": "Software Engineer Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -120216,6 +120216,120 @@
             "Austin, TX"
         ],
         "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Northrop Grumman",
+        "id": "71cb7cf7-a7b2-495c-9ad9-fddfad743e23",
+        "title": "2025 Software Engineer Intern - Fsw/Sim - Dulles VA",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730319650,
+        "date_posted": 1730319650,
+        "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2025-Software-Engineer-Intern---FSW-SIM--Dulles-VA_R10175780",
+        "locations": [
+            "Dulles, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/238c95d8-0d6e-4717-b28c-078b16d675d7",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Waymo",
+        "id": "7cff6fb0-896d-40c8-9c28-bd8e63cc9503",
+        "title": "2025 Intern - BS/MS - SWE Simulation",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730329844,
+        "date_posted": 1730329844,
+        "url": "https://careers.withwaymo.com/jobs?gh_jid=6347933",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Waymo",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Adobe",
+        "id": "1ee4b9f5-107f-4c1c-92a0-5f87b47d4b7a",
+        "title": "2025 Intern - Engineer/Architect",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730330575,
+        "date_posted": 1730330575,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2025-Intern---Engineer-Architect_R148750",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Adobe",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Crowdstrike",
+        "id": "f6525d7e-4313-4200-8dba-3179827eaad5",
+        "title": "Sales Excellence Data Analytics Intern - Summer 2025 - Texas - Remote",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730330271,
+        "date_posted": 1730330271,
+        "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-us/crowdstrikecareers/job/USA---Remote-TX/Sales-Excellence-Data-Analytics-Intern---Summer-2025--Texas--Remote-_R20687-1",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Crowdstrike",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Anduril",
+        "id": "a42b1849-e876-49de-9de1-e555977bbdc5",
+        "title": "Embedded Haskell Developer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1730330249,
+        "date_posted": 1730330249,
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/4552467007",
+        "locations": [
+            "Newport Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Anduril",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Federal Reserve System",
+        "id": "8d9f2c10-c9f9-4238-866f-114b65b19d87",
+        "title": "Summer 2025 Intern - Information Technology Services",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730330195,
+        "date_posted": 1730330195,
+        "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Dallas-TX/Summer-2025-Intern---Information-Technology-Services_R-0000026614",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/6a7a42d3-327f-4b48-a7a7-c68f405e3396",
         "is_visible": true,
         "sponsorship": "Other"
     }
