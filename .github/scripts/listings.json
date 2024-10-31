@@ -95472,7 +95472,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1725080023,
+        "date_updated": 1730348549,
         "url": "https://www.amazon.jobs/en/jobs/2750122/amazon-robotics-software-development-engineer-sde-intern-summer-2025?cmpid=SPLICX0248M",
         "company_name": "Amazon",
         "title": "Amazon Robotics - Software Development Engineer (SDE) Intern",
@@ -95489,7 +95489,7 @@
         "id": "b70f645b-ba01-4fa0-b074-0332bd8da1ad",
         "date_posted": 1725079867,
         "company_url": "",
-        "is_visible": false
+        "is_visible": true
     },
     {
         "date_updated": 1725130251,
@@ -96676,7 +96676,7 @@
         "company_name": "Red Hat",
         "id": "8cae4931-3476-4872-be96-725d20970d9f",
         "title": "Data Science Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -103426,7 +103426,7 @@
         "company_name": "Red Hat",
         "id": "3243bf9f-a377-4ce1-8d0a-9bfbaf2beebd",
         "title": "Software Engineering Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -116435,7 +116435,7 @@
         "company_name": "The Walt Disney Company",
         "id": "5296ebf0-036f-493f-a9c2-8aba237631bf",
         "title": "Disney Consumer Products Assistant Merchandiser Pin Trading Intern - Spring 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -118957,7 +118957,7 @@
         "company_name": "Coinbase",
         "id": "eac6b5a2-71cc-4b3b-9512-f4c6cc60bd24",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -120332,5 +120332,45 @@
         "company_url": "https://simplify.jobs/c/6a7a42d3-327f-4b48-a7a7-c68f405e3396",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Pinterest",
+        "id": "ecf55032-6f07-4aa4-953c-fe9c073813bb",
+        "title": "IT Software Engineering Intern - USA",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1730344330,
+        "date_posted": 1730344330,
+        "url": "https://www.pinterestcareers.com/job-form?gh_jid=6319488",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pinterest",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1730348223,
+        "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Mountain-View-California-United-States-of-America/XMLNAME-2025-Summer-Intern---Software-Engineer--GM-Commercial-Software_JR-202420380",
+        "company_name": "General Motors",
+        "title": "2025 Summer Intern - Software Engineer, GM Commercial Software",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "882093a8-7d4f-46c6-a2d3-0e91491a7b8b",
+        "date_posted": 1730348223,
+        "company_url": "",
+        "is_visible": true
     }
 ]
