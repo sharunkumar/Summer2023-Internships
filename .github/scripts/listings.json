@@ -101863,7 +101863,7 @@
         "company_name": "Walmart",
         "id": "90661bd1-fac3-49c8-bbbd-d11b3596c568",
         "title": "2025 Summer Intern: Software Engineer II",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -103704,7 +103704,7 @@
         "company_name": "Elevance Health",
         "id": "758e1b35-3b6b-4803-8981-40fee5e1b31f",
         "title": "Data Intern-Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -116961,7 +116961,7 @@
         "company_name": "BCBST",
         "id": "b0c2250d-0b25-42fe-ad1d-5e6938459c29",
         "title": "Data Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -120243,7 +120243,7 @@
         "company_name": "Waymo",
         "id": "7cff6fb0-896d-40c8-9c28-bd8e63cc9503",
         "title": "2025 Intern - BS/MS - SWE Simulation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -120644,5 +120644,121 @@
         "company_url": "https://simplify.jobs/c/f22ab711-4900-472d-be8a-7263e99e49fa",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1730426857,
+        "url": "https://vsp.wd1.myworkdayjobs.com/VSPVisionCareers/job/Remote-US/Internship--Software-Engineer---Eyefinity_R-6732?source=LinkedIn",
+        "company_name": "Eyefinity",
+        "title": "Software Engineer - Eyefinity",
+        "locations": [
+            "Remote"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "DereC4",
+        "id": "59daa2db-340e-40f7-ac6f-b35cbc5323d6",
+        "date_posted": 1730426857,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1730426889,
+        "url": "https://recruiting2.ultipro.com/HER1001ACFIN/JobBoard/ab33798a-3521-417b-8db8-a8e435c475fa/OpportunityDetail?opportunityId=7080938d-3a7b-47ce-989d-0dd4994f0a8a&source=LinkedIn",
+        "company_name": "Acuity",
+        "title": "Programmer Intern",
+        "locations": [
+            "Austin, TX"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "DereC4",
+        "id": "af149392-f4a5-45ff-892a-968f6a5a7386",
+        "date_posted": 1730426889,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1730426996,
+        "url": "https://careers.honeywell.com/us/en/job/HONEUSREQ460339EXTERNALENUS/Information-Systems-IT-Cyber-Engineer-Data-Science-Summer-2025-Intern",
+        "company_name": "Honeywell",
+        "title": "Information Systems, IT, Cyber Engineer & Data Science - Summer 2025 Intern",
+        "locations": [
+            "Remote"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "DereC4",
+        "id": "fd904eb3-e752-463b-8005-3fdf6060a526",
+        "date_posted": 1730426996,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Associated Bank",
+        "id": "ecf28b6e-2c3a-408d-a18c-80c390dc0b0b",
+        "title": "Corporate Intern - Digital Engineering - Summer 2025 - Hybrid Green Bay or Milwaukee",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730430980,
+        "date_posted": 1730430980,
+        "url": "https://associatedbank.wd1.myworkdayjobs.com/en-US/external_careers/job/Green-Bay-433-Main/Corporate-Intern---Digital-Engineering---Summer-2025--Hybrid-Green-Bay-or-Milwaukee-_JR102020",
+        "locations": [
+            "Milwaukee, WI",
+            "Green Bay, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/63ed32ad-4f6b-4bd2-bce7-58ea7a9415ad",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1730437529,
+        "url": "https://careers.ibm.com/job/21044573/software-developer-intern-research-triangle-park-nc/",
+        "company_name": "IBM",
+        "title": "Software Developer Intern",
+        "locations": [
+            "Research Triangle Park, NC",
+            "Poughkeepsie, NY"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "95a65181-759d-4b1e-a603-50f664ee4040",
+        "date_posted": 1730437529,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1730437676,
+        "url": "https://careers.honeywell.com/us/en/job/req460340/Information-Systems-IT-Cyber-Engineer-Data-Science-Summer-2025-Intern-US-Person-Required",
+        "company_name": "Honeywell",
+        "title": "Information Systems, IT, Cyber Engineer & Data Science - Summer 2025 Intern (US Person Required)",
+        "locations": [
+            "United States"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "80668a18-eeb2-47d1-947a-3f554c4d1566",
+        "date_posted": 1730437676,
+        "company_url": "",
+        "is_visible": true
     }
 ]
