@@ -9622,7 +9622,7 @@
         "company_name": "Databento",
         "id": "a113d907-87db-49dd-945c-eb1a2ec2f94b",
         "title": "Software Engineer Internship - Flexible timing",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -101863,7 +101863,7 @@
         "company_name": "Walmart",
         "id": "90661bd1-fac3-49c8-bbbd-d11b3596c568",
         "title": "2025 Summer Intern: Software Engineer II",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -113438,7 +113438,7 @@
         "company_name": "Sophos",
         "id": "7f01b19c-7631-4475-b7c3-adc9146fe5ec",
         "title": "Software Engineering Intern - Month Fixed Term Placement - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -116940,7 +116940,7 @@
         "company_name": "The Federal Reserve System",
         "id": "b1bd3fc6-80f4-4877-ab79-833816249271",
         "title": "2025 SF Fed Summer Internship \u2013 Technical Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -120760,5 +120760,45 @@
         "date_posted": 1730437676,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Walt Disney Company",
+        "id": "7a81f4a0-5f7d-4d14-9b7b-f9c4a4727735",
+        "title": "Tax data Management & Innovation Graduate Intern",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1730445176,
+        "date_posted": 1730445176,
+        "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Celebration-FL-USA/Tax-data-Management---Innovation-Graduate-Intern_10104886-2",
+        "locations": [
+            "Celebration, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Disney",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Associated Bank",
+        "id": "3f251f30-6d87-4fab-b0cc-6fbece6aef17",
+        "title": "Corporate Intern - Artificial Intelligence - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730430988,
+        "date_posted": 1730430988,
+        "url": "https://associatedbank.wd1.myworkdayjobs.com/en-US/external_careers/job/Milwaukee-111-Kilbourn/Corporate-Intern---Artificial-Intelligence---Summer-2025_JR102019",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/63ed32ad-4f6b-4bd2-bce7-58ea7a9415ad",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
