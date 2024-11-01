@@ -98868,7 +98868,7 @@
         "company_name": "Marvell",
         "id": "e14a6592-4123-4e9c-85bf-eba6ed1a8f5a",
         "title": "Firmware Engineer Intern - Bachelors",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -103704,7 +103704,7 @@
         "company_name": "Elevance Health",
         "id": "758e1b35-3b6b-4803-8981-40fee5e1b31f",
         "title": "Data Intern-Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -112391,7 +112391,7 @@
         "company_name": "Leidos",
         "id": "4d1cefda-8958-4eaa-b674-30522580f3d8",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -112720,7 +112720,7 @@
         "company_name": "Leidos",
         "id": "17ae95f8-01f6-46ca-a145-2b0b01154b81",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -112777,7 +112777,7 @@
         "company_name": "Visa",
         "id": "ca49b9fd-222c-4397-af45-d2f2ae31a75d",
         "title": "Data Storage Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -112796,7 +112796,7 @@
         "company_name": "Visa",
         "id": "fa3c1a59-5912-43fb-b1aa-a34431f95897",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -112892,7 +112892,7 @@
         "company_name": "Marvell",
         "id": "b7f1ed46-5e47-439c-9661-a7f8c361b7a1",
         "title": "Application Engineering Intern - Bachelors",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -115653,7 +115653,7 @@
         "company_name": "Live Nation Entertainment",
         "id": "460e98da-f2fc-4648-9e37-55debd904cca",
         "title": "Mobile Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -117266,7 +117266,7 @@
         "company_name": "AVEVA",
         "id": "fd111ff5-5c04-450d-8e69-6103691a4f94",
         "title": "Services and Practices Intern - US",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024",
             "Fall 2024"
@@ -117839,7 +117839,7 @@
         "company_name": "JM Family",
         "id": "2bb40c84-63ab-4b6f-a380-c9822c7b716a",
         "title": "Intern \u2013 Developer Analyst",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2025",
             "Summer 2025"
@@ -120372,5 +120372,277 @@
         "date_posted": 1730348223,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Dialpad",
+        "id": "4ee8cb21-49af-407c-a1ec-c085a78eaabd",
+        "title": "Co-op Software Engineer - Switchrtc",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1730417330,
+        "date_posted": 1730417330,
+        "url": "https://job-boards.greenhouse.io/dialpad/jobs/7697965002",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Dialpad",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Dialpad",
+        "id": "02be7735-a35a-4a41-83cd-1e9ec456348d",
+        "title": "Co-op Speech Recognition Engineer",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1730417330,
+        "date_posted": 1730417330,
+        "url": "https://job-boards.greenhouse.io/dialpad/jobs/7696085002",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Dialpad",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Dialpad",
+        "id": "f854c787-c85e-4358-86dc-a99643b50472",
+        "title": "Co-op Software Engineer - Analytics",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1730417327,
+        "date_posted": 1730417327,
+        "url": "https://job-boards.greenhouse.io/dialpad/jobs/7696068002",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Dialpad",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Dialpad",
+        "id": "8eb41665-30b0-4d43-83bd-88f036cf99e1",
+        "title": "Co-op Software Engineer - Android",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1730417326,
+        "date_posted": 1730417326,
+        "url": "https://job-boards.greenhouse.io/dialpad/jobs/7695222002",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Dialpad",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Dialpad",
+        "id": "7f6b7907-3ef9-424d-a597-fca7b0d15027",
+        "title": "Co-op Software Engineer - AI Eng",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1730417327,
+        "date_posted": 1730417327,
+        "url": "https://job-boards.greenhouse.io/dialpad/jobs/7696028002",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Dialpad",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Dialpad",
+        "id": "cc8451c6-9336-4fd5-a407-7ced8145556c",
+        "title": "Co-op Software Engineer - Full Stack",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1730417320,
+        "date_posted": 1730417320,
+        "url": "https://job-boards.greenhouse.io/dialpad/jobs/7695248002",
+        "locations": [
+            "Kitchener, ON, Canada",
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Dialpad",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Dialpad",
+        "id": "87cdcb56-3818-40e3-82ee-8df0397ab4d0",
+        "title": "Co-op Software Engineer - Backend",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1730417320,
+        "date_posted": 1730417320,
+        "url": "https://job-boards.greenhouse.io/dialpad/jobs/7696014002",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Dialpad",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "SEO (Sponsors for Educational Opportunity)",
+        "id": "ebb6f892-0b59-4d36-a918-22d38889beb2",
+        "title": "Data Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026"
+        ],
+        "date_updated": 1730417222,
+        "date_posted": 1730417222,
+        "url": "https://job-boards.greenhouse.io/sponsorsforeducationalopportunity/jobs/7707141002",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/SEO",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "SharkNinja",
+        "id": "fa74f5cc-1e44-4a59-bae3-da85f2a33c78",
+        "title": "Spring \u2013 Software Automation Engineer Co-op: January to June 2025",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026"
+        ],
+        "date_updated": 1730417143,
+        "date_posted": 1730417143,
+        "url": "https://www.sharkninja.com/careers/?gh_jid=4415285006",
+        "locations": [
+            "Needham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/SharkNinja",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CVS Pharmacy",
+        "id": "5c9f4286-977f-4f07-96ca-836b0a015dcd",
+        "title": "Data Science Graduate Internship - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730418235,
+        "date_posted": 1730418235,
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/New-York-161-Ave-of-the-Americas/Data-Science-Graduate-Internship---Summer-2025_R0409081",
+        "locations": [
+            "Needham, MA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/CVS",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Ncino",
+        "id": "131a38ec-1fad-4ec8-a20e-692af9735f73",
+        "title": "Data Science Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730418075,
+        "date_posted": 1730418075,
+        "url": "https://ncino.wd5.myworkdayjobs.com/en-US/nCinoCareers/job/Wilmington-NC/Data-Science-Intern---Summer-2025_R5219",
+        "locations": [
+            "Wilmington, NC",
+            "Lehi, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/1e4b945b-2f92-4ff0-86e1-e650599003ae",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Point72",
+        "id": "3505a4e7-4298-4a6f-a379-a97daae034d4",
+        "title": "2025 Spring Internship - Data Engineer - Proprietary Research",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1730417727,
+        "date_posted": 1730417727,
+        "url": "https://job-boards.greenhouse.io/point72/jobs/7671322002",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Point72",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Federal Reserve System",
+        "id": "ac9c499f-7b13-49fc-b9a0-a0236d4b3c84",
+        "title": "Summer 2025 Intern - IT S&R Enablement",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730417635,
+        "date_posted": 1730417635,
+        "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Dallas-TX/Summer-2025-Intern---IT-S-R-Enablement_R-0000026688",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/6a7a42d3-327f-4b48-a7a7-c68f405e3396",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Medline",
+        "id": "38ce5227-5f71-4e3a-9d2e-a482972f27f2",
+        "title": "IT Development Intern - Pricing Apps - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730418446,
+        "date_posted": 1730418446,
+        "url": "https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northfield-Illinois/IT-Development-Intern--Pricing-Apps----Summer-2025_R2408327",
+        "locations": [
+            "Northbrook, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/f22ab711-4900-472d-be8a-7263e99e49fa",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
