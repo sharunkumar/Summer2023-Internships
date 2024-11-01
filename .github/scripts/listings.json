@@ -96488,7 +96488,7 @@
         "company_name": "Riot Games",
         "id": "22882091-23ef-4962-aa19-5040ce237ec7",
         "title": "Software Engineering Intern - Summer 2025 - Remote",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -109077,7 +109077,7 @@
         "company_name": "Expedia",
         "id": "7bc02bfe-d78c-44e5-9b5f-8a36de58d80b",
         "title": "Technical Program Management Intern - June 2025 - London",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -114170,7 +114170,7 @@
         "company_name": "Adobe",
         "id": "bef37a50-3687-45fc-8b37-b09185ae4828",
         "title": "2025 Intern - Associate Technical Account Manager",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024",
@@ -116221,7 +116221,7 @@
         "company_name": "Art of Problem Solving",
         "id": "21a11602-337c-466f-ac4a-fd72d2723d4c",
         "title": "Software Engineering Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -120593,7 +120593,7 @@
         "company_name": "Point72",
         "id": "3505a4e7-4298-4a6f-a379-a97daae034d4",
         "title": "2025 Spring Internship - Data Engineer - Proprietary Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -120798,6 +120798,63 @@
             "Milwaukee, WI"
         ],
         "company_url": "https://simplify.jobs/c/63ed32ad-4f6b-4bd2-bce7-58ea7a9415ad",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Adobe",
+        "id": "2c41b13d-754c-4018-8fa1-918b2c4c5c3c",
+        "title": "2025 Intern - Emerging Technology Analyst",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730474935,
+        "date_posted": 1730474935,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2025-Intern---Emerging-Technology-Analyst_R148758",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Adobe",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Nutanix",
+        "id": "6dd09e2c-6c00-45e6-b3a0-8660160db77a",
+        "title": "Software Engineer Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730474376,
+        "date_posted": 1730474376,
+        "url": "https://jobs.jobvite.com/nutanix/job/oQjLufw8?nl=1&nl=1&fr=false",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Nutanix",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wave Financial",
+        "id": "8c9e5222-995a-43f5-b613-ae9e754c072a",
+        "title": "Software Engineer \u2013 Co-op - Winter",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1730474138,
+        "date_posted": 1730474138,
+        "url": "https://jobs.lever.co/waveapps/729c2b7a-1b66-4490-a468-0af974e4ad2a/apply",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/WaveFinancial",
         "is_visible": true,
         "sponsorship": "Other"
     }
