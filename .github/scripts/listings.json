@@ -113348,7 +113348,7 @@
         "company_name": "T. Rowe Price",
         "id": "b9436abe-3b2b-4217-9d14-b5e46a6e95a8",
         "title": "2024 SHPE National Convention \u2013 2025 Summer Software Engineering Internship Program - SHPE Student Attendees ONLY - Global Technology",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -117190,7 +117190,7 @@
         "company_name": "The Federal Reserve System",
         "id": "0c3b245a-a4ba-48e7-9e68-e726a2dcdc7c",
         "title": "2025 Summer Internship Program \u2013 BTS Innovation Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -117228,7 +117228,7 @@
         "company_name": "The Federal Reserve System",
         "id": "5a3b39d3-f147-4a11-b4eb-4f0741bb27d6",
         "title": "2025 Summer Internship Program - Supervision & Regulation - Cyber & Emerging Technologies",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -117368,7 +117368,7 @@
         "company_name": "The Federal Reserve System",
         "id": "6dad8651-8acf-4d29-9227-f4b69ec20d90",
         "title": "2025 Summer Internship Program \u2013 ASO Audit Practices Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -117484,7 +117484,7 @@
         "company_name": "The Federal Reserve System",
         "id": "f745fb66-82de-497e-be4c-fda679f06567",
         "title": "2025 Summer Internship Program - Supervision & Regulation - Info Tech",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -117561,7 +117561,7 @@
         "company_name": "The Federal Reserve System",
         "id": "2125b32e-da54-495d-8e65-6cfab42e9638",
         "title": "2025 Summer Internship Program - Supervision & Regulation - Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -119679,7 +119679,7 @@
         "company_name": "Northrop Grumman",
         "id": "31fd15d8-fde7-4629-ae94-fd6274038c23",
         "title": "2025 Systems Engineer Internship - Linthicum MD/Annapolis Junction MD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -120224,7 +120224,7 @@
         "company_name": "Northrop Grumman",
         "id": "71cb7cf7-a7b2-495c-9ad9-fddfad743e23",
         "title": "2025 Software Engineer Intern - Fsw/Sim - Dulles VA",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -120844,7 +120844,7 @@
         "company_name": "Wave Financial",
         "id": "8c9e5222-995a-43f5-b613-ae9e754c072a",
         "title": "Software Engineer \u2013 Co-op - Winter",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -121051,6 +121051,104 @@
         "source": "LuaanNguyen",
         "id": "58568a42-1f8a-49a4-9864-8ef04bb974a3",
         "date_posted": 1730505755,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "18ddfbb5-edc3-4b6e-a940-206548683e8c",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730503085,
+        "date_posted": 1730503085,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Software-Engineer-Intern_R-00147490",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CVS Pharmacy",
+        "id": "9242131b-9dd6-4443-955c-205c9d46f5b9",
+        "title": "Data Science Undergraduate Internship - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730493135,
+        "date_posted": 1730493135,
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Data-Science-Undergraduate-Internship---Summer-2025_R0409086",
+        "locations": [
+            "Needham, MA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/CVS",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "PlayStation Global",
+        "id": "ccf0c89e-70c5-4cc3-922c-5626a2970f1f",
+        "title": "Software Engineer Intern - Undergraduate",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1730517340,
+        "date_posted": 1730517340,
+        "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5340600004",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/PlayStation-Global",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1730520151,
+        "url": "https://jobs.careers.microsoft.com/us/en/job/1781490/Software-Engineer-Fullstack-Intern-Opportunities-for-University-Students-New-York-City",
+        "company_name": "Microsoft",
+        "title": "Software Engineer: Fullstack Intern Opportunities for University Students, New York City",
+        "locations": [
+            "New York, NY"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "5607ca13-04b8-460e-a0eb-70d9c272344c",
+        "date_posted": 1730520151,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1730520235,
+        "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---Palo-Alto/Summer-2025---AI-Software-Engineer-Intern_JR267142-2",
+        "company_name": "Salesforce",
+        "title": "Summer 2025 - AI Software Engineer Intern",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "563bd486-7aa0-42b4-a803-f05f8e3d4edb",
+        "date_posted": 1730520235,
         "company_url": "",
         "is_visible": true
     }
