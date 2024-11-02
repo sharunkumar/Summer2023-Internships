@@ -81133,7 +81133,7 @@
         "company_name": "Palantir",
         "id": "7d60f17a-30cd-45a6-9155-be2a323d49c4",
         "title": "Semester at Palantir \u2013 Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2024"
         ],
@@ -87087,7 +87087,7 @@
         "company_name": "Palantir",
         "id": "9a6e1962-5442-494d-b3bd-c93ebb7f642f",
         "title": "Semester at Palantir \u2013 Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2024"
         ],
@@ -88032,7 +88032,7 @@
         "company_name": "Kargo",
         "id": "8b6fb24e-d7ce-444e-a6a0-d5f82e59d4d2",
         "title": "Backend Software Engineer \u2013 Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -98596,7 +98596,7 @@
         "company_name": "Allegion",
         "id": "cd0e404c-c82a-44f0-8f78-e9c6b67ba5f4",
         "title": "Software Engineering Intern - Devops",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -100029,7 +100029,7 @@
         "company_name": "Lucid Motors",
         "id": "ca722184-b0f3-44b5-98ae-61f7cfb31df7",
         "title": "Intern \u2013 Software Tools - Diagnostic System - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -101961,7 +101961,7 @@
         "company_name": "Second Dinner",
         "id": "3973cae7-ad1c-42e3-9dd5-5a3f97be7ede",
         "title": "Summer 2025] Software Engineer Intern - Features",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -104669,7 +104669,7 @@
         "company_name": "DoorDash",
         "id": "7b186e54-2654-4482-a3e7-7489019c7241",
         "title": "Software Engineer, Intern, 2024/25 (University Recruiting)",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -104863,7 +104863,7 @@
         "company_name": "DoorDash",
         "id": "562d7973-68ee-49ad-898f-68dd3f4ad6fc",
         "title": "Software Engineer \u2013 Intern - Toronto - University Recruiting",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024",
             "Summer 2024"
@@ -105369,7 +105369,7 @@
         "company_name": "Intel",
         "id": "12d300b4-df8a-4234-9423-017c5f076586",
         "title": "Graduate Intern - Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -106693,7 +106693,7 @@
         "company_name": "Noah Medical",
         "id": "d30c1e03-a6d8-4837-b9d7-f9db7518e8e5",
         "title": "System Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -110686,7 +110686,7 @@
         "company_name": "Leidos",
         "id": "50f1f3c3-f1d6-4cb9-a5d0-533274346fb9",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -112334,7 +112334,7 @@
         "company_name": "Waymo",
         "id": "d1e9a963-7734-4792-9e32-3abb07994074",
         "title": "2025 Summer Intern - BS/MS - Labeling Platform - Full-Stack Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -112853,7 +112853,7 @@
         "company_name": "EUNA Solutions",
         "id": "033978f1-a7c2-4589-90ee-ad702af34688",
         "title": "Software Developer Co-Op - React/Nodejs",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -117075,7 +117075,7 @@
         "company_name": "MSD",
         "id": "cfc17684-87d7-41eb-8bbc-6281ef8244e3",
         "title": "2025 University Recruiting \u2013 Data Scientist Co-op - Rahway NJ",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023"
         ],
@@ -119722,7 +119722,7 @@
         "company_name": "Leidos",
         "id": "5f9d5402-9664-4f03-8fba-e8ce451adb0f",
         "title": "Associate Software Engineer Intern - Spring Semester - November - May",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024",
             "Winter 2025",
@@ -120166,7 +120166,7 @@
         "company_name": "Motorola",
         "id": "e9d2c6d3-5544-4772-9a81-683cda30f331",
         "title": "Tableau Data Scientist Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -120281,7 +120281,7 @@
         "company_name": "Crowdstrike",
         "id": "f6525d7e-4313-4200-8dba-3179827eaad5",
         "title": "Sales Excellence Data Analytics Intern - Summer 2025 - Texas - Remote",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -120707,7 +120707,7 @@
         "company_name": "Associated Bank",
         "id": "ecf28b6e-2c3a-408d-a18c-80c390dc0b0b",
         "title": "Corporate Intern - Digital Engineering - Summer 2025 - Hybrid Green Bay or Milwaukee",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -120787,7 +120787,7 @@
         "company_name": "Associated Bank",
         "id": "3f251f30-6d87-4fab-b0cc-6fbece6aef17",
         "title": "Corporate Intern - Artificial Intelligence - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -120844,7 +120844,7 @@
         "company_name": "Wave Financial",
         "id": "8c9e5222-995a-43f5-b613-ae9e754c072a",
         "title": "Software Engineer \u2013 Co-op - Winter",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -120857,5 +120857,201 @@
         "company_url": "https://simplify.jobs/c/WaveFinancial",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Corelogic",
+        "id": "01bb67ef-5334-490d-aee5-c8b719f3048f",
+        "title": "Intern \u2013 Geospatial Operations",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1730489625,
+        "date_posted": 1730489625,
+        "url": "https://corelogic.wd5.myworkdayjobs.com/en-US/Global/job/Austin-TX/Intern--Geospatial-Operations_REQ15742",
+        "locations": [
+            "Austin, TX",
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/84f3bc2b-33c1-4bb0-af43-21bb8d59d639",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Seismic",
+        "id": "05a89055-b190-4eda-8f52-ff9dce7a3a5b",
+        "title": "Software Engineer \u2013 Co-Op/Pey",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730491389,
+        "date_posted": 1730491389,
+        "url": "https://seismic.com/company/careers/job-detail/?gh_jid=5368925004",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Seismic",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Visa",
+        "id": "0ea06764-fe56-4a15-a707-876d026f9e8f",
+        "title": "Associate Data Scientist \u2013 Intern - Cybersecurity",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730491260,
+        "date_posted": 1730491260,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000024149200",
+        "locations": [
+            "Ashburn, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Visa",
+        "id": "f048a50d-651c-4202-ba2b-619acfecc386",
+        "title": "Data Engineer Intern",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1730491255,
+        "date_posted": 1730491255,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000024169985",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "PitchBook",
+        "id": "7892391d-4ea1-44b3-8d64-b186b04b552f",
+        "title": "Data Analyst Summer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1730492864,
+        "date_posted": 1730492864,
+        "url": "https://job-boards.greenhouse.io/pitchbookdata/jobs/4410115006",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/PitchBook",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cognex",
+        "id": "83a20ae5-c39b-40f0-b6c4-2207b77143ab",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730492293,
+        "date_posted": 1730492293,
+        "url": "https://cognex.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/Wauwatosa-Wisconsin/Software-Engineering-Intern_R0010292",
+        "locations": [
+            "Wauwatosa, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/6223a3c8-d5e0-47cb-a64c-2cf512c65e98",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sony Interactive Entertainment",
+        "id": "8aa559ae-b7e1-465a-bb58-d6ffc0f4bf68",
+        "title": "Software Engineer Intern - Undergraduate",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1730502885,
+        "date_posted": 1730502885,
+        "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5355807004",
+        "locations": [
+            "Madison, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Sony-Interactive-Entertainment",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "ServiceNow",
+        "id": "4825efd1-b554-4544-a1ba-a5635398bbe7",
+        "title": "Software Engineer Intern - Innovation Team",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730502683,
+        "date_posted": 1730502683,
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000024209166",
+        "locations": [
+            "Remote in USA",
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ServiceNow",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "39c17ce6-648c-4d60-8fe0-11e3f26c20f5",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730503086,
+        "date_posted": 1730503086,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Software-Engineer-Intern_R-00147486",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1730505755,
+        "url": "https://app.ripplematch.com/v2/public/job/82ab6644/details",
+        "company_name": "Reddit",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "New York, NY",
+            "San Francisco, CA",
+            "Remote"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "LuaanNguyen",
+        "id": "58568a42-1f8a-49a4-9864-8ef04bb974a3",
+        "date_posted": 1730505755,
+        "company_url": "",
+        "is_visible": true
     }
 ]
