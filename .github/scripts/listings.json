@@ -121170,5 +121170,43 @@
         "company_url": "https://simplify.jobs/c/Leidos",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1730607531,
+        "url": "https://careers.micron.com/careers/job/25437420?src=JB-12600",
+        "company_name": "Micron Technology",
+        "title": "Intern - Software Engineer CXL development",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "9bdca35b-9e64-44d6-94fe-9fbe9c9e9bf3",
+        "date_posted": 1730607531,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1730607610,
+        "url": "https://careers.ibm.com/job/21042782/data-and-ai-intern-new-york-ny/",
+        "company_name": "IBM",
+        "title": "Data and AI Intern",
+        "locations": [
+            "New York, NY"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "e5fbc0c3-7e8e-44a6-8b80-231d816c3806",
+        "date_posted": 1730607610,
+        "company_url": "",
+        "is_visible": true
     }
 ]
