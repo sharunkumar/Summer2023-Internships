@@ -101863,7 +101863,7 @@
         "company_name": "Walmart",
         "id": "90661bd1-fac3-49c8-bbbd-d11b3596c568",
         "title": "2025 Summer Intern: Software Engineer II",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -121151,5 +121151,24 @@
         "date_posted": 1730520235,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "9bb3eda4-de1d-49bc-8bc5-ccbf442e6a43",
+        "title": "Interactive AI Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730589639,
+        "date_posted": 1730589639,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Interactive-AI-Developer-Intern_R-00146688",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
