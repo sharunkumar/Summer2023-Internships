@@ -112815,7 +112815,7 @@
         "company_name": "Visa",
         "id": "767f0e40-58d2-4806-b377-b412a2cc0b7a",
         "title": "Systems Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -121208,5 +121208,45 @@
         "date_posted": 1730607610,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "SharkNinja",
+        "id": "0400b96d-b789-44cb-bfec-bd51e33574fb",
+        "title": "Spring \u2013 Mobile App Developer Co-op: January to June 2025",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026"
+        ],
+        "date_updated": 1730678928,
+        "date_posted": 1730678928,
+        "url": "https://www.sharkninja.com/careers/?gh_jid=4415808006",
+        "locations": [
+            "Needham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/SharkNinja",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Visa",
+        "id": "e02f1b4f-9c33-4d81-b121-0a61d8ac7729",
+        "title": "Systems Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1730678731,
+        "date_posted": 1730678731,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000024417185",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
