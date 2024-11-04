@@ -116067,7 +116067,7 @@
         "company_name": "Capital One",
         "id": "f60631a8-d36f-432b-91da-0dc41869dc90",
         "title": "Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -117504,7 +117504,7 @@
         "company_name": "Autodesk",
         "id": "75e7e9a0-01b1-43b7-b2ef-d9208e406345",
         "title": "Intern \u2013 Software Engineer - Starting Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
