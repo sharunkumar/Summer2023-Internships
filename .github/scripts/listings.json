@@ -87087,7 +87087,7 @@
         "company_name": "Palantir",
         "id": "9a6e1962-5442-494d-b3bd-c93ebb7f642f",
         "title": "Semester at Palantir \u2013 Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -93568,7 +93568,7 @@
         "company_name": "Plexus",
         "id": "8c5ec152-c856-471c-9e30-edabb29ffcdd",
         "title": "Intern \u2013 Manufacturing Systems Engineer - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -95866,7 +95866,7 @@
         "company_name": "Alcon",
         "id": "2b140cac-74b8-42de-8d7e-9b8e67a8df74",
         "title": "2025 R&D Summer Intern - Track 2",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -103995,7 +103995,7 @@
         "company_name": "Pinterest",
         "id": "ec30b20d-57c5-4607-9036-e3a439a9d090",
         "title": "Mobile Engineer Intern 2025 - USA",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025",
@@ -104036,7 +104036,7 @@
         "company_name": "Pinterest",
         "id": "0de3234a-ead0-475f-82b0-76bada912b7f",
         "title": "Mobile Engineer Intern 2025 - San Francisco",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025",
@@ -105369,7 +105369,7 @@
         "company_name": "Intel",
         "id": "12d300b4-df8a-4234-9423-017c5f076586",
         "title": "Graduate Intern - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -108288,7 +108288,7 @@
         "company_name": "The Allen Institute for AI",
         "id": "2c889233-5be5-4333-a079-467784b67829",
         "title": "Research Intern - Semantic Scholar",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -109414,7 +109414,7 @@
         "company_name": "KKR",
         "id": "0d48201f-42db-4531-8e1d-a059f769946a",
         "title": "2025 Technology Summer Internship Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -110473,7 +110473,7 @@
         "company_name": "Vail Systems",
         "id": "1d64881f-6a81-443e-a41c-95b914c2e364",
         "title": "C++ Software Engineer Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -110686,7 +110686,7 @@
         "company_name": "Leidos",
         "id": "50f1f3c3-f1d6-4cb9-a5d0-533274346fb9",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -113126,7 +113126,7 @@
         "company_name": "Snyk",
         "id": "f90a6973-9818-4940-8e7b-9479505cf112",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -115452,7 +115452,7 @@
         "company_name": "Allegion",
         "id": "68e37450-3f36-4b2a-85e0-6b36e3754c37",
         "title": "Software Engineering Verification Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -115473,7 +115473,7 @@
         "company_name": "Allegion",
         "id": "7a2e0b29-5711-40e3-bb8a-a214cbbd0faf",
         "title": "Software Engineering Intern - Mobile",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -116671,7 +116671,7 @@
         "company_name": "Western Digital",
         "id": "837b2871-04ed-4ff8-9c11-50a66e3de37d",
         "title": "Summer 2025 \u2013 Software Engineer Intern - System Test",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -118976,7 +118976,7 @@
         "company_name": "Allegion",
         "id": "b94b84e5-ee02-4273-9c65-8b78a9648aa7",
         "title": "Systems Engineer Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -119303,7 +119303,7 @@
         "company_name": "ICF",
         "id": "5bb2b507-d69b-44b0-9432-ff8bb6367c8d",
         "title": "2025 Summer Intern - Developer - Bachelor's; Remote or Reston - VA",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -119401,7 +119401,7 @@
         "company_name": "Motorola",
         "id": "fce7c752-556b-4eda-b333-2fe86764c387",
         "title": "Software Engineer Intern \u2013 Fall 2024/Spring 2025 Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024",
             "Winter 2025",
@@ -120593,7 +120593,7 @@
         "company_name": "Point72",
         "id": "3505a4e7-4298-4a6f-a379-a97daae034d4",
         "title": "2025 Spring Internship - Data Engineer - Proprietary Research",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2025"
         ],
@@ -121305,5 +121305,64 @@
         "date_posted": 1730696885,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "JM Family",
+        "id": "e4c4b8b2-3664-4eb2-af6f-df799bf7202a",
+        "title": "Intern \u2013 Power Platform",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1730738522,
+        "date_posted": 1730738522,
+        "url": "https://jmfamily.wd1.myworkdayjobs.com/en-US/JMFamily_External/job/Florida---Deerfield-Beach/Intern--Power-Platform_JR103101",
+        "locations": [
+            "St. Louis, MO",
+            "Deerfield Beach, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/21dffcc2-c17a-4628-b26d-c6e0b368edc2",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Twitch",
+        "id": "550ce4fd-e625-4bd4-ad92-4eaa8471a9f2",
+        "title": "Undergrad Software Engineering Intern - Dec 2025/Spring 2026",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1730738062,
+        "date_posted": 1730738062,
+        "url": "https://boards.greenhouse.io/twitch/jobs/7682566002",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Twitch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Twitch",
+        "id": "66792394-1102-4d9b-9d85-9e37a40193b3",
+        "title": "Mobile Engineering Intern - Dec 2025/Spring 2026",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1730738053,
+        "date_posted": 1730738053,
+        "url": "https://boards.greenhouse.io/twitch/jobs/7699674002",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Twitch",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
