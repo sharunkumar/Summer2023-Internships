@@ -119093,7 +119093,7 @@
         "company_name": "The Walt Disney Company",
         "id": "ffcdbdc3-548d-46a7-90eb-fd7c75820d49",
         "title": "Digital Analytics Intern - Spring 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -121157,7 +121157,7 @@
         "company_name": "Leidos",
         "id": "9bb3eda4-de1d-49bc-8bc5-ccbf442e6a43",
         "title": "Interactive AI Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -121248,5 +121248,62 @@
         "company_url": "https://simplify.jobs/c/Visa",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Five Rings Capital",
+        "id": "354f885e-0245-4abd-9ce9-f186fcd079d4",
+        "title": "Summer Intern 2025 - Quantitative Research Analyst",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730693804,
+        "date_posted": 1730693804,
+        "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/4069548008",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Five-Rings",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1730696865,
+        "url": "https://careers.adobe.com/us/en/job/ADOBUSR148758EXTERNALENUS/2025-Intern-Emerging-Technology-Analyst",
+        "company_name": "Adobe",
+        "title": "2025 Intern - Emerging Technology Analyst",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "a1a631d9-1dc1-4367-8a60-d72a44a7eb0b",
+        "date_posted": 1730696865,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1730696885,
+        "url": "https://campus-americas.icims.com/jobs/14983/software-engineer-intern%25252c-2025-summer-u.s./job?iis=LinkedIn&iisn=LinkedIn_Job_Ad&mode=job",
+        "company_name": "Atlassian",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "LuaanNguyen",
+        "id": "89da4147-710b-4ce2-863c-4e8a96ea9515",
+        "date_posted": 1730696885,
+        "company_url": "",
+        "is_visible": true
     }
 ]
