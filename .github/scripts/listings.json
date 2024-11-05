@@ -18146,7 +18146,7 @@
         "company_name": "Overbond",
         "id": "035b1a87-168f-416f-96a5-34f2cee06341",
         "title": "Full-Stack Developer Intern-PEY/Co-Op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -24425,7 +24425,7 @@
         "company_name": "Zoox",
         "id": "481c2ebb-a5c3-4b62-97ac-829cdc757dee",
         "title": "Prediction & Behavior ML Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -25614,7 +25614,7 @@
         "company_name": "Skydio",
         "id": "60f3b3fc-eaf8-473e-8cd8-643f1b14fb7c",
         "title": "Autonomy Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2023"
         ],
@@ -27478,7 +27478,7 @@
         "company_name": "Zoox",
         "id": "a5d62cf4-e345-4515-81d0-352e6a8a70ff",
         "title": "CLAMS HD Mapping Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -35188,7 +35188,7 @@
         "company_name": "Zoox",
         "id": "98a80f60-eab1-454e-b94e-1a0934cdfee3",
         "title": "Firmware Engineer Internship/Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -79708,7 +79708,7 @@
         "company_name": "Aurora University",
         "id": "5b81ec3f-6858-43e8-9b00-0cf85939bf84",
         "title": "Internship Interest Form",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -82194,7 +82194,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "60ff3195-b1a0-4648-afd4-f7326d732e8c",
         "title": "Machine Learning Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -86209,7 +86209,7 @@
         "company_name": "Fetch",
         "id": "bddf8ce2-320a-44cf-9642-0f4ffb062bc3",
         "title": "IOS Engineer \u2013 Apprenticeship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -86665,7 +86665,7 @@
         "company_name": "Radix Trading",
         "id": "948bfd49-4a78-4839-a813-b864222db13a",
         "title": "Quantitative Technologist \u2013 C++ Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -89013,7 +89013,7 @@
         "company_name": "GPTZero",
         "id": "85d9aada-1016-4113-88e9-ad05a178e614",
         "title": "Machine Learning Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -90690,8 +90690,8 @@
         ],
         "sponsorship": "Offers Sponsorship",
         "active": true,
-        "source": "sayhilel",
-        "id": "7aac46e2-19b8-4601-a0bc-1145f37e00df",
+        "source": "Simplify",
+        "id": "16392015-d8f0-4423-a2c2-24463cc0ebc7",
         "date_posted": 1722712102,
         "company_url": "",
         "is_visible": true
@@ -91553,7 +91553,7 @@
         "company_name": "Jump Trading",
         "id": "b04ab8c0-6ce1-4f7d-97ea-0e5149889bd9",
         "title": "Campus Web Dev / UI Software Engineer \u2013 Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -91572,7 +91572,7 @@
         "company_name": "Jump Trading",
         "id": "aa3c9a39-b03d-4365-9290-d29f2effa2a4",
         "title": "Campus Quantitative Trader \u2013 Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -91706,7 +91706,7 @@
         "company_name": "Neuralink",
         "id": "0b651fbf-acad-4f2d-8006-98119aaffc93",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -91725,7 +91725,7 @@
         "company_name": "Neuralink",
         "id": "ae08c445-487d-48cb-8271-cd7838993757",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -91877,7 +91877,7 @@
         "company_name": "Jump Trading",
         "id": "918337d5-7822-4184-960a-d52fafb46921",
         "title": "Campus Software Engineer \u2013 Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024",
             "Winter 2025",
@@ -91940,7 +91940,7 @@
         "company_name": "Jump Trading",
         "id": "885362e5-31ed-4f04-8f72-87ff0c2cfd60",
         "title": "Campus Software Engineer \u2013 Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024",
             "Winter 2025",
@@ -93492,7 +93492,7 @@
         "company_name": "Pocket Worlds",
         "id": "bb4551f2-3af7-407d-aa29-afb4743850a7",
         "title": "Software Development Residency",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -96348,7 +96348,7 @@
         "company_name": "Epic Games",
         "id": "78f96ab1-e760-4c5b-b6cc-1210a101f0b4",
         "title": "Backend Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -96581,7 +96581,7 @@
         "company_name": "Epic Games",
         "id": "0cb8053d-1100-4662-bedd-f32934086388",
         "title": "Backend Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -96947,7 +96947,7 @@
         "company_name": "Epic Games",
         "id": "70948d2c-c10a-492e-a93d-ce5702e32178",
         "title": "Gameplay Programmer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -97531,7 +97531,7 @@
         "company_name": "Epic Games",
         "id": "b4b438a0-07ed-4fa1-bb56-9d148fa06e2f",
         "title": "Salesforce Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -97588,7 +97588,7 @@
         "company_name": "Epic Games",
         "id": "06a7f603-2373-4623-829c-ad6406287f5e",
         "title": "Engine Programmer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -97666,7 +97666,7 @@
         "company_name": "Genesis Therapeutics",
         "id": "afba7098-7508-4a1a-9426-f55103bcfb3f",
         "title": "Software Engineer Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -97723,7 +97723,7 @@
         "company_name": "Epic Games",
         "id": "173e760d-9ece-465f-bbe7-81067363a494",
         "title": "Engine Programmer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -98279,7 +98279,7 @@
         "company_name": "Aigen",
         "id": "0f444ac3-e644-444a-a08a-28646986cf2d",
         "title": "Field Robot Operator \u2013 Summer Interns 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -98810,7 +98810,7 @@
         "company_name": "Epic Games",
         "id": "fc20b50e-c7c7-44e6-8b6c-2c8e5959900f",
         "title": "Engine Programmer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -99334,7 +99334,7 @@
         "company_name": "Center for AI Safety",
         "id": "947fa70f-4819-4a67-8984-e39ccf19097d",
         "title": "Research Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -100128,7 +100128,7 @@
         "company_name": "Waystar",
         "id": "61df5c32-4411-44f5-944c-7eacf6644404",
         "title": "Application Engineer: Co-Op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -100861,7 +100861,7 @@
         "company_name": "Epic Games",
         "id": "b654a1d8-5ca2-4f9d-9d2e-249e8ace9ab5",
         "title": "Gameplay Programmer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -110879,7 +110879,7 @@
         "company_name": "Applied Materials",
         "id": "d852e131-fe55-4b56-a054-9bf51fe1f480",
         "title": "2025 Spring AI ML Co-op - Part-time - Gloucester - MA",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -114407,7 +114407,7 @@
         "company_name": "Adobe",
         "id": "031254e1-cde2-4763-980a-845699fdb8f2",
         "title": "2025 Intern - Machine Learning Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024",
@@ -119971,7 +119971,7 @@
         "company_name": "Boomi",
         "id": "7c4481a5-50da-435b-9b5b-2b419c0fdf35",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -120512,7 +120512,7 @@
         "company_name": "SEO (Sponsors for Educational Opportunity)",
         "id": "ebb6f892-0b59-4d36-a918-22d38889beb2",
         "title": "Data Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026"
@@ -121429,7 +121429,7 @@
         "company_name": "Echo Global Logistics",
         "id": "cdf042b6-63f6-410b-a36d-8dec42556acf",
         "title": "Software Engineering Intern-Chicago",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -121795,5 +121795,585 @@
         "company_url": "https://simplify.jobs/c/MLB",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Activision-Blizzard",
+        "id": "c9e3ac5d-be50-45eb-9b7d-24c4902b8d20",
+        "title": "2025 US Summer Internship - Technical Art",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730773441,
+        "date_posted": 1730765486,
+        "url": "https://activision.wd1.myworkdayjobs.com/External/job/Playa-Vista/Technical-Art-Internship_R024226",
+        "locations": [
+            "LA",
+            "Middleton, WI",
+            "Culver City, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Activision-Blizzard",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Five Rings Capital",
+        "id": "b8cda2c9-5de3-4928-8bf0-5ffe8f330d3f",
+        "title": "Winter Intern 2025 - Software Developer",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1730693801,
+        "date_posted": 1730693801,
+        "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/4009043008",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Five-Rings",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Electric Mind",
+        "id": "05c98526-bc32-48dd-b411-712b7f2be675",
+        "title": "Software Developer Internship",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730258400,
+        "date_posted": 1730258400,
+        "url": "https://jobs.lever.co/intelliware/24345432-7189-4849-a389-3bad4abde843/apply",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/51123b55-9be2-4c4f-a980-2c22c96aa4bf",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Fetch",
+        "id": "6712216c-4774-46ed-bd94-eeaaf78e272a",
+        "title": "Machine Learning Engineer \u2013 Apprentice",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1730147321,
+        "date_posted": 1730147321,
+        "url": "https://boards.greenhouse.io/fetchrewards/jobs/6256434003",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/FetchRewards",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Fetch",
+        "id": "8e571664-f6e4-4e05-a3b4-39a325526cd7",
+        "title": "Backend Engineer \u2013 Apprenticeship",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730147315,
+        "date_posted": 1730147315,
+        "url": "https://boards.greenhouse.io/fetchrewards/jobs/6256428003",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/FetchRewards",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "MSD",
+        "id": "6dd10961-761f-4f47-a8b0-674509499751",
+        "title": "2025 University Recruiting \u2013 US Companion Animal Data Analytics Intern",
+        "active": true,
+        "terms": [
+            "Fall 2023"
+        ],
+        "date_updated": 1729900300,
+        "date_posted": 1729900300,
+        "url": "https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---New-Jersey---Rahway/XMLNAME-2025-University-Recruiting---US-Companion-Animal-Data-Analytics-Intern_R309212",
+        "locations": [
+            "Linden, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/175953b9-17d1-4a2f-b0af-b77706477183",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Epic Games",
+        "id": "fd9ac172-13e7-4871-a3f6-f8dbf244fd81",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726687589,
+        "date_posted": 1726269275,
+        "url": "https://epicgames.com/careers/jobs/5305773004?gh_jid=5305773004",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Epic-Games",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Zoox",
+        "id": "3231db1d-53fe-4670-bfda-b9e2471e6598",
+        "title": "CLAMS HD Mapping Internship/Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729034298,
+        "date_posted": 1729034298,
+        "url": "https://jobs.lever.co/zoox/887bb714-a1b0-4d62-a622-9caf9d3b88af/apply",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zoox",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Vantage Data Centers",
+        "id": "7f844d84-5578-4b54-80c6-ab3a2f6604b2",
+        "title": "Vantage Data Centers Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726700908,
+        "date_posted": 1726700908,
+        "url": "https://vantagedc.wd1.myworkdayjobs.com/en-US/Vantage/job/Denver-Colorado/Vantage-Data-Centers-Intern--NA_R16328",
+        "locations": [
+            "Ashburn, VA",
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/62df3370-bf7b-46b7-8619-e32dcd7d3fb3",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Epic Games",
+        "id": "7d4ca2a7-4a3d-4096-a32a-c0c922fe757f",
+        "title": "Gameplay Systems Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727464003,
+        "date_posted": 1727450105,
+        "url": "https://epicgames.com/careers/jobs/5278895004?gh_jid=5278895004",
+        "locations": [
+            "Morrisville, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Epic-Games",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Aigen",
+        "id": "adf3eaa6-55c7-4c50-95f6-9e503e5db19c",
+        "title": "Field Robot Operator \u2013 Early Interest: Summer Interns 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727478915,
+        "date_posted": 1727478915,
+        "url": "https://jobs.lever.co/aigen/9512d1ca-7a62-4f21-aa27-d4284ed78cc0/apply",
+        "locations": [
+            "Merced, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Aigen",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": " PrizePicks",
+        "id": "cecf1219-b4f8-4257-8952-8f57a70f272a",
+        "title": "Marketing Analytics Internship",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727811743,
+        "date_posted": 1727811743,
+        "url": "http://prizepicks.com/position?gh_jid=6226930003",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/PrizePicks",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Epic Games",
+        "id": "acc34235-ca95-4ce3-8931-86c1a43db1f0",
+        "title": "Gameplay Programmer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1726687229,
+        "date_posted": 1726528634,
+        "url": "https://epicgames.com/careers/jobs/5302372004?gh_jid=5302372004",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Epic-Games",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Aquatic Capital Management",
+        "id": "cb147f07-7e35-469b-acc8-0facb8e89667",
+        "title": "Quantitative Researcher \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729725521,
+        "date_posted": 1729725521,
+        "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7593503002",
+        "locations": [
+            "London, UK",
+            "Chicago, IL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Aquatic-Capital-Management",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Trimble",
+        "id": "63328f8e-37de-4f6c-80ff-c5bd8c930e13",
+        "title": "Product Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730318602,
+        "date_posted": 1730318602,
+        "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---OH-Dayton/Product-Engineer-Intern_R46895",
+        "locations": [
+            "Dayton, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Trimble",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Stably",
+        "id": "584532e1-49b3-411f-b531-5084fd97ccff",
+        "title": "Full Stack Engineer Co-Op Internship",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730258382,
+        "date_posted": 1730258382,
+        "url": "https://jobs.ashbyhq.com/stably.ai/24301699-b06c-4b44-9c44-91eb4890132e/application",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/12019147-0057-49e6-9342-abbe8f4fc287",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Blockhouse",
+        "id": "60684000-6adc-4af4-94d5-6b6df4d4a025",
+        "title": "Full Stack Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729627152,
+        "date_posted": 1729627152,
+        "url": "https://jobs.ashbyhq.com/blockhouse/99b3997f-65aa-4010-9c22-2d230f119daf/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/f3c7b41f-e7d9-4771-b0c7-f54003717b71",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Symbotic",
+        "id": "73dca6a8-e2c0-4954-8384-d2ba3ec27e89",
+        "title": "Intern \u2013 Data Analytics",
+        "active": true,
+        "terms": [
+            "Summer 2024",
+            "Spring 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1727291678,
+        "date_posted": 1727291678,
+        "url": "https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Intern---Data-Analytics_R4072",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/symbotic",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CVS Pharmacy",
+        "id": "e83017ff-627c-4902-8088-433d5182d5ad",
+        "title": "Medicare STARS Data Intelligence Corporate Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730172330,
+        "date_posted": 1730172330,
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/PA---Moon-Township/Medicare-STARS--Data-Intelligence-Corporate-Intern---Summer-2025_R0409254",
+        "locations": [
+            "Coraopolis, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/CVS",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cadence Design Systems",
+        "id": "f9325b64-1d68-4aab-bb24-91c1129351f0",
+        "title": "Software Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730146027,
+        "date_posted": 1730146027,
+        "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/SAN-JOSE/Software-Intern_R47860-1",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Voltus",
+        "id": "e13be4d8-8e28-4ce6-aa6c-a533da3ae3ac",
+        "title": "Sales Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729799169,
+        "date_posted": 1729799169,
+        "url": "https://jobs.lever.co/voltus/abc773f3-edbc-4027-81fb-7668ef803e8d/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Voltus",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Zoox",
+        "id": "05357c6c-05c0-4f1b-8662-54587c241317",
+        "title": "Developer Platforms Internship/Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729105798,
+        "date_posted": 1728602365,
+        "url": "https://jobs.lever.co/zoox/3021c042-c2e9-495f-8bbe-017792e519cf/apply",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zoox",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Zoox",
+        "id": "9894f80d-a8f3-4856-a60b-be3db168eae7",
+        "title": "Python Backend Engineer Internship/Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727997410,
+        "date_posted": 1727997410,
+        "url": "https://jobs.lever.co/zoox/f2c64e56-fb45-46e9-811d-bc0d9dec9929/apply",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zoox",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Epic Games",
+        "id": "159fd57c-b44f-460e-8d4f-8853db96ea7c",
+        "title": "Tools Programmer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1727219901,
+        "date_posted": 1727219901,
+        "url": "https://epicgames.com/careers/jobs/5332298004?gh_jid=5332298004",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Epic-Games",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Orderly Network",
+        "id": "baf7c694-d0c3-4ff0-b321-3221c070c5a4",
+        "title": "Blockchain Research Intern",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1722262368,
+        "date_posted": 1719616017,
+        "url": "https://job-boards.greenhouse.io/orderlynetwork/jobs/5961939003",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/OrderlyNetwork",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Skydio",
+        "id": "304e7296-a4d5-4940-91d8-26234b8a4f31",
+        "title": "Wireless Software Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729193034,
+        "date_posted": 1729193034,
+        "url": "https://www.skydio.com/jobs/6220790003?gh_jid=6220790003",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Skydio",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Aquatic Capital Management",
+        "id": "2e21e9cc-baa9-4b38-8ffd-75904b74f12a",
+        "title": "Software Engineer \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729725526,
+        "date_posted": 1729725526,
+        "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7594277002",
+        "locations": [
+            "London, UK",
+            "Chicago, IL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Aquatic-Capital-Management",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Amazon",
+        "id": "228effa2-bf89-45a3-81ea-02a97a0fdfb7",
+        "title": "Co-op Software Development Engineer-2025 - US",
+        "active": true,
+        "terms": [
+            "Summer 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1730780154,
+        "date_posted": 1730780154,
+        "url": "https://amazon.jobs/en/jobs/2822132/co-op-software-development-engineer-2025-us",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1730783087,
+        "url": "https://www.coinbase.com/en-ca/careers/positions/6306332",
+        "company_name": "Coinbase",
+        "title": "Security Engineer Intern",
+        "locations": [
+            "New York, NY"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "9c74d712-0181-425a-87a8-c713393dc816",
+        "date_posted": 1730783087,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1730783218,
+        "url": "https://careers.blizzard.com/global/en/job/BLENGLOBALR024237EXTERNALENGLOBAL/2025-US-Summer-Internship-Site-Reliability-Engineering",
+        "company_name": "Blizzard Entertainment",
+        "title": "2025 US Summer Internship - Site Reliability Engineering",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "8fae4bed-d0ed-483c-ade3-87086acbfc3d",
+        "date_posted": 1730783218,
+        "company_url": "",
+        "is_visible": true
     }
 ]
