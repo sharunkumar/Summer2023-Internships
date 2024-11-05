@@ -91610,7 +91610,7 @@
         "company_name": "Jump Trading",
         "id": "d44d2a3b-10ac-4215-a600-6530f5dfdab3",
         "title": "Campus Software Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -98318,7 +98318,7 @@
         "company_name": "Picknik",
         "id": "0f704521-8611-4fb3-a142-a2e3d5b1f2cd",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -102116,7 +102116,7 @@
         "company_name": "Lyft",
         "id": "1242c916-6926-4cd0-ae47-ae2a2e814344",
         "title": "Software Engineer Intern - Mobile Android - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -103130,7 +103130,7 @@
         "company_name": "Expedition Technology",
         "id": "9964dea0-ea9e-45f7-980f-1dc17b9b6cb6",
         "title": "Summer 2025 Internship in Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -108288,7 +108288,7 @@
         "company_name": "The Allen Institute for AI",
         "id": "2c889233-5be5-4333-a079-467784b67829",
         "title": "Research Intern - Semantic Scholar",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -108925,7 +108925,7 @@
         "company_name": "Expedia",
         "id": "e44b9c72-f9f1-4add-8774-d4e5cc6dd17b",
         "title": "Software Development Engineering Intern - June 2025 - London",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -108944,7 +108944,7 @@
         "company_name": "Expedia",
         "id": "050cec36-c125-414f-a46f-1d46c4f5f9ce",
         "title": "Data Science \u2013 Analytics Intern - June 2025 - London",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -110745,7 +110745,7 @@
         "company_name": "Zipline",
         "id": "ab1cba46-2a26-4f6f-96b3-34d21997ae51",
         "title": "Firmware/ Embedded Engineering Intern - Spring 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -112391,7 +112391,7 @@
         "company_name": "Leidos",
         "id": "4d1cefda-8958-4eaa-b674-30522580f3d8",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -112720,7 +112720,7 @@
         "company_name": "Leidos",
         "id": "17ae95f8-01f6-46ca-a145-2b0b01154b81",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -115414,7 +115414,7 @@
         "company_name": "Leidos",
         "id": "57bcc7a8-45cb-4774-b5bf-4141fe81b312",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -116376,7 +116376,7 @@
         "company_name": "Taboola",
         "id": "888cbed6-7e29-4135-9cb2-065cbcb63cae",
         "title": "Frontend Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -119322,7 +119322,7 @@
         "company_name": "Booz Allen",
         "id": "767c7bf5-0d8d-4089-9029-f401a63e89c7",
         "title": "University \u2013 Systems Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024",
             "Spring 2024",
@@ -120631,7 +120631,7 @@
         "company_name": "Medline",
         "id": "38ce5227-5f71-4e3a-9d2e-a482972f27f2",
         "title": "IT Development Intern - Pricing Apps - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -120766,7 +120766,7 @@
         "company_name": "The Walt Disney Company",
         "id": "7a81f4a0-5f7d-4d14-9b7b-f9c4a4727735",
         "title": "Tax data Management & Innovation Graduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024",
@@ -121019,7 +121019,7 @@
         "company_name": "Leidos",
         "id": "39c17ce6-648c-4d60-8fe0-11e3f26c20f5",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -121059,7 +121059,7 @@
         "company_name": "Leidos",
         "id": "18ddfbb5-edc3-4b6e-a940-206548683e8c",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -121362,6 +121362,437 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Twitch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Kitware",
+        "id": "2f973a51-0a26-4fa2-a2c1-c5daafd1e640",
+        "title": "Computer Vision Software Development Internship",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730752221,
+        "date_posted": 1730752221,
+        "url": "https://jobs.lever.co/kitware/c36a7fa6-8bd7-412c-ac6d-17cdaa3b0c56/apply",
+        "locations": [
+            "Clifton Park, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Kitware",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Clio",
+        "id": "03fe34f3-e022-41c9-9220-4cde9b8e06dd",
+        "title": "Data Engineer \u2013 Co-op",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026"
+        ],
+        "date_updated": 1730754923,
+        "date_posted": 1730754923,
+        "url": "https://clio.wd3.myworkdayjobs.com/en-US/ClioCareerSite/job/Remote---Canada/Data-Engineer--Co-op_BF-REQ-2809-1",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Clio",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Autodesk",
+        "id": "f66a7e9b-dd8d-4585-bc12-4a02193f3c39",
+        "title": "Intern \u2013 Software Developer",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730754794,
+        "date_posted": 1730754794,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--Software-Developer_24WD83294",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Autodesk",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Echo Global Logistics",
+        "id": "cdf042b6-63f6-410b-a36d-8dec42556acf",
+        "title": "Software Engineering Intern-Chicago",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730755555,
+        "date_posted": 1730755555,
+        "url": "https://echo.wd1.myworkdayjobs.com/en-US/Echo_Logistics/job/Remote/Software-Engineering-Intern--Chicago_R3239",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/02d318d6-1b68-4674-a557-5095f957451e",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DriveWealth",
+        "id": "3f31f0fc-e01a-46af-a1b7-e17e9396b927",
+        "title": "Summer 2025 Intern - Partner Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730755422,
+        "date_posted": 1730755422,
+        "url": "https://boards.greenhouse.io/drivewealth/jobs/6256736003",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/DriveWealth",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "ONE Finance",
+        "id": "c93eee3d-5e8d-446b-a7b1-7136ba616cef",
+        "title": "Software Engineer \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730755218,
+        "date_posted": 1730755218,
+        "url": "https://jobs.ashbyhq.com/oneapp/b07cfe24-620d-4652-926f-695b56734a40/application",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/One-Finance",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Northrop Grumman",
+        "id": "b4be635e-4412-4e08-baad-3b31a7550e7b",
+        "title": "2025 Intern Software",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730756148,
+        "date_posted": 1730756148,
+        "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2025-Intern-Software_R10176247",
+        "locations": [
+            "Palmdale, CA",
+            "San Diego, CA",
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/238c95d8-0d6e-4717-b28c-078b16d675d7",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Northrop Grumman",
+        "id": "cbfd0e3d-90e3-468b-86a6-5b390cbc7418",
+        "title": "2025 Software \u2013 Data Science Engineering Intern - Linthicum MD/Annapolis Junction MD",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730756145,
+        "date_posted": 1730756145,
+        "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2025-Software---Data-Science-Engineering-Intern---Linthicum-MD-Annapolis-Junction-MD_R10176240",
+        "locations": [
+            "Halethorpe, MD",
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/238c95d8-0d6e-4717-b28c-078b16d675d7",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Activision-Blizzard",
+        "id": "1e7c4ea7-273e-4827-8f3d-1b6ce71e9e4a",
+        "title": "2025 US Summer Internship - Software Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730765504,
+        "date_posted": 1730765504,
+        "url": "https://activision.wd1.myworkdayjobs.com/External/job/Irvine---Blizzard---Blizzard-Way/XMLNAME-2025-US-Summer-Internship---Software-Engineering_R023721",
+        "locations": [
+            "Santa Monica, CA",
+            "Austin, TX",
+            "Canoga Park, LA",
+            "Irvine, CA",
+            "Sherman Oaks, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Activision-Blizzard",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Activision-Blizzard",
+        "id": "14878e49-628b-4737-840d-e30871af4b1a",
+        "title": "2025 US Summer Internship - Game Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730765497,
+        "date_posted": 1730765497,
+        "url": "https://activision.wd1.myworkdayjobs.com/External/job/Santa-Monica/XMLNAME-2025-US-Summer-Internship---Game-Engineering_R023720-1",
+        "locations": [
+            "Boston, MA",
+            "Santa Monica, CA",
+            "Austin, TX",
+            "Canoga Park, LA",
+            "San Mateo, CA",
+            "Irvine, CA",
+            "Middleton, WI",
+            "Albany, NY",
+            "Carlsbad, CA",
+            "Culver City, CA",
+            "Novato, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Activision-Blizzard",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Skydio",
+        "id": "ca78744d-b864-4d43-bd85-43f203ea11d1",
+        "title": "Mobile Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730765493,
+        "date_posted": 1730765493,
+        "url": "https://www.skydio.com/jobs/6220730003?gh_jid=6220730003",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Skydio",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Activision-Blizzard",
+        "id": "1a46bffa-7246-4395-add4-e21204a0954c",
+        "title": "Data Analytics & Science Internship",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "date_updated": 1730765490,
+        "date_posted": 1730765490,
+        "url": "https://activision.wd1.myworkdayjobs.com/External/job/Irvine---Blizzard---Blizzard-Way/Data-Analytics---Science-Internship_R024240-1",
+        "locations": [
+            "Santa Monica, CA",
+            "SF",
+            "Irvine, CA",
+            "Sherman Oaks, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Activision-Blizzard",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Activision-Blizzard",
+        "id": "dfe4f173-b69a-44cc-900a-25e77b404cac",
+        "title": "Game Engineering Internship",
+        "active": false,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "date_updated": 1730765490,
+        "date_posted": 1730765490,
+        "url": "https://activision.wd1.myworkdayjobs.com/External/job/Santa-Monica/Game-Engineering-Internship_R024236-1",
+        "locations": [
+            "Santa Monica, CA",
+            "Canoga Park, LA",
+            "Irvine, CA",
+            "Middleton, WI",
+            "Carlsbad, CA",
+            "Culver City, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Activision-Blizzard",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Activision-Blizzard",
+        "id": "c1a4d82f-061c-4d5f-ba30-ce788600a175",
+        "title": "Software Engineering Internship",
+        "active": false,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "date_updated": 1730765485,
+        "date_posted": 1730765485,
+        "url": "https://activision.wd1.myworkdayjobs.com/External/job/Woodland-Hills/Software-Engineering-Internship_R024238",
+        "locations": [
+            "Canoga Park, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Activision-Blizzard",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Coinbase",
+        "id": "be3f43ab-df9c-4bb6-b0e6-d78f32290394",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730766035,
+        "date_posted": 1730766035,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=6266445",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Coinbase",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "PitchBook",
+        "id": "5035709b-b6e3-43c5-bf1a-e4e869ee2337",
+        "title": "Data Analyst Summer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1730766350,
+        "date_posted": 1730766350,
+        "url": "https://job-boards.greenhouse.io/pitchbookdata/jobs/4410103006",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/PitchBook",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DriveWealth",
+        "id": "38091c26-f8d3-4d12-a0bb-4cbced0415ee",
+        "title": "Summer 2025 Intern - Core Trade",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730766221,
+        "date_posted": 1730766221,
+        "url": "https://boards.greenhouse.io/drivewealth/jobs/6256773003",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/DriveWealth",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Blizzard Entertainment",
+        "id": "886bd6bb-f53a-484a-a7cd-42b36046339c",
+        "title": "Game Engineering Co-Op",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024",
+            "Winter 2025"
+        ],
+        "date_updated": 1730766333,
+        "date_posted": 1730766333,
+        "url": "https://activision.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Albany---Blizzard---Watervliet-Shaker-Road/Game-Engineering-Co-Op_R024239",
+        "locations": [
+            "Albany, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Blizzard-Entertainment",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DriveWealth",
+        "id": "26630718-780a-4c7e-8411-28d5b5799e28",
+        "title": "Summer 2025 Intern - Post Trade Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730766220,
+        "date_posted": 1730766220,
+        "url": "https://boards.greenhouse.io/drivewealth/jobs/6256768003",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/DriveWealth",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "546cf27a-555f-4038-877b-404036efc84c",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730766009,
+        "date_posted": 1730766009,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Omaha-NE/Software-Engineer-Intern_R-00147547-1",
+        "locations": [
+            "Omaha, NE"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Major League Baseball",
+        "id": "4859eb19-7f86-48dd-8ade-e1948ffe74b7",
+        "title": "2025 Summer Intern - Technology",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730765722,
+        "date_posted": 1730765722,
+        "url": "https://www.mlb.com/careers/opportunities?gh_jid=6367670",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/MLB",
         "is_visible": true,
         "sponsorship": "Other"
     }
