@@ -122949,5 +122949,101 @@
         "company_url": "https://simplify.jobs/c/378eaba2-1db4-4157-96ba-6bdd824b407d",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Anduril",
+        "id": "2aa5c89a-cbfb-4849-8b15-6fd632ec93eb",
+        "title": "Webapps Developer Intern - Ew",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1730866769,
+        "date_posted": 1730866769,
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/4552314007",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Anduril",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Anduril",
+        "id": "6ca68b3d-ef02-40c5-be9e-420321a5eac2",
+        "title": "Perception Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730866657,
+        "date_posted": 1730866657,
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/4552473007",
+        "locations": [],
+        "company_url": "https://simplify.jobs/c/Anduril",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Anduril",
+        "id": "fbc09e4e-0f80-4d90-ac04-87fefaf47e1b",
+        "title": "AI-Driven Hardware Health Monitoring Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1730866579,
+        "date_posted": 1730866579,
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/4552470007",
+        "locations": [
+            "Lexington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Anduril",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1730870268,
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/265094",
+        "company_name": "Oracle",
+        "title": "OCI Software Development Intern - OVIP",
+        "locations": [
+            "Seattle, WA",
+            "Santa Clara, CA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "fd527403-1161-457a-b7fb-2a37fea169cb",
+        "date_posted": 1730870268,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1730870320,
+        "url": "https://app.ripplematch.com/v2/public/job/fc94df68/details",
+        "company_name": "eBay",
+        "title": "Data Science - Analytics Intern",
+        "locations": [
+            "New York, NY",
+            "Bellevue, WA",
+            "San Jose, CA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "mtlogs",
+        "id": "0906a43f-7571-4c3a-8fa8-5a5c78a56a7b",
+        "date_posted": 1730870320,
+        "company_url": "",
+        "is_visible": true
     }
 ]
