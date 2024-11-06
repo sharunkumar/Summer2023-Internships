@@ -40983,7 +40983,7 @@
         "company_name": "The Boring Company",
         "id": "2e8c00e9-5ee3-4097-8369-aede649d478a",
         "title": "Software Engineering Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -48723,7 +48723,7 @@
         "company_name": "The Boring Company",
         "id": "bac46378-921d-431e-a43a-5ad195a874a0",
         "title": "Software Engineering Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -95866,7 +95866,7 @@
         "company_name": "Alcon",
         "id": "2b140cac-74b8-42de-8d7e-9b8e67a8df74",
         "title": "2025 R&D Summer Intern - Track 2",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -103645,7 +103645,7 @@
         "company_name": "F5",
         "id": "aa8948a2-d072-4ff2-84b8-84f6424421ab",
         "title": "Software Engineer Intern - San Jose",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025"
@@ -103794,7 +103794,7 @@
         "company_name": "F5",
         "id": "21f6d894-76a9-426f-b6d7-3f3b28ec3c4d",
         "title": "Software Engineer Intern - Seattle",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025"
@@ -123045,5 +123045,43 @@
         "date_posted": 1730870320,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Northrop Grumman",
+        "id": "2e9d41d9-3913-4980-bf64-bf469e055586",
+        "title": "2025 Software Engineer Intern - Annapolis MD",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730881453,
+        "date_posted": 1730881453,
+        "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis-Junction/XMLNAME-2025-Software-Engineer-Intern---Annapolis-MD_R10176417",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/238c95d8-0d6e-4717-b28c-078b16d675d7",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Walt Disney Company",
+        "id": "57b3594b-ea5c-41d6-b713-18e6cd658dbb",
+        "title": "Broadcast Technology and Operations Internship",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730895592,
+        "date_posted": 1730895592,
+        "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/London-United-Kingdom/Broadcast-Technology-and-Operations-Internship_10100303",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Disney",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
