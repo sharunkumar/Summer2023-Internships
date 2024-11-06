@@ -40983,7 +40983,7 @@
         "company_name": "The Boring Company",
         "id": "2e8c00e9-5ee3-4097-8369-aede649d478a",
         "title": "Software Engineering Intern - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -48723,7 +48723,7 @@
         "company_name": "The Boring Company",
         "id": "bac46378-921d-431e-a43a-5ad195a874a0",
         "title": "Software Engineering Intern - Summer 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -85729,7 +85729,7 @@
         "company_name": "Capstone Investment Advisors",
         "id": "46169ce8-1f91-4f15-bac4-a1ca48239e86",
         "title": "2025 Summer Internship - Software Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -92937,7 +92937,7 @@
         "company_name": "Fannie Mae",
         "id": "9576758a-8215-4e79-8eca-2fa96f96db5d",
         "title": "Campus \u2013 Technology Program Intern - Flexible Hybrid",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -93606,7 +93606,7 @@
         "company_name": "Fannie Mae",
         "id": "f2e86804-0d07-4f1b-9d2e-a309b6c0b07c",
         "title": "Campus \u2013 Technology Program Intern - Flexible Hybrid",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -93625,7 +93625,7 @@
         "company_name": "Fannie Mae",
         "id": "939f7e5f-d119-41fa-bcb2-3a5e63aa87d3",
         "title": "Campus \u2013 Technology Program Intern - Flexible Hybrid",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -98714,7 +98714,7 @@
         "company_name": "CACI",
         "id": "28902964-2b71-4a1c-9835-1c5fef3dd312",
         "title": "Software Engineering Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -98753,7 +98753,7 @@
         "company_name": "MarketAxess",
         "id": "1023b0c6-218f-45a0-a557-bdd32b69a6c3",
         "title": "Software Engineering Intern 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -99527,7 +99527,7 @@
         "company_name": "MarketAxess",
         "id": "3cdb8768-36d2-479e-8f33-7bd9d111a62e",
         "title": "Data Software Engineering Intern 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -101749,7 +101749,7 @@
         "company_name": "Pendo",
         "id": "9e7c3991-97b0-4c95-bea7-53093234b5ab",
         "title": "Summer 2025 Software Engineering Internship - Front End/Back End/Site Reliability/Security",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -105327,7 +105327,7 @@
         "company_name": "Autodesk",
         "id": "9b84d38d-7bbb-4e7f-985b-779900d210dc",
         "title": "Intern \u2013 Machine Learning Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -116961,7 +116961,7 @@
         "company_name": "BCBST",
         "id": "b0c2250d-0b25-42fe-ad1d-5e6938459c29",
         "title": "Data Management Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2025"
         ],
@@ -117698,7 +117698,7 @@
         "company_name": "Pacific Life",
         "id": "0fe7ab85-4671-4a1a-a189-43514bdf0e9a",
         "title": "Investment Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -119189,7 +119189,7 @@
         "company_name": "Merlin Labs",
         "id": "a22247e9-e47a-4dd5-ab9e-301c9f56f7f3",
         "title": "Software Engineer Internship - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -121370,7 +121370,7 @@
         "company_name": "Kitware",
         "id": "2f973a51-0a26-4fa2-a2c1-c5daafd1e640",
         "title": "Computer Vision Software Development Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -121429,7 +121429,7 @@
         "company_name": "Echo Global Logistics",
         "id": "cdf042b6-63f6-410b-a36d-8dec42556acf",
         "title": "Software Engineering Intern-Chicago",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -121467,7 +121467,7 @@
         "company_name": "ONE Finance",
         "id": "c93eee3d-5e8d-446b-a7b1-7136ba616cef",
         "title": "Software Engineer \u2013 Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -122708,7 +122708,7 @@
         "company_name": "Oshkosh",
         "id": "7318556f-1cb1-4c45-81b6-d17bdadce45b",
         "title": "Autonomy Intern-ML/AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -122860,7 +122860,7 @@
         "company_name": "Oshkosh",
         "id": "bb6c62e5-b221-458d-832f-9bbf535c2aa9",
         "title": "Autonomy Intern - Computer Vision",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -123081,6 +123081,223 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Disney",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1730906296,
+        "url": "https://app.ripplematch.com/v2/public/job/092cf91c/details",
+        "company_name": "eBay",
+        "title": "Mobile Software Engineer Intern",
+        "locations": [
+            "Portland, OR, USA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "mtlogs",
+        "id": "abbd2f0f-95e4-4dd9-9e3a-7eaefb15ea96",
+        "date_posted": 1730906296,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Formlabs",
+        "id": "1b39c95a-2f88-4c27-8e4b-f835005dd297",
+        "title": "Python Software Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730909700,
+        "date_posted": 1730909700,
+        "url": "https://careers.formlabs.com/job/6236789/apply/?gh_jid=6236789",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Formlabs",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Motorola",
+        "id": "c709c76f-c5d9-47c0-9b3c-b437fd6dd8ac",
+        "title": "Localization Software Developer \u2013 Co-Op",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730910449,
+        "date_posted": 1730910449,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Vancouver-Canada/Localization-Software-Developer--Co-Op_R51570",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Motorola",
+        "id": "a732adc6-8201-4187-8bd5-c34b056496cc",
+        "title": "Audio Software Engineer \u2013 Spring 2025 Co-Op",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1730910434,
+        "date_posted": 1730910434,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Audio-Software-Engineer---Spring-2025-Co-Op_R51238",
+        "locations": [
+            "Plantation, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Autodesk",
+        "id": "e16f603b-e4c2-4822-8f0a-651b8d19ef8a",
+        "title": "Intern \u2013 Software Developer",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730910326,
+        "date_posted": 1730910326,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--Software-Developer_24WD82816",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Autodesk",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Autodesk",
+        "id": "cb32c59f-1ce8-40eb-b7e0-3b507cd9ee32",
+        "title": "Intern \u2013 Software Developer",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730910320,
+        "date_posted": 1730910320,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--Software-Developer_24WD82815",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Autodesk",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Autodesk",
+        "id": "ba62f9bc-acf5-495e-a295-839bc347543b",
+        "title": "Intern \u2013 Software Developer",
+        "active": true,
+        "terms": [
+            "Winter 2025",
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1730910328,
+        "date_posted": 1730910328,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--Software-Developer_24WD82630",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Autodesk",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Autodesk",
+        "id": "8114de12-948d-4265-bfdc-ec384cfadeca",
+        "title": "Intern \u2013 Software Developer",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730910331,
+        "date_posted": 1730910331,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--Software-Developer_24WD82817",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Autodesk",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Autodesk",
+        "id": "0eea89a2-d5ec-4d4d-83bb-d3789583a71b",
+        "title": "Intern \u2013 Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730910331,
+        "date_posted": 1730910331,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/California-USA---Remote/Intern--Software-Engineer_24WD81318",
+        "locations": [
+            "Novi, MI",
+            "Remote in USA",
+            "Denver, CO",
+            "Portland, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Autodesk",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Corelogic",
+        "id": "bffaf272-5464-4ac6-9257-b692440468fc",
+        "title": "Intern \u2013 Data Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730909949,
+        "date_posted": 1730909949,
+        "url": "https://corelogic.wd5.myworkdayjobs.com/en-US/Global/job/Dallas-TX/Intern--Data-Engineer_REQ15611",
+        "locations": [
+            "Irvine, CA",
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/84f3bc2b-33c1-4bb0-af43-21bb8d59d639",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Symbotic",
+        "id": "d11fb6ae-8431-4b44-af17-9e12bfd6b21f",
+        "title": "Intern \u2013 Bot Field Analyst",
+        "active": true,
+        "terms": [
+            "Summer 2024",
+            "Spring 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1730909813,
+        "date_posted": 1730909813,
+        "url": "https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Intern---Bot-Field-Analyst_R4186",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/symbotic",
         "is_visible": true,
         "sponsorship": "Other"
     }
