@@ -91610,7 +91610,7 @@
         "company_name": "Jump Trading",
         "id": "d44d2a3b-10ac-4215-a600-6530f5dfdab3",
         "title": "Campus Software Engineer \u2013 Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -93091,7 +93091,7 @@
         "company_name": "Plexus",
         "id": "a1d15775-526b-437a-b567-4ce22e1796cf",
         "title": "Intern \u2013 Product Engineer - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -97367,7 +97367,7 @@
         "company_name": "Stryker",
         "id": "22acdd5c-fcf3-4201-a6ec-66c42aed2968",
         "title": "Summer 2025 Intern - Software Documentation Design - Texas",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -98714,7 +98714,7 @@
         "company_name": "CACI",
         "id": "28902964-2b71-4a1c-9835-1c5fef3dd312",
         "title": "Software Engineering Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -102660,7 +102660,7 @@
         "company_name": "Oshkosh",
         "id": "7a46d99b-438a-4245-a442-fa418907c742",
         "title": "Computer/Software Engineering Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -106051,7 +106051,7 @@
         "company_name": "Kodiak Robotics",
         "id": "58f57c98-06a9-4c56-9de7-52f361deb514",
         "title": "Winter 2025 Operations Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -108498,7 +108498,7 @@
         "company_name": "Uber",
         "id": "5d79a922-9424-4c46-93ee-a81662b9c00a",
         "title": "2025 Software Engineering Internship - University of Texas at El Paso",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -112110,14 +112110,14 @@
         "terms": [
             "Summer 2025"
         ],
-        "date_updated": 1728515464,
+        "date_updated": 1730844727,
         "date_posted": 1728515464,
         "url": "https://careers.withwaymo.com/jobs?gh_jid=6319584",
         "locations": [
             "United States"
         ],
         "company_url": "https://simplify.jobs/c/Waymo",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -112467,7 +112467,7 @@
         "company_name": "Alchemy",
         "id": "d728c7a5-7f01-4946-857e-59e752481e4e",
         "title": "Engineering Internship - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -113015,7 +113015,7 @@
         "terms": [
             "Summer 2025"
         ],
-        "date_updated": 1728731685,
+        "date_updated": 1730844706,
         "date_posted": 1728731685,
         "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Boston-Massachusetts/Global-Technology-Services-Intern-Co-Op--Jan-2025---Jun-2025-_R-759679",
         "locations": [
@@ -113023,7 +113023,7 @@
             "Quincy, MA"
         ],
         "company_url": "https://simplify.jobs/c/d1ef45b2-fd52-4e9d-9d7d-dc3d5386744f",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -113111,14 +113111,14 @@
         "terms": [
             "Summer 2025"
         ],
-        "date_updated": 1728904691,
+        "date_updated": 1730844689,
         "date_posted": 1728904691,
         "url": "https://amazon.jobs/en/jobs/2804060/associate-professional-services-consultant-intern-2025",
         "locations": [
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Amazon",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -113126,7 +113126,7 @@
         "company_name": "Snyk",
         "id": "f90a6973-9818-4940-8e7b-9479505cf112",
         "title": "Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -113687,7 +113687,7 @@
         "company_name": "XTX Markets",
         "id": "d3cc8406-0181-4b26-8b44-d9f603352006",
         "title": "Risk \u2013 Summer Intern 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -113706,7 +113706,7 @@
         "company_name": "XTX Markets",
         "id": "baa14f16-bd97-4562-ba45-bf0d9f0afc46",
         "title": "Software Engineering Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -116458,14 +116458,14 @@
         "terms": [
             "Summer 2025"
         ],
-        "date_updated": 1729714447,
+        "date_updated": 1730844539,
         "date_posted": 1729714447,
         "url": "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/University-Relations---Chicago-Assistant-Analytics-Consultant-Associate-Intern_R0037201",
         "locations": [
             "Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/de9db5fc-93ac-4e2a-873c-61d8a830873c",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -116906,14 +116906,14 @@
         "terms": [
             "Summer 2025"
         ],
-        "date_updated": 1729886451,
+        "date_updated": 1730844451,
         "date_posted": 1729886451,
         "url": "https://jobs.jobvite.com/splunk-careers/job/oHKJufwo?nl=1&nl=1&fr=false",
         "locations": [
             "Boulder, CO"
         ],
         "company_url": "https://simplify.jobs/c/Splunk",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -116980,7 +116980,7 @@
         "company_name": "Rakuten ",
         "id": "8138ba10-378c-40f3-93c9-14b6e7be2e95",
         "title": "Intern \u2013 Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -117171,7 +117171,7 @@
         "company_name": "Rakuten ",
         "id": "8832bde5-5c8d-439a-b583-f05b76eec22c",
         "title": "Software Engineer Server/Full Stack \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -118074,14 +118074,14 @@
         "terms": [
             "Summer 2025"
         ],
-        "date_updated": 1729898556,
+        "date_updated": 1730844483,
         "date_posted": 1729898556,
         "url": "https://bloomberg.wd1.myworkdayjobs.com/en-US/Bloombergindustrygroup_External_Career_Site/job/Arlington---1801-S-Bell-INDG/XMLNAME-2025-Bloomberg-Law-Internship_131161",
         "locations": [
             "Arlington, VA"
         ],
         "company_url": "https://simplify.jobs/c/1159ff04-5c95-4f2c-aa33-185e11b5cabd",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -120189,7 +120189,7 @@
         "terms": [
             "Summer 2025"
         ],
-        "date_updated": 1730302182,
+        "date_updated": 1730844385,
         "date_posted": 1730302182,
         "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Minnesota-Plymouth/XMLNAME-2025-Business-Intern---Plymouth-MN-or-Mesa-AZ_R10175729",
         "locations": [
@@ -120197,7 +120197,7 @@
             "Mesa, AZ"
         ],
         "company_url": "https://simplify.jobs/c/238c95d8-0d6e-4717-b28c-078b16d675d7",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -120999,7 +120999,7 @@
         "company_name": "ServiceNow",
         "id": "4825efd1-b554-4544-a1ba-a5635398bbe7",
         "title": "Software Engineer Intern - Innovation Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -121316,7 +121316,7 @@
             "Spring 2025",
             "Summer 2025"
         ],
-        "date_updated": 1730738522,
+        "date_updated": 1730844178,
         "date_posted": 1730738522,
         "url": "https://jmfamily.wd1.myworkdayjobs.com/en-US/JMFamily_External/job/Florida---Deerfield-Beach/Intern--Power-Platform_JR103101",
         "locations": [
@@ -121324,7 +121324,7 @@
             "Deerfield Beach, FL"
         ],
         "company_url": "https://simplify.jobs/c/21dffcc2-c17a-4628-b26d-c6e0b368edc2",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -121467,7 +121467,7 @@
         "company_name": "ONE Finance",
         "id": "c93eee3d-5e8d-446b-a7b1-7136ba616cef",
         "title": "Software Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -121708,14 +121708,14 @@
         "terms": [
             "Summer 2025"
         ],
-        "date_updated": 1730766221,
+        "date_updated": 1730844131,
         "date_posted": 1730766221,
         "url": "https://boards.greenhouse.io/drivewealth/jobs/6256773003",
         "locations": [
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/DriveWealth",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -121748,14 +121748,14 @@
         "terms": [
             "Summer 2025"
         ],
-        "date_updated": 1730766220,
+        "date_updated": 1730844245,
         "date_posted": 1730766220,
         "url": "https://boards.greenhouse.io/drivewealth/jobs/6256768003",
         "locations": [
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/DriveWealth",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -121940,14 +121940,14 @@
         "terms": [
             "Summer 2025"
         ],
-        "date_updated": 1729034298,
+        "date_updated": 1730844644,
         "date_posted": 1729034298,
         "url": "https://jobs.lever.co/zoox/887bb714-a1b0-4d62-a622-9caf9d3b88af/apply",
         "locations": [
             "San Mateo, CA"
         ],
         "company_url": "https://simplify.jobs/c/Zoox",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -122192,14 +122192,14 @@
         "terms": [
             "Summer 2025"
         ],
-        "date_updated": 1729799169,
+        "date_updated": 1730844519,
         "date_posted": 1729799169,
         "url": "https://jobs.lever.co/voltus/abc773f3-edbc-4027-81fb-7668ef803e8d/apply",
         "locations": [
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Voltus",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -122577,14 +122577,14 @@
         "terms": [
             "Summer 2025"
         ],
-        "date_updated": 1729034326,
+        "date_updated": 1730844598,
         "date_posted": 1729034326,
         "url": "https://jobs.lever.co/zoox/a0300739-a926-4020-a946-82eb03e209fa/apply",
         "locations": [
             "San Mateo, CA"
         ],
         "company_url": "https://simplify.jobs/c/Zoox",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -122681,6 +122681,272 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Monad-Labs",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1730835297,
+        "url": "https://jobs.ashbyhq.com/schoolhouse-world/1a5bc2f1-228f-4901-a120-2271522e11ec",
+        "company_name": "Schoolhouse.world",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Remote"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "karpawich",
+        "id": "9999b504-25f2-42b9-8dcf-126f376d198b",
+        "date_posted": 1730835297,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Oshkosh",
+        "id": "7318556f-1cb1-4c45-81b6-d17bdadce45b",
+        "title": "Autonomy Intern-ML/AI",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730841161,
+        "date_posted": 1730841161,
+        "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Pittsburgh-Pennsylvania-United-States/Autonomy-Intern_R32881",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Oshkosh",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Corelogic",
+        "id": "097247a9-c8e8-4ff9-b07d-8b7bc541a10e",
+        "title": "Intern \u2013 Data Analyst",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730844068,
+        "date_posted": 1730840324,
+        "url": "https://corelogic.wd5.myworkdayjobs.com/en-US/Global/job/Dallas-TX/Intern--Data-Analyst_REQ15761-1",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/84f3bc2b-33c1-4bb0-af43-21bb8d59d639",
+        "is_visible": false,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Aurora Innovation",
+        "id": "92b3816c-c62b-4a5d-befe-be83555c9f46",
+        "title": "Software Engineering Intern - Autonomy Long Tail",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730841558,
+        "date_posted": 1730841558,
+        "url": "https://aurora.tech/jobs/7692047002?gh_jid=7692047002",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Aurora-Innovation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Aurora Innovation",
+        "id": "5582dcb7-7ef3-4280-a5d0-c538c5c91a14",
+        "title": "Software Engineering Intern - Behavior Data Engine",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730841572,
+        "date_posted": 1730841572,
+        "url": "https://aurora.tech/jobs/7697018002?gh_jid=7697018002",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Aurora-Innovation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rockwell Automation",
+        "id": "e341d148-eca2-4743-88fe-af86722ece1c",
+        "title": "Intern \u2013 Software Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730841404,
+        "date_posted": 1730841404,
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Intern--Software-Engineering_R24-5216",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Rockwell-Automation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rockwell Automation",
+        "id": "e38b08ef-334a-4d00-a62e-d31276a8c149",
+        "title": "Internship - Software Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730841404,
+        "date_posted": 1730841404,
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Mequon-Wisconsin-United-States/Internship--Software-Engineering_R24-5251",
+        "locations": [
+            "Mequon, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Rockwell-Automation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "WillowTree",
+        "id": "78a735e4-e4c2-45bc-8ec0-9462ff95bb2a",
+        "title": "Data Science Intern - US - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730841398,
+        "date_posted": 1730841398,
+        "url": "https://boards.greenhouse.io/willowtree/jobs/7606228002",
+        "locations": [
+            "Charlottesville, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/WillowTree",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Northrop Grumman",
+        "id": "2d7df752-4663-4cab-8871-9a77c37472a3",
+        "title": "2025 Software Engineer Intern - Ocean Springs MS",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730842326,
+        "date_posted": 1730842326,
+        "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Mississippi-Ocean-Springs/XMLNAME-2025-Software-Engineer-Intern---Ocean-Springs-MS_R10176370",
+        "locations": [
+            "Biloxi, MS"
+        ],
+        "company_url": "https://simplify.jobs/c/238c95d8-0d6e-4717-b28c-078b16d675d7",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Oshkosh",
+        "id": "bb6c62e5-b221-458d-832f-9bbf535c2aa9",
+        "title": "Autonomy Intern - Computer Vision",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730841164,
+        "date_posted": 1730841164,
+        "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Autonomy-Intern---Computer-Vision_R32882",
+        "locations": [
+            "Oshkosh, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Oshkosh",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Trace3",
+        "id": "3a75fefc-b9d1-4a6c-80f1-0ad33c1e21cf",
+        "title": "Data & Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730852535,
+        "date_posted": 1730852535,
+        "url": "https://boards.greenhouse.io/trace3/jobs/6375609",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Trace3",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Klue",
+        "id": "c40b7ace-ecfc-4ff0-a170-e8730f9fe57f",
+        "title": "Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Fall 2024"
+        ],
+        "date_updated": 1730852464,
+        "date_posted": 1730852464,
+        "url": "https://jobs.ashbyhq.com/klue/31d84e33-fc4c-468b-a71f-18a84737c830/application",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/klue",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Nike",
+        "id": "1c8ea5be-83cd-470e-9e17-b033d3229c43",
+        "title": "Nike \u2013 Inc Digital Capabilities Graduate Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1730852434,
+        "date_posted": 1730852434,
+        "url": "https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/NIKE--Inc-Digital-Capabilities-Graduate-Internship_R-44105",
+        "locations": [
+            "Beaverton, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Nike",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Story Protocol",
+        "id": "45e36401-4fc1-4cf9-9b08-acfb4138ae42",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730852274,
+        "date_posted": 1730852274,
+        "url": "https://jobs.lever.co/storyprotocol/daf2a96f-4213-4507-a72d-9081733749b8/apply",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/378eaba2-1db4-4157-96ba-6bdd824b407d",
         "is_visible": true,
         "sponsorship": "Other"
     }
