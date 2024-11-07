@@ -33695,7 +33695,7 @@
         "company_name": "Credit Karma",
         "id": "e8b50019-b51c-454a-a43c-5b372f508ee3",
         "title": "Software Engineering Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -35547,7 +35547,7 @@
         "company_name": "Virtu Financial",
         "id": "efc1de62-7798-4a50-847e-7d3c591fd2e9",
         "title": "Internship - Trading Operations Analyst",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -93587,7 +93587,7 @@
         "company_name": "Plexus",
         "id": "205968f9-bd13-4e18-9cf1-7109ceb1b0e0",
         "title": "Intern \u2013 Product Engineer - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -96410,7 +96410,7 @@
         "company_name": "Moloco",
         "id": "d5ce9fec-c9dd-42ca-aec2-68af16e6d415",
         "title": "Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2025",
             "Summer 2025",
@@ -97511,7 +97511,7 @@
         "company_name": "Gilead Sciences",
         "id": "f4d6d44b-4dd6-4d32-a0be-aa91107e1383",
         "title": "Intern \u2013 IT - Data & Analytics - Pdm - Supply Chain & Manufacturing",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024"
@@ -98636,7 +98636,7 @@
         "company_name": "Gilead Sciences",
         "id": "d368fa90-fb74-4fe4-8fe1-ec9b82af6576",
         "title": "Intern \u2013 Programming Data Analyst - Pharmacometrics",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2024",
             "Summer 2024"
@@ -105149,7 +105149,7 @@
         "company_name": "Immuta",
         "id": "e962efb5-a14d-4675-b2a2-325aa9111e57",
         "title": "Product Engineering Internship - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -109201,7 +109201,7 @@
         "company_name": "Rivian",
         "id": "76f0d6c2-9929-435d-ad5d-2d27fb914638",
         "title": "Data Science \u2013 & Analytics Internship - Engineering - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -113791,7 +113791,7 @@
         "company_name": "Adobe",
         "id": "73f0ede7-5a27-450e-a3bb-80f63755db42",
         "title": "2025 Intern - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024",
@@ -113834,7 +113834,7 @@
         "company_name": "Adobe",
         "id": "57933f43-8064-4207-aff2-419bf5914f24",
         "title": "2025 Intern - Software Development Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024",
@@ -113856,7 +113856,7 @@
         "company_name": "Adobe",
         "id": "9f3e3574-d7a8-49fc-b3fb-a0835e455998",
         "title": "2025 Intern - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024",
@@ -113944,7 +113944,7 @@
         "company_name": "Adobe",
         "id": "607f03ba-517a-4a92-9e68-ee360e0a3d65",
         "title": "2025 Intern - Software Development Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024",
@@ -113966,7 +113966,7 @@
         "company_name": "Adobe",
         "id": "d5047f91-4499-4356-a239-36c0685dbac5",
         "title": "2025 Intern - Software Development Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024",
@@ -113988,7 +113988,7 @@
         "company_name": "Adobe",
         "id": "bcf33821-1ee2-4863-81d0-26ea526f3cf1",
         "title": "2025 Intern - Software Development Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024",
@@ -114053,7 +114053,7 @@
         "company_name": "Adobe",
         "id": "4f541141-5bf2-46cd-a705-1a1486194695",
         "title": "2025 Intern - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024",
@@ -114075,7 +114075,7 @@
         "company_name": "Adobe",
         "id": "1706bf75-ed0e-4b8c-9d30-fce7027c43c0",
         "title": "2025 Intern - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024",
@@ -116961,7 +116961,7 @@
         "company_name": "BCBST",
         "id": "b0c2250d-0b25-42fe-ad1d-5e6938459c29",
         "title": "Data Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -120319,7 +120319,7 @@
         "company_name": "The Federal Reserve System",
         "id": "8d9f2c10-c9f9-4238-866f-114b65b19d87",
         "title": "Summer 2025 Intern - Information Technology Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -121507,7 +121507,7 @@
         "company_name": "Northrop Grumman",
         "id": "cbfd0e3d-90e3-468b-86a6-5b390cbc7418",
         "title": "2025 Software \u2013 Data Science Engineering Intern - Linthicum MD/Annapolis Junction MD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -122400,7 +122400,7 @@
         "company_name": "Super",
         "id": "89826895-21c0-4aa0-8831-fccfb61d2965",
         "title": "Software Engineering Intern - 12M Term - Winter 2025 - Remote",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -123416,5 +123416,143 @@
         "company_url": "https://simplify.jobs/c/6a7a42d3-327f-4b48-a7a7-c68f405e3396",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Charles River Associates (CRA)",
+        "id": "a7e5e251-ac28-41f2-8f4b-3810bc846212",
+        "title": "2026 Bachelor's/Master's graduates \u2013 Data Analytics Consulting Analyst/Associate Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730925284,
+        "date_posted": 1730925284,
+        "url": "https://boards.greenhouse.io/charlesriverassociates/jobs/6104226",
+        "locations": [
+            "Summit, NJ",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/d4f97dc1-3bd7-4767-8ce4-7becb28a3775",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1730944079,
+        "url": "https://app.ripplematch.com/v2/public/job/0787b785/details?from_page=company_branded_page",
+        "company_name": "ABB",
+        "title": "Technical Support Specialist Intern",
+        "locations": [
+            "New Berlin, WI"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "mtlogs",
+        "id": "04f56bf5-ab73-4439-a027-60c135da1986",
+        "date_posted": 1730944079,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1730944099,
+        "url": "https://app.ripplematch.com/v2/public/job/bedfc45d/details?from_page=company_branded_page",
+        "company_name": "ABB",
+        "title": "IT Intern - Spring & Summer 2025",
+        "locations": [
+            "Fort Smith, AR"
+        ],
+        "terms": [
+            "Summer 2025",
+            "Spring 2025"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "mtlogs",
+        "id": "a44e4217-e064-45d1-88da-e41725fc5b16",
+        "date_posted": 1730944099,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Adobe",
+        "id": "a5e3a711-fcd6-47eb-80ca-c3e4fccadea7",
+        "title": "2025 Intern - Finance Data Scientist",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1729107585,
+        "date_posted": 1729107585,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/XMLNAME-2025-Intern---Finance-Data-Scientist_R148742",
+        "locations": [
+            "SF",
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Adobe",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Splunk",
+        "id": "ac353472-3ffd-40b6-ad7c-16cf1e470a9b",
+        "title": "C++ Software Engineer Intern - Boulder - CO - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730952929,
+        "date_posted": 1730952929,
+        "url": "https://jobs.jobvite.com/splunk-careers/job/ow2OufwA?nl=1&nl=1&fr=false",
+        "locations": [
+            "Boulder, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Splunk",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Five Rings Capital",
+        "id": "6c6988bb-c028-49a7-9e03-888e579b3e82",
+        "title": "Summer Intern 2025 - Quantitative Trader",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1730693800,
+        "date_posted": 1730693800,
+        "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/4069542008",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Five-Rings",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1730956345,
+        "url": "https://careers.nintendo.com/job-openings/listing/240000009V.html",
+        "company_name": "Nintendo",
+        "title": "Intern - Software Engineer",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "cfbed511-b3c0-44d5-bb86-ed0e9ba8ecd7",
+        "date_posted": 1730956345,
+        "company_url": "",
+        "is_visible": true
     }
 ]
