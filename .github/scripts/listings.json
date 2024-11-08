@@ -89520,7 +89520,7 @@
         "company_name": "Pison",
         "id": "1585093a-69dd-4004-97e1-ad05820646ac",
         "title": "Data Collection Fall Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -93587,7 +93587,7 @@
         "company_name": "Plexus",
         "id": "205968f9-bd13-4e18-9cf1-7109ceb1b0e0",
         "title": "Intern \u2013 Product Engineer - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -95887,7 +95887,7 @@
         "company_name": "Stryker",
         "id": "e2122cd2-59cb-4181-9807-886a0a0cd489",
         "title": "Summer 2025 Intern - Software Engineering - Michigan",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -95906,7 +95906,7 @@
         "company_name": "Stryker",
         "id": "8148c25c-b66f-44f9-81ba-6c6f9d9a5b91",
         "title": "Summer 2025 Intern - Software Engineering - Indiana",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -95925,7 +95925,7 @@
         "company_name": "Stryker",
         "id": "c4a6229d-1835-4c7b-9f06-ffa628da8b75",
         "title": "Summer 2025 Intern - Software Engineering - New Jersey",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -95944,7 +95944,7 @@
         "company_name": "Stryker",
         "id": "86572349-82de-4abc-a3ab-25e1d6cb118d",
         "title": "Summer 2025 Intern - Software Engineering - California",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -95964,7 +95964,7 @@
         "company_name": "Stryker",
         "id": "f27dcd24-a242-4b0d-bade-026a15c4a55b",
         "title": "Summer 2025 Intern - Software Engineering - Washington",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -96450,7 +96450,7 @@
         "company_name": "Stryker",
         "id": "b1fb92cc-ea31-4c89-8f8b-48ad7e10ecaf",
         "title": "Summer 2025 Intern - Software Digital Engineering - Florida",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -101159,7 +101159,7 @@
         "company_name": "WillowTree",
         "id": "fd4ac6db-3811-45dd-9182-790a7188f733",
         "title": "Software Engineering Intern/Co-Op - Canada - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -102135,7 +102135,7 @@
         "company_name": "Lyft",
         "id": "74b41ee5-101d-42ff-8fa2-8fb1bd478223",
         "title": "Software Engineering Intern - Backend - Montreal - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -103446,7 +103446,7 @@
         "company_name": "WillowTree",
         "id": "85807221-a9b3-4ec8-b9c9-896d918315aa",
         "title": "Software Engineering Intern - US - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -116690,7 +116690,7 @@
         "company_name": "Matroid",
         "id": "e789569c-40ec-44a5-b961-017c0fd5ee4c",
         "title": "Computer Vision Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -118442,7 +118442,7 @@
         "company_name": "ibotta",
         "id": "5dea4ada-0bf3-4fd0-b43d-1b0998cf1d2e",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -119781,7 +119781,7 @@
         "company_name": "The Trade Desk",
         "id": "0832234f-fe1f-43c1-bb0e-84dc6a7341de",
         "title": "2025 North America Data Science Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -120573,7 +120573,7 @@
         "company_name": "Ncino",
         "id": "131a38ec-1fad-4ec8-a20e-692af9735f73",
         "title": "Data Science Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -121723,7 +121723,7 @@
         "company_name": "Blizzard Entertainment",
         "id": "886bd6bb-f53a-484a-a7cd-42b36046339c",
         "title": "Game Engineering Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024",
@@ -124262,6 +124262,120 @@
             "Lake Forest, CA"
         ],
         "company_url": "https://simplify.jobs/c/alcon",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rivian",
+        "id": "6c70703f-e752-42a4-88f0-a6ea65b04cf1",
+        "title": "Software Engineering Intern - Data Applications - Machine Learning",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1731082439,
+        "date_posted": 1731082439,
+        "url": "https://careers.rivian.com/jobs/20005?lang=en-us&icims=1",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Rivian",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Nethermind",
+        "id": "334574ea-3a6b-439a-a955-e910557c9307",
+        "title": "Internship Program 2024",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1731082805,
+        "date_posted": 1731082805,
+        "url": "https://job-boards.eu.greenhouse.io/nethermind/jobs/4104204101",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nethermind",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Allegion",
+        "id": "12aab9f2-ffea-43e3-9091-543e21c606a9",
+        "title": "Digital Manufacturing Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1731082669,
+        "date_posted": 1731082669,
+        "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Tobey-Dr/Digital-Manufacturing-Intern_JR30948",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/allegion",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rivian",
+        "id": "d8cae233-62ed-4545-aae6-ff721569e780",
+        "title": "Software Engineering Intern - Data Operations - Machine Learning",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1731082543,
+        "date_posted": 1731082543,
+        "url": "https://careers.rivian.com/jobs/20004?lang=en-us&icims=1",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Rivian",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rivian",
+        "id": "5d2eeac2-407b-489a-90b0-ded3d03a32b8",
+        "title": "Software Engineering Intern - Data Operations - Machine Learning",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1731082543,
+        "date_posted": 1731082543,
+        "url": "https://careers.rivian.com/jobs/20003?lang=en-us&icims=1",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Rivian",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rivian",
+        "id": "4f2c8f0b-290f-432b-aaa9-c0d8a97e4bd8",
+        "title": "Software Engineering Intern - Autonomous Features - Systems Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1731082548,
+        "date_posted": 1731082548,
+        "url": "https://careers.rivian.com/jobs/20001?lang=en-us&icims=1",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Rivian",
         "is_visible": true,
         "sponsorship": "Other"
     }
