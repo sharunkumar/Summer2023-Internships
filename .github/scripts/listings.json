@@ -98414,7 +98414,7 @@
         "company_name": "VAST",
         "id": "b40a2735-de02-4583-93af-a549cc192f0f",
         "title": "Summer 2025 Internship - Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -101052,7 +101052,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "54c0ff90-ea2f-4a1a-88cb-60a2d37b057f",
         "title": "Workforce Services and Solutions Software Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -102135,7 +102135,7 @@
         "company_name": "Lyft",
         "id": "74b41ee5-101d-42ff-8fa2-8fb1bd478223",
         "title": "Software Engineering Intern - Backend - Montreal - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -109856,7 +109856,7 @@
         "company_name": "Marvell",
         "id": "2cea654a-969f-4142-9a74-070744c777a2",
         "title": "Engineering Project Analyst Intern - Pey - Bachelor\u2019s degree",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -115414,7 +115414,7 @@
         "company_name": "Leidos",
         "id": "57bcc7a8-45cb-4774-b5bf-4141fe81b312",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -115987,7 +115987,7 @@
         "company_name": "Jellyfish",
         "id": "8a18d51c-8f60-4dd5-b818-8f61de4591c4",
         "title": "Data Science Co-op - July 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -117638,7 +117638,7 @@
         "company_name": "Manulife Financial",
         "id": "28d4cf1d-2c21-4f7b-bd74-19a675b9ca7b",
         "title": "Software Engineering Summer Internship Program - Atlanta - GA",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -119781,7 +119781,7 @@
         "company_name": "The Trade Desk",
         "id": "0832234f-fe1f-43c1-bb0e-84dc6a7341de",
         "title": "2025 North America Data Science Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -120067,7 +120067,7 @@
         "company_name": "Autodesk",
         "id": "adfff4e3-6293-4feb-92a4-690abe6e9c5c",
         "title": "Intern \u2013 Machine Learning",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2025",
             "Summer 2025",
@@ -124146,5 +124146,104 @@
         "company_url": "https://simplify.jobs/c/1159ff04-5c95-4f2c-aa33-185e11b5cabd",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Blizzard Entertainment",
+        "id": "9e507f04-ad49-4a59-80d9-10308570325c",
+        "title": "2025 US Summer Internship - AI Localization",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1731032239,
+        "date_posted": 1730766344,
+        "url": "https://activision.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/Localization-Production-Internship_R024248",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Blizzard-Entertainment",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Adobe",
+        "id": "af3df695-dd03-432c-a4ec-776d88cb533c",
+        "title": "2025 Intern - Research Scientist/Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1731039540,
+        "date_posted": 1731039540,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2025-Intern---Research-Scientist-Engineer_R150307",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Adobe",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Autodesk",
+        "id": "44634b05-5a98-445b-99dc-7b79711cae02",
+        "title": "Intern \u2013 Research Engineer - Real-Time Simulation & Artificial Intelligence",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1731039479,
+        "date_posted": 1731039479,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Florida-USA---Remote/Intern--Research-Engineer--Real-Time-Simulation---Artificial-Intelligence_24WD82931",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/9a5a4634-d168-4118-b172-0c0aae45f2ad",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1731043338,
+        "url": "https://careers.paramount.com/job/West-Hollywood-Software-Engineering-Internships-%28Summer-2025%2C-Hybrid-NYCLA%29-CA-90069/1229684800",
+        "company_name": "Paramount",
+        "title": "Software Engineering Internships (Summer 2025, Hybrid - NYC/LA)",
+        "locations": [
+            "West Hollywood, CA",
+            "Burbank, CA",
+            "New York, NY"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "e9bf5abe-0005-4e58-9f25-ba8e9d8d800d",
+        "date_posted": 1731043338,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1731043419,
+        "url": "https://careers.jacobs.com/en_US/careers/JobDetail/Agile-Software-Engineer-Intern/19796",
+        "company_name": "Jacobs",
+        "title": "Agile Software Engineer Intern",
+        "locations": [
+            "Hudson, NH"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "7cbb21b3-f680-40cc-90a4-2805231f57bd",
+        "date_posted": 1731043419,
+        "company_url": "",
+        "is_visible": true
     }
 ]
