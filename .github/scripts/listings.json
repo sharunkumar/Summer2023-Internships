@@ -120067,7 +120067,7 @@
         "company_name": "Autodesk",
         "id": "adfff4e3-6293-4feb-92a4-690abe6e9c5c",
         "title": "Intern \u2013 Machine Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025",
@@ -122841,7 +122841,7 @@
         "company_name": "Northrop Grumman",
         "id": "2d7df752-4663-4cab-8871-9a77c37472a3",
         "title": "2025 Software Engineer Intern - Ocean Springs MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
