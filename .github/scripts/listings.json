@@ -3459,7 +3459,7 @@
         "company_name": "Bodo.ai",
         "id": "e3616907-a445-4710-b6df-3cbed409f178",
         "title": "Software Engineer Intern - Cloud Infrastructure",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -89520,7 +89520,7 @@
         "company_name": "Pison",
         "id": "1585093a-69dd-4004-97e1-ad05820646ac",
         "title": "Data Collection Fall Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2024"
         ],
@@ -97005,7 +97005,7 @@
         "company_name": "Epic Games",
         "id": "5d109a20-a190-4f04-b667-c3b9991b7497",
         "title": "Tools Programmer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -97569,7 +97569,7 @@
         "company_name": "Epic Games",
         "id": "3495de9e-6fef-4876-8fa4-f78cc6a873c1",
         "title": "Engine Programmer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -98066,7 +98066,7 @@
         "company_name": "Lyft",
         "id": "6a1f18c7-a96d-4d28-abbc-37e66769a113",
         "title": "Software Engineer Intern - Backend - Toronto - Canada - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -98558,7 +98558,7 @@
         "company_name": "Lucid",
         "id": "ba5ec0e1-db8c-474f-8064-6ee6115a12d3",
         "title": "Software Engineer Internship 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -99391,7 +99391,7 @@
         "company_name": "Here",
         "id": "4ba361dc-85f0-4531-9966-75f992e76d92",
         "title": "Full-Stack Engineering Intern - Computer Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -104016,7 +104016,7 @@
         "company_name": "Patreon",
         "id": "2834e3af-155e-4c50-8a9d-72aaec4b9af5",
         "title": "Software Engineering Intern\t",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -104274,7 +104274,7 @@
         "company_name": "Lucid",
         "id": "f7e109fc-5854-4f16-96fe-e45e09d37384",
         "title": "Software Engineer Internship 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -104825,7 +104825,7 @@
         "company_name": "NinjaTrader",
         "id": "7c4eb28a-6bd8-45ec-951f-6e7d08e82d35",
         "title": "Software Developer in Test Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -106388,7 +106388,7 @@
         "company_name": "ClickTime",
         "id": "41cb1247-ff8b-410e-97bf-6779e95eeb1b",
         "title": "Software Development Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -106407,7 +106407,7 @@
         "company_name": "Altruist",
         "id": "796a3c98-4ec5-4de6-95b5-c17cd222159b",
         "title": "Quantitative Engineering Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -107058,7 +107058,7 @@
         "company_name": "Expedia",
         "id": "3bda117c-81ad-4363-aff3-140fc8b76dd0",
         "title": "Software Development Engineering Intern - 2025 - Seattle - Austin - Chicago",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025"
@@ -109989,7 +109989,7 @@
         "company_name": "Rivian",
         "id": "e4876e08-2e65-44e3-a9b8-14c85f435721",
         "title": "AI \u2013 Summer 2025 Internships - ML and Computer Vision Software",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -112087,7 +112087,7 @@
         "company_name": "Force Factor",
         "id": "12a97ad0-ada3-4b08-b286-e0ab0b7e12cc",
         "title": "Summer 2025 AI Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -114621,7 +114621,7 @@
         "company_name": "Vail Systems",
         "id": "60cb9fb6-f233-48e3-9bf9-18082f52d6b7",
         "title": "Data Analyst Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -117523,7 +117523,7 @@
         "company_name": "Sanofi",
         "id": "7f8b98aa-aba8-43e6-b158-780ada4c7bdc",
         "title": "Data Science and Digital Transformation \u2013 Spring 2025 Co-op - Dsd - Mechanistic Modeling",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -117738,7 +117738,7 @@
         "company_name": "JM Family",
         "id": "282ab1dc-dd68-4d03-887f-1d226bc70904",
         "title": "Intern \u2013 Automation Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025"
@@ -117897,7 +117897,7 @@
         "company_name": "The Federal Reserve System",
         "id": "8fa12f03-221b-48a4-ae79-e4716f5231a0",
         "title": "Summer 2025 Intern-Data Science and Business Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -118227,7 +118227,7 @@
         "company_name": "Analog Devices",
         "id": "feb56629-13d7-4b8d-8c54-0c162d399e7f",
         "title": "Data Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -120048,7 +120048,7 @@
         "company_name": "GCM Grosvenor",
         "id": "811e9286-5786-4274-8cd8-49548fc11fd9",
         "title": "2025 Software Engineering Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -120787,7 +120787,7 @@
         "company_name": "Associated Bank",
         "id": "3f251f30-6d87-4fab-b0cc-6fbece6aef17",
         "title": "Corporate Intern - Artificial Intelligence - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -121723,7 +121723,7 @@
         "company_name": "Blizzard Entertainment",
         "id": "886bd6bb-f53a-484a-a7cd-42b36046339c",
         "title": "Game Engineering Co-Op",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2024",
             "Summer 2024",
@@ -122936,7 +122936,7 @@
         "company_name": "Story Protocol",
         "id": "45e36401-4fc1-4cf9-9b08-acfb4138ae42",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -123960,7 +123960,7 @@
         "company_name": "Cadence Design Systems",
         "id": "b42fbdb3-736d-4b33-8b92-2ecbe3304f38",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -123979,7 +123979,7 @@
         "company_name": "Cadence Design Systems",
         "id": "3666f66c-1f3c-4995-98f1-12dfce71079a",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -124017,7 +124017,7 @@
         "company_name": "Trimble",
         "id": "fcce72c1-2359-4ee6-8b71-033ead486117",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -124171,7 +124171,7 @@
         "company_name": "Adobe",
         "id": "af3df695-dd03-432c-a4ec-776d88cb533c",
         "title": "2025 Intern - Research Scientist/Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -124376,6 +124376,386 @@
             "Palo Alto, CA"
         ],
         "company_url": "https://simplify.jobs/c/Rivian",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Red Ventures",
+        "id": "233855ba-7f7b-4e33-bb03-06c1ffbbbacb",
+        "title": "2025 Launch Program: Data Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1731096865,
+        "date_posted": 1731096865,
+        "url": "https://www.redventures.com/careers/positions/open?gh_jid=6356231",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Red-Ventures",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Skydio",
+        "id": "98fda44f-b0d4-46ed-bf92-43b5ea94aa66",
+        "title": "Embedded Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1731097387,
+        "date_posted": 1731097387,
+        "url": "https://www.skydio.com/jobs/6220441003?gh_jid=6220441003",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Skydio",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "SharkNinja",
+        "id": "9ee2ce99-4903-480b-9140-2e904116afab",
+        "title": "Spring 2025: Global Privacy & Governance Co-op - January through June",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1731097162,
+        "date_posted": 1731097162,
+        "url": "https://www.sharkninja.com/careers/?gh_jid=4417471006",
+        "locations": [
+            "Needham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/SharkNinja",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "d8d88a17-b6bb-4166-a963-55b9cdd75116",
+        "title": "AI Explainability Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1731098661,
+        "date_posted": 1731098661,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/AI-Explainability-Engineer-Intern_R-00146692-1",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Recursion Pharmaceuticals",
+        "id": "2a43d3cf-52ce-4472-9cb3-45b3c05f767b",
+        "title": "Software Engineering Internship - Toronto",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1731097272,
+        "date_posted": 1731097272,
+        "url": "https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/6385061",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/RecursionPharma",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Yahoo",
+        "id": "bab9461d-f134-4e53-a120-5b114b0f7bbe",
+        "title": "ALL Yahoo Software Engineering Internships - US - Apply Here",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1731098296,
+        "date_posted": 1731098296,
+        "url": "https://ouryahoo.wd5.myworkdayjobs.com/en-US/careers/job/United-States-of-America---Remote/ALL-Yahoo-Software-Engineering-Internships--US----Apply-Here-_JR0025188",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Yahoo",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Brooks Automation",
+        "id": "cecf461f-f1b7-4206-82ed-33fbaff8dc11",
+        "title": "Computer Science Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1731098381,
+        "date_posted": 1731098381,
+        "url": "https://brooksauto.wd1.myworkdayjobs.com/en-US/Brooks_External_Site/job/Chelmsford-MA/Computer-Science-Intern--Summer-2025-_R2297",
+        "locations": [
+            "Lowell, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/190ae898-a199-4c93-b2ce-50b07b110a17",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Recursion Pharmaceuticals",
+        "id": "762d2246-e90b-4280-8c53-5133092ffcbb",
+        "title": "Software Engineering Internship - Slc",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1731097271,
+        "date_posted": 1731097271,
+        "url": "https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/6380018",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/RecursionPharma",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "HashiCorp",
+        "id": "9b8a4ec8-a228-476a-a6e9-1f25596dfafa",
+        "title": "Software Engineering Intern - Undergraduate",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1731098048,
+        "date_posted": 1731098048,
+        "url": "https://www.hashicorp.com/career/6380117?gh_jid=6380117",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/HashiCorp",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "HashiCorp",
+        "id": "bb5c9578-cfd0-4606-bc18-abc7c217961c",
+        "title": "Software Engineering Intern - Undergraduate",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1731098046,
+        "date_posted": 1731098046,
+        "url": "https://www.hashicorp.com/career/6380118?gh_jid=6380118",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/HashiCorp",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Twilio",
+        "id": "adc24b93-dcd2-4525-a5e5-860dd33069c4",
+        "title": "Software Engineer Intern - United States",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1731111268,
+        "date_posted": 1731111268,
+        "url": "https://job-boards.greenhouse.io/twilio/jobs/6330375",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Twilio",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Truveta",
+        "id": "a4abee1c-e704-42b9-af99-6e04629cf35a",
+        "title": "Clinical Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1731111129,
+        "date_posted": 1731111129,
+        "url": "https://job-boards.greenhouse.io/truveta/jobs/5374109004",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Truveta",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Solidigm",
+        "id": "06eeecf1-15cd-44b1-b4e3-375f78b86f75",
+        "title": "System Product Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1731110691,
+        "date_posted": 1731110691,
+        "url": "https://jobs.smartrecruiters.com/Solidigm/744000025560886",
+        "locations": [
+            "Rancho Cordova, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Solidigm",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Modernizing Medicine",
+        "id": "0b45779c-04a1-4a11-a415-8420e45940df",
+        "title": "Mobile Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1731111570,
+        "date_posted": 1731111570,
+        "url": "https://www.modmed.com/company/careers/?gh_jid=7668835002",
+        "locations": [
+            "Boca Raton, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/ModMed",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Modernizing Medicine",
+        "id": "906c7cd2-66a8-4d45-a9d8-99c9d9b8e33b",
+        "title": "Ema \u2013 Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1731111562,
+        "date_posted": 1731111562,
+        "url": "https://www.modmed.com/company/careers/?gh_jid=7677071002",
+        "locations": [
+            "Boca Raton, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/ModMed",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Modernizing Medicine",
+        "id": "72abf572-de56-44b3-9e1e-118b3f231cf0",
+        "title": "Ggastro \u2013 Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1731111564,
+        "date_posted": 1731111564,
+        "url": "https://www.modmed.com/company/careers/?gh_jid=7683317002",
+        "locations": [
+            "Boca Raton, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/ModMed",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Modernizing Medicine",
+        "id": "91a6dff8-da57-4397-804a-8c0003532fb2",
+        "title": "Data Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1731111563,
+        "date_posted": 1731111563,
+        "url": "https://www.modmed.com/company/careers/?gh_jid=7668800002",
+        "locations": [
+            "Boca Raton, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/ModMed",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Modernizing Medicine",
+        "id": "be137d12-c7bf-4531-aa40-a7f2e3710bd0",
+        "title": "Java/Angular Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1731111563,
+        "date_posted": 1731111563,
+        "url": "https://www.modmed.com/company/careers/?gh_jid=7677145002",
+        "locations": [
+            "Boca Raton, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/ModMed",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Modernizing Medicine",
+        "id": "ddb11dbb-6ead-4260-b727-9d813aa00dd1",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1731111562,
+        "date_posted": 1731111562,
+        "url": "https://www.modmed.com/company/careers/?gh_jid=7683329002",
+        "locations": [
+            "Boca Raton, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/ModMed",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Modernizing Medicine",
+        "id": "7dbdedb6-f7c1-4585-9f71-e64463521935",
+        "title": "Klara Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1731111566,
+        "date_posted": 1731111566,
+        "url": "https://www.modmed.com/company/careers/?gh_jid=7687401002",
+        "locations": [
+            "Boca Raton, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/ModMed",
         "is_visible": true,
         "sponsorship": "Other"
     }
