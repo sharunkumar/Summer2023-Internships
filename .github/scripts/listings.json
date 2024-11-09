@@ -3459,7 +3459,7 @@
         "company_name": "Bodo.ai",
         "id": "e3616907-a445-4710-b6df-3cbed409f178",
         "title": "Software Engineer Intern - Cloud Infrastructure",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -97005,7 +97005,7 @@
         "company_name": "Epic Games",
         "id": "5d109a20-a190-4f04-b667-c3b9991b7497",
         "title": "Tools Programmer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -98066,7 +98066,7 @@
         "company_name": "Lyft",
         "id": "6a1f18c7-a96d-4d28-abbc-37e66769a113",
         "title": "Software Engineer Intern - Backend - Toronto - Canada - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -100784,7 +100784,7 @@
         "company_name": "Allegion",
         "id": "a16a92b9-a709-41c9-929c-4f08e9b4bc4a",
         "title": "Software Engineering Verification Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -106407,7 +106407,7 @@
         "company_name": "Altruist",
         "id": "796a3c98-4ec5-4de6-95b5-c17cd222159b",
         "title": "Quantitative Engineering Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -107058,7 +107058,7 @@
         "company_name": "Expedia",
         "id": "3bda117c-81ad-4363-aff3-140fc8b76dd0",
         "title": "Software Development Engineering Intern - 2025 - Seattle - Austin - Chicago",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2025",
             "Summer 2025"
@@ -112087,7 +112087,7 @@
         "company_name": "Force Factor",
         "id": "12a97ad0-ada3-4b08-b286-e0ab0b7e12cc",
         "title": "Summer 2025 AI Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -117445,7 +117445,7 @@
         "company_name": "ibotta",
         "id": "1951c500-3e37-4e95-a8b4-fe45fbd9c7f3",
         "title": "Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -117523,7 +117523,7 @@
         "company_name": "Sanofi",
         "id": "7f8b98aa-aba8-43e6-b158-780ada4c7bdc",
         "title": "Data Science and Digital Transformation \u2013 Spring 2025 Co-op - Dsd - Mechanistic Modeling",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2025"
         ],
@@ -118227,7 +118227,7 @@
         "company_name": "Analog Devices",
         "id": "feb56629-13d7-4b8d-8c54-0c162d399e7f",
         "title": "Data Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -120048,7 +120048,7 @@
         "company_name": "GCM Grosvenor",
         "id": "811e9286-5786-4274-8cd8-49548fc11fd9",
         "title": "2025 Software Engineering Summer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -122936,7 +122936,7 @@
         "company_name": "Story Protocol",
         "id": "45e36401-4fc1-4cf9-9b08-acfb4138ae42",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -123165,7 +123165,7 @@
         "company_name": "Autodesk",
         "id": "e16f603b-e4c2-4822-8f0a-651b8d19ef8a",
         "title": "Intern \u2013 Software Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -123224,7 +123224,7 @@
         "company_name": "Autodesk",
         "id": "8114de12-948d-4265-bfdc-ec384cfadeca",
         "title": "Intern \u2013 Software Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -124017,7 +124017,7 @@
         "company_name": "Trimble",
         "id": "fcce72c1-2359-4ee6-8b71-033ead486117",
         "title": "Data Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -124758,5 +124758,102 @@
         "company_url": "https://simplify.jobs/c/ModMed",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "ServiceNow",
+        "id": "101bb2e3-d524-40f5-ad71-64ca6857e0dd",
+        "title": "Associate Machine Learning Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1731125489,
+        "date_posted": 1731125489,
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000025583945",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/ServiceNow",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Spark Climate Solutions",
+        "id": "8fb86039-9bed-464e-8fab-a26323869643",
+        "title": "AI Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1731125654,
+        "date_posted": 1731125654,
+        "url": "https://jobs.lever.co/convergentresearch/9802fb09-cd51-4984-8e61-5ecdea0b995b/apply",
+        "locations": [
+            "Belmont, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Spark-Climate-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Gusto",
+        "id": "a303965c-ec4c-4176-847e-cd2fd4edf9fe",
+        "title": "Software Engineering Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1731125771,
+        "date_posted": 1731125771,
+        "url": "https://boards.greenhouse.io/gusto/jobs/6383521",
+        "locations": [
+            "SF",
+            "NYC",
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Gusto",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1731129798,
+        "url": "https://careers.rtx.com/global/en/job/RAYTGLOBAL01736604EXTERNALENGLOBAL/Software-Engineering-Co-op-2025",
+        "company_name": "Collins Aerospace",
+        "title": "Software Engineering Co-op (2025)",
+        "locations": [
+            "Wilsonville, OR"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "bd5b6e72-9c1e-4040-bcfc-7d3b7dd9e391",
+        "date_posted": 1731129798,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1731129913,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/12831",
+        "company_name": "Nokia",
+        "title": "Software Developer Intern",
+        "locations": [
+            "Naperville, IL"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "bb8f1d49-4922-42c7-b3e2-f9b1b0f4225a",
+        "date_posted": 1731129913,
+        "company_url": "",
+        "is_visible": true
     }
 ]
