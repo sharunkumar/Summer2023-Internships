@@ -94257,7 +94257,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1724704096,
+        "date_updated": 1731167855,
         "url": "https://geico.wd1.myworkdayjobs.com/en-US/External/details/Software-Development-Intern_R0051950?q=software%20engineer%20intern",
         "company_name": "GEICO",
         "title": "Software Development Intern",
@@ -94267,8 +94267,8 @@
         "terms": [
             "Summer 2025"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "LuaanNguyen",
         "id": "62f6dc11-e342-4c62-9755-ed40b8232803",
         "date_posted": 1724704096,
@@ -98259,7 +98259,7 @@
         "company_name": "Santander",
         "id": "09895717-9451-49bc-837c-40d83f56e83e",
         "title": "Technology Intern - Chief Data Office",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -99604,7 +99604,7 @@
         "company_name": "Gecko Robotics",
         "id": "336bb4f4-afac-46c4-ac03-d60f7850edc4",
         "title": "Embedded Software Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025"
@@ -100784,7 +100784,7 @@
         "company_name": "Allegion",
         "id": "a16a92b9-a709-41c9-929c-4f08e9b4bc4a",
         "title": "Software Engineering Verification Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -104254,7 +104254,7 @@
         "company_name": "Q2",
         "id": "cd913a03-70ed-4cd7-beee-68b9e7069ecb",
         "title": "Engineering/Data Science Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024"
@@ -108864,7 +108864,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1727670184,
+        "date_updated": 1731167966,
         "url": "https://job-boards.eu.greenhouse.io/nice/jobs/4368079101?gh_jid=4368079101",
         "company_name": "NICE",
         "title": "DevOps Intern",
@@ -108874,8 +108874,8 @@
         "terms": [
             "Summer 2025"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "GaryZhous",
         "id": "d722492f-406b-4fd3-a6a6-7a86685c00ef",
         "date_posted": 1727670184,
@@ -108883,7 +108883,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1727670397,
+        "date_updated": 1731169095,
         "url": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Ithaca---New-York---USA/IT-Co-op-Intern_R2024-3066",
         "company_name": "BorgWarner",
         "title": "IT Co-op/Intern",
@@ -108893,8 +108893,8 @@
         "terms": [
             "Summer 2025"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "GaryZhous",
         "id": "fc754c0e-2358-4394-a553-ad4b83578eed",
         "date_posted": 1727670397,
@@ -108929,7 +108929,7 @@
         "terms": [
             "Summer 2025"
         ],
-        "date_updated": 1727709288,
+        "date_updated": 1731167631,
         "date_posted": 1727709288,
         "url": "https://expedia.wd5.myworkdayjobs.com/search/job/UK---London/Software-Development-Engineering-Intern---June-2025---London_R-91379-1",
         "locations": [
@@ -109586,7 +109586,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1727822700,
+        "date_updated": 1731167036,
         "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Software-Engineering-Summer-Internship-Minneapolis--MN--Starting-June-2025-_R0000355051",
         "company_name": "Target",
         "title": "Software Engineering Summer Internship",
@@ -109596,8 +109596,8 @@
         "terms": [
             "Summer 2025"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "MaxMaeder",
         "id": "8c53e271-f436-4dfe-9f5c-2a33551d7241",
         "date_posted": 1727822700,
@@ -113050,7 +113050,7 @@
         "company_name": "Mach Industries",
         "id": "7a132c30-a474-4ae9-a695-c6050190d08a",
         "title": "Summer Intern 2025 - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -116492,7 +116492,7 @@
         "company_name": "Plexus",
         "id": "5f885a05-5b8b-4380-954a-e06a6e52830f",
         "title": "Intern \u2013 Software Engineer - Fall 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -117445,7 +117445,7 @@
         "company_name": "ibotta",
         "id": "1951c500-3e37-4e95-a8b4-fe45fbd9c7f3",
         "title": "Machine Learning Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -122017,7 +122017,7 @@
         "terms": [
             "Summer 2025"
         ],
-        "date_updated": 1727811743,
+        "date_updated": 1731167223,
         "date_posted": 1727811743,
         "url": "http://prizepicks.com/position?gh_jid=6226930003",
         "locations": [
