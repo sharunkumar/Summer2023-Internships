@@ -47304,7 +47304,7 @@
         "company_name": "Keywords Studios",
         "id": "7501cba0-ee51-419d-87b6-28a658d7a703",
         "title": "Research Intern - AI Start-up",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -89304,7 +89304,7 @@
         "company_name": "IXL Learning",
         "id": "8ca0c749-e89e-4d5e-b537-7d4c18f08e9c",
         "title": "Software Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -94452,7 +94452,7 @@
         "company_name": "Stryker",
         "id": "bfc0e1c7-165e-4391-959b-be29352c580f",
         "title": "Kettering University Engineering Co-op - B Section - R&D - Npd",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -99047,7 +99047,7 @@
         "company_name": "Carter's Careers",
         "id": "028ca418-4914-44cd-97d5-a893f42e0f71",
         "title": "Marketing Data Analytics Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -101140,7 +101140,7 @@
         "company_name": "Crusoe",
         "id": "efafb530-0d2a-465d-84d6-573a2d85c576",
         "title": "University Software Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -117758,7 +117758,7 @@
         "company_name": "JM Family",
         "id": "350fa01a-368a-4bfa-b458-b1576664b7c1",
         "title": "Intern \u2013 Portfolio Coordinator",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2025",
             "Summer 2025"
@@ -117816,7 +117816,7 @@
         "company_name": "Link Logistics",
         "id": "62cb331c-c9a7-4ad5-be6a-83e5eaac22ef",
         "title": "Investment Analyst Summer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -118385,7 +118385,7 @@
         "company_name": "Analog Devices",
         "id": "aab29e11-4094-49e6-a664-ce8fabda7546",
         "title": "Algorithm Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -118938,7 +118938,7 @@
         "company_name": "Sony Pictures Entertainment",
         "id": "517772c6-92a3-4355-aa49-6084226aa71d",
         "title": "Systems & Data Analytics Intern - US TV Production - Spring 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -120205,7 +120205,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "e613e9f3-5546-4e44-8644-7ff997a28107",
         "title": "Apprentice - Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -121917,7 +121917,7 @@
         "company_name": "Epic Games",
         "id": "fd9ac172-13e7-4871-a3f6-f8dbf244fd81",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -123384,7 +123384,7 @@
         "company_name": "Gesture",
         "id": "953a7684-f58f-4416-b48b-0e5120e21ec0",
         "title": "Data Science Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -124688,7 +124688,7 @@
         "company_name": "Modernizing Medicine",
         "id": "91a6dff8-da57-4397-804a-8c0003532fb2",
         "title": "Data Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
