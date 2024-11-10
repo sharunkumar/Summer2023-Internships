@@ -109258,7 +109258,7 @@
         "company_name": "Rivian",
         "id": "63154598-ad12-433e-9fb8-44f165c03446",
         "title": "Software Engineering Internship - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -110106,7 +110106,7 @@
         "company_name": "Amazon",
         "id": "f947af8c-32d5-41f7-ab82-b8d28b343671",
         "title": "Software Dev Engineer Intern - Embedded - Runtime - Storage - System & Performance - Annapurna ML",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -117758,7 +117758,7 @@
         "company_name": "JM Family",
         "id": "350fa01a-368a-4bfa-b458-b1576664b7c1",
         "title": "Intern \u2013 Portfolio Coordinator",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025"
@@ -117816,7 +117816,7 @@
         "company_name": "Link Logistics",
         "id": "62cb331c-c9a7-4ad5-be6a-83e5eaac22ef",
         "title": "Investment Analyst Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -118385,7 +118385,7 @@
         "company_name": "Analog Devices",
         "id": "aab29e11-4094-49e6-a664-ce8fabda7546",
         "title": "Algorithm Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -120338,7 +120338,7 @@
         "company_name": "Pinterest",
         "id": "ecf55032-6f07-4aa4-953c-fe9c073813bb",
         "title": "IT Software Engineering Intern - USA",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2025",
             "Summer 2025",
@@ -123051,7 +123051,7 @@
         "company_name": "Northrop Grumman",
         "id": "2e9d41d9-3913-4980-bf64-bf469e055586",
         "title": "2025 Software Engineer Intern - Annapolis MD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -123560,7 +123560,7 @@
         "company_name": "Citigroup",
         "id": "3487d937-9ff5-47e9-9a35-caa4b15ec32b",
         "title": "2025 \u2013 Summer Analyst - Investment Banking - Strategic Shareholder Advisory - Data Science - London - United Kingdom",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -124688,7 +124688,7 @@
         "company_name": "Modernizing Medicine",
         "id": "91a6dff8-da57-4397-804a-8c0003532fb2",
         "title": "Data Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -124910,6 +124910,28 @@
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/238c95d8-0d6e-4717-b28c-078b16d675d7",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CVS Pharmacy",
+        "id": "3a5419a9-7169-42f8-ab79-65739f7b7181",
+        "title": "Data Analytics Engineering Graduate Internship - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1731212326,
+        "date_posted": 1731212326,
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/New-York-161-Ave-of-the-Americas/Data-Analytics-Engineering-Graduate-Internship---Summer-2025_R0409093",
+        "locations": [
+            "Needham, MA",
+            "Hartford, CT",
+            "NYC",
+            "Irving, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/CVS",
         "is_visible": true,
         "sponsorship": "Other"
     }
