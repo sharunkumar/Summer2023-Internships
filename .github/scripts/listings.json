@@ -18146,7 +18146,7 @@
         "company_name": "Overbond",
         "id": "035b1a87-168f-416f-96a5-34f2cee06341",
         "title": "Full-Stack Developer Intern-PEY/Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -47304,7 +47304,7 @@
         "company_name": "Keywords Studios",
         "id": "7501cba0-ee51-419d-87b6-28a658d7a703",
         "title": "Research Intern - AI Start-up",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2024"
         ],
@@ -92099,7 +92099,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1723584431,
+        "date_updated": 1731296581,
         "url": "https://asana.com/jobs/apply/6151417",
         "company_name": "Asana",
         "title": "NYC Summer Software Engineering Internship",
@@ -92109,8 +92109,8 @@
         "terms": [
             "Summer 2025"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "ShreyashDhamane",
         "id": "4ca1070f-1350-4167-803a-97e7f1c49896",
         "date_posted": 1723584431,
@@ -96907,7 +96907,7 @@
         "company_name": "Plexus",
         "id": "9e96c34b-c9e8-4d70-880a-a3ba400eee9f",
         "title": "Intern \u2013 Software Engineer - Spring 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2025"
         ],
@@ -97872,7 +97872,7 @@
         "sponsorship": "U.S. Citizenship is Required"
     },
     {
-        "date_updated": 1725598837,
+        "date_updated": 1731296706,
         "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4388985101?gh_src=f754f242teu",
         "company_name": "Veeam Software",
         "title": "Salesforce Engineer Intern",
@@ -97882,8 +97882,8 @@
         "terms": [
             "Summer 2025"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "GaryZhous",
         "id": "0088bb94-fe23-4f03-a890-c39d4192271b",
         "date_posted": 1725598837,
@@ -98429,7 +98429,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1725982670,
+        "date_updated": 1731296850,
         "url": "https://salesforce.wd12.myworkdayjobs.com/Slack/job/California---San-Francisco/Summer-2025-Intern---Software-Engineer_JR262842-3",
         "company_name": "Slack",
         "title": "SWE Intern",
@@ -98447,7 +98447,7 @@
             "Summer 2025"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "omavashia2005",
         "id": "d5c7df2c-f7b5-4e5b-bf29-7135e03ad612",
         "date_posted": 1725852849,
@@ -110184,7 +110184,7 @@
         "company_name": "Rockwell Automation",
         "id": "2696336e-6d59-451f-9bca-cff6d046bf61",
         "title": "Co-op \u2013 Embedded Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2024",
             "Summer 2024",
@@ -113572,7 +113572,7 @@
         "company_name": "Solidigm",
         "id": "f289aacb-93a1-49fb-b43d-e95e1308ed5e",
         "title": "SSD Validation Development Undergrad Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -117132,7 +117132,7 @@
         "company_name": "MSD",
         "id": "0d8e6e7f-deaf-4f88-a1d0-b59a83785347",
         "title": "2025 University Recruiting \u2013 Global Supplier Management Group Procurement Data Analytics Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023"
         ],
@@ -120355,7 +120355,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1730348223,
+        "date_updated": 1731297095,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Mountain-View-California-United-States-of-America/XMLNAME-2025-Summer-Intern---Software-Engineer--GM-Commercial-Software_JR-202420380",
         "company_name": "General Motors",
         "title": "2025 Summer Intern - Software Engineer, GM Commercial Software",
@@ -120365,8 +120365,8 @@
         "terms": [
             "Summer 2025"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "GaryZhous",
         "id": "882093a8-7d4f-46c6-a2d3-0e91491a7b8b",
         "date_posted": 1730348223,
@@ -120665,7 +120665,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1730426889,
+        "date_updated": 1731296954,
         "url": "https://recruiting2.ultipro.com/HER1001ACFIN/JobBoard/ab33798a-3521-417b-8db8-a8e435c475fa/OpportunityDetail?opportunityId=7080938d-3a7b-47ce-989d-0dd4994f0a8a&source=LinkedIn",
         "company_name": "Acuity",
         "title": "Programmer Intern",
@@ -120675,8 +120675,8 @@
         "terms": [
             "Summer 2025"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "DereC4",
         "id": "af149392-f4a5-45ff-892a-968f6a5a7386",
         "date_posted": 1730426889,
@@ -121410,7 +121410,7 @@
         "company_name": "Autodesk",
         "id": "f66a7e9b-dd8d-4585-bc12-4a02193f3c39",
         "title": "Intern \u2013 Software Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -121917,7 +121917,7 @@
         "company_name": "Epic Games",
         "id": "fd9ac172-13e7-4871-a3f6-f8dbf244fd81",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -121936,7 +121936,7 @@
         "company_name": "Zoox",
         "id": "3231db1d-53fe-4670-bfda-b9e2471e6598",
         "title": "CLAMS HD Mapping Internship/Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
