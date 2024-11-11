@@ -89304,7 +89304,7 @@
         "company_name": "IXL Learning",
         "id": "8ca0c749-e89e-4d5e-b537-7d4c18f08e9c",
         "title": "Software Engineer \u2013 Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -94452,7 +94452,7 @@
         "company_name": "Stryker",
         "id": "bfc0e1c7-165e-4391-959b-be29352c580f",
         "title": "Kettering University Engineering Co-op - B Section - R&D - Npd",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -96907,7 +96907,7 @@
         "company_name": "Plexus",
         "id": "9e96c34b-c9e8-4d70-880a-a3ba400eee9f",
         "title": "Intern \u2013 Software Engineer - Spring 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -101140,7 +101140,7 @@
         "company_name": "Crusoe",
         "id": "efafb530-0d2a-465d-84d6-573a2d85c576",
         "title": "University Software Engineer \u2013 Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -110184,7 +110184,7 @@
         "company_name": "Rockwell Automation",
         "id": "2696336e-6d59-451f-9bca-cff6d046bf61",
         "title": "Co-op \u2013 Embedded Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024",
@@ -113572,7 +113572,7 @@
         "company_name": "Solidigm",
         "id": "f289aacb-93a1-49fb-b43d-e95e1308ed5e",
         "title": "SSD Validation Development Undergrad Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -118938,7 +118938,7 @@
         "company_name": "Sony Pictures Entertainment",
         "id": "517772c6-92a3-4355-aa49-6084226aa71d",
         "title": "Systems & Data Analytics Intern - US TV Production - Spring 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2025"
         ],
@@ -120205,7 +120205,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "e613e9f3-5546-4e44-8644-7ff997a28107",
         "title": "Apprentice - Software Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2025"
         ],
@@ -121936,7 +121936,7 @@
         "company_name": "Zoox",
         "id": "3231db1d-53fe-4670-bfda-b9e2471e6598",
         "title": "CLAMS HD Mapping Internship/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -124059,7 +124059,7 @@
         "terms": [
             "Summer 2025"
         ],
-        "date_updated": 1731025162,
+        "date_updated": 1731272804,
         "date_posted": 1731025162,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Tucson-AZ/Software-Engineer-Intern_R-00147572",
         "locations": [
@@ -124067,7 +124067,7 @@
         ],
         "company_url": "https://simplify.jobs/c/Leidos",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "U.S. Citizenship is Required"
     },
     {
         "source": "Simplify",
