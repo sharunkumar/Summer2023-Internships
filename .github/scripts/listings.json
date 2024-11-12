@@ -93186,7 +93186,7 @@
         "company_name": "Motorola",
         "id": "0e997eb2-3739-4d66-a5df-f9beef7eb436",
         "title": "Google Applications Developer Internship - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -93755,7 +93755,7 @@
         "sponsorship": "Does Not Offer Sponsorship"
     },
     {
-        "date_updated": 1724391556,
+        "date_updated": 1731351920,
         "url": "https://app.ripplematch.com/v2/public/job/f6d4d8b9?tl=58c02b67&from_page=tracking_link",
         "company_name": "Robinhood",
         "title": "Software Engineering Intern, Web",
@@ -93766,8 +93766,8 @@
         "terms": [
             "Summer 2025"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "reddoy",
         "id": "0560b8a6-17bb-48ad-b2a9-89a73d51196f",
         "date_posted": 1724391556,
@@ -97005,7 +97005,7 @@
         "company_name": "Epic Games",
         "id": "5d109a20-a190-4f04-b667-c3b9991b7497",
         "title": "Tools Programmer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -97666,7 +97666,7 @@
         "company_name": "Genesis Therapeutics",
         "id": "afba7098-7508-4a1a-9426-f55103bcfb3f",
         "title": "Software Engineer Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -98499,7 +98499,7 @@
         "company_name": "Grammarly",
         "id": "c651243d-5389-4864-98e9-b14b4ebda2a5",
         "title": "Software Engineering Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -99104,7 +99104,7 @@
         "company_name": "Lumentum",
         "id": "c68c170f-e326-4d82-a9ce-0a7693c3a534",
         "title": "Software Automation Engineer Co-op/Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -102310,7 +102310,7 @@
         "company_name": "Carter's Careers",
         "id": "dd7ac7bc-763e-4978-8919-b4c527d5225c",
         "title": "Full Stack Developer \u2013 Ecomm Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2024",
             "Summer 2024"
@@ -106310,7 +106310,7 @@
         "company_name": "Motorola",
         "id": "148404ba-21d3-457c-bb26-d8dc1d797503",
         "title": "Supply Chain Data Analyst Internship 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -106949,7 +106949,7 @@
         "company_name": "Uber",
         "id": "bfeb554b-0b29-4981-86d8-e43f5eebbefa",
         "title": "2025 Software Engineering Uberstar Internship - United States",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -113747,7 +113747,7 @@
         "company_name": "Adobe",
         "id": "6dd7a8a9-81d9-4f68-a9a7-2491ee03427f",
         "title": "2025 Intern - Software Development Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024",
@@ -113769,7 +113769,7 @@
         "company_name": "Adobe",
         "id": "2c8938d8-1caa-4f51-ae78-194aae43f002",
         "title": "2025 Intern - Software Development Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024",
@@ -113812,7 +113812,7 @@
         "company_name": "Adobe",
         "id": "67c7d242-1edd-43a7-8098-d2525bd894d3",
         "title": "2025 Intern - Software Development Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024",
@@ -113878,7 +113878,7 @@
         "company_name": "Adobe",
         "id": "56aa846a-d75a-4d6b-b50e-3fc995ab098b",
         "title": "2025 Intern - Software Development Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024",
@@ -114032,7 +114032,7 @@
         "company_name": "Adobe",
         "id": "296e92c7-12f0-4f57-94dc-366a33197a2a",
         "title": "2025 Intern - Software Development Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024",
@@ -115553,7 +115553,7 @@
         "company_name": "Samsara",
         "id": "10f7a111-7a88-4ee3-be33-5b4a135d0b6a",
         "title": "Software Engineering Intern - US",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Summer 2025",
@@ -117618,7 +117618,7 @@
         "company_name": "JM Family",
         "id": "c32908b9-d3ba-4e13-bb12-6beaf96b761a",
         "title": "Intern \u2013 Data Governance",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025"
@@ -117839,7 +117839,7 @@
         "company_name": "JM Family",
         "id": "2bb40c84-63ab-4b6f-a380-c9822c7b716a",
         "title": "Intern \u2013 Developer Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025"
@@ -118129,7 +118129,7 @@
         "company_name": "Autodesk",
         "id": "8d77a420-d5bd-4c81-9af0-ac867428d99a",
         "title": "Intern \u2013 Data Analytics",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2025",
             "Summer 2025",
@@ -121311,7 +121311,7 @@
         "company_name": "JM Family",
         "id": "e4c4b8b2-3664-4eb2-af6f-df799bf7202a",
         "title": "Intern \u2013 Power Platform",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025"
@@ -122110,7 +122110,7 @@
         "company_name": "Blockhouse",
         "id": "60684000-6adc-4af4-94d5-6b6df4d4a025",
         "title": "Full Stack Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -122497,7 +122497,7 @@
         "company_name": "Epic Games",
         "id": "862f45b7-d01a-443d-8e16-1e5a22e0884e",
         "title": "Tools Programmer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -123325,7 +123325,7 @@
         "company_name": "AVEVA",
         "id": "57926598-67f2-463f-893e-43cf7f674ee9",
         "title": "Software Developer Intern - Drexel",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -123344,7 +123344,7 @@
         "company_name": "Western Digital",
         "id": "131ec445-a74e-47ae-b27a-e2799a1334fa",
         "title": "RAMP Co-Op Read/Write Channel Firmware Engineer - Spring-Summer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024"
@@ -124460,7 +124460,7 @@
         "company_name": "Recursion Pharmaceuticals",
         "id": "2a43d3cf-52ce-4472-9cb3-45b3c05f767b",
         "title": "Software Engineering Internship - Toronto",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -124517,7 +124517,7 @@
         "company_name": "Recursion Pharmaceuticals",
         "id": "762d2246-e90b-4280-8c53-5133092ffcbb",
         "title": "Software Engineering Internship - Slc",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -124918,7 +124918,7 @@
         "company_name": "CVS Pharmacy",
         "id": "3a5419a9-7169-42f8-ab79-65739f7b7181",
         "title": "Data Analytics Engineering Graduate Internship - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -124940,7 +124940,7 @@
         "company_name": "Motorola",
         "id": "f5c57622-31ff-4ea0-b1de-2fbb027e0834",
         "title": "Software Engineering Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -125016,7 +125016,7 @@
         "company_name": "Motorola",
         "id": "f6f354d6-3280-4829-85f1-eb3571cdd480",
         "title": "Product and Data Research Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -125065,6 +125065,124 @@
         "source": "LuaanNguyen",
         "id": "26e66096-065d-472a-8901-2d5d5b9c9dde",
         "date_posted": 1731346615,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Corelogic",
+        "id": "6ea3016f-0da8-4b1a-b6a9-2bcb129f6e2d",
+        "title": "Intern \u2013 Software Engineer - Dallas - TX",
+        "active": true,
+        "terms": [
+            "Spring 2024"
+        ],
+        "date_updated": 1731356400,
+        "date_posted": 1731356400,
+        "url": "https://corelogic.wd5.myworkdayjobs.com/en-US/Global/job/Dallas-TX/Intern--Software-Engineer--Dallas--TX-_REQ15617",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/84f3bc2b-33c1-4bb0-af43-21bb8d59d639",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Corelogic",
+        "id": "58371f81-ab4a-4ecc-8e62-ebe6775a7e62",
+        "title": "Intern \u2013 Software Engineer - Austin - TX",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1731356398,
+        "date_posted": 1731356398,
+        "url": "https://corelogic.wd5.myworkdayjobs.com/en-US/Global/job/Austin-TX/Intern--Software-Engineer_REQ15733",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/84f3bc2b-33c1-4bb0-af43-21bb8d59d639",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Stanley Black & Decker",
+        "id": "69a81dae-6e2d-4436-80f6-65030f03f34b",
+        "title": "Data Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1731357855,
+        "date_posted": 1731357855,
+        "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Mississauga-Ontario-Canada/Data-Analytics-Intern_REQ-1000033526",
+        "locations": [
+            "Mississauga, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/820cabdf-5e2f-4043-b27f-717af1703eef",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Autodesk",
+        "id": "ff4f1e03-bbe2-4cd7-8b27-4aea1af8a78d",
+        "title": "Intern \u2013 Software Developer - Graphics",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "date_updated": 1731357364,
+        "date_posted": 1731357364,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Montreal-QC-CAN/Intern--Software-Developer--Graphics-_24WD82768",
+        "locations": [
+            "Montreal, QC, Canada",
+            "Toronto, ON, Canada",
+            "Calgary, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/9a5a4634-d168-4118-b172-0c0aae45f2ad",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Ethic ",
+        "id": "46354946-7ee6-4f88-a031-00a7606f69a9",
+        "title": "Software Engineering Internship",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "date_updated": 1731370818,
+        "date_posted": 1731370818,
+        "url": "https://ethic.com/roles?gh_jid=6240297003",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/d5c62d54-ba09-4cad-9400-e0d56f613bb9",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1731372153,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1782349/Explore-Program-Internship-Opportunities%3A-First-Year-Students%2C-Redmond",
+        "company_name": "Microsoft",
+        "title": "Explore Program Internship Opportunities: First-Year Students",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "waterkimchi",
+        "id": "162b3bbf-1def-4308-b452-4f9d6f5d5288",
+        "date_posted": 1731372153,
         "company_url": "",
         "is_visible": true
     }
