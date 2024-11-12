@@ -43956,7 +43956,7 @@
         "company_name": "Neuralink",
         "id": "f42b6aae-8434-41fa-97bf-f0f1a496395b",
         "title": "Surgery Operations Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -86285,7 +86285,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "37a800c5-c4cc-48aa-929e-1801d49f465d",
         "title": "Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -88906,7 +88906,7 @@
             "Summer 2025"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "source": "Simplify",
         "id": "e779e175-1975-4cdd-9e87-4d13b859e266",
         "date_posted": 1720487360,
@@ -89216,7 +89216,7 @@
             "Summer 2025"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "source": "Simplify",
         "id": "71cf7b3f-5fb9-4eba-acf3-e1a7cf8c8b34",
         "date_posted": 1721145386,
@@ -99700,7 +99700,7 @@
         "company_name": "Lucid Motors",
         "id": "d19601ff-c81d-42c3-bf3d-cf64ae822fbc",
         "title": "Intern \u2013 Tooling Analyst - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -101178,7 +101178,7 @@
         "company_name": "The Voleon Group",
         "id": "f8559f30-e4a2-4a26-824b-258ec0dae6e2",
         "title": "Trading Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -105552,7 +105552,7 @@
         "company_name": "Astranis",
         "id": "2cd830ad-9303-4492-b06d-f1f901cf209e",
         "title": "Software Systems Hardware Integration Engineer Intern - Winter 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -110511,7 +110511,7 @@
         "company_name": "Zoox",
         "id": "db6735fc-07e3-4794-a4ae-add9d39935d4",
         "title": "Backend Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -117974,7 +117974,7 @@
         "company_name": "Applied Materials",
         "id": "5e4ada73-bc4e-4c1e-b8bb-9219dbd0b88f",
         "title": "2025 Summer Intern - Software Engineer - Bachelor's Degree",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -118286,7 +118286,7 @@
         "company_name": "Analog Devices",
         "id": "b421e6ba-76c1-4dd7-af5f-d960efdb1e56",
         "title": "Machine Learning Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -118576,7 +118576,7 @@
         "company_name": "Oshkosh",
         "id": "97cd097d-c564-4df5-9566-8a8f051b95bd",
         "title": "Systems Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -124940,7 +124940,7 @@
         "company_name": "Motorola",
         "id": "f5c57622-31ff-4ea0-b1de-2fbb027e0834",
         "title": "Software Engineering Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -125016,7 +125016,7 @@
         "company_name": "Motorola",
         "id": "f6f354d6-3280-4829-85f1-eb3571cdd480",
         "title": "Product and Data Research Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -125183,6 +125183,63 @@
         "source": "waterkimchi",
         "id": "162b3bbf-1def-4308-b452-4f9d6f5d5288",
         "date_posted": 1731372153,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intradiem",
+        "id": "29fbdeca-bbfb-4a2b-adb0-9944374bdc57",
+        "title": "Summer 2025 Architecture Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1731356619,
+        "date_posted": 1731356619,
+        "url": "https://job-boards.greenhouse.io/intradiem/jobs/4409590006",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intradiem",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1731388914,
+        "url": "https://careers.ice.com/jobs/9280?mode=apply",
+        "company_name": "ICE",
+        "title": "Summer Internship Program 2025 - Data Analyst, Data Science and Visualization Intern",
+        "locations": [
+            "New York, NY"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "c6da4f3b-a42a-4c40-9102-830058abbdfa",
+        "date_posted": 1731388914,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1731389099,
+        "url": "https://jobs.thermofisher.com/global/en/job/R-01282270/Artificial-Intelligence-Internship?rx_ch=jobpost&rx_job=R-01282270-1",
+        "company_name": "Thermo Fisher Scientific",
+        "title": "Artificial Intelligence Internship",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "0d4b281d-4461-4df8-8b91-fdb56c075ba5",
+        "date_posted": 1731389099,
         "company_url": "",
         "is_visible": true
     }
