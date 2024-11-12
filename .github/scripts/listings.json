@@ -99700,7 +99700,7 @@
         "company_name": "Lucid Motors",
         "id": "d19601ff-c81d-42c3-bf3d-cf64ae822fbc",
         "title": "Intern \u2013 Tooling Analyst - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -125242,5 +125242,24 @@
         "date_posted": 1731389099,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "KION",
+        "id": "b3ef8e2a-40ba-42cf-a80e-1ac8f7d9cd84",
+        "title": "Software Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1731402119,
+        "date_posted": 1731402119,
+        "url": "https://kiongroup.wd3.myworkdayjobs.com/en-US/KION_SCS/job/Waterloo-Canada/Software-Engineer-Co-op_JR-0069700",
+        "locations": [
+            "Kitchener, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/e7d8f975-ac2f-4a71-9604-f1ec300eb8e5",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
