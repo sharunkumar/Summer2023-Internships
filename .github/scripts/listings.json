@@ -93739,7 +93739,7 @@
         "company_name": "DriveTime",
         "id": "6675a0c9-148e-4095-ad5d-e711c67a3daa",
         "title": "Data Analytics Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -98950,7 +98950,7 @@
         "company_name": "Trimble",
         "id": "b3ef5fe9-b9ba-4617-abb6-a51955dc14eb",
         "title": "Geomatics Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -102408,7 +102408,7 @@
         "company_name": "Gilead Sciences",
         "id": "2c9e8988-f170-468c-85fc-bb06991102b8",
         "title": "Intern \u2013 Clinical Data Science - Advanced Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024"
@@ -103665,7 +103665,7 @@
         "company_name": "Bristol-Myers Squibb",
         "id": "ec3ab055-1c9f-4a75-9539-18a6d63bfe7d",
         "title": "Summer 2025 \u2013 Clinical Pharmacology Analysis and Reporting/Data Science Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -104170,7 +104170,7 @@
         "company_name": "OakNorth Bank",
         "id": "15d466bb-a146-4345-89b7-1ad5e46b1cbe",
         "title": "Associate/Internship \u2013 Senior Managing Director's Office",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -109856,7 +109856,7 @@
         "company_name": "Marvell",
         "id": "2cea654a-969f-4142-9a74-070744c777a2",
         "title": "Engineering Project Analyst Intern - Pey - Bachelor\u2019s degree",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -112527,7 +112527,7 @@
         "company_name": "Pinterest",
         "id": "c1cc25af-2498-4bf0-93eb-5c7fcb07bb2c",
         "title": "IT Systems Engineering Intern - USA",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025",
@@ -113572,7 +113572,7 @@
         "company_name": "Solidigm",
         "id": "f289aacb-93a1-49fb-b43d-e95e1308ed5e",
         "title": "SSD Validation Development Undergrad Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -117247,7 +117247,7 @@
         "company_name": "The Federal Reserve System",
         "id": "32ef44bb-c088-4224-967a-a935defb7c62",
         "title": "Summer 2025: Digital Money and Payments R&D Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -118404,7 +118404,7 @@
         "company_name": "FHLBank Chicago",
         "id": "95c56a23-53b1-4236-be9c-f875f6aa0322",
         "title": "Summer Internship - Application Development",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -122917,7 +122917,7 @@
         "company_name": "Nike",
         "id": "1c8ea5be-83cd-470e-9e17-b033d3229c43",
         "title": "Nike \u2013 Inc Digital Capabilities Graduate Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -125016,7 +125016,7 @@
         "company_name": "Motorola",
         "id": "f6f354d6-3280-4829-85f1-eb3571cdd480",
         "title": "Product and Data Research Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -125130,7 +125130,7 @@
         "company_name": "Autodesk",
         "id": "ff4f1e03-bbe2-4cd7-8b27-4aea1af8a78d",
         "title": "Intern \u2013 Software Developer - Graphics",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024"
@@ -125267,7 +125267,7 @@
         "company_name": "Ensemble",
         "id": "238e448b-5958-4227-a56a-a580fb2b5673",
         "title": "IT and Operations Support Coordinator Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -125345,7 +125345,7 @@
         "company_name": "Shield AI",
         "id": "584e3ea4-e46d-4ffe-9848-4d538237802b",
         "title": "Integration and Test Engineering Intern \u2013 2025 Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -125613,7 +125613,7 @@
         "company_name": "Leidos",
         "id": "caca820f-60cd-4bb2-a5be-f18b6a85ea3f",
         "title": "Computer Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -125672,7 +125672,7 @@
         "company_name": "KION",
         "id": "1c823fb4-dd23-4dc1-8f7f-628d22c60146",
         "title": "DITA CCMS Associate Adminstrator Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -125895,5 +125895,104 @@
         "company_url": "https://simplify.jobs/c/Astranis",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Zoox",
+        "id": "5729faa6-0a3f-4414-be25-bdbaf9b8f443",
+        "title": "Collision Avoidance System \u2013 Machine Learning Internship/Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729048642,
+        "date_posted": 1729048642,
+        "url": "https://jobs.lever.co/zoox/48c78ca2-f770-4932-8cc6-3250cd931451/apply",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zoox",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Blizzard Entertainment",
+        "id": "f135aac4-f047-4f50-bf38-aaaedd6b0d96",
+        "title": "2025 US Co-Op - Game Production",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024",
+            "Winter 2025"
+        ],
+        "date_updated": 1730772543,
+        "date_posted": 1730766344,
+        "url": "https://activision.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Albany/Game-Production-Co-Op_R024242",
+        "locations": [
+            "Albany, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Blizzard-Entertainment",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Skydio",
+        "id": "37eb7207-cbe3-43fd-ac98-fd02b490b614",
+        "title": "Boston Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1731473207,
+        "date_posted": 1731473207,
+        "url": "https://www.skydio.com/jobs/6220824003?gh_jid=6220824003",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Skydio",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1731474887,
+        "url": "https://globalus242.dayforcehcm.com/CandidatePortal/en-US/lightbox/Site/LIGHTBOXCAREERS/Posting/View/456",
+        "company_name": "LighBox",
+        "title": "Engineering - Data Platform - Software Engineer",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "d8b295cf-ff32-4338-a5e1-d40a1d159831",
+        "date_posted": 1731474887,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1731475041,
+        "url": "https://careers.se.com/jobs/80573",
+        "company_name": "Schneider Electric",
+        "title": "Computer Science Intern",
+        "locations": [
+            "Nashville, TN",
+            "Columbia, SC",
+            "El Paso, TX"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "6fa77f01-6abc-432f-a36f-2ee5d8efe944",
+        "date_posted": 1731475041,
+        "company_url": "",
+        "is_visible": true
     }
 ]
