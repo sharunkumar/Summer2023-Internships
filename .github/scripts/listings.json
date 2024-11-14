@@ -126224,5 +126224,24 @@
         "date_posted": 1731565473,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731608548,
+        "url": "https://jobs.ashbyhq.com/kodif/31a0cc47-4c3c-42ec-9ac7-f43083588411",
+        "company_name": "KODIF",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "tasmt",
+        "id": "39b713b1-47ad-49a4-b7ba-9943a2865b13",
+        "date_posted": 1731608548,
+        "company_url": "",
+        "is_visible": true
     }
 ]
