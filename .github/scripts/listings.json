@@ -93640,7 +93640,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1724287691,
+        "date_updated": 1731566371,
         "url": "https://www.geckorobotics.com/careers?ashby_jid=324af8fa-cab0-47b2-908c-f26fbd54d668#open-positions",
         "company_name": "Gecko Robotics",
         "title": "Software Engineer - Intern",
@@ -93651,7 +93651,7 @@
             "Summer 2025"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "jkahn33",
         "id": "59eda13c-9e1d-4e12-8408-3ae7d9e3a2a7",
         "date_posted": 1724287691,
@@ -93659,7 +93659,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1724287712,
+        "date_updated": 1731566325,
         "url": "https://www.geckorobotics.com/careers?ashby_jid=23c70fb7-0cf2-4d16-b081-aa2286f09c53#open-positions",
         "company_name": "Gecko Robotics",
         "title": "Embedded Software Engineer - Intern",
@@ -93670,7 +93670,7 @@
             "Summer 2025"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "jkahn33",
         "id": "9f8832a7-95d9-4352-9dec-a219fbed714e",
         "date_posted": 1724287712,
@@ -93678,7 +93678,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1724287728,
+        "date_updated": 1731566281,
         "url": "https://www.geckorobotics.com/careers?ashby_jid=f4fc0a1d-5ecc-45f9-a186-616052a7928e#open-positions",
         "company_name": "Gecko Robotics",
         "title": "Field Software Engineer - Intern",
@@ -93689,7 +93689,7 @@
             "Summer 2025"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "jkahn33",
         "id": "47bab86e-ef2d-4dfe-84d4-69461cd2b4f5",
         "date_posted": 1724287728,
