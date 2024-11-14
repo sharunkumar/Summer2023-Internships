@@ -113747,7 +113747,7 @@
         "company_name": "Adobe",
         "id": "6dd7a8a9-81d9-4f68-a9a7-2491ee03427f",
         "title": "2025 Intern - Software Development Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024",
@@ -123785,7 +123785,7 @@
         "company_name": "Motorola",
         "id": "fd746366-3d1d-4289-8967-044339fbcfca",
         "title": "Software Development 2024 Co-Op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -124270,7 +124270,7 @@
         "company_name": "Rivian",
         "id": "6c70703f-e752-42a4-88f0-a6ea65b04cf1",
         "title": "Software Engineering Intern - Data Applications - Machine Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -125268,7 +125268,7 @@
         "company_name": "Ensemble",
         "id": "238e448b-5958-4227-a56a-a580fb2b5673",
         "title": "IT and Operations Support Coordinator Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
