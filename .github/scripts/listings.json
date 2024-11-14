@@ -124801,22 +124801,23 @@
         "source": "Simplify",
         "company_name": "Gusto",
         "id": "a303965c-ec4c-4176-847e-cd2fd4edf9fe",
-        "title": "Software Engineering Intern - Summer 2025",
+        "title": "Software Engineering Intern (Summer 2025)",
         "active": true,
         "terms": [
             "Summer 2025"
         ],
-        "date_updated": 1731125771,
+        "date_updated": 1731608636,
         "date_posted": 1731125771,
         "url": "https://boards.greenhouse.io/gusto/jobs/6383521",
         "locations": [
-            "SF",
-            "NYC",
-            "Denver, CO"
+            "San Francisco, CA",
+            "New York, NY",
+            "Denver, CO",
+            "Hybrid"
         ],
         "company_url": "https://simplify.jobs/c/Gusto",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "Does Not Offer Sponsorship"
     },
     {
         "date_updated": 1731129798,
