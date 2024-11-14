@@ -126243,5 +126243,29 @@
         "date_posted": 1731608548,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731608581,
+        "url": "https://careers.adobe.com/us/en/job/ADOBUSR147746EXTERNALENUS/2025-Intern-Software-Engineer?utm_medium=phenom-feeds&source=LinkedIn",
+        "company_name": "Adobe",
+        "title": "2025 Intern - Software Engineer",
+        "locations": [
+            "San Jose, CA",
+            "Austin, TX",
+            "San Francisco CA",
+            "Lehi, UT",
+            "Seattle, WA",
+            "New York, NY"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "LeoLu0602",
+        "id": "f4589213-3bce-4192-9b5e-11ef8b0fb768",
+        "date_posted": 1731608581,
+        "company_url": "",
+        "is_visible": true
     }
 ]
