@@ -102408,7 +102408,7 @@
         "company_name": "Gilead Sciences",
         "id": "2c9e8988-f170-468c-85fc-bb06991102b8",
         "title": "Intern \u2013 Clinical Data Science - Advanced Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024"
@@ -118518,7 +118518,7 @@
         "company_name": "Nordson",
         "id": "ae41c0f5-6de8-4aba-8a3d-f325e4b953fe",
         "title": "Intern \u2013 Dna Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -124327,7 +124327,7 @@
         "company_name": "Rivian",
         "id": "d8cae233-62ed-4545-aae6-ff721569e780",
         "title": "Software Engineering Intern - Data Operations - Machine Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -124346,7 +124346,7 @@
         "company_name": "Rivian",
         "id": "5d2eeac2-407b-489a-90b0-ded3d03a32b8",
         "title": "Software Engineering Intern - Data Operations - Machine Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -126268,5 +126268,24 @@
         "date_posted": 1731608581,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "ibotta",
+        "id": "097e8a6c-9e2d-4f99-aaef-fa7a248a5146",
+        "title": "Data Privacy Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1729898184,
+        "date_posted": 1729898184,
+        "url": "https://ibotta.wd1.myworkdayjobs.com/en-US/Ibotta/job/Denver-CO/Data-Privacy-Intern_R-101572",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/ibotta",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
