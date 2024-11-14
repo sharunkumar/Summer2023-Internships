@@ -79708,7 +79708,7 @@
         "company_name": "Aurora University",
         "id": "5b81ec3f-6858-43e8-9b00-0cf85939bf84",
         "title": "Internship Interest Form",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -108712,7 +108712,7 @@
         "company_name": "Visa",
         "id": "eb852221-cc47-48c1-943d-032ea58572ba",
         "title": "Consulting & Analytics Intern - Managed Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -124365,7 +124365,7 @@
         "company_name": "Rivian",
         "id": "4f2c8f0b-290f-432b-aaa9-c0d8a97e4bd8",
         "title": "Software Engineering Intern - Autonomous Features - Systems Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
