@@ -79708,7 +79708,7 @@
         "company_name": "Aurora University",
         "id": "5b81ec3f-6858-43e8-9b00-0cf85939bf84",
         "title": "Internship Interest Form",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -88975,7 +88975,7 @@
         "company_name": "Strider Technologies",
         "id": "9c871a95-1566-4a9f-be6f-085c49133eb0",
         "title": "Research Assistant Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -94452,7 +94452,7 @@
         "company_name": "Stryker",
         "id": "bfc0e1c7-165e-4391-959b-be29352c580f",
         "title": "Kettering University Engineering Co-op - B Section - R&D - Npd",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -99585,7 +99585,7 @@
         "company_name": "Lucid Motors",
         "id": "714e4d00-9424-4b97-9658-71cdf0159a64",
         "title": "Intern \u2013 Android Infotainment Software Engineer - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -109856,7 +109856,7 @@
         "company_name": "Marvell",
         "id": "2cea654a-969f-4142-9a74-070744c777a2",
         "title": "Engineering Project Analyst Intern - Pey - Bachelor\u2019s degree",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -120940,7 +120940,7 @@
         "company_name": "PitchBook",
         "id": "7892391d-4ea1-44b3-8d64-b186b04b552f",
         "title": "Data Analyst Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -122381,7 +122381,7 @@
         "company_name": "Marvell",
         "id": "a32cb71e-68f5-4058-b10c-b165748bda93",
         "title": "Data Science/ Computer Science Intern - Masters",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -123146,7 +123146,7 @@
         "company_name": "Motorola",
         "id": "a732adc6-8201-4187-8bd5-c34b056496cc",
         "title": "Audio Software Engineer \u2013 Spring 2025 Co-Op",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2025"
         ],
@@ -125324,7 +125324,7 @@
         "company_name": "Adobe",
         "id": "19a5516f-9b37-4934-af07-ab6d535554d2",
         "title": "2025 Intern - Enterprise Architecture Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025",
@@ -126039,7 +126039,7 @@
         "company_name": "JM Family",
         "id": "5cb69b6f-a8e2-462f-ab7f-d1a49f57afec",
         "title": "Intern \u2013 Associate Development Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025"
@@ -126167,5 +126167,62 @@
         "company_url": "https://simplify.jobs/c/Rocket-Lab-USA",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Syska Hennessy Group",
+        "id": "7627201d-392d-4e0a-bfa0-f968efd9029c",
+        "title": "Innovations Summer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1731547689,
+        "date_posted": 1731547689,
+        "url": "https://syska.com/join-us/job_application/?gh_jid=6395698",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Syska-Hennessy-Group",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Zoox",
+        "id": "ddb2ff73-418e-400c-8416-76a6e71bbc95",
+        "title": "Data Publishing \u2013 And Scale Internship - Access - Deploy",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1731565441,
+        "date_posted": 1731548518,
+        "url": "https://jobs.lever.co/zoox/312b5ede-f3be-4699-94ac-dff77b42ca70/apply",
+        "locations": [
+            "Foster City, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zoox",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1731565473,
+        "url": "https://app.ripplematch.com/v2/public/job/ba659857/details?from_page=company_branded_page",
+        "company_name": "ULINE Inc.",
+        "title": "Software Developer Internship",
+        "locations": [
+            "Pleasant Prairie, WI, USA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "mtlogs",
+        "id": "5210ba87-a4f3-4b39-95f7-8ed51052d21d",
+        "date_posted": 1731565473,
+        "company_url": "",
+        "is_visible": true
     }
 ]
