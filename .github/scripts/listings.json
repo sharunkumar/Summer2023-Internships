@@ -124801,22 +124801,23 @@
         "source": "Simplify",
         "company_name": "Gusto",
         "id": "a303965c-ec4c-4176-847e-cd2fd4edf9fe",
-        "title": "Software Engineering Intern - Summer 2025",
+        "title": "Software Engineering Intern (Summer 2025)",
         "active": true,
         "terms": [
             "Summer 2025"
         ],
-        "date_updated": 1731125771,
+        "date_updated": 1731608636,
         "date_posted": 1731125771,
         "url": "https://boards.greenhouse.io/gusto/jobs/6383521",
         "locations": [
-            "SF",
-            "NYC",
-            "Denver, CO"
+            "San Francisco, CA",
+            "New York, NY",
+            "Denver, CO",
+            "Hybrid"
         ],
         "company_url": "https://simplify.jobs/c/Gusto",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "Does Not Offer Sponsorship"
     },
     {
         "date_updated": 1731129798,
@@ -126222,6 +126223,49 @@
         "source": "mtlogs",
         "id": "5210ba87-a4f3-4b39-95f7-8ed51052d21d",
         "date_posted": 1731565473,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1731608548,
+        "url": "https://jobs.ashbyhq.com/kodif/31a0cc47-4c3c-42ec-9ac7-f43083588411",
+        "company_name": "KODIF",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "tasmt",
+        "id": "39b713b1-47ad-49a4-b7ba-9943a2865b13",
+        "date_posted": 1731608548,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1731608581,
+        "url": "https://careers.adobe.com/us/en/job/ADOBUSR147746EXTERNALENUS/2025-Intern-Software-Engineer?utm_medium=phenom-feeds&source=LinkedIn",
+        "company_name": "Adobe",
+        "title": "2025 Intern - Software Engineer",
+        "locations": [
+            "San Jose, CA",
+            "Austin, TX",
+            "San Francisco CA",
+            "Lehi, UT",
+            "Seattle, WA",
+            "New York, NY"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "LeoLu0602",
+        "id": "f4589213-3bce-4192-9b5e-11ef8b0fb768",
+        "date_posted": 1731608581,
         "company_url": "",
         "is_visible": true
     }
