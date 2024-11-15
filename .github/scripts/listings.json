@@ -97310,7 +97310,7 @@
         "company_name": "Fort Robotics",
         "id": "982c6174-ef84-478e-98f5-49ba6e75c190",
         "title": "Co-Op & Internship Resume Submissions",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -114194,7 +114194,7 @@
         "company_name": "Two Six Technologies",
         "id": "6b01de32-7a11-4683-b141-66f2716f7e31",
         "title": "AI/ML Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -125442,7 +125442,7 @@
         "company_name": "The Federal Reserve System",
         "id": "726ae683-3613-4a92-811e-4a0163d4da70",
         "title": "Spring 2025: Digital Money and Payments R&D Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2025"
         ],
@@ -125614,7 +125614,7 @@
         "company_name": "Leidos",
         "id": "caca820f-60cd-4bb2-a5be-f18b6a85ea3f",
         "title": "Computer Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -126020,7 +126020,7 @@
         "company_name": "KnowBe4",
         "id": "2bb54220-bc4e-4f8a-841f-f54495edfeaf",
         "title": "Courseware Technologist Intern - Hybrid",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025"
