@@ -103934,7 +103934,7 @@
         "company_name": "Dow Jones",
         "id": "54c64056-7e71-42a1-a119-0abfdfd66fe9",
         "title": "Summer 2025 Internship \u2013 Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -119227,7 +119227,7 @@
         "company_name": "Bose",
         "id": "c020fbee-97f3-4d46-b4d8-9cb19f78cc84",
         "title": "Embedded Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -124036,7 +124036,7 @@
         "company_name": "Oshkosh",
         "id": "98198549-e528-4570-9d48-7d226cebf8cc",
         "title": "Engineering Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
