@@ -94337,7 +94337,7 @@
         "company_name": "Stripe",
         "id": "a6e4aee9-405b-4f2a-95fa-d5018b1b536a",
         "title": "Software Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -98950,7 +98950,7 @@
         "company_name": "Trimble",
         "id": "b3ef5fe9-b9ba-4617-abb6-a51955dc14eb",
         "title": "Geomatics Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -99760,7 +99760,7 @@
         "company_name": "Booz Allen",
         "id": "20a15b1d-7aa8-4238-88d0-1df25e9c79ae",
         "title": "2025 Cyber Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -112682,7 +112682,7 @@
         "company_name": "Monzo",
         "id": "554e86b8-c059-4947-8605-e2f4187fe2d4",
         "title": "Software Engineering Internship - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -116572,7 +116572,7 @@
         "company_name": "Solidigm",
         "id": "b9c8d902-85c9-4db6-8383-8dd69b10c983",
         "title": "SSD Firmware Development undergrad intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025"
@@ -121598,7 +121598,7 @@
         "company_name": "Activision-Blizzard",
         "id": "1a46bffa-7246-4395-add4-e21204a0954c",
         "title": "Data Analytics & Science Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024"
@@ -121936,7 +121936,7 @@
         "company_name": "Zoox",
         "id": "3231db1d-53fe-4670-bfda-b9e2471e6598",
         "title": "CLAMS HD Mapping Internship/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -125074,7 +125074,7 @@
         "company_name": "Corelogic",
         "id": "6ea3016f-0da8-4b1a-b6a9-2bcb129f6e2d",
         "title": "Intern \u2013 Software Engineer - Dallas - TX",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -125557,7 +125557,7 @@
         "company_name": "Northrop Grumman",
         "id": "f722149a-5772-44a7-873f-abf3cd032049",
         "title": "Intern \u2013 Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
