@@ -103487,7 +103487,7 @@
         "company_name": "CACI",
         "id": "7ff71059-98f4-4f29-ae65-4134ccec468f",
         "title": "Cleared Software Engineer Intern - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -109989,7 +109989,7 @@
         "company_name": "Rivian",
         "id": "e4876e08-2e65-44e3-a9b8-14c85f435721",
         "title": "AI \u2013 Summer 2025 Internships - ML and Computer Vision Software",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -126327,5 +126327,41 @@
         "date_posted": 1731655349,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "TP-ICAP",
+        "id": "52092257-aba2-49f7-91d2-ef373764edf5",
+        "title": "Liquidnet Sales and Trading Summer Internship Programme 2025 - London",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1731699111,
+        "date_posted": 1731699111,
+        "url": "https://tp.wd3.myworkdayjobs.com/en-US/TP-ICAP/job/London/Liquidnet-Sales-and-Trading-Summer-Internship-Programme-2025--London_R3003",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/732fd349-3ee1-4161-bc74-e2fdbd6418d7",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Trade Desk",
+        "id": "cc9537be-5e68-4eab-8e0b-baf9c7261b3a",
+        "title": "2025 Technical Business Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1731699057,
+        "date_posted": 1731699057,
+        "url": "https://boards.greenhouse.io/thetradedesk/jobs/4583419007",
+        "locations": [],
+        "company_url": "https://simplify.jobs/c/281371f9-4ed3-4440-876f-4bbeaa0d50e0",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
