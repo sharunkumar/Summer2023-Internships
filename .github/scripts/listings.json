@@ -126308,5 +126308,24 @@
         "date_posted": 1731655242,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1731655349,
+        "url": "https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Software-Engineering-Internship-NYC/12601",
+        "company_name": "Two Sigma",
+        "title": "Software Engineering Internship",
+        "locations": [
+            "New York City, NY"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "mika-okamoto",
+        "id": "b2c47808-5105-41a8-8af0-33ede38e91f3",
+        "date_posted": 1731655349,
+        "company_url": "",
+        "is_visible": true
     }
 ]
