@@ -126287,5 +126287,26 @@
         "company_url": "https://simplify.jobs/c/ibotta",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1731655242,
+        "url": "https://www.amazon.jobs/en/jobs/2828378/software-development-engineer-internship-in-test-2025-us",
+        "company_name": "Amazon",
+        "title": "Software Development Engineer Internship in Test- 2025 (US)",
+        "locations": [
+            "Sunnyvale, CA",
+            "Irvine, CA",
+            "Seattle, WA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "0490bbd1-7576-4cf5-acff-8fd2d3dfda08",
+        "date_posted": 1731655242,
+        "company_url": "",
+        "is_visible": true
     }
 ]
