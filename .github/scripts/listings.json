@@ -1802,7 +1802,7 @@
         "company_name": "Docugami",
         "id": "78ecf03f-56f1-4a4f-8ec9-e5b351b77080",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -81133,7 +81133,7 @@
         "company_name": "Palantir",
         "id": "7d60f17a-30cd-45a6-9155-be2a323d49c4",
         "title": "Semester at Palantir \u2013 Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -95847,7 +95847,7 @@
         "company_name": "Stryker",
         "id": "ca51a901-a03d-432a-8349-6bade70a1206",
         "title": "Summer 2025 Intern - Data Science - Texas",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -124726,7 +124726,7 @@
         "company_name": "Modernizing Medicine",
         "id": "ddb11dbb-6ead-4260-b727-9d813aa00dd1",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
