@@ -94337,7 +94337,7 @@
         "company_name": "Stripe",
         "id": "a6e4aee9-405b-4f2a-95fa-d5018b1b536a",
         "title": "Software Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -125074,7 +125074,7 @@
         "company_name": "Corelogic",
         "id": "6ea3016f-0da8-4b1a-b6a9-2bcb129f6e2d",
         "title": "Intern \u2013 Software Engineer - Dallas - TX",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
