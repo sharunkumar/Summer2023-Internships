@@ -574,7 +574,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Bank of Montreal (BMO)](https://simplify.jobs/c/BMO)** | Data Analytics and Reporting Analyst – Co-op/Internship - Fall 2024 - 8 Months | Toronto, ON, Canada | Fall 2024 | 🔒 | Aug 19 |
 | **[The Boeing Company](https://simplify.jobs/c/Boeing)** | Software Development Intern | Richmond, BC, Canada | Winter 2025 | 🔒 | Aug 16 |
 | ↳ | Data Science Intern | Richmond, BC, Canada | Winter 2025 | 🔒 | Aug 16 |
-| **[Ontario Teachers' Pension Plan](https://simplify.jobs/c/Ontario-Teachers'-Pension-Plan)** | Intern – Trading Floor Risk Analyst - Fall 2024 - Month term | Toronto, ON, Canada | Fall 2024 | 🔒 | Aug 16 |
+| **[Ontario Teachers' Pension Plan](https://simplify.jobs/c/Ontario-Teachers-Pension-Plan)** | Intern – Trading Floor Risk Analyst - Fall 2024 - Month term | Toronto, ON, Canada | Fall 2024 | 🔒 | Aug 16 |
 | **[Bank of Montreal (BMO)](https://simplify.jobs/c/BMO)** | Data Analytics Developer – Co-op/Internship - Fall 2024 - 4 Months | Toronto, ON, Canada | Fall 2024 | 🔒 | Aug 16 |
 | **[STR](https://simplify.jobs/c/STR)** | Research Engineer Spring Co-Op | Burlington, MA | Spring 2024 | 🔒 | Aug 15 |
 | **[Capital One](https://simplify.jobs/c/Capital-One)** | Data Analyst – Co Op - Winter 2025 | Toronto, ON, Canada | Winter 2025 | 🔒 | Aug 15 |
@@ -1142,7 +1142,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Rockwell Automation](https://simplify.jobs/c/Rockwell-Automation)** | Intern – Rockwell Engineering Pathways Program | Mayfield Heights, OH</br>Milwaukee, WI | Spring 2024 | 🔒 | Oct 05 |
 | **[Rivian](https://simplify.jobs/c/Rivian)** | Engineering Intern – 7-Month Co-Op Program - Machine Learning - Manufacturing Engineering | Normal, IL | Spring 2024, Summer 2024, Fall 2024, Winter 2025 | 🔒 | Oct 05 |
 | **[Plexus](https://simplify.jobs/c/Plexus)** | Intern – Software Engineer - Fall 2024 | Neenah, WI | Fall 2024 | 🔒 | Oct 05 |
-| **[Ontario Teachers' Pension Plan](https://simplify.jobs/c/Ontario-Teachers'-Pension-Plan)** | Intern – Trading Floor Risk Analyst - Fall 2024 - Month term | Toronto, ON, Canada | Fall 2024 | 🔒 | Oct 05 |
+| **[Ontario Teachers' Pension Plan](https://simplify.jobs/c/Ontario-Teachers-Pension-Plan)** | Intern – Trading Floor Risk Analyst - Fall 2024 - Month term | Toronto, ON, Canada | Fall 2024 | 🔒 | Oct 05 |
 | **[Kepler Communications](https://simplify.jobs/c/Kepler-Communications)** | Embedded Software Engineer Intern - Winter 2024 - 4 - Months | Toronto, ON, Canada | Winter 2024 | 🔒 | Oct 05 |
 | **[Clever](https://simplify.jobs/c/Clever)** | Software Engineer – Internship | SF</br>Remote in USA | Spring 2024, Summer 2024 | 🔒 | Oct 05 |
 | **[Unity](https://simplify.jobs/c/Unity)** | Stagiaire en développement de logiciels – Software Developer Intern | Montreal, QC, Canada | Spring 2024 | 🔒 | Oct 04 |
@@ -1350,7 +1350,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Intel](https://simplify.jobs/c/Intel)** | Compiler Engineering Co-op | Toronto, ON, Canada | Winter 2024 | 🔒 | Aug 23 |
 | **[Squarepoint Capital](https://simplify.jobs/c/Squarepoint-Capital)** | Intern Software Developer - Winter 2024 | Montreal, QC, Canada | Winter 2024 | 🔒 | Aug 22 |
 | **[Bracebridge Capital](https://simplify.jobs/c/Bracebridge-Capital)** | 2024 Winternship | Cambridge, MA | Winter 2024 | 🔒 | Aug 22 |
-| **[Ontario Teachers' Pension Plan](https://simplify.jobs/c/Ontario-Teachers'-Pension-Plan)** | Intern – Programmer Analyst - Enterprise Architecture and Emerging Technologies - Winter 2024 - 8 or  Months | Toronto, ON, Canada | Winter 2024 | 🔒 | Aug 21 |
+| **[Ontario Teachers' Pension Plan](https://simplify.jobs/c/Ontario-Teachers-Pension-Plan)** | Intern – Programmer Analyst - Enterprise Architecture and Emerging Technologies - Winter 2024 - 8 or  Months | Toronto, ON, Canada | Winter 2024 | 🔒 | Aug 21 |
 | **[Vial](https://simplify.jobs/c/Vial)** | Software Engineer Intern | Canada | Fall 2023 | 🔒 | Aug 18 |
 | **[SpaceX](https://simplify.jobs/c/SpaceX)** | Spring 2024 Software Engineering Internship/Co-op 🇺🇸 | Remote | Spring 2024 | 🔒 | Aug 18 |
 | **[Businessolver](https://simplify.jobs/c/Businessolver)** | Software Engineering Internship - Java - React - Work-from-Home | Remote in USA | Spring 2023 | 🔒 | Aug 18 |
