@@ -604,7 +604,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | Cranium | AI/ML Engineer Intern | Short Hills, NJ | <a href="https://www.linkedin.com/jobs/view/ai-ml-engineer-intern-summer-2025-at-cranium-3925803158/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 13 |
 | Epic | Software Developer Intern 🛂 | Madison, WI | <a href="https://epic.avature.net/Careers/FolderDetail/Verona-Wisconsin-United-States-Software-Developer-Intern-Summer-2025/25624?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 03 |
 | **[Zoox](https://simplify.jobs/c/Zoox)** | Systems Safety Engineer – Operational Tools Intern | San Mateo, CA | 🔒 | Dec 12 |
-| **[Parsons](https://simplify.jobs/c/Parsons)** | Software Engineering Intern | Remote in USA | 🔒 | Dec 11 |
 | **[Formlabs](https://simplify.jobs/c/Formlabs)** | Embedded Software Intern | Cambridge, MA | 🔒 | Dec 11 |
 | ↳ | Desktop Software Intern - Summer 2025 | Cambridge, MA | 🔒 | Dec 11 |
 | **[Northrop Grumman](https://simplify.jobs/c/238c95d8-0d6e-4717-b28c-078b16d675d7)** | Systems Engineer Intern | Aurora, CO | 🔒 | Dec 10 |
