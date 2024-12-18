@@ -600,7 +600,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | ↳ | 2025 Summer Internship - Quantitative Risk | NYC | <a href="https://boards.greenhouse.io/capstoneinvestmentadvisors/jobs/7470813002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/bff246c1-e508-48d6-8afb-ef8c3d412f71?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | May 31 |
 | SIG | Quantitative Trader Intern | Chicago, IL | <a href="https://careers.sig.com/job/8326/Quantitative-Trader-Internship-Summer-2025?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 24 |
 | D.E. Shaw | Software Developer Intern | New York, NY | <a href="https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2025-5137?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 22 |
-| Cranium | AI/ML Engineer Intern | Short Hills, NJ | <a href="https://www.linkedin.com/jobs/view/ai-ml-engineer-intern-summer-2025-at-cranium-3925803158/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 13 |
 | Epic | Software Developer Intern 🛂 | Madison, WI | <a href="https://epic.avature.net/Careers/FolderDetail/Verona-Wisconsin-United-States-Software-Developer-Intern-Summer-2025/25624?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 03 |
 | **[Fresenius Medical Care](https://simplify.jobs/c/4b2e56dd-7341-4054-bc71-20c6f9f2736b)** | Software Engineer Co-Op - Pd | Andover, MA | 🔒 | Dec 17 |
 | **[Aurora Innovation](https://simplify.jobs/c/Aurora-Innovation)** | Software Engineering Intern | Pittsburgh, PA | 🔒 | Dec 16 |
@@ -1676,6 +1675,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | ↳ | 2025 Summer Internship - Software Engineering | NYC | 🔒 | May 31 |
 | ↳ | 2025 Summer Internship - Investment Quant Development | London, UK | 🔒 | May 31 |
 | Ventas | Software Engineer Intern | Chicago, IL | 🔒 | May 26 |
+| Cranium | AI/ML Engineer Intern | Short Hills, NJ | 🔒 | May 13 |
 | **[Chicago Trading Company](https://simplify.jobs/c/ChicagoTradingCo)** | Quant Trading Associate Intern | Chicago,IL | 🔒 | May 02 |
 | **[Walmart](https://simplify.jobs/c/Walmart)** | 2025 Summer Intern: Software Engineer II | Bentonville, AR</br>Sunnyvale, CA | 🔒 | Apr 30 |
 | **[Divergent](https://simplify.jobs/c/Divergent)** | Summer 2025 Internship Program - Engineering | Carson, CA | 🔒 | Apr 26 |
