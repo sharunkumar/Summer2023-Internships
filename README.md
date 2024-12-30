@@ -59,6 +59,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| **[Unity](https://simplify.jobs/c/Unity)** | Software Engineering Intern - Engine Support | Brighton, UK | <a href="https://boards.greenhouse.io/embed/job_app?token=6341510&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/50bbcc29-c816-413d-bfc1-706ebf970c4d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Dec 30 |
 | Mitsubishi Motors | IT Internship | Franklin, TN | <a href="https://job-boards.greenhouse.io/mitsubishimotorsna/jobs/4465968008?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 29 |
 | TikTok | Software Engineer Intern (CIS Privacy and Security) - 2025 Summer (BS/MS) | Seattle, WA | <a href="https://lifeattiktok.com/search/7419380668767799590?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 28 |
 | Thermo Fisher Scientific | Artificial Intelligence Internship | Pittsburgh, PA | <a href="https://jobs.thermofisher.com/global/en/job/R-01282270/Artificial-Intelligence-Internship?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 28 |
