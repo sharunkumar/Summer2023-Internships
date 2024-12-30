@@ -59,6 +59,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| Mitsubishi Motors | IT Internship | Franklin, TN | <a href="https://job-boards.greenhouse.io/mitsubishimotorsna/jobs/4465968008?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 29 |
 | TikTok | Software Engineer Intern (CIS Privacy and Security) - 2025 Summer (BS/MS) | Seattle, WA | <a href="https://lifeattiktok.com/search/7419380668767799590?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 28 |
 | Thermo Fisher Scientific | Artificial Intelligence Internship | Pittsburgh, PA | <a href="https://jobs.thermofisher.com/global/en/job/R-01282270/Artificial-Intelligence-Internship?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 28 |
 | **[Zoox](https://simplify.jobs/c/Zoox)** | Test Infrastructure Intern | San Carlos, CA | <a href="https://jobs.lever.co/zoox/788507e0-0b87-4e44-bf01-84d3f9dd471c?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 27 |
