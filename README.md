@@ -81,6 +81,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Datadog](https://simplify.jobs/c/Datadog)** | Software Engineer – Intern - SRE | NYC | <a href="https://careers.datadoghq.com/detail/6514971/?gh_jid=6514971&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/da98a0ec-9783-454b-bb27-20ff0cd94459?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 16 |
 | **[Caterpillar Inc.](https://simplify.jobs/c/Caterpillar-Inc)** | Corporate Intern - Digital and Analytics | Peoria, IL</br>Chicago, IL</br>Irving, TX | <a href="https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/XMLNAME-2025-Summer-Corporate-Intern---Digital-and-Analytics_R0000286417?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/67911557-18e8-46af-802a-ab91e0bb90f6?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 16 |
 | **[CACI](https://simplify.jobs/c/CACI)** | Data Scientist Intern | Reston, VA | <a href="https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Reston/Data-Scientist-Intern---Summer-2025_306610-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/339ddd06-e0f9-46cc-8e2b-a48902f52d60?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 16 |
+| **[Autodesk](https://simplify.jobs/c/Autodesk)** | Intern – Software Developer | Montreal, QC, Canada | <a href="https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--Software-Developer--Summer-2025-_25WD84819?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/dbca3b3a-a9d7-40d1-9d27-64f6cb6ea59a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 16 |
 | **[Applied Materials](https://simplify.jobs/c/Applied-Materials)** | 2025 Summer Embedded Firmware Internship | Rochester, NY | <a href="https://amat.wd1.myworkdayjobs.com/en-US/External/job/RochesterNY/XMLNAME-2025-Summer-Embedded-Firmware-Internship----Rochester--NY-_R2510476?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/a97e4b55-2581-4837-b818-18be29e4f743?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 16 |
 | **[AEG](https://simplify.jobs/c/AEG)** | Summer Intern - Application Development - Global Technology | LA | <a href="https://www.aegworldwide.com/jobs?gh_jid=7812731002&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/c7d99f1f-6e19-41d8-b832-22783bb2083d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 16 |
 | **[Zoox](https://simplify.jobs/c/Zoox)** | Triage and Audit Research Analyst Intern | San Mateo, CA | <a href="https://jobs.lever.co/zoox/a35d802a-b0d2-4c69-9c56-0b4bc91e6b7c/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/c4902fe3-61c2-4a8d-b55d-4e02f92890bd?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 15 |
@@ -442,9 +443,10 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | General Atomics Aeronautical Systems, Inc. | Software Engineer Intern | Poway, CA | <a href="https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25539&siteid=5313&jobId=5033838&codes=ILNK&dclid=CPmKxLCQ6YkDFf8H7wIdLr4tug#jobDetails=5033838_5313&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | GE Vernova | Software Engineering Intern, Data Fabric 🛂 | Bothell, WA | <a href="https://jobs.gecareers.com/vernova/global/en/job/GE11GLOBALR3788514EXTERNALENGLOBAL/Software-Engineering-Intern-Data-Fabric?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | Electronic Arts | Online Software Engineer Intern 🛂 | Orlando, FL | <a href="https://jobs.ea.com/en_US/careers/JobDetail/203654?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
-| **[Autodesk](https://simplify.jobs/c/9a5a4634-d168-4118-b172-0c0aae45f2ad)** | Stagire en développement logiciels/ Intern - Software Developer | Montreal, QC, Canada | <a href="https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Stagire-en-dveloppement-logiciels--Intern--Software-Developer_24WD83700-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/1d81f0fa-39f8-4bae-8667-92cb446f2037?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov 19 |
+| **[Autodesk](https://simplify.jobs/c/Autodesk)** | Stagire en développement logiciels/ Intern - Software Developer | Montreal, QC, Canada | <a href="https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Stagire-en-dveloppement-logiciels--Intern--Software-Developer_24WD83700-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/1d81f0fa-39f8-4bae-8667-92cb446f2037?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov 19 |
 | **[Adobe](https://simplify.jobs/c/Adobe)** | 2025 Intern - Data Scientist | SF</br>San Jose, CA | <a href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/XMLNAME-2025-Intern---Data-Scientist_R149562?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/bf7cee0c-8ad9-4ce5-8fe8-4ad0d83166b5?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov 19 |
 | ↳ | 2025 Intern - Data Scientist | SF</br>San Jose, CA | <a href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/XMLNAME-2025-Intern---Data-Scientist_R149561?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/eabf546f-596c-45eb-8034-1f0c83d3794c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov 19 |
+| **[Microsoft](https://simplify.jobs/c/Microsoft)** | Technical Program Management: Internship Neurodiversity Hiring Program | Redmond, WA | <a href="https://jobs.careers.microsoft.com/us/en/job/1749518?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/15e857cc-0424-4bde-b1c5-23025034d15c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov 18 |
 | General Atomics | Intern - Software Developer | Poway, CA | <a href="https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25539&siteid=5313&jobId=5033838#jobDetails=5033838_5313&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | **[Bandwidth](https://simplify.jobs/c/Bandwidth)** | Software Development Intern - Summer 2025 | Raleigh, NC | <a href="https://boards.greenhouse.io/bandwidth/jobs/6394502?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/1d331844-9b73-42a0-a409-eac30ca6bdea?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov 18 |
 | **[Adobe](https://simplify.jobs/c/Adobe)** | 2025 Intern - Data Scientist | Seattle, WA | <a href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seattle/XMLNAME-2025-Intern---Data-Scientist_R149386?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/5a8011a3-0387-40b0-ac07-060ad7dacd5a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov 18 |
@@ -521,6 +523,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Nutanix](https://simplify.jobs/c/Nutanix)** | Systems Engineering Intern | Durham, NC | <a href="https://careers.nutanix.com/en/jobs/27655/systems-engineering-intern/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | **[Electric Mind](https://simplify.jobs/c/51123b55-9be2-4c4f-a980-2c22c96aa4bf)** | Software Developer Internship | Toronto, ON, Canada | <a href="https://jobs.lever.co/intelliware/24345432-7189-4849-a389-3bad4abde843/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/05c98526-bc32-48dd-b411-712b7f2be675?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Oct 29 |
 | Vizient, Inc | Summer Intern - Software Engineering | Chicago, IL | <a href="https://careers.vizientinc.com/careers/job/446702440552?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
+| **[Merlin Labs](https://simplify.jobs/c/MerlinLabs)** | Software Engineer Internship - Summer 2025 | Boston, MA | <a href="https://jobs.lever.co/merlinlabs/bd6f2137-64b5-4d5c-9f64-02d1a1407cf7/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/a22247e9-e47a-4dd5-ab9e-301c9f56f7f3?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Oct 28 |
 | Thermo Fisher Scientific | Software Engineering Co-op 🛂 | Hillsboro, OR | <a href="https://jobs.thermofisher.com/global/en/job/R-01268670/Software-Engineering-Co-op?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
 | Honeywell | Future IT Leaders - Summer 2025 Intern | <details><summary>**4 locations**</summary>Charlotte, NC</br>Atlanta, GA</br>Phoenix, AZ</br>Houston, TX</details> | <a href="https://careers.honeywell.com/us/en/job/HONEUSREQ460193EXTERNALENUS/Future-IT-Leaders-Summer-2025-Intern?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
 | Genentech | 2025 Summer Intern - Product Development Data Sciences | South San Francisco, CA | <a href="https://careers.gene.com/us/en/job/GENEUS202410126855EXTERNALENUS/2025-Summer-Intern-Product-Development-Data-Sciences?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
@@ -795,7 +798,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Northrop Grumman](https://simplify.jobs/c/238c95d8-0d6e-4717-b28c-078b16d675d7)** | 2025 Cyber Software Intern | Colorado Springs, CO | 🔒 | Jan 09 |
 | **[Leidos](https://simplify.jobs/c/Leidos)** | CTO Technical Intern - Artificial Intelligence | Reston, VA | 🔒 | Jan 09 |
 | **[Jabil](https://simplify.jobs/c/051f591a-22c2-4254-aec5-c3ee7c82b288)** | Data Science Intern | Remote in USA | 🔒 | Jan 09 |
-| **[Autodesk](https://simplify.jobs/c/9a5a4634-d168-4118-b172-0c0aae45f2ad)** | Intern – Frontend Software Engineer | SF | 🔒 | Jan 09 |
+| **[Autodesk](https://simplify.jobs/c/Autodesk)** | Intern – Frontend Software Engineer | SF | 🔒 | Jan 09 |
 | ↳ | Intern – Machine Learning Engineer | SF | 🔒 | Jan 09 |
 | ↳ | Intern – Full Stack Software Engineer | SF | 🔒 | Jan 09 |
 | **[Zipline](https://simplify.jobs/c/Zipline)** | Droid Autonomy Intern - Motion Planning | San Bruno, CA | 🔒 | Jan 08 |
@@ -1144,7 +1147,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | ↳ | 2025 Intern Systems Engineer | <details><summary>**8 locations**</summary>Camarillo, CA</br>Hill AFB, UT</br>Palmdale, CA</br>Nellis AFB, NV</br>Wheatland, CA</br>Grand Forks, ND</br>San Diego, CA</br>El Segundo, CA</details> | 🔒 | Nov 18 |
 | ↳ | 2025 Returning Systems Engineer Intern - Bethpage NY | Plainview, NY | 🔒 | Nov 18 |
 | **[Motorola](https://simplify.jobs/c/MotorolaSolutions)** | Business Data Analyst Co-op | Remote in Canada | 🔒 | Nov 18 |
-| **[Microsoft](https://simplify.jobs/c/Microsoft)** | Technical Program Management: Internship Neurodiversity Hiring Program | Redmond, WA | 🔒 | Nov 18 |
 | **[Medline](https://simplify.jobs/c/f22ab711-4900-472d-be8a-7263e99e49fa)** | IT Software Development Intern - E-Commerce Back End - Summer 2025 | Northbrook, IL | 🔒 | Nov 18 |
 | **[Lucid](https://simplify.jobs/c/Lucid)** | Analytics Engineer Internship | Salt Lake City, UT | 🔒 | Nov 18 |
 | ↳ | Data Analyst Internship Summer 2025 | Salt Lake City, UT | 🔒 | Nov 18 |
@@ -1152,7 +1154,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | ↳ | Systems Engineer Intern | Washington, DC</br>Prince George's County, MD | 🔒 | Nov 18 |
 | **[Crowdstrike](https://simplify.jobs/c/Crowdstrike)** | Software Engineer Intern - Summer 2025 - Remote - US - CAN | Remote in USA</br>Remote in Canada | 🔒 | Nov 18 |
 | ↳ | Frontend Engineer Intern - Summer 2025 - Remote - US - CAN | Remote in USA</br>Remote in Canada | 🔒 | Nov 18 |
-| **[Autodesk](https://simplify.jobs/c/9a5a4634-d168-4118-b172-0c0aae45f2ad)** | Intern – Software Developer/ Développement de logiciels | Montreal, QC, Canada | 🔒 | Nov 18 |
+| **[Autodesk](https://simplify.jobs/c/Autodesk)** | Intern – Software Developer/ Développement de logiciels | Montreal, QC, Canada | 🔒 | Nov 18 |
 | **[Motorola](https://simplify.jobs/c/MotorolaSolutions)** | Computer Engineer Intern - Summer 2025 | Irmo, SC | 🔒 | Nov 17 |
 | **[Vermeer](https://simplify.jobs/c/9ff05b27-3c7e-4c70-82e2-d3bfb40bb992)** | Software Engineer Intern - Summer 2025 | Newton, IA | 🔒 | Nov 15 |
 | **[TP-ICAP](https://simplify.jobs/c/732fd349-3ee1-4161-bc74-e2fdbd6418d7)** | Liquidnet Sales and Trading Summer Internship Programme 2025 - London | London, UK | 🔒 | Nov 15 |
@@ -1222,7 +1224,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[DriveWealth](https://simplify.jobs/c/DriveWealth)** | Summer 2025 Intern - Product Engineering | NYC | 🔒 | Nov 07 |
 | **[Cadence Design Systems](https://simplify.jobs/c/Cadence-Design-Systems)** | Software Engineering Intern | Remote in USA | 🔒 | Nov 07 |
 | ↳ | Software Engineering Intern | Remote in USA | 🔒 | Nov 07 |
-| **[Autodesk](https://simplify.jobs/c/9a5a4634-d168-4118-b172-0c0aae45f2ad)** | Intern – Research Engineer - Real-Time Simulation & Artificial Intelligence | Remote in USA | 🔒 | Nov 07 |
+| **[Autodesk](https://simplify.jobs/c/Autodesk)** | Intern – Research Engineer - Real-Time Simulation & Artificial Intelligence | Remote in USA | 🔒 | Nov 07 |
 | ↳ | Intern – Data Analyst | Remote in USA | 🔒 | Nov 07 |
 | **[ATLAS SP](https://simplify.jobs/c/ATLAS-SP)** | Summer 2025 Aspire Technology Internship | Raleigh, NC</br>NYC | 🔒 | Nov 07 |
 | **[Adobe](https://simplify.jobs/c/Adobe)** | 2025 Intern - Research Scientist/Engineer | San Jose, CA | 🔒 | Nov 07 |
@@ -1237,7 +1239,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Corelogic](https://simplify.jobs/c/84f3bc2b-33c1-4bb0-af43-21bb8d59d639)** | Intern – Data Engineer | Irvine, CA</br>Dallas, TX | 🔒 | Nov 06 |
 | **[Charles River Associates (CRA)](https://simplify.jobs/c/d4f97dc1-3bd7-4767-8ce4-7becb28a3775)** | 2026 Bachelor's/Master's graduates – Data Analytics Consulting Analyst/Associate Intern | Summit, NJ</br>NYC | 🔒 | Nov 06 |
 | **[AVEVA](https://simplify.jobs/c/35520d74-bb92-49ae-bee6-eac689a592ba)** | Software Developer Intern - Drexel | Philadelphia, PA | 🔒 | Nov 06 |
-| **[Autodesk](https://simplify.jobs/c/9a5a4634-d168-4118-b172-0c0aae45f2ad)** | Intern – Software Developer | Montreal, QC, Canada | 🔒 | Nov 06 |
+| **[Autodesk](https://simplify.jobs/c/Autodesk)** | Intern – Software Developer | Montreal, QC, Canada | 🔒 | Nov 06 |
 | ↳ | Intern – Software Engineer | <details><summary>**4 locations**</summary>Novi, MI</br>Remote in USA</br>Denver, CO</br>Portland, OR</details> | 🔒 | Nov 06 |
 | ↳ | Intern – Software Developer | Toronto, ON, Canada | 🔒 | Nov 06 |
 | ↳ | Intern – Software Developer | Montreal, QC, Canada | 🔒 | Nov 06 |
@@ -1265,7 +1267,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[DriveWealth](https://simplify.jobs/c/DriveWealth)** | Summer 2025 Intern - Partner Engineering | NYC | 🔒 | Nov 04 |
 | **[Coinbase](https://simplify.jobs/c/Coinbase)** | Data Science Intern | NYC | 🔒 | Nov 04 |
 | **[Blizzard Entertainment](https://simplify.jobs/c/Blizzard-Entertainment)** | 2025 US Summer Internship - AI Localization | Irvine, CA | 🔒 | Nov 04 |
-| **[Autodesk](https://simplify.jobs/c/9a5a4634-d168-4118-b172-0c0aae45f2ad)** | Intern – Software Developer | Montreal, QC, Canada | 🔒 | Nov 04 |
+| **[Autodesk](https://simplify.jobs/c/Autodesk)** | Intern – Software Developer | Montreal, QC, Canada | 🔒 | Nov 04 |
 | **[Activision-Blizzard](https://simplify.jobs/c/Activision-Blizzard)** | Summer Internship - Computer Graphics | <details><summary>**4 locations**</summary>Irvine, CA</br>Carlsbad, CA</br>Culver City, CA</br>Portland, ME</details> | 🔒 | Nov 04 |
 | ↳ | 2025 US Summer Internship - Technical Art | LA</br>Middleton, WI</br>Culver City, CA | 🔒 | Nov 04 |
 | ↳ | 2025 US Summer Internship - Software Engineering | <details><summary>**5 locations**</summary>Santa Monica, CA</br>Austin, TX</br>Canoga Park, LA</br>Irvine, CA</br>Sherman Oaks, LA</details> | 🔒 | Nov 04 |
@@ -1318,13 +1320,12 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[DL Trading](https://simplify.jobs/c/6e0ddcae-2349-4505-af44-ed47b11ad363)** | Quantitative Sports Trading Internship - Summer 2025 | Chicago, IL | 🔒 | Oct 29 |
 | **[Brunswick](https://simplify.jobs/c/a93a0fb2-e10a-434c-a88c-a639748677a4)** | Application Software Engineer Intern | Fond du Lac, WI | 🔒 | Oct 29 |
 | **[Boomi](https://simplify.jobs/c/609a3e94-5f2d-4faf-9efe-4746e842847b)** | Software Engineering Intern | United States | 🔒 | Oct 29 |
-| **[Autodesk](https://simplify.jobs/c/9a5a4634-d168-4118-b172-0c0aae45f2ad)** | Intern – Machine Learning | Remote in USA | 🔒 | Oct 29 |
+| **[Autodesk](https://simplify.jobs/c/Autodesk)** | Intern – Machine Learning | Remote in USA | 🔒 | Oct 29 |
 | **[Altera](https://simplify.jobs/c/Altera)** | Intern | Menlo Park, CA | 🔒 | Oct 29 |
 | **[AffiniPay](https://simplify.jobs/c/AffiniPay)** | Software Development Internship - Summer 2025 | Remote in USA | 🔒 | Oct 29 |
 | **[Skydio](https://simplify.jobs/c/Skydio)** | Systems Design Engineer Intern | San Mateo, CA | 🔒 | Oct 28 |
 | **[Salesforce](https://simplify.jobs/c/Salesforce)** | Summer 2025 Intern - Database Engineer 🇺🇸 | Seattle, WA</br>Bellevue, WA | 🔒 | Oct 28 |
 | **[Northrop Grumman](https://simplify.jobs/c/238c95d8-0d6e-4717-b28c-078b16d675d7)** | 2025 Software Engineering Intern Linthicum Maryland | Halethorpe, MD | 🔒 | Oct 28 |
-| **[Merlin Labs](https://simplify.jobs/c/MerlinLabs)** | Software Engineer Internship - Summer 2025 | Boston, MA | 🔒 | Oct 28 |
 | **[Medline](https://simplify.jobs/c/f22ab711-4900-472d-be8a-7263e99e49fa)** | Business Analytics Intern - Summer 2025 | Northbrook, IL | 🔒 | Oct 28 |
 | **[JM Family](https://simplify.jobs/c/21dffcc2-c17a-4628-b26d-c6e0b368edc2)** | Intern – Predictive Analytics | Deerfield Beach, FL | 🔒 | Oct 28 |
 | **[Intradiem](https://simplify.jobs/c/Intradiem)** | Summer 2025 UI Software Engineering Intern | Remote in USA | 🔒 | Oct 28 |
@@ -1385,7 +1386,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | ↳ | Data Science – Summer 2025 Corporate Internship | Pittsburgh, PA | 🔒 | Oct 25 |
 | **[Coinbase](https://simplify.jobs/c/Coinbase)** | Software Engineer Intern | SF | 🔒 | Oct 25 |
 | **[Chainguard](https://simplify.jobs/c/Chainguard)** | Undergraduate Research Intern - Summer 2025 | Remote in USA | 🔒 | Oct 25 |
-| **[Autodesk](https://simplify.jobs/c/9a5a4634-d168-4118-b172-0c0aae45f2ad)** | Intern – Software Engineer - Starting Summer 2025 | Birmingham, UK | 🔒 | Oct 25 |
+| **[Autodesk](https://simplify.jobs/c/Autodesk)** | Intern – Software Engineer - Starting Summer 2025 | Birmingham, UK | 🔒 | Oct 25 |
 | ↳ | Intern – Software Engineering | OK | 🔒 | Oct 25 |
 | ↳ | Intern – Software Engineering | Cambridge, UK | 🔒 | Oct 25 |
 | ↳ | Intern Technology Consultant / SW-ML Engineer - Starting July 2025 | Birmingham, UK | 🔒 | Oct 25 |
@@ -1434,7 +1435,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | ↳ | Quantum Technology Intern - Undergrad | Malibu, CA | 🔒 | Oct 17 |
 | **[Commonwealth Fusion Systems](https://simplify.jobs/c/Commonwealth-Fusion-Systems)** | Intern – Software Engineer - Summer 2025 | Cambridge, MA</br>Devens, MA | 🔒 | Oct 17 |
 | **[Clay](https://simplify.jobs/c/Clay)** | Software Engineer Intern - Summer 2025 | NYC | 🔒 | Oct 17 |
-| **[Autodesk](https://simplify.jobs/c/9a5a4634-d168-4118-b172-0c0aae45f2ad)** | Intern – Software Developer | Montreal, QC, Canada | 🔒 | Oct 17 |
+| **[Autodesk](https://simplify.jobs/c/Autodesk)** | Intern – Software Developer | Montreal, QC, Canada | 🔒 | Oct 17 |
 | **[Aurora Innovation](https://simplify.jobs/c/Aurora-Innovation)** | Software Engineering Internship - Summer 2025 | Pittsburgh, PA | 🔒 | Oct 17 |
 | **[XTX Markets](https://simplify.jobs/c/XTXMarkets)** | Software Engineering Intern - Summer 2025 | London, UK | 🔒 | Oct 16 |
 | **[Workleap](https://simplify.jobs/c/Workleap)** | Software Developer Intern | Remote in Canada | 🔒 | Oct 16 |
@@ -1617,7 +1618,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Motorola](https://simplify.jobs/c/MotorolaSolutions)** | Supply Chain Data Analyst Internship 2025 | Chicago, IL | 🔒 | Sep 25 |
 | **[Lumentum](https://simplify.jobs/c/0985b121-88fd-4402-aea9-c0c55bfbbc99)** | Optical Algorithms and Analytics Engineering Co-op/Intern | Ottawa, ON, Canada | 🔒 | Sep 25 |
 | **[ClickTime](https://simplify.jobs/c/b25c917a-0ff5-4565-8853-4e248a3dfad3)** | Software Development Intern - Summer 2025 | SF | 🔒 | Sep 25 |
-| **[Autodesk](https://simplify.jobs/c/9a5a4634-d168-4118-b172-0c0aae45f2ad)** | Intern – Technology Consultant - Discrete Event Simulation | Remote in USA | 🔒 | Sep 25 |
+| **[Autodesk](https://simplify.jobs/c/Autodesk)** | Intern – Technology Consultant - Discrete Event Simulation | Remote in USA | 🔒 | Sep 25 |
 | **[Altruist](https://simplify.jobs/c/fd33cc05-7479-4979-9bc3-fcf69310e14d)** | Quantitative Engineering Intern - Summer 2025 | LA | 🔒 | Sep 25 |
 | ↳ | Software Engineering Intern - Summer 2025 | LA | 🔒 | Sep 25 |
 | ↳ | Software Engineering Intern - Summer 2025 | LA | 🔒 | Sep 25 |
@@ -1634,7 +1635,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Epic Games](https://simplify.jobs/c/Epic-Games)** | Tools Programmer Intern | Montreal, QC, Canada | 🔒 | Sep 24 |
 | ↳ | Tools Programmer Intern | Montreal, QC, Canada | 🔒 | Sep 24 |
 | **[Carter's Careers](https://simplify.jobs/c/65a3e9ca-0aaa-423e-a372-a8f6a6cb9ea0)** | DC Analytics Intern - Summer 2025 | Winder, GA | 🔒 | Sep 24 |
-| **[Autodesk](https://simplify.jobs/c/9a5a4634-d168-4118-b172-0c0aae45f2ad)** | Intern – Data Developer | Toronto, ON, Canada | 🔒 | Sep 24 |
+| **[Autodesk](https://simplify.jobs/c/Autodesk)** | Intern – Data Developer | Toronto, ON, Canada | 🔒 | Sep 24 |
 | **[Athena Health](https://simplify.jobs/c/e955406a-7989-4ed8-aff1-01032b96e141)** | 2025 Summer Software Engineering Intern | Boston, MA | 🔒 | Sep 24 |
 | Zebra Technologies | 2025 Summer Internship (US) - Android Software Engineer | Holtsville, NY | 🔒 | Sep 23 |
 | **[Salesforce](https://simplify.jobs/c/Salesforce)** | Summer 2025 Intern - Business Insights Analyst | <details><summary>**6 locations**</summary>Seattle, WA</br>Indianapolis, IN</br>SF</br>Bellevue, WA</br>Atlanta, GA</br>Burlington, MA</details> | 🔒 | Sep 23 |
@@ -1647,7 +1648,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[CACI](https://simplify.jobs/c/CACI)** | Software Development Intern - Summer 2025 | Denver, CO | 🔒 | Sep 23 |
 | ↳ | Application Developer Intern - Summer 2025 | King George County, VA | 🔒 | Sep 23 |
 | **[Bose](https://simplify.jobs/c/bose)** | CE Wearables a/D Software Intern | Framingham, MA | 🔒 | Sep 23 |
-| **[Autodesk](https://simplify.jobs/c/9a5a4634-d168-4118-b172-0c0aae45f2ad)** | Intern – Machine Learning Engineer | Montreal, QC, Canada</br>Remote in Canada | 🔒 | Sep 23 |
+| **[Autodesk](https://simplify.jobs/c/Autodesk)** | Intern – Machine Learning Engineer | Montreal, QC, Canada</br>Remote in Canada | 🔒 | Sep 23 |
 | ↳ | Intern – Software Engineer - United States | SF | 🔒 | Sep 23 |
 | ↳ | Intern – Software Developer - Canada | Toronto, ON, Canada | 🔒 | Sep 23 |
 | **[Anchorage](https://simplify.jobs/c/Anchorage)** | Software Engineering Internship - Summer 2025 | Remote in USA | 🔒 | Sep 23 |
