@@ -77,6 +77,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | ↳ | Software Engineer Intern - Analytical Engineering - Early Careers | NYC | <a href="https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/New-York-NY/Software-Engineer-Intern---Analytical-Engineering--Early-Careers-_311744-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/65213bfa-1051-48de-91a7-d5d296015fe6?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 23 |
 | **[Motorola](https://simplify.jobs/c/MotorolaSolutions)** | Software Developer – Co-Op | Vancouver, BC, Canada | <a href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Vancouver-Canada/Software-Developer--Co-Op_R53333?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/6ee5a525-3983-4758-8373-73a6fbefd6be?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 23 |
 | **[Medtronic](https://simplify.jobs/c/Medtronic)** | Software Engineering Intern | <details><summary>**7 locations**</summary>Northridge, LA</br>Blaine, MN</br>Brooklyn Park, MN</br>Lafayette, CO</br>Minneapolis, MN</br>Jacksonville, FL</br>Boulder, CO</details> | <a href="https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2025-THIS-POST-IS-INTENDED-FOR-HIRED-CANDIDATES_R19201-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/950c1680-2ae5-47ce-bcff-95c0f0fa1086?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 23 |
+| **[Leidos](https://simplify.jobs/c/Leidos)** | Database Management Intern | Remote in USA | <a href="https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Database-Management-Intern_R-00151940?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/eb8d3e6c-3293-4e57-bf66-1e9cb4171cb2?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 23 |
 | **[Fresenius Medical Care](https://simplify.jobs/c/Fresenius)** | R&D Student Intern | Andover, MA | <a href="https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Lawrence-MA-USA/R-D-Student-Intern_R0190051?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/1825d3ce-8f72-4063-b734-d9636f43d800?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 23 |
 | **[Apple](https://simplify.jobs/c/Apple)** | Internship - GPU Driver Engineer | London, UK | <a href="https://jobs.apple.com/en-us/details/200588034?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/263556bb-ea46-4f22-8d0b-63f227a687fe?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 23 |
 | Wizards of the Coast | Intern - Software Development Engineer | Renton, WA | <a href="https://jobs.hasbro.com/job/Renton-Intern-Software-Development-Engineer-%28Summer-2025%29-Wash-98055/1251145300/?from=email&refid=24859081200&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 22 |
@@ -1022,7 +1023,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | ↳ | Android Software Engineer Intern | Remote in USA | 🔒 | Dec 12 |
 | ↳ | Android Software Engineer Intern | Remote in USA | 🔒 | Dec 12 |
 | ↳ | Android Software Engineer Intern | Remote in USA | 🔒 | Dec 12 |
-| **[Fifth Third Bank](https://simplify.jobs/c/e4b17ec5-deb6-4138-b816-ca9aa34f1a86)** | Enterprise Data Office College Co-op - Summer 2025 | Cincinnati, OH | 🔒 | Dec 12 |
+| **[Fifth Third Bank](https://simplify.jobs/c/Fifth-Third-Bank)** | Enterprise Data Office College Co-op - Summer 2025 | Cincinnati, OH | 🔒 | Dec 12 |
 | **[Western Digital](https://simplify.jobs/c/Western-Digital)** | Software Engineering Co-op - June-December 2025 | Rochester, MN | 🔒 | Dec 11 |
 | **[Signifyd](https://simplify.jobs/c/Signifyd)** | Engineering Intern | Remote in UK | 🔒 | Dec 11 |
 | **[Parsons](https://simplify.jobs/c/Parsons)** | Engineering Internship | Reston, VA | 🔒 | Dec 11 |
@@ -1044,7 +1045,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | ↳ | Data Scientist Intern - Product Analytics - PhD | Menlo Park, CA</br>NYC | 🔒 | Dec 10 |
 | ↳ | Production Engineer Intern | London, UK | 🔒 | Dec 10 |
 | **[GitHub](https://simplify.jobs/c/GitHub)** | Software Engineer | Remote in USA | 🔒 | Dec 10 |
-| **[Fifth Third Bank](https://simplify.jobs/c/e4b17ec5-deb6-4138-b816-ca9aa34f1a86)** | Data Science & Data Engineering Intern | Cincinnati, OH | 🔒 | Dec 10 |
+| **[Fifth Third Bank](https://simplify.jobs/c/Fifth-Third-Bank)** | Data Science & Data Engineering Intern | Cincinnati, OH | 🔒 | Dec 10 |
 | **[Apple](https://simplify.jobs/c/Apple)** | Wallet and Apple Pay - IOS Engineer | London, UK | 🔒 | Dec 10 |
 | ↳ | Swift Server Networking Internship | London, UK | 🔒 | Dec 10 |
 | ↳ | Internship - Machine Learning | Cambridge, UK | 🔒 | Dec 10 |
@@ -1062,7 +1063,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[MFS](https://simplify.jobs/c/5276a21f-bbf3-42c6-b809-d1b328b36b6e)** | Quant Research Associate Intern | Boston, MA | 🔒 | Dec 09 |
 | **[Leidos](https://simplify.jobs/c/Leidos)** | Powerbi Intern | Reston, VA | 🔒 | Dec 09 |
 | ↳ | Software Engineering Intern | Remote in USA | 🔒 | Dec 09 |
-| **[Fifth Third Bank](https://simplify.jobs/c/e4b17ec5-deb6-4138-b816-ca9aa34f1a86)** | 2025 Capital Markets Fixed Income – Currencies and Commodities Sales & Trading internship | Cincinnati, OH | 🔒 | Dec 09 |
+| **[Fifth Third Bank](https://simplify.jobs/c/Fifth-Third-Bank)** | 2025 Capital Markets Fixed Income – Currencies and Commodities Sales & Trading internship | Cincinnati, OH | 🔒 | Dec 09 |
 | **[Fidelity Investments](https://simplify.jobs/c/Fidelity)** | Advanced Strategies & Research Intern | Boston, MA | 🔒 | Dec 09 |
 | **[Chatham Financial](https://simplify.jobs/c/73e27fa4-30a7-4b07-b2e9-002fbcef664b)** | Business Quantitative Analyst Internship | Centennial, CO | 🔒 | Dec 09 |
 | **[Aurora Innovation](https://simplify.jobs/c/Aurora-Innovation)** | Software Engineering Intern - Quality Tooling | Mountain View, CA | 🔒 | Dec 09 |
