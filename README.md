@@ -59,6 +59,10 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
+| **[Verizon Communications](https://simplify.jobs/c/Verizon-Communications)** | Thrive Apprentice - Data Analytics - Data Scientist | <details><summary>**7 locations**</summary>Boston, MA</br>Lone Tree, CO</br>E Fowler Ave, Tampa, FL</br>Berkeley Heights, NJ</br>Ashburn, VA</br>Alpharetta, GA</br>Irving, TX</details> | <a href="https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Thrive-Apprentice---Data-Analytics---Data-Scientist_R-1062843?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/af4bc33b-c95c-41b8-9c09-a969244999ef?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 23 |
+| **[S&P Global ](https://simplify.jobs/c/SP-Global)** | Software Engineer Intern - Analytical Engineering - Early Careers | NYC | <a href="https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/New-York-NY/Software-Engineer-Intern---Analytical-Engineering--Early-Careers-_311744-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/65213bfa-1051-48de-91a7-d5d296015fe6?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 23 |
+| **[Medtronic](https://simplify.jobs/c/Medtronic)** | Software Engineering Intern | <details><summary>**7 locations**</summary>Northridge, LA</br>Blaine, MN</br>Brooklyn Park, MN</br>Lafayette, CO</br>Minneapolis, MN</br>Jacksonville, FL</br>Boulder, CO</details> | <a href="https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2025-THIS-POST-IS-INTENDED-FOR-HIRED-CANDIDATES_R19201-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/950c1680-2ae5-47ce-bcff-95c0f0fa1086?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 23 |
+| **[Fresenius Medical Care](https://simplify.jobs/c/Fresenius)** | R&D Student Intern | Andover, MA | <a href="https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Lawrence-MA-USA/R-D-Student-Intern_R0190051?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/1825d3ce-8f72-4063-b734-d9636f43d800?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 23 |
 | Wizards of the Coast | Intern - Software Development Engineer | Renton, WA | <a href="https://jobs.hasbro.com/job/Renton-Intern-Software-Development-Engineer-%28Summer-2025%29-Wash-98055/1251145300/?from=email&refid=24859081200&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 22 |
 | **[Typeface](https://simplify.jobs/c/314293b0-25e4-4483-8bae-bf63c8ea23ec)** | Intern-Software Engineer | Palo Alto, CA</br>Seattle, WA | <a href="https://boards.greenhouse.io/typeface/jobs/4630685007?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/8eb9086f-ad10-4377-be69-c9d7ede97b4c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 22 |
 | **[TIFIN](https://simplify.jobs/c/Tifin)** | Summer Interns - Machine Learning - Engineering - Quant | Charlotte, NC</br>NYC</br>Boulder, CO | <a href="https://tifin.com/careers/apply/?gh_jid=5364468004&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/f67448aa-de6f-4f9a-a172-1058dbea9ae0?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 22 |
@@ -971,7 +975,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Lendbuzz](https://simplify.jobs/c/Lendbuzz)** | Co-op – Machine Learning Engineer | Boston, MA | 🔒 | Dec 17 |
 | **[Leidos](https://simplify.jobs/c/Leidos)** | Software Engineer Intern | Tucson, AZ | 🔒 | Dec 17 |
 | **[Gelber Group](https://simplify.jobs/c/GelberGroup)** | Algorithmic Trading Internship | Chicago, IL | 🔒 | Dec 17 |
-| **[Fresenius Medical Care](https://simplify.jobs/c/4b2e56dd-7341-4054-bc71-20c6f9f2736b)** | Software Engineer Co-Op - Pd | Andover, MA | 🔒 | Dec 17 |
+| **[Fresenius Medical Care](https://simplify.jobs/c/Fresenius)** | Software Engineer Co-Op - Pd | Andover, MA | 🔒 | Dec 17 |
 | **[Bank of Montreal](https://simplify.jobs/c/BMO)** | Capital Markets Full Stack Engineer Summer 2025 Internship | Toronto, ON, Canada | 🔒 | Dec 17 |
 | **[Xometry](https://simplify.jobs/c/Xometry)** | Software Engineer – Intern | Lexington, KY</br>North Bethesda, MD | 🔒 | Dec 16 |
 | ↳ | Software Engineer – Intern | North Bethesda, MD | 🔒 | Dec 16 |
@@ -1525,12 +1529,12 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Rivian](https://simplify.jobs/c/Rivian)** | UIUC Research Park Intern - Embedded Software | Urbana, IL | 🔒 | Oct 14 |
 | **[Northwestern Mutual](https://simplify.jobs/c/Northwestern-Mutual)** | Investment Analyst Intern | Milwaukee, WI | 🔒 | Oct 14 |
 | **[Nelnet](https://simplify.jobs/c/d7662126-9bc7-4ec4-b3e6-a9a3ae307c5d)** | Intern – Software Engineer - Application Security - Summer 2025 | Madison, WI</br>Centennial, CO</br>Lincoln, NE | 🔒 | Oct 14 |
-| **[Medtronic](https://simplify.jobs/c/9b240811-be36-4b51-8f40-6973a27e1f62)** | Intern Rotation-2024 Digital Services Centre of Excellence | London, UK | 🔒 | Oct 14 |
+| **[Medtronic](https://simplify.jobs/c/Medtronic)** | Intern Rotation-2024 Digital Services Centre of Excellence | London, UK | 🔒 | Oct 14 |
 | **[Leidos](https://simplify.jobs/c/Leidos)** | Software Engineer Intern 🇺🇸 | Tucson, AZ | 🔒 | Oct 14 |
 | **[HeyGen](https://simplify.jobs/c/HeyGen)** | Software Engineer – Intern | <details><summary>**4 locations**</summary>Palo Alto, CA</br>Toronto, ON, Canada</br>SF</br>LA</details> | 🔒 | Oct 14 |
 | **[HCSC](https://simplify.jobs/c/de9db5fc-93ac-4e2a-873c-61d8a830873c)** | University Relations – Associate Data Analyst Intern | Chicago, IL</br>Richardson, TX | 🔒 | Oct 14 |
 | ↳ | University Relations – Analytics Intern | Richardson, TX | 🔒 | Oct 14 |
-| **[Fresenius Medical Care](https://simplify.jobs/c/4b2e56dd-7341-4054-bc71-20c6f9f2736b)** | Software Engineering Co-op | Andover, MA | 🔒 | Oct 14 |
+| **[Fresenius Medical Care](https://simplify.jobs/c/Fresenius)** | Software Engineering Co-op | Andover, MA | 🔒 | Oct 14 |
 | **[Andreessen Horowitz](https://simplify.jobs/c/a16z)** | Summer 2025 Research Internship - Crypto | NYC | 🔒 | Oct 14 |
 | **[Solidigm](https://simplify.jobs/c/Solidigm)** | SSD Firmware Engineer Intern | Longmont, CO | 🔒 | Oct 12 |
 | **[Northrop Grumman](https://simplify.jobs/c/238c95d8-0d6e-4717-b28c-078b16d675d7)** | 2025 Software Engineer Intern us | Aurora CO | 🔒 | Oct 12 |
@@ -1762,7 +1766,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Motorola](https://simplify.jobs/c/MotorolaSolutions)** | Supply Chain Data Analytics Internship 2025 | Chicago, IL</br>Hoffman Estates, IL | 🔒 | Sep 17 |
 | **[Minitab](https://simplify.jobs/c/Minitab)** | Intern Opportunities - Summer 2025 | Chicago, IL | 🔒 | Sep 17 |
 | ↳ | Intern Opportunities - Summer 2025 | State College, PA</br>Chicago, IL | 🔒 | Sep 17 |
-| **[Medtronic](https://simplify.jobs/c/9b240811-be36-4b51-8f40-6973a27e1f62)** | Software Engineering Intern – Summer 2025 (Undergraduate) | Multiple Locations | 🔒 | Sep 17 |
+| **[Medtronic](https://simplify.jobs/c/Medtronic)** | Software Engineering Intern – Summer 2025 (Undergraduate) | Multiple Locations | 🔒 | Sep 17 |
 | ↳ | Summer 2025 Management Information Systems Intern - Undergraduate | Multiple Locations | 🔒 | Sep 17 |
 | ↳ | Summer 2025 Management Information Systems Intern - Undergraduate | Blaine, MN | 🔒 | Sep 17 |
 | **[Fetch](https://simplify.jobs/c/FetchRewards)** | Front-end Software Engineering Internship | Madison, WI</br>Birmingham, AL | 🔒 | Sep 17 |
