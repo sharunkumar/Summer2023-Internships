@@ -1640,7 +1640,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **[Pinterest](https://simplify.jobs/c/Pinterest)** | IT Software Engineering Intern - USA | Remote in USA | 🔒 | Oct 30 |
 | **[Northrop Grumman](https://simplify.jobs/c/238c95d8-0d6e-4717-b28c-078b16d675d7)** | 2025 Software Engineer Intern - Fsw/Sim - Dulles VA | Dulles, VA | 🔒 | Oct 30 |
 | **[Motorola](https://simplify.jobs/c/MotorolaSolutions)** | Tableau Data Scientist Intern - Summer 2025 | Chicago, IL | 🔒 | Oct 30 |
-| General Motors | 2025 Summer Intern - Software Engineer, GM Commercial Software | Mountain View, CA | 🔒 | Oct 30 |
+| **[General Motors](https://simplify.jobs/c/General-Motors)** | 2025 Summer Intern - Software Engineer, GM Commercial Software | Mountain View, CA | 🔒 | Oct 30 |
 | **[Crowdstrike](https://simplify.jobs/c/Crowdstrike)** | Sales Excellence Data Analytics Intern - Summer 2025 - Texas - Remote | Remote in USA | 🔒 | Oct 30 |
 | **[Adobe](https://simplify.jobs/c/Adobe)** | 2025 Intern - Engineer/Architect | San Jose, CA | 🔒 | Oct 30 |
 | **[TIH](https://simplify.jobs/c/2f524a20-88a9-4307-b97b-e39799afb4c7)** | Intern – Salesforce Developer | Dallas, TX | 🔒 | Oct 29 |
